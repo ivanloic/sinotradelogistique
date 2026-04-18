@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+@import "tailwindcss";
+
+@layer base {
+	html, body {
+		font-family: 'Roboto Slab', ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+	}
+}
+
+@layer utilities {
+	/* Masquer la scrollbar par défaut */
+	.scrollbar-hide {
+		-ms-overflow-style: none;
+		scrollbar-width: none;
+	}
+	.scrollbar-hide::-webkit-scrollbar {
+		display: none;
+	}
+
+	/* Afficher la scrollbar au hover sur desktop */
+	@media (min-width: 768px) {
+		.hover\:scrollbar-default:hover {
+			scrollbar-width: thin;
+			scrollbar-color: rgba(156, 163, 175, 0.5) transparent;
+		}
+		.hover\:scrollbar-default:hover::-webkit-scrollbar {
+			display: block;
+			height: 6px;
+		}
+		.hover\:scrollbar-default:hover::-webkit-scrollbar-track {
+			background: transparent;
+		}
+		.hover\:scrollbar-default:hover::-webkit-scrollbar-thumb {
+			background-color: rgba(156, 163, 175, 0.5);
+			border-radius: 10px;
+		}
+	}
+
+	/* Animation slide down pour la barre de filtres */
+	@keyframes slideDown {
+		from {
+			transform: translateY(-100%);
+			opacity: 0;
+		}
+		to {
+			transform: translateY(0);
+			opacity: 1;
+		}
+	}
+
+	.animate-slideDown {
+		animation: slideDown 0.3s ease-out;
+	}
+}

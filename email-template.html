@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nouvelle Commande</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 40px 20px;
+            line-height: 1.6;
+        }
+
+        .email-container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: #ffffff;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 32px;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .order-badge {
+            background: rgba(255,255,255,0.2);
+            display: inline-block;
+            padding: 8px 20px;
+            border-radius: 25px;
+            font-size: 16px;
+            margin-top: 10px;
+            backdrop-filter: blur(10px);
+        }
+
+        .content {
+            padding: 40px 30px;
+        }
+
+        .section {
+            margin-bottom: 30px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 15px;
+            border-left: 5px solid #667eea;
+        }
+
+        .section-title {
+            color: #667eea;
+            font-size: 20px;
+            font-weight: 600;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .icon {
+            font-size: 24px;
+        }
+
+        .info-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 12px 0;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        .info-row:last-child {
+            border-bottom: none;
+        }
+
+        .label {
+            color: #666;
+            font-weight: 500;
+        }
+
+        .value {
+            color: #333;
+            font-weight: 600;
+            text-align: right;
+        }
+
+        .screenshot-section {
+            background: linear-gradient(135deg, #fff3cd 0%, #ffe69c 100%);
+            padding: 25px;
+            border-radius: 15px;
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        .screenshot-section h3 {
+            color: #856404;
+            font-size: 20px;
+            margin-bottom: 15px;
+        }
+
+        .screenshot-image {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            border: 3px solid #fff;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            margin-top: 15px;
+        }
+
+        .total-section {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 15px;
+            margin: 30px 0;
+        }
+
+        .total-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 0;
+            font-size: 16px;
+        }
+
+        .grand-total {
+            border-top: 2px solid rgba(255,255,255,0.3);
+            margin-top: 15px;
+            padding-top: 20px;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        .items-list {
+            background: white;
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        .item {
+            padding: 10px 0;
+            border-bottom: 1px solid #eee;
+        }
+
+        .item:last-child {
+            border-bottom: none;
+        }
+
+        .footer {
+            background: #f8f9fa;
+            padding: 30px;
+            text-align: center;
+            color: #666;
+            font-size: 14px;
+        }
+
+        .footer-logo {
+            font-size: 24px;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+
+        @media (max-width: 600px) {
+            .header h1 {
+                font-size: 24px;
+            }
+            
+            .content {
+                padding: 20px;
+            }
+            
+            .section {
+                padding: 15px;
+            }
+            
+            .info-row {
+                flex-direction: column;
+                gap: 5px;
+            }
+            
+            .value {
+                text-align: left;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="email-container">
+        <!-- Header -->
+        <div class="header">
+            <h1>🎉 Nouvelle Commande Reçue</h1>
+            <div class="order-badge">
+                Commande #{{order_number}}
+            </div>
+        </div>
+
+        <!-- Content -->
+        <div class="content">
+            <!-- Client Info -->
+            <div class="section">
+                <div class="section-title">
+                    <span class="icon">👤</span>
+                    Informations Client
+                </div>
+                <div class="info-row">
+                    <span class="label">Nom complet</span>
+                    <span class="value">{{customer_name}}</span>
+                </div>
+                <div class="info-row">
+                    <span class="label">Email</span>
+                    <span class="value">{{customer_email}}</span>
+                </div>
+                <div class="info-row">
+                    <span class="label">Téléphone</span>
+                    <span class="value">{{customer_phone}}</span>
+                </div>
+                <div class="info-row">
+                    <span class="label">Date de commande</span>
+                    <span class="value">{{order_date}}</span>
+                </div>
+            </div>
+
+            <!-- Shipping Address -->
+            <div class="section">
+                <div class="section-title">
+                    <span class="icon">📦</span>
+                    Adresse de Livraison
+                </div>
+                <div class="info-row">
+                    <span class="label">Adresse</span>
+                    <span class="value">{{shipping_address}}</span>
+                </div>
+                <div class="info-row">
+                    <span class="label">Ville</span>
+                    <span class="value">{{shipping_city}}</span>
+                </div>
+                <div class="info-row">
+                    <span class="label">Pays</span>
+                    <span class="value">{{shipping_country}}</span>
+                </div>
+            </div>
+
+            <!-- Products -->
+            <div class="section">
+                <div class="section-title">
+                    <span class="icon">🛍️</span>
+                    Articles Commandés ({{items_count}})
+                </div>
+                <div class="items-list">
+                    {{items_list}}
+                </div>
+            </div>
+
+            <!-- Payment Method -->
+            <div class="section">
+                <div class="section-title">
+                    <span class="icon">💳</span>
+                    Paiement
+                </div>
+                <div class="info-row">
+                    <span class="label">Méthode</span>
+                    <span class="value">{{payment_method}}</span>
+                </div>
+                <div class="info-row">
+                    <span class="label">Statut</span>
+                    <span class="value">{{order_status}}</span>
+                </div>
+            </div>
+
+            <!-- Total -->
+            <div class="total-section">
+                <div class="total-row">
+                    <span>Sous-total</span>
+                    <span>{{subtotal}} FCFA</span>
+                </div>
+                <div class="total-row">
+                    <span>Livraison</span>
+                    <span>{{shipping_cost}} FCFA</span>
+                </div>
+                <div class="total-row">
+                    <span>Taxes</span>
+                    <span>{{tax}} FCFA</span>
+                </div>
+                <div class="total-row grand-total">
+                    <span>TOTAL</span>
+                    <span>{{total}} FCFA</span>
+                </div>
+            </div>
+
+            <!-- Screenshot Section -->
+            <div class="screenshot-section">
+                <h3>📸 Capture d'écran du paiement</h3>
+                <p style="color: #856404; margin-bottom: 10px;">
+                    Le client a envoyé cette preuve de paiement
+                </p>
+                <img src="{{screenshot_attachment}}" alt="Capture de paiement" class="screenshot-image">
+                <p style="color: #666; font-size: 12px; margin-top: 10px;">
+                    Fichier: {{screenshot_name}}
+                </p>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <div class="footer-logo">SinoTrade</div>
+            <p>Plateforme de Commerce en Ligne</p>
+            <p style="margin-top: 10px;">
+                📧 Email généré automatiquement
+            </p>
+            <p style="color: #999; margin-top: 15px; font-size: 12px;">
+                © 2025 SinoTrade. Tous droits réservés.
+            </p>
+        </div>
+    </div>
+</body>
+</html>
