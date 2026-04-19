@@ -33,11 +33,11 @@ export const telephone_accessoires = [
       "sim": "Nano-SIM + eSIM",
       "etat": "Reconditionné"
     },
-    "image": "/telephone_accessoires/1/Apple iPhone 16 Reconditionné Par Apple - 128 Go - 8Go RAM - 6,1_ - Apple A18 - Nano-SIM + eSIM - 48MP+12MP_12MP - 3561 mAh_.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/1/Apple iPhone 16 Reconditionné Par Apple - 128 Go - 8Go RAM - 6,1_ - Apple A18 - Nano-SIM + eSIM - 48MP+12MP_12MP - 3561 mAh_.jpg",
     "images": [
-      "/telephone_accessoires/1/Apple iPhone 16 Reconditionné Par Apple - 128 Go - 8Go RAM - 6,1_ - Apple A18 - Nano-SIM + eSIM - 48MP+12MP_12MP - 3561 mAh_.jpg",
-      "/telephone_accessoires/1/Apple iPhone 16 Reconditionné Par Apple - 128 Go - 8Go RAM - 6,1_ - Apple A18 - Nano-SIM + eSIM - 48MP+12MP_12MP - 3561 mAh_ (1).jpg",
-      "/telephone_accessoires/1/Apple iPhone 16 Reconditionné Par Apple - 128 Go - 8Go RAM - 6,1_ - Apple A18 - Nano-SIM + eSIM - 48MP+12MP_12MP - 3561 mAh_ (2).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/1/Apple iPhone 16 Reconditionné Par Apple - 128 Go - 8Go RAM - 6,1_ - Apple A18 - Nano-SIM + eSIM - 48MP+12MP_12MP - 3561 mAh_.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/1/Apple iPhone 16 Reconditionné Par Apple - 128 Go - 8Go RAM - 6,1_ - Apple A18 - Nano-SIM + eSIM - 48MP+12MP_12MP - 3561 mAh_ (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/1/Apple iPhone 16 Reconditionné Par Apple - 128 Go - 8Go RAM - 6,1_ - Apple A18 - Nano-SIM + eSIM - 48MP+12MP_12MP - 3561 mAh_ (2).jpg"
     ]
   },
   {
@@ -74,11 +74,11 @@ export const telephone_accessoires = [
       "sim": "eSIM",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/2/iPhone 17 Pro Max - 256 Go - 12Go RAM - 6,9_ - Apple A19 Pro - 1 sim physique + eSIM - 48MP+48MP +48MP _18MP - 4832 mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/2/iPhone 17 Pro Max - 256 Go - 12Go RAM - 6,9_ - Apple A19 Pro - 1 sim physique + eSIM - 48MP+48MP +48MP _18MP - 4832 mAh.jpg",
     "images": [
-      "/telephone_accessoires/2/iPhone 17 Pro Max - 256 Go - 12Go RAM - 6,9_ - Apple A19 Pro - 1 sim physique + eSIM - 48MP+48MP +48MP _18MP - 4832 mAh.jpg",
-      "/telephone_accessoires/2/iPhone 17 Pro Max - 256 Go - 12Go RAM - 6,9_ - Apple A19 Pro - 1 sim physique + eSIM - 48MP+48MP +48MP _18MP - 4832 mAh (1).jpg",
-      "/telephone_accessoires/2/iPhone 17 Pro Max - 256 Go - 12Go RAM - 6,9_ - Apple A19 Pro - 1 sim physique + eSIM - 48MP+48MP +48MP _18MP - 4832 mAh (2).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/2/iPhone 17 Pro Max - 256 Go - 12Go RAM - 6,9_ - Apple A19 Pro - 1 sim physique + eSIM - 48MP+48MP +48MP _18MP - 4832 mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/2/iPhone 17 Pro Max - 256 Go - 12Go RAM - 6,9_ - Apple A19 Pro - 1 sim physique + eSIM - 48MP+48MP +48MP _18MP - 4832 mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/2/iPhone 17 Pro Max - 256 Go - 12Go RAM - 6,9_ - Apple A19 Pro - 1 sim physique + eSIM - 48MP+48MP +48MP _18MP - 4832 mAh (2).jpg"
     ]
   },
   {
@@ -115,11 +115,11 @@ export const telephone_accessoires = [
       "sim": "Dual eSIM",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/3/IPhone 17 Air - 1 To - 12Go RAM - 6,5_ - Apple A19 Pro - Dual eSIM - 48MP_18MP - 3149mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/3/IPhone 17 Air - 1 To - 12Go RAM - 6,5_ - Apple A19 Pro - Dual eSIM - 48MP_18MP - 3149mAh.jpg",
     "images": [
-      "/telephone_accessoires/3/IPhone 17 Air - 1 To - 12Go RAM - 6,5_ - Apple A19 Pro - Dual eSIM - 48MP_18MP - 3149mAh.jpg",
-      "/telephone_accessoires/3/IPhone 17 Air - 1 To - 12Go RAM - 6,5_ - Apple A19 Pro - Dual eSIM - 48MP_18MP - 3149mAh (1).jpg",
-      "/telephone_accessoires/3/IPhone 17 Air - 1 To - 12Go RAM - 6,5_ - Apple A19 Pro - Dual eSIM - 48MP_18MP - 3149mAh (2).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/3/IPhone 17 Air - 1 To - 12Go RAM - 6,5_ - Apple A19 Pro - Dual eSIM - 48MP_18MP - 3149mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/3/IPhone 17 Air - 1 To - 12Go RAM - 6,5_ - Apple A19 Pro - Dual eSIM - 48MP_18MP - 3149mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/3/IPhone 17 Air - 1 To - 12Go RAM - 6,5_ - Apple A19 Pro - Dual eSIM - 48MP_18MP - 3149mAh (2).jpg"
     ]
   },
   {
@@ -156,10 +156,10 @@ export const telephone_accessoires = [
       "connectivite": "5G",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/4/Apple iPhone 16e - 256 Go - 8 Go RAM - Apple A18 - 6,1_ Super Retina XDR OLED - 48MP_ 12MP - 5G - Nano-SIM + eSIM + eSIM - 4005 mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/4/Apple iPhone 16e - 256 Go - 8 Go RAM - Apple A18 - 6,1_ Super Retina XDR OLED - 48MP_ 12MP - 5G - Nano-SIM + eSIM + eSIM - 4005 mAh.jpg",
     "images": [
-      "/telephone_accessoires/4/Apple iPhone 16e - 256 Go - 8 Go RAM - Apple A18 - 6,1_ Super Retina XDR OLED - 48MP_ 12MP - 5G - Nano-SIM + eSIM + eSIM - 4005 mAh.jpg",
-      "/telephone_accessoires/4/Apple iPhone 16e - 256 Go - 8 Go RAM - Apple A18 - 6,1_ Super Retina XDR OLED - 48MP_ 12MP - 5G - Nano-SIM + eSIM + eSIM - 4005 mAh (1).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/4/Apple iPhone 16e - 256 Go - 8 Go RAM - Apple A18 - 6,1_ Super Retina XDR OLED - 48MP_ 12MP - 5G - Nano-SIM + eSIM + eSIM - 4005 mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/4/Apple iPhone 16e - 256 Go - 8 Go RAM - Apple A18 - 6,1_ Super Retina XDR OLED - 48MP_ 12MP - 5G - Nano-SIM + eSIM + eSIM - 4005 mAh (1).jpg"
     ]
   },
   {
@@ -196,13 +196,13 @@ export const telephone_accessoires = [
       "sim": "Nano-SIM",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/5/iPhone 16 Pro Max - 256 Go - 8Go RAM - 6,9_ - Apple A18 Pro - 1 Nano SIM physique et 1 e-SIM - 48MP+12MP +48MP _12MP - 5200mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/5/iPhone 16 Pro Max - 256 Go - 8Go RAM - 6,9_ - Apple A18 Pro - 1 Nano SIM physique et 1 e-SIM - 48MP+12MP +48MP _12MP - 5200mAh.jpg",
     "images": [
-      "/telephone_accessoires/5/iPhone 16 Pro Max - 256 Go - 8Go RAM - 6,9_ - Apple A18 Pro - 1 Nano SIM physique et 1 e-SIM - 48MP+12MP +48MP _12MP - 5200mAh.jpg",
-      "/telephone_accessoires/5/iPhone 16 Pro Max - 256 Go - 8Go RAM - 6,9_ - Apple A18 Pro - 1 Nano SIM physique et 1 e-SIM - 48MP+12MP +48MP _12MP - 5200mAh (1).jpg",
-      "/telephone_accessoires/5/iPhone 16 Pro Max - 256 Go - 8Go RAM - 6,9_ - Apple A18 Pro - 1 Nano SIM physique et 1 e-SIM - 48MP+12MP +48MP _12MP - 5200mAh (2).jpg",
-      "/telephone_accessoires/5/iPhone 16 Pro Max - 256 Go - 8Go RAM - 6,9_ - Apple A18 Pro - 1 Nano SIM physique et 1 e-SIM - 48MP+12MP +48MP _12MP - 5200mAh (3).jpg",
-      "/telephone_accessoires/5/iPhone 16 Pro Max - 256 Go - 8Go RAM - 6,9_ - Apple A18 Pro - 1 Nano SIM physique et 1 e-SIM - 48MP+12MP +48MP _12MP - 5200mAh (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/5/iPhone 16 Pro Max - 256 Go - 8Go RAM - 6,9_ - Apple A18 Pro - 1 Nano SIM physique et 1 e-SIM - 48MP+12MP +48MP _12MP - 5200mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/5/iPhone 16 Pro Max - 256 Go - 8Go RAM - 6,9_ - Apple A18 Pro - 1 Nano SIM physique et 1 e-SIM - 48MP+12MP +48MP _12MP - 5200mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/5/iPhone 16 Pro Max - 256 Go - 8Go RAM - 6,9_ - Apple A18 Pro - 1 Nano SIM physique et 1 e-SIM - 48MP+12MP +48MP _12MP - 5200mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/5/iPhone 16 Pro Max - 256 Go - 8Go RAM - 6,9_ - Apple A18 Pro - 1 Nano SIM physique et 1 e-SIM - 48MP+12MP +48MP _12MP - 5200mAh (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/5/iPhone 16 Pro Max - 256 Go - 8Go RAM - 6,9_ - Apple A18 Pro - 1 Nano SIM physique et 1 e-SIM - 48MP+12MP +48MP _12MP - 5200mAh (4).jpg"
     ]
   },
   {
@@ -239,12 +239,12 @@ export const telephone_accessoires = [
       "sim": "Double Nano-SIM",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/6/iPhone 15 Pro Max - 1To_8Go RAM - 6,7_ - Apple A17 Pro - 2 Nano SIM physique - 48 MP+12MP+12MP_12MP - 4422mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/6/iPhone 15 Pro Max - 1To_8Go RAM - 6,7_ - Apple A17 Pro - 2 Nano SIM physique - 48 MP+12MP+12MP_12MP - 4422mAh.jpg",
     "images": [
-      "/telephone_accessoires/6/iPhone 15 Pro Max - 1To_8Go RAM - 6,7_ - Apple A17 Pro - 2 Nano SIM physique - 48 MP+12MP+12MP_12MP - 4422mAh.jpg",
-      "/telephone_accessoires/6/iPhone 15 Pro Max - 1To_8Go RAM - 6,7_ - Apple A17 Pro - 2 Nano SIM physique - 48 MP+12MP+12MP_12MP - 4422mAh (1).jpg",
-      "/telephone_accessoires/6/iPhone 15 Pro Max - 1To_8Go RAM - 6,7_ - Apple A17 Pro - 2 Nano SIM physique - 48 MP+12MP+12MP_12MP - 4422mAh (2).jpg",
-      "/telephone_accessoires/6/iPhone 15 Pro Max - 1To_8Go RAM - 6,7_ - Apple A17 Pro - 2 Nano SIM physique - 48 MP+12MP+12MP_12MP - 4422mAh (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/6/iPhone 15 Pro Max - 1To_8Go RAM - 6,7_ - Apple A17 Pro - 2 Nano SIM physique - 48 MP+12MP+12MP_12MP - 4422mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/6/iPhone 15 Pro Max - 1To_8Go RAM - 6,7_ - Apple A17 Pro - 2 Nano SIM physique - 48 MP+12MP+12MP_12MP - 4422mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/6/iPhone 15 Pro Max - 1To_8Go RAM - 6,7_ - Apple A17 Pro - 2 Nano SIM physique - 48 MP+12MP+12MP_12MP - 4422mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/6/iPhone 15 Pro Max - 1To_8Go RAM - 6,7_ - Apple A17 Pro - 2 Nano SIM physique - 48 MP+12MP+12MP_12MP - 4422mAh (3).jpg"
     ]
   },
   {
@@ -277,12 +277,12 @@ export const telephone_accessoires = [
       "camera_avant": "12MP",
       "etat": "Occasion"
     },
-    "image": "/telephone_accessoires/7/Iphone 13 pro Max occasion - Apple - 128Go_6Go - 12MP_12MP - 4373mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/7/Iphone 13 pro Max occasion - Apple - 128Go_6Go - 12MP_12MP - 4373mAh.jpg",
     "images": [
-      "/telephone_accessoires/7/Iphone 13 pro Max occasion - Apple - 128Go_6Go - 12MP_12MP - 4373mAh.jpg",
-      "/telephone_accessoires/7/Iphone 13 pro Max occasion - Apple - 128Go_6Go - 12MP_12MP - 4373mAh (1).jpg",
-      "/telephone_accessoires/7/Iphone 13 pro Max occasion - Apple - 128Go_6Go - 12MP_12MP - 4373mAh (2).jpg",
-      "/telephone_accessoires/7/Iphone 13 pro Max occasion - Apple - 128Go_6Go - 12MP_12MP - 4373mAh (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/7/Iphone 13 pro Max occasion - Apple - 128Go_6Go - 12MP_12MP - 4373mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/7/Iphone 13 pro Max occasion - Apple - 128Go_6Go - 12MP_12MP - 4373mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/7/Iphone 13 pro Max occasion - Apple - 128Go_6Go - 12MP_12MP - 4373mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/7/Iphone 13 pro Max occasion - Apple - 128Go_6Go - 12MP_12MP - 4373mAh (3).jpg"
     ]
   },
   {
@@ -314,13 +314,13 @@ export const telephone_accessoires = [
       "batterie": "3240 mAh",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/8/Iphone 13 - 128Go_4Go - Apple - 3240mAh - 6.1''.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/8/Iphone 13 - 128Go_4Go - Apple - 3240mAh - 6.1''.jpg",
     "images": [
-      "/telephone_accessoires/8/Iphone 13 - 128Go_4Go - Apple - 3240mAh - 6.1''.jpg",
-      "/telephone_accessoires/8/Iphone 13 - 128Go_4Go - Apple - 3240mAh - 6.1'' (1).jpg",
-      "/telephone_accessoires/8/Iphone 13 - 128Go_4Go - Apple - 3240mAh - 6.1'' (2).jpg",
-      "/telephone_accessoires/8/Iphone 13 - 128Go_4Go - Apple - 3240mAh - 6.1'' (3).jpg",
-      "/telephone_accessoires/8/Iphone 13 - 128Go_4Go - Apple - 3240mAh - 6.1'' (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/8/Iphone 13 - 128Go_4Go - Apple - 3240mAh - 6.1''.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/8/Iphone 13 - 128Go_4Go - Apple - 3240mAh - 6.1'' (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/8/Iphone 13 - 128Go_4Go - Apple - 3240mAh - 6.1'' (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/8/Iphone 13 - 128Go_4Go - Apple - 3240mAh - 6.1'' (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/8/Iphone 13 - 128Go_4Go - Apple - 3240mAh - 6.1'' (4).jpg"
     ]
   },
   {
@@ -356,12 +356,12 @@ export const telephone_accessoires = [
       "connectivite": "5G",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/9/IPHONE 12 PRO MAX 0ccasion - 512Go_6Go RAM - 12MP+12MP+12MP_12MP - 4K - Li-Ion 3687mAh - 6,7_ - 5G.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/9/IPHONE 12 PRO MAX 0ccasion - 512Go_6Go RAM - 12MP+12MP+12MP_12MP - 4K - Li-Ion 3687mAh - 6,7_ - 5G.jpg",
     "images": [
-      "/telephone_accessoires/9/IPHONE 12 PRO MAX 0ccasion - 512Go_6Go RAM - 12MP+12MP+12MP_12MP - 4K - Li-Ion 3687mAh - 6,7_ - 5G.jpg",
-      "/telephone_accessoires/9/IPHONE 12 PRO MAX 0ccasion - 512Go_6Go RAM - 12MP+12MP+12MP_12MP - 4K - Li-Ion 3687mAh - 6,7_ - 5G (1).jpg",
-      "/telephone_accessoires/9/IPHONE 12 PRO MAX 0ccasion - 512Go_6Go RAM - 12MP+12MP+12MP_12MP - 4K - Li-Ion 3687mAh - 6,7_ - 5G (2).jpg",
-      "/telephone_accessoires/9/IPHONE 12 PRO MAX 0ccasion - 512Go_6Go RAM - 12MP+12MP+12MP_12MP - 4K - Li-Ion 3687mAh - 6,7_ - 5G (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/9/IPHONE 12 PRO MAX 0ccasion - 512Go_6Go RAM - 12MP+12MP+12MP_12MP - 4K - Li-Ion 3687mAh - 6,7_ - 5G.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/9/IPHONE 12 PRO MAX 0ccasion - 512Go_6Go RAM - 12MP+12MP+12MP_12MP - 4K - Li-Ion 3687mAh - 6,7_ - 5G (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/9/IPHONE 12 PRO MAX 0ccasion - 512Go_6Go RAM - 12MP+12MP+12MP_12MP - 4K - Li-Ion 3687mAh - 6,7_ - 5G (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/9/IPHONE 12 PRO MAX 0ccasion - 512Go_6Go RAM - 12MP+12MP+12MP_12MP - 4K - Li-Ion 3687mAh - 6,7_ - 5G (3).jpg"
     ]
   },
   {
@@ -398,13 +398,13 @@ export const telephone_accessoires = [
       "sim": "Nano-SIM",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/10/iPhone 15 Plus - 128 Go_6Go RAM - 6,7_ - Apple A16 Bionic - Nano SIM physique et e-sim - 48 MP+12MP_12MP - 4383 mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/10/iPhone 15 Plus - 128 Go_6Go RAM - 6,7_ - Apple A16 Bionic - Nano SIM physique et e-sim - 48 MP+12MP_12MP - 4383 mAh.jpg",
     "images": [
-      "/telephone_accessoires/10/iPhone 15 Plus - 128 Go_6Go RAM - 6,7_ - Apple A16 Bionic - Nano SIM physique et e-sim - 48 MP+12MP_12MP - 4383 mAh.jpg",
-      "/telephone_accessoires/10/iPhone 15 Plus - 128 Go_6Go RAM - 6,7_ - Apple A16 Bionic - Nano SIM physique et e-sim - 48 MP+12MP_12MP - 4383 mAh (1).jpg",
-      "/telephone_accessoires/10/iPhone 15 Plus - 128 Go_6Go RAM - 6,7_ - Apple A16 Bionic - Nano SIM physique et e-sim - 48 MP+12MP_12MP - 4383 mAh (2).jpg",
-      "/telephone_accessoires/10/iPhone 15 Plus - 128 Go_6Go RAM - 6,7_ - Apple A16 Bionic - Nano SIM physique et e-sim - 48 MP+12MP_12MP - 4383 mAh (3).jpg",
-      "/telephone_accessoires/10/iPhone 15 Plus - 128 Go_6Go RAM - 6,7_ - Apple A16 Bionic - Nano SIM physique et e-sim - 48 MP+12MP_12MP - 4383 mAh (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/10/iPhone 15 Plus - 128 Go_6Go RAM - 6,7_ - Apple A16 Bionic - Nano SIM physique et e-sim - 48 MP+12MP_12MP - 4383 mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/10/iPhone 15 Plus - 128 Go_6Go RAM - 6,7_ - Apple A16 Bionic - Nano SIM physique et e-sim - 48 MP+12MP_12MP - 4383 mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/10/iPhone 15 Plus - 128 Go_6Go RAM - 6,7_ - Apple A16 Bionic - Nano SIM physique et e-sim - 48 MP+12MP_12MP - 4383 mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/10/iPhone 15 Plus - 128 Go_6Go RAM - 6,7_ - Apple A16 Bionic - Nano SIM physique et e-sim - 48 MP+12MP_12MP - 4383 mAh (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/10/iPhone 15 Plus - 128 Go_6Go RAM - 6,7_ - Apple A16 Bionic - Nano SIM physique et e-sim - 48 MP+12MP_12MP - 4383 mAh (4).jpg"
     ]
   },
   {
@@ -440,12 +440,12 @@ export const telephone_accessoires = [
       "sim": "Nano-SIM",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/11/iPhone 15 Pro - 1To_8Go - 6,1_ - Apple A17 Pro - Nano SIM physique et e-sim - 48 MP+12MP+12MP_12MP - 3274mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/11/iPhone 15 Pro - 1To_8Go - 6,1_ - Apple A17 Pro - Nano SIM physique et e-sim - 48 MP+12MP+12MP_12MP - 3274mAh.jpg",
     "images": [
-      "/telephone_accessoires/11/iPhone 15 Pro - 1To_8Go - 6,1_ - Apple A17 Pro - Nano SIM physique et e-sim - 48 MP+12MP+12MP_12MP - 3274mAh.jpg",
-      "/telephone_accessoires/11/iPhone 15 Pro - 1To_8Go - 6,1_ - Apple A17 Pro - Nano SIM physique et e-sim - 48 MP+12MP+12MP_12MP - 3274mAh (1).jpg",
-      "/telephone_accessoires/11/iPhone 15 Pro - 1To_8Go - 6,1_ - Apple A17 Pro - Nano SIM physique et e-sim - 48 MP+12MP+12MP_12MP - 3274mAh (2).jpg",
-      "/telephone_accessoires/11/iPhone 15 Pro - 1To_8Go - 6,1_ - Apple A17 Pro - Nano SIM physique et e-sim - 48 MP+12MP+12MP_12MP - 3274mAh (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/11/iPhone 15 Pro - 1To_8Go - 6,1_ - Apple A17 Pro - Nano SIM physique et e-sim - 48 MP+12MP+12MP_12MP - 3274mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/11/iPhone 15 Pro - 1To_8Go - 6,1_ - Apple A17 Pro - Nano SIM physique et e-sim - 48 MP+12MP+12MP_12MP - 3274mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/11/iPhone 15 Pro - 1To_8Go - 6,1_ - Apple A17 Pro - Nano SIM physique et e-sim - 48 MP+12MP+12MP_12MP - 3274mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/11/iPhone 15 Pro - 1To_8Go - 6,1_ - Apple A17 Pro - Nano SIM physique et e-sim - 48 MP+12MP+12MP_12MP - 3274mAh (3).jpg"
     ]
   },
   {
@@ -482,12 +482,12 @@ export const telephone_accessoires = [
       "sim": "Nano-SIM",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/12/iPhone 16 Pro - 128 Go - 8Go RAM - 6,3_ - Apple A18 Pro - 1 Nano SIM physique et 1 e-SIM - 48MP+12MP +48MP _12MP - 5200mAh_.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/12/iPhone 16 Pro - 128 Go - 8Go RAM - 6,3_ - Apple A18 Pro - 1 Nano SIM physique et 1 e-SIM - 48MP+12MP +48MP _12MP - 5200mAh_.jpg",
     "images": [
-      "/telephone_accessoires/12/iPhone 16 Pro - 128 Go - 8Go RAM - 6,3_ - Apple A18 Pro - 1 Nano SIM physique et 1 e-SIM - 48MP+12MP +48MP _12MP - 5200mAh_.jpg",
-      "/telephone_accessoires/12/iPhone 16 Pro - 128 Go - 8Go RAM - 6,3_ - Apple A18 Pro - 1 Nano SIM physique et 1 e-SIM - 48MP+12MP +48MP _12MP - 5200mAh_ (1).jpg",
-      "/telephone_accessoires/12/iPhone 16 Pro - 128 Go - 8Go RAM - 6,3_ - Apple A18 Pro - 1 Nano SIM physique et 1 e-SIM - 48MP+12MP +48MP _12MP - 5200mAh_ (2).jpg",
-      "/telephone_accessoires/12/iPhone 16 Pro - 128 Go - 8Go RAM - 6,3_ - Apple A18 Pro - 1 Nano SIM physique et 1 e-SIM - 48MP+12MP +48MP _12MP - 5200mAh_ (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/12/iPhone 16 Pro - 128 Go - 8Go RAM - 6,3_ - Apple A18 Pro - 1 Nano SIM physique et 1 e-SIM - 48MP+12MP +48MP _12MP - 5200mAh_.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/12/iPhone 16 Pro - 128 Go - 8Go RAM - 6,3_ - Apple A18 Pro - 1 Nano SIM physique et 1 e-SIM - 48MP+12MP +48MP _12MP - 5200mAh_ (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/12/iPhone 16 Pro - 128 Go - 8Go RAM - 6,3_ - Apple A18 Pro - 1 Nano SIM physique et 1 e-SIM - 48MP+12MP +48MP _12MP - 5200mAh_ (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/12/iPhone 16 Pro - 128 Go - 8Go RAM - 6,3_ - Apple A18 Pro - 1 Nano SIM physique et 1 e-SIM - 48MP+12MP +48MP _12MP - 5200mAh_ (3).jpg"
     ]
   },
   {
@@ -523,12 +523,12 @@ export const telephone_accessoires = [
       "sim": "Nano-SIM",
       "etat": "Occasion"
     },
-    "image": "/telephone_accessoires/13/IPhone 14 Pro Max seconde main - 6.7'' - 256 Go - 6Go RAM - 1 Nano Sim physique - 48MP_12MP - A16 Bionic - 4323mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/13/IPhone 14 Pro Max seconde main - 6.7'' - 256 Go - 6Go RAM - 1 Nano Sim physique - 48MP_12MP - A16 Bionic - 4323mAh.jpg",
     "images": [
-      "/telephone_accessoires/13/IPhone 14 Pro Max seconde main - 6.7'' - 256 Go - 6Go RAM - 1 Nano Sim physique - 48MP_12MP - A16 Bionic - 4323mAh.jpg",
-      "/telephone_accessoires/13/IPhone 14 Pro Max seconde main - 6.7'' - 256 Go - 6Go RAM - 1 Nano Sim physique - 48MP_12MP - A16 Bionic - 4323mAh (1).jpg",
-      "/telephone_accessoires/13/IPhone 14 Pro Max seconde main - 6.7'' - 256 Go - 6Go RAM - 1 Nano Sim physique - 48MP_12MP - A16 Bionic - 4323mAh (2).jpg",
-      "/telephone_accessoires/13/IPhone 14 Pro Max seconde main - 6.7'' - 256 Go - 6Go RAM - 1 Nano Sim physique - 48MP_12MP - A16 Bionic - 4323mAh (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/13/IPhone 14 Pro Max seconde main - 6.7'' - 256 Go - 6Go RAM - 1 Nano Sim physique - 48MP_12MP - A16 Bionic - 4323mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/13/IPhone 14 Pro Max seconde main - 6.7'' - 256 Go - 6Go RAM - 1 Nano Sim physique - 48MP_12MP - A16 Bionic - 4323mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/13/IPhone 14 Pro Max seconde main - 6.7'' - 256 Go - 6Go RAM - 1 Nano Sim physique - 48MP_12MP - A16 Bionic - 4323mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/13/IPhone 14 Pro Max seconde main - 6.7'' - 256 Go - 6Go RAM - 1 Nano Sim physique - 48MP_12MP - A16 Bionic - 4323mAh (3).jpg"
     ]
   },
   {
@@ -563,12 +563,12 @@ export const telephone_accessoires = [
       "sim": "Double Nano-SIM",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/14/Samsung Galaxy S26 Ultra - 1To - 16Go RAM - 6.9_ - 200MP + 10MP + 50MP + 50MP_ 12MP - 2 Nano SIM - 5000mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/14/Samsung Galaxy S26 Ultra - 1To - 16Go RAM - 6.9_ - 200MP + 10MP + 50MP + 50MP_ 12MP - 2 Nano SIM - 5000mAh.jpg",
     "images": [
-      "/telephone_accessoires/14/Samsung Galaxy S26 Ultra - 1To - 16Go RAM - 6.9_ - 200MP + 10MP + 50MP + 50MP_ 12MP - 2 Nano SIM - 5000mAh.jpg",
-      "/telephone_accessoires/14/Samsung Galaxy S26 Ultra - 1To - 16Go RAM - 6.9_ - 200MP + 10MP + 50MP + 50MP_ 12MP - 2 Nano SIM - 5000mAh (1).jpg",
-      "/telephone_accessoires/14/Samsung Galaxy S26 Ultra - 1To - 16Go RAM - 6.9_ - 200MP + 10MP + 50MP + 50MP_ 12MP - 2 Nano SIM - 5000mAh (2).jpg",
-      "/telephone_accessoires/14/Samsung Galaxy S26 Ultra - 1To - 16Go RAM - 6.9_ - 200MP + 10MP + 50MP + 50MP_ 12MP - 2 Nano SIM - 5000mAh (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/14/Samsung Galaxy S26 Ultra - 1To - 16Go RAM - 6.9_ - 200MP + 10MP + 50MP + 50MP_ 12MP - 2 Nano SIM - 5000mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/14/Samsung Galaxy S26 Ultra - 1To - 16Go RAM - 6.9_ - 200MP + 10MP + 50MP + 50MP_ 12MP - 2 Nano SIM - 5000mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/14/Samsung Galaxy S26 Ultra - 1To - 16Go RAM - 6.9_ - 200MP + 10MP + 50MP + 50MP_ 12MP - 2 Nano SIM - 5000mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/14/Samsung Galaxy S26 Ultra - 1To - 16Go RAM - 6.9_ - 200MP + 10MP + 50MP + 50MP_ 12MP - 2 Nano SIM - 5000mAh (3).jpg"
     ]
   },
   {
@@ -604,13 +604,13 @@ export const telephone_accessoires = [
       "sim": "Double Nano-SIM",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/15/Samsung Galaxy S26+ - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4900mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/15/Samsung Galaxy S26+ - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4900mAh.jpg",
     "images": [
-      "/telephone_accessoires/15/Samsung Galaxy S26+ - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4900mAh.jpg",
-      "/telephone_accessoires/15/Samsung Galaxy S26+ - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4900mAh (1).jpg",
-      "/telephone_accessoires/15/Samsung Galaxy S26+ - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4900mAh (2).jpg",
-      "/telephone_accessoires/15/Samsung Galaxy S26+ - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4900mAh (3).jpg",
-      "/telephone_accessoires/15/Samsung Galaxy S26+ - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4900mAh (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/15/Samsung Galaxy S26+ - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4900mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/15/Samsung Galaxy S26+ - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4900mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/15/Samsung Galaxy S26+ - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4900mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/15/Samsung Galaxy S26+ - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4900mAh (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/15/Samsung Galaxy S26+ - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4900mAh (4).jpg"
     ]
   },
   {
@@ -646,13 +646,13 @@ export const telephone_accessoires = [
       "sim": "Double Nano-SIM",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/16/Samsung Galaxy S26 - 256 Go - 12Go RAM - 6.3_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4300mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/16/Samsung Galaxy S26 - 256 Go - 12Go RAM - 6.3_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4300mAh.jpg",
     "images": [
-      "/telephone_accessoires/16/Samsung Galaxy S26 - 256 Go - 12Go RAM - 6.3_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4300mAh.jpg",
-      "/telephone_accessoires/16/Samsung Galaxy S26 - 256 Go - 12Go RAM - 6.3_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4300mAh (1).jpg",
-      "/telephone_accessoires/16/Samsung Galaxy S26 - 256 Go - 12Go RAM - 6.3_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4300mAh (2).jpg",
-      "/telephone_accessoires/16/Samsung Galaxy S26 - 256 Go - 12Go RAM - 6.3_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4300mAh (3).jpg",
-      "/telephone_accessoires/16/Samsung Galaxy S26 - 256 Go - 12Go RAM - 6.3_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4300mAh (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/16/Samsung Galaxy S26 - 256 Go - 12Go RAM - 6.3_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4300mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/16/Samsung Galaxy S26 - 256 Go - 12Go RAM - 6.3_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4300mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/16/Samsung Galaxy S26 - 256 Go - 12Go RAM - 6.3_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4300mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/16/Samsung Galaxy S26 - 256 Go - 12Go RAM - 6.3_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4300mAh (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/16/Samsung Galaxy S26 - 256 Go - 12Go RAM - 6.3_ - 50 MP + 10MP + 12 MP_12MP - 2 Nano SIM - 4300mAh (4).jpg"
     ]
   },
   {
@@ -687,10 +687,10 @@ export const telephone_accessoires = [
       "camera_avant": "10MP",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/17/Samsung Galaxy Z TriFold - 512 Go - 16 Go RAM - 5600 mAh - Double écran (10'' et 6.5_) - 200MP+10MP+12MP_10MP+10MP.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/17/Samsung Galaxy Z TriFold - 512 Go - 16 Go RAM - 5600 mAh - Double écran (10'' et 6.5_) - 200MP+10MP+12MP_10MP+10MP.jpg",
     "images": [
-      "/telephone_accessoires/17/Samsung Galaxy Z TriFold - 512 Go - 16 Go RAM - 5600 mAh - Double écran (10'' et 6.5_) - 200MP+10MP+12MP_10MP+10MP.jpg",
-      "/telephone_accessoires/17/Samsung Galaxy Z TriFold - 512 Go - 16 Go RAM - 5600 mAh - Double écran (10'' et 6.5_) - 200MP+10MP+12MP_10MP+10MP (1).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/17/Samsung Galaxy Z TriFold - 512 Go - 16 Go RAM - 5600 mAh - Double écran (10'' et 6.5_) - 200MP+10MP+12MP_10MP+10MP.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/17/Samsung Galaxy Z TriFold - 512 Go - 16 Go RAM - 5600 mAh - Double écran (10'' et 6.5_) - 200MP+10MP+12MP_10MP+10MP (1).jpg"
     ]
   },
   {
@@ -724,13 +724,13 @@ export const telephone_accessoires = [
       "camera_arriere": "200 MP",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/18/Samsung Galaxy Z Fold7 - 1 To - 16 Go de RAM - Écran principal AMOLED pliable 8_ + écran secondaire 6,5_ - 200 MP+ 12 MP + 10 MP _ 10 MP - 4400 mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/18/Samsung Galaxy Z Fold7 - 1 To - 16 Go de RAM - Écran principal AMOLED pliable 8_ + écran secondaire 6,5_ - 200 MP+ 12 MP + 10 MP _ 10 MP - 4400 mAh.jpg",
     "images": [
-      "/telephone_accessoires/18/Samsung Galaxy Z Fold7 - 1 To - 16 Go de RAM - Écran principal AMOLED pliable 8_ + écran secondaire 6,5_ - 200 MP+ 12 MP + 10 MP _ 10 MP - 4400 mAh.jpg",
-      "/telephone_accessoires/18/Samsung Galaxy Z Fold7 - 1 To - 16 Go de RAM - Écran principal AMOLED pliable 8_ + écran secondaire 6,5_ - 200 MP+ 12 MP + 10 MP _ 10 MP - 4400 mAh (1).jpg",
-      "/telephone_accessoires/18/Samsung Galaxy Z Fold7 - 1 To - 16 Go de RAM - Écran principal AMOLED pliable 8_ + écran secondaire 6,5_ - 200 MP+ 12 MP + 10 MP _ 10 MP - 4400 mAh (2).jpg",
-      "/telephone_accessoires/18/Samsung Galaxy Z Fold7 - 1 To - 16 Go de RAM - Écran principal AMOLED pliable 8_ + écran secondaire 6,5_ - 200 MP+ 12 MP + 10 MP _ 10 MP - 4400 mAh (3).jpg",
-      "/telephone_accessoires/18/Samsung Galaxy Z Fold7 - 1 To - 16 Go de RAM - Écran principal AMOLED pliable 8_ + écran secondaire 6,5_ - 200 MP+ 12 MP + 10 MP _ 10 MP - 4400 mAh (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/18/Samsung Galaxy Z Fold7 - 1 To - 16 Go de RAM - Écran principal AMOLED pliable 8_ + écran secondaire 6,5_ - 200 MP+ 12 MP + 10 MP _ 10 MP - 4400 mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/18/Samsung Galaxy Z Fold7 - 1 To - 16 Go de RAM - Écran principal AMOLED pliable 8_ + écran secondaire 6,5_ - 200 MP+ 12 MP + 10 MP _ 10 MP - 4400 mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/18/Samsung Galaxy Z Fold7 - 1 To - 16 Go de RAM - Écran principal AMOLED pliable 8_ + écran secondaire 6,5_ - 200 MP+ 12 MP + 10 MP _ 10 MP - 4400 mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/18/Samsung Galaxy Z Fold7 - 1 To - 16 Go de RAM - Écran principal AMOLED pliable 8_ + écran secondaire 6,5_ - 200 MP+ 12 MP + 10 MP _ 10 MP - 4400 mAh (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/18/Samsung Galaxy Z Fold7 - 1 To - 16 Go de RAM - Écran principal AMOLED pliable 8_ + écran secondaire 6,5_ - 200 MP+ 12 MP + 10 MP _ 10 MP - 4400 mAh (4).jpg"
     ]
   },
   {
@@ -763,12 +763,12 @@ export const telephone_accessoires = [
       "camera_arriere": "50 MP",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/19/Samsung Galaxy Z Flip7 – 512 Go – 12 Go de RAM – Écran AMOLED pliable de 6,9 pouces + FlexWindow de 4,1 pouces – 50 MP + 12 MP _ 10 MP – 4 300 mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/19/Samsung Galaxy Z Flip7 – 512 Go – 12 Go de RAM – Écran AMOLED pliable de 6,9 pouces + FlexWindow de 4,1 pouces – 50 MP + 12 MP _ 10 MP – 4 300 mAh.jpg",
     "images": [
-      "/telephone_accessoires/19/Samsung Galaxy Z Flip7 – 512 Go – 12 Go de RAM – Écran AMOLED pliable de 6,9 pouces + FlexWindow de 4,1 pouces – 50 MP + 12 MP _ 10 MP – 4 300 mAh.jpg",
-      "/telephone_accessoires/19/Samsung Galaxy Z Flip7 – 512 Go – 12 Go de RAM – Écran AMOLED pliable de 6,9 pouces + FlexWindow de 4,1 pouces – 50 MP + 12 MP _ 10 MP – 4 300 mAh (1).jpg",
-      "/telephone_accessoires/19/Samsung Galaxy Z Flip7 – 512 Go – 12 Go de RAM – Écran AMOLED pliable de 6,9 pouces + FlexWindow de 4,1 pouces – 50 MP + 12 MP _ 10 MP – 4 300 mAh (2).jpg",
-      "/telephone_accessoires/19/Samsung Galaxy Z Flip7 – 512 Go – 12 Go de RAM – Écran AMOLED pliable de 6,9 pouces + FlexWindow de 4,1 pouces – 50 MP + 12 MP _ 10 MP – 4 300 mAh (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/19/Samsung Galaxy Z Flip7 – 512 Go – 12 Go de RAM – Écran AMOLED pliable de 6,9 pouces + FlexWindow de 4,1 pouces – 50 MP + 12 MP _ 10 MP – 4 300 mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/19/Samsung Galaxy Z Flip7 – 512 Go – 12 Go de RAM – Écran AMOLED pliable de 6,9 pouces + FlexWindow de 4,1 pouces – 50 MP + 12 MP _ 10 MP – 4 300 mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/19/Samsung Galaxy Z Flip7 – 512 Go – 12 Go de RAM – Écran AMOLED pliable de 6,9 pouces + FlexWindow de 4,1 pouces – 50 MP + 12 MP _ 10 MP – 4 300 mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/19/Samsung Galaxy Z Flip7 – 512 Go – 12 Go de RAM – Écran AMOLED pliable de 6,9 pouces + FlexWindow de 4,1 pouces – 50 MP + 12 MP _ 10 MP – 4 300 mAh (3).jpg"
     ]
   },
   {
@@ -803,12 +803,12 @@ export const telephone_accessoires = [
       "sim": "eSIM",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/20/Samsung Galaxy S25 Edge - 512 Go - 12 Go RAM - 6,7_ - 2 Nano-SIM et eSIM - 200MP+12MP_12MP.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/20/Samsung Galaxy S25 Edge - 512 Go - 12 Go RAM - 6,7_ - 2 Nano-SIM et eSIM - 200MP+12MP_12MP.jpg",
     "images": [
-      "/telephone_accessoires/20/Samsung Galaxy S25 Edge - 512 Go - 12 Go RAM - 6,7_ - 2 Nano-SIM et eSIM - 200MP+12MP_12MP.jpg",
-      "/telephone_accessoires/20/Samsung Galaxy S25 Edge - 512 Go - 12 Go RAM - 6,7_ - 2 Nano-SIM et eSIM - 200MP+12MP_12MP (1).jpg",
-      "/telephone_accessoires/20/Samsung Galaxy S25 Edge - 512 Go - 12 Go RAM - 6,7_ - 2 Nano-SIM et eSIM - 200MP+12MP_12MP (2).jpg",
-      "/telephone_accessoires/20/Samsung Galaxy S25 Edge - 512 Go - 12 Go RAM - 6,7_ - 2 Nano-SIM et eSIM - 200MP+12MP_12MP (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/20/Samsung Galaxy S25 Edge - 512 Go - 12 Go RAM - 6,7_ - 2 Nano-SIM et eSIM - 200MP+12MP_12MP.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/20/Samsung Galaxy S25 Edge - 512 Go - 12 Go RAM - 6,7_ - 2 Nano-SIM et eSIM - 200MP+12MP_12MP (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/20/Samsung Galaxy S25 Edge - 512 Go - 12 Go RAM - 6,7_ - 2 Nano-SIM et eSIM - 200MP+12MP_12MP (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/20/Samsung Galaxy S25 Edge - 512 Go - 12 Go RAM - 6,7_ - 2 Nano-SIM et eSIM - 200MP+12MP_12MP (3).jpg"
     ]
   },
   {
@@ -844,12 +844,12 @@ export const telephone_accessoires = [
       "connectivite": "5G",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/21/Samsung Galaxy A26 5G - 128 Go - 6Go RAM - 6.7_ - 2 Nano SIM - 50MP+8MP+2MP 4k_13MP - 5000mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/21/Samsung Galaxy A26 5G - 128 Go - 6Go RAM - 6.7_ - 2 Nano SIM - 50MP+8MP+2MP 4k_13MP - 5000mAh.jpg",
     "images": [
-      "/telephone_accessoires/21/Samsung Galaxy A26 5G - 128 Go - 6Go RAM - 6.7_ - 2 Nano SIM - 50MP+8MP+2MP 4k_13MP - 5000mAh.jpg",
-      "/telephone_accessoires/21/Samsung Galaxy A26 5G - 128 Go - 6Go RAM - 6.7_ - 2 Nano SIM - 50MP+8MP+2MP 4k_13MP - 5000mAh (1).jpg",
-      "/telephone_accessoires/21/Samsung Galaxy A26 5G - 128 Go - 6Go RAM - 6.7_ - 2 Nano SIM - 50MP+8MP+2MP 4k_13MP - 5000mAh (2).jpg",
-      "/telephone_accessoires/21/Samsung Galaxy A26 5G - 128 Go - 6Go RAM - 6.7_ - 2 Nano SIM - 50MP+8MP+2MP 4k_13MP - 5000mAh (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/21/Samsung Galaxy A26 5G - 128 Go - 6Go RAM - 6.7_ - 2 Nano SIM - 50MP+8MP+2MP 4k_13MP - 5000mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/21/Samsung Galaxy A26 5G - 128 Go - 6Go RAM - 6.7_ - 2 Nano SIM - 50MP+8MP+2MP 4k_13MP - 5000mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/21/Samsung Galaxy A26 5G - 128 Go - 6Go RAM - 6.7_ - 2 Nano SIM - 50MP+8MP+2MP 4k_13MP - 5000mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/21/Samsung Galaxy A26 5G - 128 Go - 6Go RAM - 6.7_ - 2 Nano SIM - 50MP+8MP+2MP 4k_13MP - 5000mAh (3).jpg"
     ]
   },
   {
@@ -884,13 +884,13 @@ export const telephone_accessoires = [
       "connectivite": "5G",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/22/SAMSUNG GALAXY S25 ULTRA 5G - 1 To - 12 Go - 6.9_ - 200 MP + 10 MP + 50 MP + 50 MP_12MP - 5000mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/22/SAMSUNG GALAXY S25 ULTRA 5G - 1 To - 12 Go - 6.9_ - 200 MP + 10 MP + 50 MP + 50 MP_12MP - 5000mAh.jpg",
     "images": [
-      "/telephone_accessoires/22/SAMSUNG GALAXY S25 ULTRA 5G - 1 To - 12 Go - 6.9_ - 200 MP + 10 MP + 50 MP + 50 MP_12MP - 5000mAh.jpg",
-      "/telephone_accessoires/22/SAMSUNG GALAXY S25 ULTRA 5G - 1 To - 12 Go - 6.9_ - 200 MP + 10 MP + 50 MP + 50 MP_12MP - 5000mAh (1).jpg",
-      "/telephone_accessoires/22/SAMSUNG GALAXY S25 ULTRA 5G - 1 To - 12 Go - 6.9_ - 200 MP + 10 MP + 50 MP + 50 MP_12MP - 5000mAh (2).jpg",
-      "/telephone_accessoires/22/SAMSUNG GALAXY S25 ULTRA 5G - 1 To - 12 Go - 6.9_ - 200 MP + 10 MP + 50 MP + 50 MP_12MP - 5000mAh (3).jpg",
-      "/telephone_accessoires/22/SAMSUNG GALAXY S25 ULTRA 5G - 1 To - 12 Go - 6.9_ - 200 MP + 10 MP + 50 MP + 50 MP_12MP - 5000mAh (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/22/SAMSUNG GALAXY S25 ULTRA 5G - 1 To - 12 Go - 6.9_ - 200 MP + 10 MP + 50 MP + 50 MP_12MP - 5000mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/22/SAMSUNG GALAXY S25 ULTRA 5G - 1 To - 12 Go - 6.9_ - 200 MP + 10 MP + 50 MP + 50 MP_12MP - 5000mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/22/SAMSUNG GALAXY S25 ULTRA 5G - 1 To - 12 Go - 6.9_ - 200 MP + 10 MP + 50 MP + 50 MP_12MP - 5000mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/22/SAMSUNG GALAXY S25 ULTRA 5G - 1 To - 12 Go - 6.9_ - 200 MP + 10 MP + 50 MP + 50 MP_12MP - 5000mAh (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/22/SAMSUNG GALAXY S25 ULTRA 5G - 1 To - 12 Go - 6.9_ - 200 MP + 10 MP + 50 MP + 50 MP_12MP - 5000mAh (4).jpg"
     ]
   },
   {
@@ -926,15 +926,15 @@ export const telephone_accessoires = [
       "connectivite": "5G",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/23/SAMSUNG GALAXY S25+ 5G - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 4900mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/23/SAMSUNG GALAXY S25+ 5G - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 4900mAh.jpg",
     "images": [
-      "/telephone_accessoires/23/SAMSUNG GALAXY S25+ 5G - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 4900mAh.jpg",
-      "/telephone_accessoires/23/SAMSUNG GALAXY S25+ 5G - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 4900mAh (1).jpg",
-      "/telephone_accessoires/23/SAMSUNG GALAXY S25+ 5G - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 4900mAh (2).jpg",
-      "/telephone_accessoires/23/SAMSUNG GALAXY S25+ 5G - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 4900mAh (3).jpg",
-      "/telephone_accessoires/23/SAMSUNG GALAXY S25+ 5G - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 4900mAh (4).jpg",
-      "/telephone_accessoires/23/SAMSUNG GALAXY S25+ 5G - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 4900mAh (5).jpg",
-      "/telephone_accessoires/23/SAMSUNG GALAXY S25+ 5G - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 4900mAh (6).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/23/SAMSUNG GALAXY S25+ 5G - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 4900mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/23/SAMSUNG GALAXY S25+ 5G - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 4900mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/23/SAMSUNG GALAXY S25+ 5G - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 4900mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/23/SAMSUNG GALAXY S25+ 5G - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 4900mAh (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/23/SAMSUNG GALAXY S25+ 5G - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 4900mAh (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/23/SAMSUNG GALAXY S25+ 5G - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 4900mAh (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/23/SAMSUNG GALAXY S25+ 5G - 512 Go - 12Go RAM - 6.7_ - 50 MP + 10MP + 12 MP_12MP - 4900mAh (6).jpg"
     ]
   },
   {
@@ -969,12 +969,12 @@ export const telephone_accessoires = [
       "sim": "Double Nano-SIM",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/24/Samsung Galaxy Z Fold6 - 512 Go - 12Go RAM - Ecran AMOLED dynamique pliable 2X - 7.6_ - 2 Nano SIM - 50MP+10MP+12MP 8K _4MP+10MP 4K - 4400mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/24/Samsung Galaxy Z Fold6 - 512 Go - 12Go RAM - Ecran AMOLED dynamique pliable 2X - 7.6_ - 2 Nano SIM - 50MP+10MP+12MP 8K _4MP+10MP 4K - 4400mAh.jpg",
     "images": [
-      "/telephone_accessoires/24/Samsung Galaxy Z Fold6 - 512 Go - 12Go RAM - Ecran AMOLED dynamique pliable 2X - 7.6_ - 2 Nano SIM - 50MP+10MP+12MP 8K _4MP+10MP 4K - 4400mAh.jpg",
-      "/telephone_accessoires/24/Samsung Galaxy Z Fold6 - 512 Go - 12Go RAM - Ecran AMOLED dynamique pliable 2X - 7.6_ - 2 Nano SIM - 50MP+10MP+12MP 8K _4MP+10MP 4K - 4400mAh (1).jpg",
-      "/telephone_accessoires/24/Samsung Galaxy Z Fold6 - 512 Go - 12Go RAM - Ecran AMOLED dynamique pliable 2X - 7.6_ - 2 Nano SIM - 50MP+10MP+12MP 8K _4MP+10MP 4K - 4400mAh (2).jpg",
-      "/telephone_accessoires/24/Samsung Galaxy Z Fold6 - 512 Go - 12Go RAM - Ecran AMOLED dynamique pliable 2X - 7.6_ - 2 Nano SIM - 50MP+10MP+12MP 8K _4MP+10MP 4K - 4400mAh (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/24/Samsung Galaxy Z Fold6 - 512 Go - 12Go RAM - Ecran AMOLED dynamique pliable 2X - 7.6_ - 2 Nano SIM - 50MP+10MP+12MP 8K _4MP+10MP 4K - 4400mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/24/Samsung Galaxy Z Fold6 - 512 Go - 12Go RAM - Ecran AMOLED dynamique pliable 2X - 7.6_ - 2 Nano SIM - 50MP+10MP+12MP 8K _4MP+10MP 4K - 4400mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/24/Samsung Galaxy Z Fold6 - 512 Go - 12Go RAM - Ecran AMOLED dynamique pliable 2X - 7.6_ - 2 Nano SIM - 50MP+10MP+12MP 8K _4MP+10MP 4K - 4400mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/24/Samsung Galaxy Z Fold6 - 512 Go - 12Go RAM - Ecran AMOLED dynamique pliable 2X - 7.6_ - 2 Nano SIM - 50MP+10MP+12MP 8K _4MP+10MP 4K - 4400mAh (3).jpg"
     ]
   },
   {
@@ -1009,13 +1009,13 @@ export const telephone_accessoires = [
       "sim": "eSIM",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/25/Samsung Galaxy Z Flip6 - 512 Go - 12Go RAM - 6.7_ - (1 Nano Sim et 1 eSim) - 50MP+12MP 4K_10MP 4K - 4000mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/25/Samsung Galaxy Z Flip6 - 512 Go - 12Go RAM - 6.7_ - (1 Nano Sim et 1 eSim) - 50MP+12MP 4K_10MP 4K - 4000mAh.jpg",
     "images": [
-      "/telephone_accessoires/25/Samsung Galaxy Z Flip6 - 512 Go - 12Go RAM - 6.7_ - (1 Nano Sim et 1 eSim) - 50MP+12MP 4K_10MP 4K - 4000mAh.jpg",
-      "/telephone_accessoires/25/Samsung Galaxy Z Flip6 - 512 Go - 12Go RAM - 6.7_ - (1 Nano Sim et 1 eSim) - 50MP+12MP 4K_10MP 4K - 4000mAh (1).jpg",
-      "/telephone_accessoires/25/Samsung Galaxy Z Flip6 - 512 Go - 12Go RAM - 6.7_ - (1 Nano Sim et 1 eSim) - 50MP+12MP 4K_10MP 4K - 4000mAh (2).jpg",
-      "/telephone_accessoires/25/Samsung Galaxy Z Flip6 - 512 Go - 12Go RAM - 6.7_ - (1 Nano Sim et 1 eSim) - 50MP+12MP 4K_10MP 4K - 4000mAh (3).jpg",
-      "/telephone_accessoires/25/Samsung Galaxy Z Flip6 - 512 Go - 12Go RAM - 6.7_ - (1 Nano Sim et 1 eSim) - 50MP+12MP 4K_10MP 4K - 4000mAh (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/25/Samsung Galaxy Z Flip6 - 512 Go - 12Go RAM - 6.7_ - (1 Nano Sim et 1 eSim) - 50MP+12MP 4K_10MP 4K - 4000mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/25/Samsung Galaxy Z Flip6 - 512 Go - 12Go RAM - 6.7_ - (1 Nano Sim et 1 eSim) - 50MP+12MP 4K_10MP 4K - 4000mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/25/Samsung Galaxy Z Flip6 - 512 Go - 12Go RAM - 6.7_ - (1 Nano Sim et 1 eSim) - 50MP+12MP 4K_10MP 4K - 4000mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/25/Samsung Galaxy Z Flip6 - 512 Go - 12Go RAM - 6.7_ - (1 Nano Sim et 1 eSim) - 50MP+12MP 4K_10MP 4K - 4000mAh (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/25/Samsung Galaxy Z Flip6 - 512 Go - 12Go RAM - 6.7_ - (1 Nano Sim et 1 eSim) - 50MP+12MP 4K_10MP 4K - 4000mAh (4).jpg"
     ]
   },
   {
@@ -1052,16 +1052,16 @@ export const telephone_accessoires = [
       "connectivite": "5G",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/26/Samsung Galaxy S24 ULTRA 5G - 256 Go - 12Go RAM - 6.8_ - 2 Nano-SIMs and eSIM - 200 MP + 50 MP + 10 MP + 12 MP_12MP - 5000mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/26/Samsung Galaxy S24 ULTRA 5G - 256 Go - 12Go RAM - 6.8_ - 2 Nano-SIMs and eSIM - 200 MP + 50 MP + 10 MP + 12 MP_12MP - 5000mAh.jpg",
     "images": [
-      "/telephone_accessoires/26/Samsung Galaxy S24 ULTRA 5G - 256 Go - 12Go RAM - 6.8_ - 2 Nano-SIMs and eSIM - 200 MP + 50 MP + 10 MP + 12 MP_12MP - 5000mAh.jpg",
-      "/telephone_accessoires/26/Samsung Galaxy S24 ULTRA 5G - 256 Go - 12Go RAM - 6.8_ - 2 Nano-SIMs and eSIM - 200 MP + 50 MP + 10 MP + 12 MP_12MP - 5000mAh.png",
-      "/telephone_accessoires/26/Samsung Galaxy S24 ULTRA 5G - 256 Go - 12Go RAM - 6.8_ - 2 Nano-SIMs and eSIM - 200 MP + 50 MP + 10 MP + 12 MP_12MP - 5000mAh (1).jpg",
-      "/telephone_accessoires/26/Samsung Galaxy S24 ULTRA 5G - 256 Go - 12Go RAM - 6.8_ - 2 Nano-SIMs and eSIM - 200 MP + 50 MP + 10 MP + 12 MP_12MP - 5000mAh (1).png",
-      "/telephone_accessoires/26/Samsung Galaxy S24 ULTRA 5G - 256 Go - 12Go RAM - 6.8_ - 2 Nano-SIMs and eSIM - 200 MP + 50 MP + 10 MP + 12 MP_12MP - 5000mAh (2).jpg",
-      "/telephone_accessoires/26/Samsung Galaxy S24 ULTRA 5G - 256 Go - 12Go RAM - 6.8_ - 2 Nano-SIMs and eSIM - 200 MP + 50 MP + 10 MP + 12 MP_12MP - 5000mAh (2).png",
-      "/telephone_accessoires/26/Samsung Galaxy S24 ULTRA 5G - 256 Go - 12Go RAM - 6.8_ - 2 Nano-SIMs and eSIM - 200 MP + 50 MP + 10 MP + 12 MP_12MP - 5000mAh (3).jpg",
-      "/telephone_accessoires/26/Samsung Galaxy S24 ULTRA 5G - 256 Go - 12Go RAM - 6.8_ - 2 Nano-SIMs and eSIM - 200 MP + 50 MP + 10 MP + 12 MP_12MP - 5000mAh (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/26/Samsung Galaxy S24 ULTRA 5G - 256 Go - 12Go RAM - 6.8_ - 2 Nano-SIMs and eSIM - 200 MP + 50 MP + 10 MP + 12 MP_12MP - 5000mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/26/Samsung Galaxy S24 ULTRA 5G - 256 Go - 12Go RAM - 6.8_ - 2 Nano-SIMs and eSIM - 200 MP + 50 MP + 10 MP + 12 MP_12MP - 5000mAh.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/26/Samsung Galaxy S24 ULTRA 5G - 256 Go - 12Go RAM - 6.8_ - 2 Nano-SIMs and eSIM - 200 MP + 50 MP + 10 MP + 12 MP_12MP - 5000mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/26/Samsung Galaxy S24 ULTRA 5G - 256 Go - 12Go RAM - 6.8_ - 2 Nano-SIMs and eSIM - 200 MP + 50 MP + 10 MP + 12 MP_12MP - 5000mAh (1).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/26/Samsung Galaxy S24 ULTRA 5G - 256 Go - 12Go RAM - 6.8_ - 2 Nano-SIMs and eSIM - 200 MP + 50 MP + 10 MP + 12 MP_12MP - 5000mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/26/Samsung Galaxy S24 ULTRA 5G - 256 Go - 12Go RAM - 6.8_ - 2 Nano-SIMs and eSIM - 200 MP + 50 MP + 10 MP + 12 MP_12MP - 5000mAh (2).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/26/Samsung Galaxy S24 ULTRA 5G - 256 Go - 12Go RAM - 6.8_ - 2 Nano-SIMs and eSIM - 200 MP + 50 MP + 10 MP + 12 MP_12MP - 5000mAh (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/26/Samsung Galaxy S24 ULTRA 5G - 256 Go - 12Go RAM - 6.8_ - 2 Nano-SIMs and eSIM - 200 MP + 50 MP + 10 MP + 12 MP_12MP - 5000mAh (4).jpg"
     ]
   },
   {
@@ -1098,15 +1098,15 @@ export const telephone_accessoires = [
       "connectivite": "5G",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/27/Samsung Galaxy S24 + 5G - 256 Go - 8Go RAM - 6.7_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4900mAh_.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/27/Samsung Galaxy S24 + 5G - 256 Go - 8Go RAM - 6.7_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4900mAh_.jpg",
     "images": [
-      "/telephone_accessoires/27/Samsung Galaxy S24 + 5G - 256 Go - 8Go RAM - 6.7_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4900mAh_.jpg",
-      "/telephone_accessoires/27/Samsung Galaxy S24 + 5G - 256 Go - 8Go RAM - 6.7_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4900mAh_ (1).jpg",
-      "/telephone_accessoires/27/Samsung Galaxy S24 + 5G - 256 Go - 8Go RAM - 6.7_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4900mAh_ (2).jpg",
-      "/telephone_accessoires/27/Samsung Galaxy S24 + 5G - 256 Go - 8Go RAM - 6.7_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4900mAh_ (3).jpg",
-      "/telephone_accessoires/27/Samsung Galaxy S24 + 5G - 256 Go - 8Go RAM - 6.7_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4900mAh_ (4).jpg",
-      "/telephone_accessoires/27/Samsung Galaxy S24 + 5G - 256 Go - 8Go RAM - 6.7_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4900mAh_ (5).jpg",
-      "/telephone_accessoires/27/Samsung Galaxy S24 + 5G - 256 Go - 8Go RAM - 6.7_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4900mAh_ (6).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/27/Samsung Galaxy S24 + 5G - 256 Go - 8Go RAM - 6.7_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4900mAh_.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/27/Samsung Galaxy S24 + 5G - 256 Go - 8Go RAM - 6.7_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4900mAh_ (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/27/Samsung Galaxy S24 + 5G - 256 Go - 8Go RAM - 6.7_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4900mAh_ (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/27/Samsung Galaxy S24 + 5G - 256 Go - 8Go RAM - 6.7_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4900mAh_ (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/27/Samsung Galaxy S24 + 5G - 256 Go - 8Go RAM - 6.7_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4900mAh_ (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/27/Samsung Galaxy S24 + 5G - 256 Go - 8Go RAM - 6.7_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4900mAh_ (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/27/Samsung Galaxy S24 + 5G - 256 Go - 8Go RAM - 6.7_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4900mAh_ (6).jpg"
     ]
   },
   {
@@ -1143,22 +1143,22 @@ export const telephone_accessoires = [
       "connectivite": "5G",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh.jpg",
     "images": [
-      "/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh.jpg",
-      "/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (1).jpg",
-      "/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (10).jpg",
-      "/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (11).jpg",
-      "/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (12).jpg",
-      "/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (13).jpg",
-      "/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (2).jpg",
-      "/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (3).jpg",
-      "/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (4).jpg",
-      "/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (5).jpg",
-      "/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (6).jpg",
-      "/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (7).jpg",
-      "/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (8).jpg",
-      "/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (9).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (10).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (11).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (12).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (13).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (6).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (7).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (8).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/28/Samsung Galaxy S24 5G - 256 Go - 8Go RAM - 6.2_ - 2 Nano-SIMs and eSIM - 50 MP + 10 MP + 12 MP_12MP - 4000mAh (9).jpg"
     ]
   },
   {
@@ -1193,13 +1193,13 @@ export const telephone_accessoires = [
       "sim": "Nano-SIM + eSIM",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/29/Google Pixel 10 Pro - 512 Go - 16Go RAM - 6,3'' - Nano-SIM + eSIM - 50MP+48MP+48MP _ 42MP - 4870 mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/29/Google Pixel 10 Pro - 512 Go - 16Go RAM - 6,3'' - Nano-SIM + eSIM - 50MP+48MP+48MP _ 42MP - 4870 mAh.jpg",
     "images": [
-      "/telephone_accessoires/29/Google Pixel 10 Pro - 512 Go - 16Go RAM - 6,3'' - Nano-SIM + eSIM - 50MP+48MP+48MP _ 42MP - 4870 mAh.jpg",
-      "/telephone_accessoires/29/Google Pixel 10 Pro - 512 Go - 16Go RAM - 6,3'' - Nano-SIM + eSIM - 50MP+48MP+48MP _ 42MP - 4870 mAh (1).jpg",
-      "/telephone_accessoires/29/Google Pixel 10 Pro - 512 Go - 16Go RAM - 6,3'' - Nano-SIM + eSIM - 50MP+48MP+48MP _ 42MP - 4870 mAh (2).jpg",
-      "/telephone_accessoires/29/Google Pixel 10 Pro - 512 Go - 16Go RAM - 6,3'' - Nano-SIM + eSIM - 50MP+48MP+48MP _ 42MP - 4870 mAh (3).jpg",
-      "/telephone_accessoires/29/Google Pixel 10 Pro - 512 Go - 16Go RAM - 6,3'' - Nano-SIM + eSIM - 50MP+48MP+48MP _ 42MP - 4870 mAh (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/29/Google Pixel 10 Pro - 512 Go - 16Go RAM - 6,3'' - Nano-SIM + eSIM - 50MP+48MP+48MP _ 42MP - 4870 mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/29/Google Pixel 10 Pro - 512 Go - 16Go RAM - 6,3'' - Nano-SIM + eSIM - 50MP+48MP+48MP _ 42MP - 4870 mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/29/Google Pixel 10 Pro - 512 Go - 16Go RAM - 6,3'' - Nano-SIM + eSIM - 50MP+48MP+48MP _ 42MP - 4870 mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/29/Google Pixel 10 Pro - 512 Go - 16Go RAM - 6,3'' - Nano-SIM + eSIM - 50MP+48MP+48MP _ 42MP - 4870 mAh (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/29/Google Pixel 10 Pro - 512 Go - 16Go RAM - 6,3'' - Nano-SIM + eSIM - 50MP+48MP+48MP _ 42MP - 4870 mAh (4).jpg"
     ]
   },
   {
@@ -1235,12 +1235,12 @@ export const telephone_accessoires = [
       "camera_arriere": "50 MP",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/30/Google Pixel 10 Pro XL – 16Go RAM – 512Go - Écran OLED 6.8_ 120Hz – Tensor G5 – Triple caméra 50MP – Batterie 5200mAh – Android 16 – IP68_IP69.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/30/Google Pixel 10 Pro XL – 16Go RAM – 512Go - Écran OLED 6.8_ 120Hz – Tensor G5 – Triple caméra 50MP – Batterie 5200mAh – Android 16 – IP68_IP69.jpg",
     "images": [
-      "/telephone_accessoires/30/Google Pixel 10 Pro XL – 16Go RAM – 512Go - Écran OLED 6.8_ 120Hz – Tensor G5 – Triple caméra 50MP – Batterie 5200mAh – Android 16 – IP68_IP69.jpg",
-      "/telephone_accessoires/30/Google Pixel 10 Pro XL – 16Go RAM – 512Go - Écran OLED 6.8_ 120Hz – Tensor G5 – Triple caméra 50MP – Batterie 5200mAh – Android 16 – IP68_IP69 (1).jpg",
-      "/telephone_accessoires/30/Google Pixel 10 Pro XL – 16Go RAM – 512Go - Écran OLED 6.8_ 120Hz – Tensor G5 – Triple caméra 50MP – Batterie 5200mAh – Android 16 – IP68_IP69 (2).jpg",
-      "/telephone_accessoires/30/Google Pixel 10 Pro XL – 16Go RAM – 512Go - Écran OLED 6.8_ 120Hz – Tensor G5 – Triple caméra 50MP – Batterie 5200mAh – Android 16 – IP68_IP69 (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/30/Google Pixel 10 Pro XL – 16Go RAM – 512Go - Écran OLED 6.8_ 120Hz – Tensor G5 – Triple caméra 50MP – Batterie 5200mAh – Android 16 – IP68_IP69.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/30/Google Pixel 10 Pro XL – 16Go RAM – 512Go - Écran OLED 6.8_ 120Hz – Tensor G5 – Triple caméra 50MP – Batterie 5200mAh – Android 16 – IP68_IP69 (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/30/Google Pixel 10 Pro XL – 16Go RAM – 512Go - Écran OLED 6.8_ 120Hz – Tensor G5 – Triple caméra 50MP – Batterie 5200mAh – Android 16 – IP68_IP69 (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/30/Google Pixel 10 Pro XL – 16Go RAM – 512Go - Écran OLED 6.8_ 120Hz – Tensor G5 – Triple caméra 50MP – Batterie 5200mAh – Android 16 – IP68_IP69 (3).jpg"
     ]
   },
   {
@@ -1276,12 +1276,12 @@ export const telephone_accessoires = [
       "camera_arriere": "48 MP",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/31/Google Pixel 10 - 12Go RAM – 256Go – Écran OLED 6.3_ 120Hz – Tensor G5 – Triple caméra 48MP – Batterie 4970mAh – Android 16 – IP68_IP69.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/31/Google Pixel 10 - 12Go RAM – 256Go – Écran OLED 6.3_ 120Hz – Tensor G5 – Triple caméra 48MP – Batterie 4970mAh – Android 16 – IP68_IP69.jpg",
     "images": [
-      "/telephone_accessoires/31/Google Pixel 10 - 12Go RAM – 256Go – Écran OLED 6.3_ 120Hz – Tensor G5 – Triple caméra 48MP – Batterie 4970mAh – Android 16 – IP68_IP69.jpg",
-      "/telephone_accessoires/31/Google Pixel 10 - 12Go RAM – 256Go – Écran OLED 6.3_ 120Hz – Tensor G5 – Triple caméra 48MP – Batterie 4970mAh – Android 16 – IP68_IP69 (1).jpg",
-      "/telephone_accessoires/31/Google Pixel 10 - 12Go RAM – 256Go – Écran OLED 6.3_ 120Hz – Tensor G5 – Triple caméra 48MP – Batterie 4970mAh – Android 16 – IP68_IP69 (2).jpg",
-      "/telephone_accessoires/31/Google Pixel 10 - 12Go RAM – 256Go – Écran OLED 6.3_ 120Hz – Tensor G5 – Triple caméra 48MP – Batterie 4970mAh – Android 16 – IP68_IP69 (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/31/Google Pixel 10 - 12Go RAM – 256Go – Écran OLED 6.3_ 120Hz – Tensor G5 – Triple caméra 48MP – Batterie 4970mAh – Android 16 – IP68_IP69.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/31/Google Pixel 10 - 12Go RAM – 256Go – Écran OLED 6.3_ 120Hz – Tensor G5 – Triple caméra 48MP – Batterie 4970mAh – Android 16 – IP68_IP69 (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/31/Google Pixel 10 - 12Go RAM – 256Go – Écran OLED 6.3_ 120Hz – Tensor G5 – Triple caméra 48MP – Batterie 4970mAh – Android 16 – IP68_IP69 (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/31/Google Pixel 10 - 12Go RAM – 256Go – Écran OLED 6.3_ 120Hz – Tensor G5 – Triple caméra 48MP – Batterie 4970mAh – Android 16 – IP68_IP69 (3).jpg"
     ]
   },
   {
@@ -1316,11 +1316,11 @@ export const telephone_accessoires = [
       "sim": "Nano-SIM + eSIM",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/32/Google Pixel 9 Pro Fold - 256 Go - 16 Go RAM - Écran principal pliable 8'' + Écran secondaire 6.3'' - Nano-SIM + eSIM - 48 MP + 10.8 MP + 10.5 MP _ 10MP + 10MP - 4650 mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/32/Google Pixel 9 Pro Fold - 256 Go - 16 Go RAM - Écran principal pliable 8'' + Écran secondaire 6.3'' - Nano-SIM + eSIM - 48 MP + 10.8 MP + 10.5 MP _ 10MP + 10MP - 4650 mAh.jpg",
     "images": [
-      "/telephone_accessoires/32/Google Pixel 9 Pro Fold - 256 Go - 16 Go RAM - Écran principal pliable 8'' + Écran secondaire 6.3'' - Nano-SIM + eSIM - 48 MP + 10.8 MP + 10.5 MP _ 10MP + 10MP - 4650 mAh.jpg",
-      "/telephone_accessoires/32/Google Pixel 9 Pro Fold - 256 Go - 16 Go RAM - Écran principal pliable 8'' + Écran secondaire 6.3'' - Nano-SIM + eSIM - 48 MP + 10.8 MP + 10.5 MP _ 10MP + 10MP - 4650 mAh (1).jpg",
-      "/telephone_accessoires/32/Google Pixel 9 Pro Fold - 256 Go - 16 Go RAM - Écran principal pliable 8'' + Écran secondaire 6.3'' - Nano-SIM + eSIM - 48 MP + 10.8 MP + 10.5 MP _ 10MP + 10MP - 4650 mAh (2).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/32/Google Pixel 9 Pro Fold - 256 Go - 16 Go RAM - Écran principal pliable 8'' + Écran secondaire 6.3'' - Nano-SIM + eSIM - 48 MP + 10.8 MP + 10.5 MP _ 10MP + 10MP - 4650 mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/32/Google Pixel 9 Pro Fold - 256 Go - 16 Go RAM - Écran principal pliable 8'' + Écran secondaire 6.3'' - Nano-SIM + eSIM - 48 MP + 10.8 MP + 10.5 MP _ 10MP + 10MP - 4650 mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/32/Google Pixel 9 Pro Fold - 256 Go - 16 Go RAM - Écran principal pliable 8'' + Écran secondaire 6.3'' - Nano-SIM + eSIM - 48 MP + 10.8 MP + 10.5 MP _ 10MP + 10MP - 4650 mAh (2).jpg"
     ]
   },
   {
@@ -1355,13 +1355,13 @@ export const telephone_accessoires = [
       "sim": "eSIM",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/33/Google Pixel 9a - 128 Go - 8 Go RAM - Écran P-OLED 6,3_ - Nano-SIM et eSIM - 48 MP + 13 MP _ 13 MP - 5100 mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/33/Google Pixel 9a - 128 Go - 8 Go RAM - Écran P-OLED 6,3_ - Nano-SIM et eSIM - 48 MP + 13 MP _ 13 MP - 5100 mAh.jpg",
     "images": [
-      "/telephone_accessoires/33/Google Pixel 9a - 128 Go - 8 Go RAM - Écran P-OLED 6,3_ - Nano-SIM et eSIM - 48 MP + 13 MP _ 13 MP - 5100 mAh.jpg",
-      "/telephone_accessoires/33/Google Pixel 9a - 128 Go - 8 Go RAM - Écran P-OLED 6,3_ - Nano-SIM et eSIM - 48 MP + 13 MP _ 13 MP - 5100 mAh (1).jpg",
-      "/telephone_accessoires/33/Google Pixel 9a - 128 Go - 8 Go RAM - Écran P-OLED 6,3_ - Nano-SIM et eSIM - 48 MP + 13 MP _ 13 MP - 5100 mAh (2).jpg",
-      "/telephone_accessoires/33/Google Pixel 9a - 128 Go - 8 Go RAM - Écran P-OLED 6,3_ - Nano-SIM et eSIM - 48 MP + 13 MP _ 13 MP - 5100 mAh (3).jpg",
-      "/telephone_accessoires/33/Google Pixel 9a - 128 Go - 8 Go RAM - Écran P-OLED 6,3_ - Nano-SIM et eSIM - 48 MP + 13 MP _ 13 MP - 5100 mAh (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/33/Google Pixel 9a - 128 Go - 8 Go RAM - Écran P-OLED 6,3_ - Nano-SIM et eSIM - 48 MP + 13 MP _ 13 MP - 5100 mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/33/Google Pixel 9a - 128 Go - 8 Go RAM - Écran P-OLED 6,3_ - Nano-SIM et eSIM - 48 MP + 13 MP _ 13 MP - 5100 mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/33/Google Pixel 9a - 128 Go - 8 Go RAM - Écran P-OLED 6,3_ - Nano-SIM et eSIM - 48 MP + 13 MP _ 13 MP - 5100 mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/33/Google Pixel 9a - 128 Go - 8 Go RAM - Écran P-OLED 6,3_ - Nano-SIM et eSIM - 48 MP + 13 MP _ 13 MP - 5100 mAh (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/33/Google Pixel 9a - 128 Go - 8 Go RAM - Écran P-OLED 6,3_ - Nano-SIM et eSIM - 48 MP + 13 MP _ 13 MP - 5100 mAh (4).jpg"
     ]
   },
   {
@@ -1395,12 +1395,12 @@ export const telephone_accessoires = [
       "camera_arriere": "50 MP",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/34/Google Pixel 9 Pro - 256 Go - 16 Go RAM - 50 MP + 48 MP + 48 MP _ 42 MP - 6.3'' LTPO OLED 120Hz - 4700 mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/34/Google Pixel 9 Pro - 256 Go - 16 Go RAM - 50 MP + 48 MP + 48 MP _ 42 MP - 6.3'' LTPO OLED 120Hz - 4700 mAh.jpg",
     "images": [
-      "/telephone_accessoires/34/Google Pixel 9 Pro - 256 Go - 16 Go RAM - 50 MP + 48 MP + 48 MP _ 42 MP - 6.3'' LTPO OLED 120Hz - 4700 mAh.jpg",
-      "/telephone_accessoires/34/Google Pixel 9 Pro - 256 Go - 16 Go RAM - 50 MP + 48 MP + 48 MP _ 42 MP - 6.3'' LTPO OLED 120Hz - 4700 mAh (1).jpg",
-      "/telephone_accessoires/34/Google Pixel 9 Pro - 256 Go - 16 Go RAM - 50 MP + 48 MP + 48 MP _ 42 MP - 6.3'' LTPO OLED 120Hz - 4700 mAh (2).jpg",
-      "/telephone_accessoires/34/Google Pixel 9 Pro - 256 Go - 16 Go RAM - 50 MP + 48 MP + 48 MP _ 42 MP - 6.3'' LTPO OLED 120Hz - 4700 mAh (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/34/Google Pixel 9 Pro - 256 Go - 16 Go RAM - 50 MP + 48 MP + 48 MP _ 42 MP - 6.3'' LTPO OLED 120Hz - 4700 mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/34/Google Pixel 9 Pro - 256 Go - 16 Go RAM - 50 MP + 48 MP + 48 MP _ 42 MP - 6.3'' LTPO OLED 120Hz - 4700 mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/34/Google Pixel 9 Pro - 256 Go - 16 Go RAM - 50 MP + 48 MP + 48 MP _ 42 MP - 6.3'' LTPO OLED 120Hz - 4700 mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/34/Google Pixel 9 Pro - 256 Go - 16 Go RAM - 50 MP + 48 MP + 48 MP _ 42 MP - 6.3'' LTPO OLED 120Hz - 4700 mAh (3).jpg"
     ]
   },
   {
@@ -1435,13 +1435,13 @@ export const telephone_accessoires = [
       "sim": "Nano-SIM + eSIM",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/35/Google Pixel 9 - 128 Go - 12 Go RAM - 1 Nano-SIM + eSIM - Écran OLED 6,3'' 120 Hz - 50 MP + 48 MP _ 10,5 MP - 4700 mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/35/Google Pixel 9 - 128 Go - 12 Go RAM - 1 Nano-SIM + eSIM - Écran OLED 6,3'' 120 Hz - 50 MP + 48 MP _ 10,5 MP - 4700 mAh.jpg",
     "images": [
-      "/telephone_accessoires/35/Google Pixel 9 - 128 Go - 12 Go RAM - 1 Nano-SIM + eSIM - Écran OLED 6,3'' 120 Hz - 50 MP + 48 MP _ 10,5 MP - 4700 mAh.jpg",
-      "/telephone_accessoires/35/Google Pixel 9 - 128 Go - 12 Go RAM - 1 Nano-SIM + eSIM - Écran OLED 6,3'' 120 Hz - 50 MP + 48 MP _ 10,5 MP - 4700 mAh (1).jpg",
-      "/telephone_accessoires/35/Google Pixel 9 - 128 Go - 12 Go RAM - 1 Nano-SIM + eSIM - Écran OLED 6,3'' 120 Hz - 50 MP + 48 MP _ 10,5 MP - 4700 mAh (2).jpg",
-      "/telephone_accessoires/35/Google Pixel 9 - 128 Go - 12 Go RAM - 1 Nano-SIM + eSIM - Écran OLED 6,3'' 120 Hz - 50 MP + 48 MP _ 10,5 MP - 4700 mAh (3).jpg",
-      "/telephone_accessoires/35/Google Pixel 9 - 128 Go - 12 Go RAM - 1 Nano-SIM + eSIM - Écran OLED 6,3'' 120 Hz - 50 MP + 48 MP _ 10,5 MP - 4700 mAh (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/35/Google Pixel 9 - 128 Go - 12 Go RAM - 1 Nano-SIM + eSIM - Écran OLED 6,3'' 120 Hz - 50 MP + 48 MP _ 10,5 MP - 4700 mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/35/Google Pixel 9 - 128 Go - 12 Go RAM - 1 Nano-SIM + eSIM - Écran OLED 6,3'' 120 Hz - 50 MP + 48 MP _ 10,5 MP - 4700 mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/35/Google Pixel 9 - 128 Go - 12 Go RAM - 1 Nano-SIM + eSIM - Écran OLED 6,3'' 120 Hz - 50 MP + 48 MP _ 10,5 MP - 4700 mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/35/Google Pixel 9 - 128 Go - 12 Go RAM - 1 Nano-SIM + eSIM - Écran OLED 6,3'' 120 Hz - 50 MP + 48 MP _ 10,5 MP - 4700 mAh (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/35/Google Pixel 9 - 128 Go - 12 Go RAM - 1 Nano-SIM + eSIM - Écran OLED 6,3'' 120 Hz - 50 MP + 48 MP _ 10,5 MP - 4700 mAh (4).jpg"
     ]
   },
   {
@@ -1476,12 +1476,12 @@ export const telephone_accessoires = [
       "sim": "eSIM",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/36/Google Pixel 9 Pro XL - 128 Go - 16 Go RAM - 6,8'' LTPO OLED 120Hz - 1 Nano-SIM et eSIM - 50 MP + 48 MP + 48 MP _ 42 MP - 5060 mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/36/Google Pixel 9 Pro XL - 128 Go - 16 Go RAM - 6,8'' LTPO OLED 120Hz - 1 Nano-SIM et eSIM - 50 MP + 48 MP + 48 MP _ 42 MP - 5060 mAh.jpg",
     "images": [
-      "/telephone_accessoires/36/Google Pixel 9 Pro XL - 128 Go - 16 Go RAM - 6,8'' LTPO OLED 120Hz - 1 Nano-SIM et eSIM - 50 MP + 48 MP + 48 MP _ 42 MP - 5060 mAh.jpg",
-      "/telephone_accessoires/36/Google Pixel 9 Pro XL - 128 Go - 16 Go RAM - 6,8'' LTPO OLED 120Hz - 1 Nano-SIM et eSIM - 50 MP + 48 MP + 48 MP _ 42 MP - 5060 mAh (1).jpg",
-      "/telephone_accessoires/36/Google Pixel 9 Pro XL - 128 Go - 16 Go RAM - 6,8'' LTPO OLED 120Hz - 1 Nano-SIM et eSIM - 50 MP + 48 MP + 48 MP _ 42 MP - 5060 mAh (2).jpg",
-      "/telephone_accessoires/36/Google Pixel 9 Pro XL - 128 Go - 16 Go RAM - 6,8'' LTPO OLED 120Hz - 1 Nano-SIM et eSIM - 50 MP + 48 MP + 48 MP _ 42 MP - 5060 mAh (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/36/Google Pixel 9 Pro XL - 128 Go - 16 Go RAM - 6,8'' LTPO OLED 120Hz - 1 Nano-SIM et eSIM - 50 MP + 48 MP + 48 MP _ 42 MP - 5060 mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/36/Google Pixel 9 Pro XL - 128 Go - 16 Go RAM - 6,8'' LTPO OLED 120Hz - 1 Nano-SIM et eSIM - 50 MP + 48 MP + 48 MP _ 42 MP - 5060 mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/36/Google Pixel 9 Pro XL - 128 Go - 16 Go RAM - 6,8'' LTPO OLED 120Hz - 1 Nano-SIM et eSIM - 50 MP + 48 MP + 48 MP _ 42 MP - 5060 mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/36/Google Pixel 9 Pro XL - 128 Go - 16 Go RAM - 6,8'' LTPO OLED 120Hz - 1 Nano-SIM et eSIM - 50 MP + 48 MP + 48 MP _ 42 MP - 5060 mAh (3).jpg"
     ]
   },
   {
@@ -1515,10 +1515,10 @@ export const telephone_accessoires = [
       "camera_arriere": "50 MP",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/37/Google Pixel 9 Pro - Ecran 6.3'' LTPO OLED 120Hz - 512Go _16Go RAM - 50 MP + 48 MP + 48 MP _ 42 MP - 4700 mAh_.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/37/Google Pixel 9 Pro - Ecran 6.3'' LTPO OLED 120Hz - 512Go _16Go RAM - 50 MP + 48 MP + 48 MP _ 42 MP - 4700 mAh_.jpg",
     "images": [
-      "/telephone_accessoires/37/Google Pixel 9 Pro - Ecran 6.3'' LTPO OLED 120Hz - 512Go _16Go RAM - 50 MP + 48 MP + 48 MP _ 42 MP - 4700 mAh_.jpg",
-      "/telephone_accessoires/37/Google Pixel 9 Pro - Ecran 6.3'' LTPO OLED 120Hz - 512Go _16Go RAM - 50 MP + 48 MP + 48 MP _ 42 MP - 4700 mAh_ (1).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/37/Google Pixel 9 Pro - Ecran 6.3'' LTPO OLED 120Hz - 512Go _16Go RAM - 50 MP + 48 MP + 48 MP _ 42 MP - 4700 mAh_.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/37/Google Pixel 9 Pro - Ecran 6.3'' LTPO OLED 120Hz - 512Go _16Go RAM - 50 MP + 48 MP + 48 MP _ 42 MP - 4700 mAh_ (1).jpg"
     ]
   },
   {
@@ -1555,12 +1555,12 @@ export const telephone_accessoires = [
       "connectivite": "5G",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/38/Google Pixel 8a 5G - 256 Go - 8 Go RAM - 6.1_ - 64MP+13MP_13MP - Nano SIM + eSIM - 4492 mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/38/Google Pixel 8a 5G - 256 Go - 8 Go RAM - 6.1_ - 64MP+13MP_13MP - Nano SIM + eSIM - 4492 mAh.jpg",
     "images": [
-      "/telephone_accessoires/38/Google Pixel 8a 5G - 256 Go - 8 Go RAM - 6.1_ - 64MP+13MP_13MP - Nano SIM + eSIM - 4492 mAh.jpg",
-      "/telephone_accessoires/38/Google Pixel 8a 5G - 256 Go - 8 Go RAM - 6.1_ - 64MP+13MP_13MP - Nano SIM + eSIM - 4492 mAh (1).jpg",
-      "/telephone_accessoires/38/Google Pixel 8a 5G - 256 Go - 8 Go RAM - 6.1_ - 64MP+13MP_13MP - Nano SIM + eSIM - 4492 mAh (2).jpg",
-      "/telephone_accessoires/38/Google Pixel 8a 5G - 256 Go - 8 Go RAM - 6.1_ - 64MP+13MP_13MP - Nano SIM + eSIM - 4492 mAh (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/38/Google Pixel 8a 5G - 256 Go - 8 Go RAM - 6.1_ - 64MP+13MP_13MP - Nano SIM + eSIM - 4492 mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/38/Google Pixel 8a 5G - 256 Go - 8 Go RAM - 6.1_ - 64MP+13MP_13MP - Nano SIM + eSIM - 4492 mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/38/Google Pixel 8a 5G - 256 Go - 8 Go RAM - 6.1_ - 64MP+13MP_13MP - Nano SIM + eSIM - 4492 mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/38/Google Pixel 8a 5G - 256 Go - 8 Go RAM - 6.1_ - 64MP+13MP_13MP - Nano SIM + eSIM - 4492 mAh (3).jpg"
     ]
   },
   {
@@ -1597,13 +1597,13 @@ export const telephone_accessoires = [
       "connectivite": "5G",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/39/Google Pixel 8a 5G - 128 Go - 8 Go RAM - 6.1_ - 64MP+13MP_13MP - Nano SIM + eSIM - 4492 mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/39/Google Pixel 8a 5G - 128 Go - 8 Go RAM - 6.1_ - 64MP+13MP_13MP - Nano SIM + eSIM - 4492 mAh.jpg",
     "images": [
-      "/telephone_accessoires/39/Google Pixel 8a 5G - 128 Go - 8 Go RAM - 6.1_ - 64MP+13MP_13MP - Nano SIM + eSIM - 4492 mAh.jpg",
-      "/telephone_accessoires/39/Google Pixel 8a 5G - 128 Go - 8 Go RAM - 6.1_ - 64MP+13MP_13MP - Nano SIM + eSIM - 4492 mAh (1).jpg",
-      "/telephone_accessoires/39/Google Pixel 8a 5G - 128 Go - 8 Go RAM - 6.1_ - 64MP+13MP_13MP - Nano SIM + eSIM - 4492 mAh (2).jpg",
-      "/telephone_accessoires/39/Google Pixel 8a 5G - 128 Go - 8 Go RAM - 6.1_ - 64MP+13MP_13MP - Nano SIM + eSIM - 4492 mAh (3).jpg",
-      "/telephone_accessoires/39/Google Pixel 8a 5G - 128 Go - 8 Go RAM - 6.1_ - 64MP+13MP_13MP - Nano SIM + eSIM - 4492 mAh (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/39/Google Pixel 8a 5G - 128 Go - 8 Go RAM - 6.1_ - 64MP+13MP_13MP - Nano SIM + eSIM - 4492 mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/39/Google Pixel 8a 5G - 128 Go - 8 Go RAM - 6.1_ - 64MP+13MP_13MP - Nano SIM + eSIM - 4492 mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/39/Google Pixel 8a 5G - 128 Go - 8 Go RAM - 6.1_ - 64MP+13MP_13MP - Nano SIM + eSIM - 4492 mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/39/Google Pixel 8a 5G - 128 Go - 8 Go RAM - 6.1_ - 64MP+13MP_13MP - Nano SIM + eSIM - 4492 mAh (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/39/Google Pixel 8a 5G - 128 Go - 8 Go RAM - 6.1_ - 64MP+13MP_13MP - Nano SIM + eSIM - 4492 mAh (4).jpg"
     ]
   },
   {
@@ -1638,13 +1638,13 @@ export const telephone_accessoires = [
       "connectivite": "5G",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/40/Google Pixel 8 Pro 5G - 1To - 12Go - 6.7_ - 50MP+48MP+48MP_10.8MP - Nano SIM + eSIM - 5050 mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/40/Google Pixel 8 Pro 5G - 1To - 12Go - 6.7_ - 50MP+48MP+48MP_10.8MP - Nano SIM + eSIM - 5050 mAh.jpg",
     "images": [
-      "/telephone_accessoires/40/Google Pixel 8 Pro 5G - 1To - 12Go - 6.7_ - 50MP+48MP+48MP_10.8MP - Nano SIM + eSIM - 5050 mAh.jpg",
-      "/telephone_accessoires/40/Google Pixel 8 Pro 5G - 1To - 12Go - 6.7_ - 50MP+48MP+48MP_10.8MP - Nano SIM + eSIM - 5050 mAh (1).jpg",
-      "/telephone_accessoires/40/Google Pixel 8 Pro 5G - 1To - 12Go - 6.7_ - 50MP+48MP+48MP_10.8MP - Nano SIM + eSIM - 5050 mAh (2).jpg",
-      "/telephone_accessoires/40/Google Pixel 8 Pro 5G - 1To - 12Go - 6.7_ - 50MP+48MP+48MP_10.8MP - Nano SIM + eSIM - 5050 mAh (3).jpg",
-      "/telephone_accessoires/40/Google Pixel 8 Pro 5G - 1To - 12Go - 6.7_ - 50MP+48MP+48MP_10.8MP - Nano SIM + eSIM - 5050 mAh (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/40/Google Pixel 8 Pro 5G - 1To - 12Go - 6.7_ - 50MP+48MP+48MP_10.8MP - Nano SIM + eSIM - 5050 mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/40/Google Pixel 8 Pro 5G - 1To - 12Go - 6.7_ - 50MP+48MP+48MP_10.8MP - Nano SIM + eSIM - 5050 mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/40/Google Pixel 8 Pro 5G - 1To - 12Go - 6.7_ - 50MP+48MP+48MP_10.8MP - Nano SIM + eSIM - 5050 mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/40/Google Pixel 8 Pro 5G - 1To - 12Go - 6.7_ - 50MP+48MP+48MP_10.8MP - Nano SIM + eSIM - 5050 mAh (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/40/Google Pixel 8 Pro 5G - 1To - 12Go - 6.7_ - 50MP+48MP+48MP_10.8MP - Nano SIM + eSIM - 5050 mAh (4).jpg"
     ]
   },
   {
@@ -1680,12 +1680,12 @@ export const telephone_accessoires = [
       "connectivite": "5G",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/41/Google Pixel 8 5G - 256 Go_8Go RAM - 6.2_ - 50MP+12MP_10.5MP - Nano-SIM+eSIM - 4575 mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/41/Google Pixel 8 5G - 256 Go_8Go RAM - 6.2_ - 50MP+12MP_10.5MP - Nano-SIM+eSIM - 4575 mAh.jpg",
     "images": [
-      "/telephone_accessoires/41/Google Pixel 8 5G - 256 Go_8Go RAM - 6.2_ - 50MP+12MP_10.5MP - Nano-SIM+eSIM - 4575 mAh.jpg",
-      "/telephone_accessoires/41/Google Pixel 8 5G - 256 Go_8Go RAM - 6.2_ - 50MP+12MP_10.5MP - Nano-SIM+eSIM - 4575 mAh (1).jpg",
-      "/telephone_accessoires/41/Google Pixel 8 5G - 256 Go_8Go RAM - 6.2_ - 50MP+12MP_10.5MP - Nano-SIM+eSIM - 4575 mAh (2).jpg",
-      "/telephone_accessoires/41/Google Pixel 8 5G - 256 Go_8Go RAM - 6.2_ - 50MP+12MP_10.5MP - Nano-SIM+eSIM - 4575 mAh (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/41/Google Pixel 8 5G - 256 Go_8Go RAM - 6.2_ - 50MP+12MP_10.5MP - Nano-SIM+eSIM - 4575 mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/41/Google Pixel 8 5G - 256 Go_8Go RAM - 6.2_ - 50MP+12MP_10.5MP - Nano-SIM+eSIM - 4575 mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/41/Google Pixel 8 5G - 256 Go_8Go RAM - 6.2_ - 50MP+12MP_10.5MP - Nano-SIM+eSIM - 4575 mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/41/Google Pixel 8 5G - 256 Go_8Go RAM - 6.2_ - 50MP+12MP_10.5MP - Nano-SIM+eSIM - 4575 mAh (3).jpg"
     ]
   },
   {
@@ -1721,12 +1721,12 @@ export const telephone_accessoires = [
       "sim": "eSIM",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/42/Google Pixel Fold - 512 Go_12Go RAM - 7,6_ - 1 Nano SIM + eSIM - 48MP+10.8MP + 10.8MP _8MP + 9.5MP - 4821mAh.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/42/Google Pixel Fold - 512 Go_12Go RAM - 7,6_ - 1 Nano SIM + eSIM - 48MP+10.8MP + 10.8MP _8MP + 9.5MP - 4821mAh.jpg",
     "images": [
-      "/telephone_accessoires/42/Google Pixel Fold - 512 Go_12Go RAM - 7,6_ - 1 Nano SIM + eSIM - 48MP+10.8MP + 10.8MP _8MP + 9.5MP - 4821mAh.jpg",
-      "/telephone_accessoires/42/Google Pixel Fold - 512 Go_12Go RAM - 7,6_ - 1 Nano SIM + eSIM - 48MP+10.8MP + 10.8MP _8MP + 9.5MP - 4821mAh (1).jpg",
-      "/telephone_accessoires/42/Google Pixel Fold - 512 Go_12Go RAM - 7,6_ - 1 Nano SIM + eSIM - 48MP+10.8MP + 10.8MP _8MP + 9.5MP - 4821mAh (2).jpg",
-      "/telephone_accessoires/42/Google Pixel Fold - 512 Go_12Go RAM - 7,6_ - 1 Nano SIM + eSIM - 48MP+10.8MP + 10.8MP _8MP + 9.5MP - 4821mAh (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/42/Google Pixel Fold - 512 Go_12Go RAM - 7,6_ - 1 Nano SIM + eSIM - 48MP+10.8MP + 10.8MP _8MP + 9.5MP - 4821mAh.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/42/Google Pixel Fold - 512 Go_12Go RAM - 7,6_ - 1 Nano SIM + eSIM - 48MP+10.8MP + 10.8MP _8MP + 9.5MP - 4821mAh (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/42/Google Pixel Fold - 512 Go_12Go RAM - 7,6_ - 1 Nano SIM + eSIM - 48MP+10.8MP + 10.8MP _8MP + 9.5MP - 4821mAh (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/42/Google Pixel Fold - 512 Go_12Go RAM - 7,6_ - 1 Nano SIM + eSIM - 48MP+10.8MP + 10.8MP _8MP + 9.5MP - 4821mAh (3).jpg"
     ]
   },
   {
@@ -1762,9 +1762,9 @@ export const telephone_accessoires = [
       "sim": "eSIM",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/43/Google pixel 4A - 5.81_ OLED - 128 Go_6Go RAM - ( Nano-SIM et eSIM ) - 12.2MP_8MP - 3140mAh_.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/43/Google pixel 4A - 5.81_ OLED - 128 Go_6Go RAM - ( Nano-SIM et eSIM ) - 12.2MP_8MP - 3140mAh_.jpg",
     "images": [
-      "/telephone_accessoires/43/Google pixel 4A - 5.81_ OLED - 128 Go_6Go RAM - ( Nano-SIM et eSIM ) - 12.2MP_8MP - 3140mAh_.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/43/Google pixel 4A - 5.81_ OLED - 128 Go_6Go RAM - ( Nano-SIM et eSIM ) - 12.2MP_8MP - 3140mAh_.jpg"
     ]
   },
   {
@@ -1800,11 +1800,11 @@ export const telephone_accessoires = [
       "sim": "eSIM",
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/44/Google Pixel 5 - 6_ - 128 Go_8Go RAM - 12.2MP_8MP - (1Nano SIM + eSIM) - 4080mAh_.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/44/Google Pixel 5 - 6_ - 128 Go_8Go RAM - 12.2MP_8MP - (1Nano SIM + eSIM) - 4080mAh_.jpg",
     "images": [
-      "/telephone_accessoires/44/Google Pixel 5 - 6_ - 128 Go_8Go RAM - 12.2MP_8MP - (1Nano SIM + eSIM) - 4080mAh_.jpg",
-      "/telephone_accessoires/44/Google Pixel 5 - 6_ - 128 Go_8Go RAM - 12.2MP_8MP - (1Nano SIM + eSIM) - 4080mAh_ (1).jpg",
-      "/telephone_accessoires/44/Google Pixel 5 - 6_ - 128 Go_8Go RAM - 12.2MP_8MP - (1Nano SIM + eSIM) - 4080mAh_ (2).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/44/Google Pixel 5 - 6_ - 128 Go_8Go RAM - 12.2MP_8MP - (1Nano SIM + eSIM) - 4080mAh_.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/44/Google Pixel 5 - 6_ - 128 Go_8Go RAM - 12.2MP_8MP - (1Nano SIM + eSIM) - 4080mAh_ (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/44/Google Pixel 5 - 6_ - 128 Go_8Go RAM - 12.2MP_8MP - (1Nano SIM + eSIM) - 4080mAh_ (2).jpg"
     ]
   },
   {
@@ -1833,11 +1833,11 @@ export const telephone_accessoires = [
     ],
     "minOrder": 14,
     "specifications": {},
-    "image": "/telephone_accessoires/45/Coffret Montre Connectée TK701 Ultra 2 + Mini Speaker + Microphone Silver.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/45/Coffret Montre Connectée TK701 Ultra 2 + Mini Speaker + Microphone Silver.jpg",
     "images": [
-      "/telephone_accessoires/45/Coffret Montre Connectée TK701 Ultra 2 + Mini Speaker + Microphone Silver.jpg",
-      "/telephone_accessoires/45/Coffret Montre Connectée TK701 Ultra 2 + Mini Speaker + Microphone Silver (1).jpg",
-      "/telephone_accessoires/45/Coffret Montre Connectée TK701 Ultra 2 + Mini Speaker + Microphone Silver (2).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/45/Coffret Montre Connectée TK701 Ultra 2 + Mini Speaker + Microphone Silver.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/45/Coffret Montre Connectée TK701 Ultra 2 + Mini Speaker + Microphone Silver (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/45/Coffret Montre Connectée TK701 Ultra 2 + Mini Speaker + Microphone Silver (2).jpg"
     ]
   },
   {
@@ -1871,11 +1871,11 @@ export const telephone_accessoires = [
       "bluetooth": "Bluetooth 5.0",
       "compatibilite": "iOS & Android"
     },
-    "image": "/telephone_accessoires/46/Montre Connectée T800 Ultra - Ecran _ HD 1,99 pouces - Système d''exploitation _  Android, iOS - Connectivité _ Bluetooth 5.0 - Capacité de la batterie _ 320 mAh - Autonomie _ 7 à 15 jours - Type de batterie _ lith.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/46/Montre Connectée T800 Ultra - Ecran _ HD 1,99 pouces - Système d''exploitation _  Android, iOS - Connectivité _ Bluetooth 5.0 - Capacité de la batterie _ 320 mAh - Autonomie _ 7 à 15 jours - Type de batterie _ lith.jpg",
     "images": [
-      "/telephone_accessoires/46/Montre Connectée T800 Ultra - Ecran _ HD 1,99 pouces - Système d''exploitation _  Android, iOS - Connectivité _ Bluetooth 5.0 - Capacité de la batterie _ 320 mAh - Autonomie _ 7 à 15 jours - Type de batterie _ lith.jpg",
-      "/telephone_accessoires/46/Montre Connectée T800 Ultra - Ecran _ HD 1,99 pouces - Système d''exploitation _  Android, iOS - Connectivité _ Bluetooth 5.0 - Capacité de la batterie _ 320 mAh - Autonomie _ 7 à 15 jours - Type de batterie _  (1).jpg",
-      "/telephone_accessoires/46/Montre Connectée T800 Ultra - Ecran _ HD 1,99 pouces - Système d''exploitation _  Android, iOS - Connectivité _ Bluetooth 5.0 - Capacité de la batterie _ 320 mAh - Autonomie _ 7 à 15 jours - Type de batterie _  (2).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/46/Montre Connectée T800 Ultra - Ecran _ HD 1,99 pouces - Système d''exploitation _  Android, iOS - Connectivité _ Bluetooth 5.0 - Capacité de la batterie _ 320 mAh - Autonomie _ 7 à 15 jours - Type de batterie _ lith.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/46/Montre Connectée T800 Ultra - Ecran _ HD 1,99 pouces - Système d''exploitation _  Android, iOS - Connectivité _ Bluetooth 5.0 - Capacité de la batterie _ 320 mAh - Autonomie _ 7 à 15 jours - Type de batterie _  (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/46/Montre Connectée T800 Ultra - Ecran _ HD 1,99 pouces - Système d''exploitation _  Android, iOS - Connectivité _ Bluetooth 5.0 - Capacité de la batterie _ 320 mAh - Autonomie _ 7 à 15 jours - Type de batterie _  (2).jpg"
     ]
   },
   {
@@ -1904,10 +1904,10 @@ export const telephone_accessoires = [
     ],
     "minOrder": 19,
     "specifications": {},
-    "image": "/telephone_accessoires/47/Montre Connectée Ultra 7En1 + Ecouteur - Écran _ tactile TFT LCD interactif - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Ecouteur Sans Fil _  Technologie de connectivité _ Bluetooth 5.0 - Ca.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/47/Montre Connectée Ultra 7En1 + Ecouteur - Écran _ tactile TFT LCD interactif - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Ecouteur Sans Fil _  Technologie de connectivité _ Bluetooth 5.0 - Ca.jpg",
     "images": [
-      "/telephone_accessoires/47/Montre Connectée Ultra 7En1 + Ecouteur - Écran _ tactile TFT LCD interactif - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Ecouteur Sans Fil _  Technologie de connectivité _ Bluetooth 5.0 - Ca.jpg",
-      "/telephone_accessoires/47/Montre Connectée Ultra 7En1 + Ecouteur - Écran _ tactile TFT LCD interactif - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Ecouteur Sans Fil _  Technologie de connectivité _ Bluetooth 5.0  (1).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/47/Montre Connectée Ultra 7En1 + Ecouteur - Écran _ tactile TFT LCD interactif - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Ecouteur Sans Fil _  Technologie de connectivité _ Bluetooth 5.0 - Ca.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/47/Montre Connectée Ultra 7En1 + Ecouteur - Écran _ tactile TFT LCD interactif - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Ecouteur Sans Fil _  Technologie de connectivité _ Bluetooth 5.0  (1).jpg"
     ]
   },
   {
@@ -1936,14 +1936,14 @@ export const telephone_accessoires = [
     ],
     "minOrder": 11,
     "specifications": {},
-    "image": "/telephone_accessoires/48/Coffret Smartwatch H20 - Ecran _ 2,02_ HD - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Capacité de la batterie _ 320 mAh - Autonomie _ entre 1 et 2 jours - Autonomie de lecture et conversati.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/48/Coffret Smartwatch H20 - Ecran _ 2,02_ HD - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Capacité de la batterie _ 320 mAh - Autonomie _ entre 1 et 2 jours - Autonomie de lecture et conversati.jpg",
     "images": [
-      "/telephone_accessoires/48/Coffret Smartwatch H20 - Ecran _ 2,02_ HD - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Capacité de la batterie _ 320 mAh - Autonomie _ entre 1 et 2 jours - Autonomie de lecture et conversati.jpg",
-      "/telephone_accessoires/48/Coffret Smartwatch H20 - Ecran _ 2,02_ HD - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Capacité de la batterie _ 320 mAh - Autonomie _ entre 1 et 2 jours - Autonomie de lecture et conver (1).jpg",
-      "/telephone_accessoires/48/Coffret Smartwatch H20 - Ecran _ 2,02_ HD - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Capacité de la batterie _ 320 mAh - Autonomie _ entre 1 et 2 jours - Autonomie de lecture et conver (2).jpg",
-      "/telephone_accessoires/48/Coffret Smartwatch H20 - Ecran _ 2,02_ HD - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Capacité de la batterie _ 320 mAh - Autonomie _ entre 1 et 2 jours - Autonomie de lecture et conver (3).jpg",
-      "/telephone_accessoires/48/Coffret Smartwatch H20 - Ecran _ 2,02_ HD - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Capacité de la batterie _ 320 mAh - Autonomie _ entre 1 et 2 jours - Autonomie de lecture et conver (4).jpg",
-      "/telephone_accessoires/48/Coffret Smartwatch H20 - Ecran _ 2,02_ HD - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Capacité de la batterie _ 320 mAh - Autonomie _ entre 1 et 2 jours - Autonomie de lecture et conver (5).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/48/Coffret Smartwatch H20 - Ecran _ 2,02_ HD - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Capacité de la batterie _ 320 mAh - Autonomie _ entre 1 et 2 jours - Autonomie de lecture et conversati.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/48/Coffret Smartwatch H20 - Ecran _ 2,02_ HD - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Capacité de la batterie _ 320 mAh - Autonomie _ entre 1 et 2 jours - Autonomie de lecture et conver (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/48/Coffret Smartwatch H20 - Ecran _ 2,02_ HD - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Capacité de la batterie _ 320 mAh - Autonomie _ entre 1 et 2 jours - Autonomie de lecture et conver (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/48/Coffret Smartwatch H20 - Ecran _ 2,02_ HD - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Capacité de la batterie _ 320 mAh - Autonomie _ entre 1 et 2 jours - Autonomie de lecture et conver (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/48/Coffret Smartwatch H20 - Ecran _ 2,02_ HD - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Capacité de la batterie _ 320 mAh - Autonomie _ entre 1 et 2 jours - Autonomie de lecture et conver (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/48/Coffret Smartwatch H20 - Ecran _ 2,02_ HD - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Capacité de la batterie _ 320 mAh - Autonomie _ entre 1 et 2 jours - Autonomie de lecture et conver (5).jpg"
     ]
   },
   {
@@ -1972,16 +1972,16 @@ export const telephone_accessoires = [
     ],
     "minOrder": 9,
     "specifications": {},
-    "image": "/telephone_accessoires/49/Coffret Montre Connectée TK500 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Batterie_ lithium Polymère - Appels Bluetooth - Répondre et passer des appels .jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/49/Coffret Montre Connectée TK500 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Batterie_ lithium Polymère - Appels Bluetooth - Répondre et passer des appels .jpg",
     "images": [
-      "/telephone_accessoires/49/Coffret Montre Connectée TK500 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Batterie_ lithium Polymère - Appels Bluetooth - Répondre et passer des appels .jpg",
-      "/telephone_accessoires/49/Coffret Montre Connectée TK500 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Batterie_ lithium Polymère - Appels Bluetooth - Répondre et passer des app (1).jpg",
-      "/telephone_accessoires/49/Coffret Montre Connectée TK500 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Batterie_ lithium Polymère - Appels Bluetooth - Répondre et passer des app (2).jpg",
-      "/telephone_accessoires/49/Coffret Montre Connectée TK500 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Batterie_ lithium Polymère - Appels Bluetooth - Répondre et passer des app (3).jpg",
-      "/telephone_accessoires/49/Coffret Montre Connectée TK500 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Batterie_ lithium Polymère - Appels Bluetooth - Répondre et passer des app (4).jpg",
-      "/telephone_accessoires/49/Coffret Montre Connectée TK500 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Batterie_ lithium Polymère - Appels Bluetooth - Répondre et passer des app (5).jpg",
-      "/telephone_accessoires/49/Coffret Montre Connectée TK500 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Batterie_ lithium Polymère - Appels Bluetooth - Répondre et passer des app (6).jpg",
-      "/telephone_accessoires/49/Coffret Montre Connectée TK500 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Batterie_ lithium Polymère - Appels Bluetooth - Répondre et passer des app (7).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/49/Coffret Montre Connectée TK500 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Batterie_ lithium Polymère - Appels Bluetooth - Répondre et passer des appels .jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/49/Coffret Montre Connectée TK500 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Batterie_ lithium Polymère - Appels Bluetooth - Répondre et passer des app (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/49/Coffret Montre Connectée TK500 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Batterie_ lithium Polymère - Appels Bluetooth - Répondre et passer des app (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/49/Coffret Montre Connectée TK500 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Batterie_ lithium Polymère - Appels Bluetooth - Répondre et passer des app (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/49/Coffret Montre Connectée TK500 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Batterie_ lithium Polymère - Appels Bluetooth - Répondre et passer des app (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/49/Coffret Montre Connectée TK500 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Batterie_ lithium Polymère - Appels Bluetooth - Répondre et passer des app (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/49/Coffret Montre Connectée TK500 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Batterie_ lithium Polymère - Appels Bluetooth - Répondre et passer des app (6).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/49/Coffret Montre Connectée TK500 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Batterie_ lithium Polymère - Appels Bluetooth - Répondre et passer des app (7).jpg"
     ]
   },
   {
@@ -2010,13 +2010,13 @@ export const telephone_accessoires = [
     ],
     "minOrder": 18,
     "specifications": {},
-    "image": "/telephone_accessoires/50/Coffret Smartwatch TK600 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Autonomie _ entre 3 à 5 jours - Appels Bluetooth - Répondre et passer des appels dep.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/50/Coffret Smartwatch TK600 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Autonomie _ entre 3 à 5 jours - Appels Bluetooth - Répondre et passer des appels dep.jpg",
     "images": [
-      "/telephone_accessoires/50/Coffret Smartwatch TK600 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Autonomie _ entre 3 à 5 jours - Appels Bluetooth - Répondre et passer des appels dep.jpg",
-      "/telephone_accessoires/50/Coffret Smartwatch TK600 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Autonomie _ entre 3 à 5 jours - Appels Bluetooth - Répondre et passer des appels (1).jpg",
-      "/telephone_accessoires/50/Coffret Smartwatch TK600 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Autonomie _ entre 3 à 5 jours - Appels Bluetooth - Répondre et passer des appels (2).jpg",
-      "/telephone_accessoires/50/Coffret Smartwatch TK600 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Autonomie _ entre 3 à 5 jours - Appels Bluetooth - Répondre et passer des appels (3).jpg",
-      "/telephone_accessoires/50/Coffret Smartwatch TK600 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Autonomie _ entre 3 à 5 jours - Appels Bluetooth - Répondre et passer des appels (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/50/Coffret Smartwatch TK600 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Autonomie _ entre 3 à 5 jours - Appels Bluetooth - Répondre et passer des appels dep.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/50/Coffret Smartwatch TK600 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Autonomie _ entre 3 à 5 jours - Appels Bluetooth - Répondre et passer des appels (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/50/Coffret Smartwatch TK600 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Autonomie _ entre 3 à 5 jours - Appels Bluetooth - Répondre et passer des appels (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/50/Coffret Smartwatch TK600 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Autonomie _ entre 3 à 5 jours - Appels Bluetooth - Répondre et passer des appels (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/50/Coffret Smartwatch TK600 - Ecran _ 2,02_ HD (240×320 px) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth 4.0 - Autonomie _ entre 3 à 5 jours - Appels Bluetooth - Répondre et passer des appels (4).jpg"
     ]
   },
   {
@@ -2049,10 +2049,10 @@ export const telephone_accessoires = [
       "bluetooth": "Bluetooth",
       "compatibilite": "iOS & Android"
     },
-    "image": "/telephone_accessoires/51/Pack de Montre Connectée T99 - Ecran _ AMOLED 1.9 pouces HD IPS (240x 280 pixels) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Chargement magnétique - Contrôle de la musiques - Surveillance .jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/51/Pack de Montre Connectée T99 - Ecran _ AMOLED 1.9 pouces HD IPS (240x 280 pixels) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Chargement magnétique - Contrôle de la musiques - Surveillance .jpg",
     "images": [
-      "/telephone_accessoires/51/Pack de Montre Connectée T99 - Ecran _ AMOLED 1.9 pouces HD IPS (240x 280 pixels) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Chargement magnétique - Contrôle de la musiques - Surveillance .jpg",
-      "/telephone_accessoires/51/Pack de Montre Connectée T99 - Ecran _ AMOLED 1.9 pouces HD IPS (240x 280 pixels) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Chargement magnétique - Contrôle de la musiques - Surveilla (1).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/51/Pack de Montre Connectée T99 - Ecran _ AMOLED 1.9 pouces HD IPS (240x 280 pixels) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Chargement magnétique - Contrôle de la musiques - Surveillance .jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/51/Pack de Montre Connectée T99 - Ecran _ AMOLED 1.9 pouces HD IPS (240x 280 pixels) - Système d'exploitation _ Android, iOS - Connectivité _ Bluetooth - Chargement magnétique - Contrôle de la musiques - Surveilla (1).jpg"
     ]
   },
   {
@@ -2085,11 +2085,11 @@ export const telephone_accessoires = [
       "bluetooth": "Bluetooth",
       "compatibilite": "iOS & Android"
     },
-    "image": "/telephone_accessoires/52/Smart Watch M72 Max - Système d'exploitation _ Android, iOS - Connectivité  _ Bluetooth - Capacité de la batterie _ 380 mAh - Contrôlez les notifications du téléphone et l'appareil photo directement depuis la montr.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/52/Smart Watch M72 Max - Système d'exploitation _ Android, iOS - Connectivité  _ Bluetooth - Capacité de la batterie _ 380 mAh - Contrôlez les notifications du téléphone et l'appareil photo directement depuis la montr.jpg",
     "images": [
-      "/telephone_accessoires/52/Smart Watch M72 Max - Système d'exploitation _ Android, iOS - Connectivité  _ Bluetooth - Capacité de la batterie _ 380 mAh - Contrôlez les notifications du téléphone et l'appareil photo directement depuis la montr.jpg",
-      "/telephone_accessoires/52/Smart Watch M72 Max - Système d'exploitation _ Android, iOS - Connectivité  _ Bluetooth - Capacité de la batterie _ 380 mAh - Contrôlez les notifications du téléphone et l'appareil photo directement depuis la m (1).jpg",
-      "/telephone_accessoires/52/Smart Watch M72 Max - Système d'exploitation _ Android, iOS - Connectivité  _ Bluetooth - Capacité de la batterie _ 380 mAh - Contrôlez les notifications du téléphone et l'appareil photo directement depuis la m (2).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/52/Smart Watch M72 Max - Système d'exploitation _ Android, iOS - Connectivité  _ Bluetooth - Capacité de la batterie _ 380 mAh - Contrôlez les notifications du téléphone et l'appareil photo directement depuis la montr.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/52/Smart Watch M72 Max - Système d'exploitation _ Android, iOS - Connectivité  _ Bluetooth - Capacité de la batterie _ 380 mAh - Contrôlez les notifications du téléphone et l'appareil photo directement depuis la m (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/52/Smart Watch M72 Max - Système d'exploitation _ Android, iOS - Connectivité  _ Bluetooth - Capacité de la batterie _ 380 mAh - Contrôlez les notifications du téléphone et l'appareil photo directement depuis la m (2).jpg"
     ]
   },
   {
@@ -2121,12 +2121,12 @@ export const telephone_accessoires = [
       "bluetooth": "Bluetooth",
       "compatibilite": "iOS & Android"
     },
-    "image": "/telephone_accessoires/53/Montre Connectée Haino Teko T85 Max Noir  - Ecran _ 1.75 pouces - Connectivité_ Bluetooth - Système d''exploitation_ Android, iOS  - Mémoire _ 128 Mo - Méthode de charge _ sans fil - Taille de l'écran _ 1.75 Pouces.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/53/Montre Connectée Haino Teko T85 Max Noir  - Ecran _ 1.75 pouces - Connectivité_ Bluetooth - Système d''exploitation_ Android, iOS  - Mémoire _ 128 Mo - Méthode de charge _ sans fil - Taille de l'écran _ 1.75 Pouces.jpg",
     "images": [
-      "/telephone_accessoires/53/Montre Connectée Haino Teko T85 Max Noir  - Ecran _ 1.75 pouces - Connectivité_ Bluetooth - Système d''exploitation_ Android, iOS  - Mémoire _ 128 Mo - Méthode de charge _ sans fil - Taille de l'écran _ 1.75 Pouces.jpg",
-      "/telephone_accessoires/53/Montre Connectée Haino Teko T85 Max Noir  - Ecran _ 1.75 pouces - Connectivité_ Bluetooth - Système d''exploitation_ Android, iOS  - Mémoire _ 128 Mo - Méthode de charge _ sans fil - Taille de l'écran _ 1.75 Po (1).jpg",
-      "/telephone_accessoires/53/Montre Connectée Haino Teko T85 Max Noir  - Ecran _ 1.75 pouces - Connectivité_ Bluetooth - Système d''exploitation_ Android, iOS  - Mémoire _ 128 Mo - Méthode de charge _ sans fil - Taille de l'écran _ 1.75 Po (2).jpg",
-      "/telephone_accessoires/53/Montre Connectée Haino Teko T85 Max Noir  - Ecran _ 1.75 pouces - Connectivité_ Bluetooth - Système d''exploitation_ Android, iOS  - Mémoire _ 128 Mo - Méthode de charge _ sans fil - Taille de l'écran _ 1.75 Po (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/53/Montre Connectée Haino Teko T85 Max Noir  - Ecran _ 1.75 pouces - Connectivité_ Bluetooth - Système d''exploitation_ Android, iOS  - Mémoire _ 128 Mo - Méthode de charge _ sans fil - Taille de l'écran _ 1.75 Pouces.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/53/Montre Connectée Haino Teko T85 Max Noir  - Ecran _ 1.75 pouces - Connectivité_ Bluetooth - Système d''exploitation_ Android, iOS  - Mémoire _ 128 Mo - Méthode de charge _ sans fil - Taille de l'écran _ 1.75 Po (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/53/Montre Connectée Haino Teko T85 Max Noir  - Ecran _ 1.75 pouces - Connectivité_ Bluetooth - Système d''exploitation_ Android, iOS  - Mémoire _ 128 Mo - Méthode de charge _ sans fil - Taille de l'écran _ 1.75 Po (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/53/Montre Connectée Haino Teko T85 Max Noir  - Ecran _ 1.75 pouces - Connectivité_ Bluetooth - Système d''exploitation_ Android, iOS  - Mémoire _ 128 Mo - Méthode de charge _ sans fil - Taille de l'écran _ 1.75 Po (3).jpg"
     ]
   },
   {
@@ -2161,15 +2161,15 @@ export const telephone_accessoires = [
       "bluetooth": "Bluetooth",
       "compatibilite": "iOS & Android"
     },
-    "image": "/telephone_accessoires/54/Montre Connectée Smartbarry A56 Plus - Écran _ 2.02_ TFT - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Capacité de la batterie _ 380mAh - Autonomie _ 7-14 jours - Boîtier en Alliage de titane.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/54/Montre Connectée Smartbarry A56 Plus - Écran _ 2.02_ TFT - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Capacité de la batterie _ 380mAh - Autonomie _ 7-14 jours - Boîtier en Alliage de titane.jpg",
     "images": [
-      "/telephone_accessoires/54/Montre Connectée Smartbarry A56 Plus - Écran _ 2.02_ TFT - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Capacité de la batterie _ 380mAh - Autonomie _ 7-14 jours - Boîtier en Alliage de titane.jpg",
-      "/telephone_accessoires/54/Montre Connectée Smartbarry A56 Plus - Écran _ 2.02_ TFT - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Capacité de la batterie _ 380mAh - Autonomie _ 7-14 jours - Boîtier en Alliage de ti (1).jpg",
-      "/telephone_accessoires/54/Montre Connectée Smartbarry A56 Plus - Écran _ 2.02_ TFT - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Capacité de la batterie _ 380mAh - Autonomie _ 7-14 jours - Boîtier en Alliage de ti (2).jpg",
-      "/telephone_accessoires/54/Montre Connectée Smartbarry A56 Plus - Écran _ 2.02_ TFT - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Capacité de la batterie _ 380mAh - Autonomie _ 7-14 jours - Boîtier en Alliage de ti (3).jpg",
-      "/telephone_accessoires/54/Montre Connectée Smartbarry A56 Plus - Écran _ 2.02_ TFT - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Capacité de la batterie _ 380mAh - Autonomie _ 7-14 jours - Boîtier en Alliage de ti (4).jpg",
-      "/telephone_accessoires/54/Montre Connectée Smartbarry A56 Plus - Écran _ 2.02_ TFT - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Capacité de la batterie _ 380mAh - Autonomie _ 7-14 jours - Boîtier en Alliage de ti (5).jpg",
-      "/telephone_accessoires/54/Montre Connectée Smartbarry A56 Plus - Écran _ 2.02_ TFT - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Capacité de la batterie _ 380mAh - Autonomie _ 7-14 jours - Boîtier en Alliage de ti (6).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/54/Montre Connectée Smartbarry A56 Plus - Écran _ 2.02_ TFT - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Capacité de la batterie _ 380mAh - Autonomie _ 7-14 jours - Boîtier en Alliage de titane.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/54/Montre Connectée Smartbarry A56 Plus - Écran _ 2.02_ TFT - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Capacité de la batterie _ 380mAh - Autonomie _ 7-14 jours - Boîtier en Alliage de ti (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/54/Montre Connectée Smartbarry A56 Plus - Écran _ 2.02_ TFT - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Capacité de la batterie _ 380mAh - Autonomie _ 7-14 jours - Boîtier en Alliage de ti (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/54/Montre Connectée Smartbarry A56 Plus - Écran _ 2.02_ TFT - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Capacité de la batterie _ 380mAh - Autonomie _ 7-14 jours - Boîtier en Alliage de ti (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/54/Montre Connectée Smartbarry A56 Plus - Écran _ 2.02_ TFT - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Capacité de la batterie _ 380mAh - Autonomie _ 7-14 jours - Boîtier en Alliage de ti (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/54/Montre Connectée Smartbarry A56 Plus - Écran _ 2.02_ TFT - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Capacité de la batterie _ 380mAh - Autonomie _ 7-14 jours - Boîtier en Alliage de ti (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/54/Montre Connectée Smartbarry A56 Plus - Écran _ 2.02_ TFT - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Capacité de la batterie _ 380mAh - Autonomie _ 7-14 jours - Boîtier en Alliage de ti (6).jpg"
     ]
   },
   {
@@ -2202,11 +2202,11 @@ export const telephone_accessoires = [
       "bluetooth": "Bluetooth",
       "compatibilite": "iOS & Android"
     },
-    "image": "/telephone_accessoires/55/Montre Connectée Haino Teko GP 17 + Ecouteurs +Torche + Lunette - Écran _ HD - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Appel Bluetooth et notification intelligente - Moniteur de fréquence.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/55/Montre Connectée Haino Teko GP 17 + Ecouteurs +Torche + Lunette - Écran _ HD - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Appel Bluetooth et notification intelligente - Moniteur de fréquence.jpg",
     "images": [
-      "/telephone_accessoires/55/Montre Connectée Haino Teko GP 17 + Ecouteurs +Torche + Lunette - Écran _ HD - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Appel Bluetooth et notification intelligente - Moniteur de fréquence.jpg",
-      "/telephone_accessoires/55/Montre Connectée Haino Teko GP 17 + Ecouteurs +Torche + Lunette - Écran _ HD - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Appel Bluetooth et notification intelligente - Moniteur de fréqu (1).jpg",
-      "/telephone_accessoires/55/Montre Connectée Haino Teko GP 17 + Ecouteurs +Torche + Lunette - Écran _ HD - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Appel Bluetooth et notification intelligente - Moniteur de fréqu (2).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/55/Montre Connectée Haino Teko GP 17 + Ecouteurs +Torche + Lunette - Écran _ HD - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Appel Bluetooth et notification intelligente - Moniteur de fréquence.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/55/Montre Connectée Haino Teko GP 17 + Ecouteurs +Torche + Lunette - Écran _ HD - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Appel Bluetooth et notification intelligente - Moniteur de fréqu (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/55/Montre Connectée Haino Teko GP 17 + Ecouteurs +Torche + Lunette - Écran _ HD - Système d'exploitation _ Android, IOS - Connectivité _ Bluetooth - Appel Bluetooth et notification intelligente - Moniteur de fréqu (2).jpg"
     ]
   },
   {
@@ -2238,15 +2238,15 @@ export const telephone_accessoires = [
       "bluetooth": "Bluetooth",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/56/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mode ba.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/56/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mode ba.jpg",
     "images": [
-      "/telephone_accessoires/56/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mode ba.jpg",
-      "/telephone_accessoires/56/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mod (1).jpg",
-      "/telephone_accessoires/56/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mod (2).jpg",
-      "/telephone_accessoires/56/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mod (3).jpg",
-      "/telephone_accessoires/56/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mod (4).jpg",
-      "/telephone_accessoires/56/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mod (5).jpg",
-      "/telephone_accessoires/56/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mod (6).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/56/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mode ba.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/56/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mod (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/56/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mod (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/56/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mod (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/56/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mod (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/56/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mod (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/56/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mod (6).jpg"
     ]
   },
   {
@@ -2278,14 +2278,14 @@ export const telephone_accessoires = [
       "bluetooth": "Bluetooth",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/57/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mode ba.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/57/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mode ba.jpg",
     "images": [
-      "/telephone_accessoires/57/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mode ba.jpg",
-      "/telephone_accessoires/57/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mod (1).jpg",
-      "/telephone_accessoires/57/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mod (2).jpg",
-      "/telephone_accessoires/57/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mod (3).jpg",
-      "/telephone_accessoires/57/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mod (4).jpg",
-      "/telephone_accessoires/57/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mod (5).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/57/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mode ba.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/57/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mod (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/57/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mod (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/57/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mod (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/57/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mod (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/57/Haut Parleur Bluetooth JBL Boombox 3 - Puissance _ 1 subwoofer de 80 W RMS + 2 médiums de 40 W RMS + 2 tweeters de 10 W RMS (mode AC) 1 subwoofer de 60 W RMS + 2 médiums de 30 W RMS + 2 tweeters de 8 W RMS (mod (5).jpg"
     ]
   },
   {
@@ -2320,14 +2320,14 @@ export const telephone_accessoires = [
       "eclairage": "LED / RGB",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/58/__Haut Parleur Bluetooth ZQS12151 - Puissance _ 80W - Connectivité _ Bluetooth 5.3, USB, Aux, Carte mémoire - Interface _ USB, Aux - Réponse en fréquence _ 80Hz-20KHz - LED D'éclairage _ RVB - Avec commande + Micro.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/58/__Haut Parleur Bluetooth ZQS12151 - Puissance _ 80W - Connectivité _ Bluetooth 5.3, USB, Aux, Carte mémoire - Interface _ USB, Aux - Réponse en fréquence _ 80Hz-20KHz - LED D'éclairage _ RVB - Avec commande + Micro.jpg",
     "images": [
-      "/telephone_accessoires/58/__Haut Parleur Bluetooth ZQS12151 - Puissance _ 80W - Connectivité _ Bluetooth 5.3, USB, Aux, Carte mémoire - Interface _ USB, Aux - Réponse en fréquence _ 80Hz-20KHz - LED D'éclairage _ RVB - Avec commande + Micro.jpg",
-      "/telephone_accessoires/58/__Haut Parleur Bluetooth ZQS12151 - Puissance _ 80W - Connectivité _ Bluetooth 5.3, USB, Aux, Carte mémoire - Interface _ USB, Aux - Réponse en fréquence _ 80Hz-20KHz - LED D'éclairage _ RVB - Avec commande + M (1).jpg",
-      "/telephone_accessoires/58/__Haut Parleur Bluetooth ZQS12151 - Puissance _ 80W - Connectivité _ Bluetooth 5.3, USB, Aux, Carte mémoire - Interface _ USB, Aux - Réponse en fréquence _ 80Hz-20KHz - LED D'éclairage _ RVB - Avec commande + M (2).jpg",
-      "/telephone_accessoires/58/__Haut Parleur Bluetooth ZQS12151 - Puissance _ 80W - Connectivité _ Bluetooth 5.3, USB, Aux, Carte mémoire - Interface _ USB, Aux - Réponse en fréquence _ 80Hz-20KHz - LED D'éclairage _ RVB - Avec commande + M (3).jpg",
-      "/telephone_accessoires/58/__Haut Parleur Bluetooth ZQS12151 - Puissance _ 80W - Connectivité _ Bluetooth 5.3, USB, Aux, Carte mémoire - Interface _ USB, Aux - Réponse en fréquence _ 80Hz-20KHz - LED D'éclairage _ RVB - Avec commande + M (4).jpg",
-      "/telephone_accessoires/58/__Haut Parleur Bluetooth ZQS12151 - Puissance _ 80W - Connectivité _ Bluetooth 5.3, USB, Aux, Carte mémoire - Interface _ USB, Aux - Réponse en fréquence _ 80Hz-20KHz - LED D'éclairage _ RVB - Avec commande + M (5).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/58/__Haut Parleur Bluetooth ZQS12151 - Puissance _ 80W - Connectivité _ Bluetooth 5.3, USB, Aux, Carte mémoire - Interface _ USB, Aux - Réponse en fréquence _ 80Hz-20KHz - LED D'éclairage _ RVB - Avec commande + Micro.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/58/__Haut Parleur Bluetooth ZQS12151 - Puissance _ 80W - Connectivité _ Bluetooth 5.3, USB, Aux, Carte mémoire - Interface _ USB, Aux - Réponse en fréquence _ 80Hz-20KHz - LED D'éclairage _ RVB - Avec commande + M (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/58/__Haut Parleur Bluetooth ZQS12151 - Puissance _ 80W - Connectivité _ Bluetooth 5.3, USB, Aux, Carte mémoire - Interface _ USB, Aux - Réponse en fréquence _ 80Hz-20KHz - LED D'éclairage _ RVB - Avec commande + M (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/58/__Haut Parleur Bluetooth ZQS12151 - Puissance _ 80W - Connectivité _ Bluetooth 5.3, USB, Aux, Carte mémoire - Interface _ USB, Aux - Réponse en fréquence _ 80Hz-20KHz - LED D'éclairage _ RVB - Avec commande + M (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/58/__Haut Parleur Bluetooth ZQS12151 - Puissance _ 80W - Connectivité _ Bluetooth 5.3, USB, Aux, Carte mémoire - Interface _ USB, Aux - Réponse en fréquence _ 80Hz-20KHz - LED D'éclairage _ RVB - Avec commande + M (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/58/__Haut Parleur Bluetooth ZQS12151 - Puissance _ 80W - Connectivité _ Bluetooth 5.3, USB, Aux, Carte mémoire - Interface _ USB, Aux - Réponse en fréquence _ 80Hz-20KHz - LED D'éclairage _ RVB - Avec commande + M (5).jpg"
     ]
   },
   {
@@ -2361,16 +2361,16 @@ export const telephone_accessoires = [
       "interfaces": "AUX",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/59/Baffle JBL Intelligent Authentics 300  - Puissance _ 100 W - Connectivité _ Sans Fil ( Bluetooth 5.3)  - Autonomie _ 8 heures ( fonction du niveau du volume et du contenu audio) - Interfaces_ 1 x jack 3,5mm, Blueto.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/59/Baffle JBL Intelligent Authentics 300  - Puissance _ 100 W - Connectivité _ Sans Fil ( Bluetooth 5.3)  - Autonomie _ 8 heures ( fonction du niveau du volume et du contenu audio) - Interfaces_ 1 x jack 3,5mm, Blueto.jpg",
     "images": [
-      "/telephone_accessoires/59/Baffle JBL Intelligent Authentics 300  - Puissance _ 100 W - Connectivité _ Sans Fil ( Bluetooth 5.3)  - Autonomie _ 8 heures ( fonction du niveau du volume et du contenu audio) - Interfaces_ 1 x jack 3,5mm, Blueto.jpg",
-      "/telephone_accessoires/59/Baffle JBL Intelligent Authentics 300  - Puissance _ 100 W - Connectivité _ Sans Fil ( Bluetooth 5.3)  - Autonomie _ 8 heures ( fonction du niveau du volume et du contenu audio) - Interfaces_ 1 x jack 3,5mm, Bl (1).jpg",
-      "/telephone_accessoires/59/Baffle JBL Intelligent Authentics 300  - Puissance _ 100 W - Connectivité _ Sans Fil ( Bluetooth 5.3)  - Autonomie _ 8 heures ( fonction du niveau du volume et du contenu audio) - Interfaces_ 1 x jack 3,5mm, Bl (2).jpg",
-      "/telephone_accessoires/59/Baffle JBL Intelligent Authentics 300  - Puissance _ 100 W - Connectivité _ Sans Fil ( Bluetooth 5.3)  - Autonomie _ 8 heures ( fonction du niveau du volume et du contenu audio) - Interfaces_ 1 x jack 3,5mm, Bl (3).jpg",
-      "/telephone_accessoires/59/Baffle JBL Intelligent Authentics 300  - Puissance _ 100 W - Connectivité _ Sans Fil ( Bluetooth 5.3)  - Autonomie _ 8 heures ( fonction du niveau du volume et du contenu audio) - Interfaces_ 1 x jack 3,5mm, Bl (4).jpg",
-      "/telephone_accessoires/59/Baffle JBL Intelligent Authentics 300  - Puissance _ 100 W - Connectivité _ Sans Fil ( Bluetooth 5.3)  - Autonomie _ 8 heures ( fonction du niveau du volume et du contenu audio) - Interfaces_ 1 x jack 3,5mm, Bl (5).jpg",
-      "/telephone_accessoires/59/Baffle JBL Intelligent Authentics 300  - Puissance _ 100 W - Connectivité _ Sans Fil ( Bluetooth 5.3)  - Autonomie _ 8 heures ( fonction du niveau du volume et du contenu audio) - Interfaces_ 1 x jack 3,5mm, Bl (6).jpg",
-      "/telephone_accessoires/59/Baffle JBL Intelligent Authentics 300  - Puissance _ 100 W - Connectivité _ Sans Fil ( Bluetooth 5.3)  - Autonomie _ 8 heures ( fonction du niveau du volume et du contenu audio) - Interfaces_ 1 x jack 3,5mm, Bl (7).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/59/Baffle JBL Intelligent Authentics 300  - Puissance _ 100 W - Connectivité _ Sans Fil ( Bluetooth 5.3)  - Autonomie _ 8 heures ( fonction du niveau du volume et du contenu audio) - Interfaces_ 1 x jack 3,5mm, Blueto.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/59/Baffle JBL Intelligent Authentics 300  - Puissance _ 100 W - Connectivité _ Sans Fil ( Bluetooth 5.3)  - Autonomie _ 8 heures ( fonction du niveau du volume et du contenu audio) - Interfaces_ 1 x jack 3,5mm, Bl (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/59/Baffle JBL Intelligent Authentics 300  - Puissance _ 100 W - Connectivité _ Sans Fil ( Bluetooth 5.3)  - Autonomie _ 8 heures ( fonction du niveau du volume et du contenu audio) - Interfaces_ 1 x jack 3,5mm, Bl (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/59/Baffle JBL Intelligent Authentics 300  - Puissance _ 100 W - Connectivité _ Sans Fil ( Bluetooth 5.3)  - Autonomie _ 8 heures ( fonction du niveau du volume et du contenu audio) - Interfaces_ 1 x jack 3,5mm, Bl (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/59/Baffle JBL Intelligent Authentics 300  - Puissance _ 100 W - Connectivité _ Sans Fil ( Bluetooth 5.3)  - Autonomie _ 8 heures ( fonction du niveau du volume et du contenu audio) - Interfaces_ 1 x jack 3,5mm, Bl (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/59/Baffle JBL Intelligent Authentics 300  - Puissance _ 100 W - Connectivité _ Sans Fil ( Bluetooth 5.3)  - Autonomie _ 8 heures ( fonction du niveau du volume et du contenu audio) - Interfaces_ 1 x jack 3,5mm, Bl (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/59/Baffle JBL Intelligent Authentics 300  - Puissance _ 100 W - Connectivité _ Sans Fil ( Bluetooth 5.3)  - Autonomie _ 8 heures ( fonction du niveau du volume et du contenu audio) - Interfaces_ 1 x jack 3,5mm, Bl (6).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/59/Baffle JBL Intelligent Authentics 300  - Puissance _ 100 W - Connectivité _ Sans Fil ( Bluetooth 5.3)  - Autonomie _ 8 heures ( fonction du niveau du volume et du contenu audio) - Interfaces_ 1 x jack 3,5mm, Bl (7).jpg"
     ]
   },
   {
@@ -2404,13 +2404,13 @@ export const telephone_accessoires = [
       "bluetooth": "Bluetooth 5.3",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/60/Enceinte Portable JBL Pulse 5  - Puissance_ 30 W RMS pour Woofer, 10 W RMS pour Tweeter - Connectivité_ Bluetooth 5.3 - Autonomie _ 12 heures -  Réponse en fréquence_ 58 Hz - 20 kHz (axiale, -6 dB ) - Batterie rech.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/60/Enceinte Portable JBL Pulse 5  - Puissance_ 30 W RMS pour Woofer, 10 W RMS pour Tweeter - Connectivité_ Bluetooth 5.3 - Autonomie _ 12 heures -  Réponse en fréquence_ 58 Hz - 20 kHz (axiale, -6 dB ) - Batterie rech.jpg",
     "images": [
-      "/telephone_accessoires/60/Enceinte Portable JBL Pulse 5  - Puissance_ 30 W RMS pour Woofer, 10 W RMS pour Tweeter - Connectivité_ Bluetooth 5.3 - Autonomie _ 12 heures -  Réponse en fréquence_ 58 Hz - 20 kHz (axiale, -6 dB ) - Batterie rech.jpg",
-      "/telephone_accessoires/60/Enceinte Portable JBL Pulse 5  - Puissance_ 30 W RMS pour Woofer, 10 W RMS pour Tweeter - Connectivité_ Bluetooth 5.3 - Autonomie _ 12 heures -  Réponse en fréquence_ 58 Hz - 20 kHz (axiale, -6 dB ) - Batterie  (1).jpg",
-      "/telephone_accessoires/60/Enceinte Portable JBL Pulse 5  - Puissance_ 30 W RMS pour Woofer, 10 W RMS pour Tweeter - Connectivité_ Bluetooth 5.3 - Autonomie _ 12 heures -  Réponse en fréquence_ 58 Hz - 20 kHz (axiale, -6 dB ) - Batterie  (2).jpg",
-      "/telephone_accessoires/60/Enceinte Portable JBL Pulse 5  - Puissance_ 30 W RMS pour Woofer, 10 W RMS pour Tweeter - Connectivité_ Bluetooth 5.3 - Autonomie _ 12 heures -  Réponse en fréquence_ 58 Hz - 20 kHz (axiale, -6 dB ) - Batterie  (3).jpg",
-      "/telephone_accessoires/60/Enceinte Portable JBL Pulse 5  - Puissance_ 30 W RMS pour Woofer, 10 W RMS pour Tweeter - Connectivité_ Bluetooth 5.3 - Autonomie _ 12 heures -  Réponse en fréquence_ 58 Hz - 20 kHz (axiale, -6 dB ) - Batterie  (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/60/Enceinte Portable JBL Pulse 5  - Puissance_ 30 W RMS pour Woofer, 10 W RMS pour Tweeter - Connectivité_ Bluetooth 5.3 - Autonomie _ 12 heures -  Réponse en fréquence_ 58 Hz - 20 kHz (axiale, -6 dB ) - Batterie rech.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/60/Enceinte Portable JBL Pulse 5  - Puissance_ 30 W RMS pour Woofer, 10 W RMS pour Tweeter - Connectivité_ Bluetooth 5.3 - Autonomie _ 12 heures -  Réponse en fréquence_ 58 Hz - 20 kHz (axiale, -6 dB ) - Batterie  (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/60/Enceinte Portable JBL Pulse 5  - Puissance_ 30 W RMS pour Woofer, 10 W RMS pour Tweeter - Connectivité_ Bluetooth 5.3 - Autonomie _ 12 heures -  Réponse en fréquence_ 58 Hz - 20 kHz (axiale, -6 dB ) - Batterie  (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/60/Enceinte Portable JBL Pulse 5  - Puissance_ 30 W RMS pour Woofer, 10 W RMS pour Tweeter - Connectivité_ Bluetooth 5.3 - Autonomie _ 12 heures -  Réponse en fréquence_ 58 Hz - 20 kHz (axiale, -6 dB ) - Batterie  (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/60/Enceinte Portable JBL Pulse 5  - Puissance_ 30 W RMS pour Woofer, 10 W RMS pour Tweeter - Connectivité_ Bluetooth 5.3 - Autonomie _ 12 heures -  Réponse en fréquence_ 58 Hz - 20 kHz (axiale, -6 dB ) - Batterie  (4).jpg"
     ]
   },
   {
@@ -2444,13 +2444,13 @@ export const telephone_accessoires = [
       "batterie": "1500 mAh",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/61/Haut Parleur Bluetooth Traxdata TRX-22 - Puissance _ 40 Watts - Connectivité _ Sans Fil (Bluetooth) - Capacité de la Batterie _ lithium 1500 mAh -  Micro filaire - Taille de l'unité_ 2 x 4 - Puissance Audiot_ 40 Wa.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/61/Haut Parleur Bluetooth Traxdata TRX-22 - Puissance _ 40 Watts - Connectivité _ Sans Fil (Bluetooth) - Capacité de la Batterie _ lithium 1500 mAh -  Micro filaire - Taille de l'unité_ 2 x 4 - Puissance Audiot_ 40 Wa.jpg",
     "images": [
-      "/telephone_accessoires/61/Haut Parleur Bluetooth Traxdata TRX-22 - Puissance _ 40 Watts - Connectivité _ Sans Fil (Bluetooth) - Capacité de la Batterie _ lithium 1500 mAh -  Micro filaire - Taille de l'unité_ 2 x 4 - Puissance Audiot_ 40 Wa.jpg",
-      "/telephone_accessoires/61/Haut Parleur Bluetooth Traxdata TRX-22 - Puissance _ 40 Watts - Connectivité _ Sans Fil (Bluetooth) - Capacité de la Batterie _ lithium 1500 mAh -  Micro filaire - Taille de l'unité_ 2 x 4 - Puissance Audiot_ 4 (1).jpg",
-      "/telephone_accessoires/61/Haut Parleur Bluetooth Traxdata TRX-22 - Puissance _ 40 Watts - Connectivité _ Sans Fil (Bluetooth) - Capacité de la Batterie _ lithium 1500 mAh -  Micro filaire - Taille de l'unité_ 2 x 4 - Puissance Audiot_ 4 (2).jpg",
-      "/telephone_accessoires/61/Haut Parleur Bluetooth Traxdata TRX-22 - Puissance _ 40 Watts - Connectivité _ Sans Fil (Bluetooth) - Capacité de la Batterie _ lithium 1500 mAh -  Micro filaire - Taille de l'unité_ 2 x 4 - Puissance Audiot_ 4 (3).jpg",
-      "/telephone_accessoires/61/Haut Parleur Bluetooth Traxdata TRX-22 - Puissance _ 40 Watts - Connectivité _ Sans Fil (Bluetooth) - Capacité de la Batterie _ lithium 1500 mAh -  Micro filaire - Taille de l'unité_ 2 x 4 - Puissance Audiot_ 4 (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/61/Haut Parleur Bluetooth Traxdata TRX-22 - Puissance _ 40 Watts - Connectivité _ Sans Fil (Bluetooth) - Capacité de la Batterie _ lithium 1500 mAh -  Micro filaire - Taille de l'unité_ 2 x 4 - Puissance Audiot_ 40 Wa.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/61/Haut Parleur Bluetooth Traxdata TRX-22 - Puissance _ 40 Watts - Connectivité _ Sans Fil (Bluetooth) - Capacité de la Batterie _ lithium 1500 mAh -  Micro filaire - Taille de l'unité_ 2 x 4 - Puissance Audiot_ 4 (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/61/Haut Parleur Bluetooth Traxdata TRX-22 - Puissance _ 40 Watts - Connectivité _ Sans Fil (Bluetooth) - Capacité de la Batterie _ lithium 1500 mAh -  Micro filaire - Taille de l'unité_ 2 x 4 - Puissance Audiot_ 4 (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/61/Haut Parleur Bluetooth Traxdata TRX-22 - Puissance _ 40 Watts - Connectivité _ Sans Fil (Bluetooth) - Capacité de la Batterie _ lithium 1500 mAh -  Micro filaire - Taille de l'unité_ 2 x 4 - Puissance Audiot_ 4 (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/61/Haut Parleur Bluetooth Traxdata TRX-22 - Puissance _ 40 Watts - Connectivité _ Sans Fil (Bluetooth) - Capacité de la Batterie _ lithium 1500 mAh -  Micro filaire - Taille de l'unité_ 2 x 4 - Puissance Audiot_ 4 (4).jpg"
     ]
   },
   {
@@ -2485,13 +2485,13 @@ export const telephone_accessoires = [
       "interfaces": "USB",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/62/Haut Parleur Bluetooth Traxdata TRX-50 - Puissance _ 60 W - Connectivité _ Bluetooth - Capacité de la batterie _ 2400mAh Lithium - Batterie 3,7V - Interface _ USB - Taille de l'unité _2 x 6.5_ - Enceinte karaoké po.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/62/Haut Parleur Bluetooth Traxdata TRX-50 - Puissance _ 60 W - Connectivité _ Bluetooth - Capacité de la batterie _ 2400mAh Lithium - Batterie 3,7V - Interface _ USB - Taille de l'unité _2 x 6.5_ - Enceinte karaoké po.jpg",
     "images": [
-      "/telephone_accessoires/62/Haut Parleur Bluetooth Traxdata TRX-50 - Puissance _ 60 W - Connectivité _ Bluetooth - Capacité de la batterie _ 2400mAh Lithium - Batterie 3,7V - Interface _ USB - Taille de l'unité _2 x 6.5_ - Enceinte karaoké po.jpg",
-      "/telephone_accessoires/62/Haut Parleur Bluetooth Traxdata TRX-50 - Puissance _ 60 W - Connectivité _ Bluetooth - Capacité de la batterie _ 2400mAh Lithium - Batterie 3,7V - Interface _ USB - Taille de l'unité _2 x 6.5_ - Enceinte karaok (1).jpg",
-      "/telephone_accessoires/62/Haut Parleur Bluetooth Traxdata TRX-50 - Puissance _ 60 W - Connectivité _ Bluetooth - Capacité de la batterie _ 2400mAh Lithium - Batterie 3,7V - Interface _ USB - Taille de l'unité _2 x 6.5_ - Enceinte karaok (2).jpg",
-      "/telephone_accessoires/62/Haut Parleur Bluetooth Traxdata TRX-50 - Puissance _ 60 W - Connectivité _ Bluetooth - Capacité de la batterie _ 2400mAh Lithium - Batterie 3,7V - Interface _ USB - Taille de l'unité _2 x 6.5_ - Enceinte karaok (3).jpg",
-      "/telephone_accessoires/62/Haut Parleur Bluetooth Traxdata TRX-50 - Puissance _ 60 W - Connectivité _ Bluetooth - Capacité de la batterie _ 2400mAh Lithium - Batterie 3,7V - Interface _ USB - Taille de l'unité _2 x 6.5_ - Enceinte karaok (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/62/Haut Parleur Bluetooth Traxdata TRX-50 - Puissance _ 60 W - Connectivité _ Bluetooth - Capacité de la batterie _ 2400mAh Lithium - Batterie 3,7V - Interface _ USB - Taille de l'unité _2 x 6.5_ - Enceinte karaoké po.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/62/Haut Parleur Bluetooth Traxdata TRX-50 - Puissance _ 60 W - Connectivité _ Bluetooth - Capacité de la batterie _ 2400mAh Lithium - Batterie 3,7V - Interface _ USB - Taille de l'unité _2 x 6.5_ - Enceinte karaok (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/62/Haut Parleur Bluetooth Traxdata TRX-50 - Puissance _ 60 W - Connectivité _ Bluetooth - Capacité de la batterie _ 2400mAh Lithium - Batterie 3,7V - Interface _ USB - Taille de l'unité _2 x 6.5_ - Enceinte karaok (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/62/Haut Parleur Bluetooth Traxdata TRX-50 - Puissance _ 60 W - Connectivité _ Bluetooth - Capacité de la batterie _ 2400mAh Lithium - Batterie 3,7V - Interface _ USB - Taille de l'unité _2 x 6.5_ - Enceinte karaok (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/62/Haut Parleur Bluetooth Traxdata TRX-50 - Puissance _ 60 W - Connectivité _ Bluetooth - Capacité de la batterie _ 2400mAh Lithium - Batterie 3,7V - Interface _ USB - Taille de l'unité _2 x 6.5_ - Enceinte karaok (4).jpg"
     ]
   },
   {
@@ -2526,13 +2526,13 @@ export const telephone_accessoires = [
       "etancheite": "IPX4",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/63/Haut Parleur Bluetooth JBL Clip 4 - Puissance _ 5 W RMS - Connectivité _ Bluetooth 5.1 - Capacité de la batterie _ 3880 mAh Lithium - Autonomie _ 10 heures - Temps de charge de la batterie_ 3 heures - Réponse en Fr.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/63/Haut Parleur Bluetooth JBL Clip 4 - Puissance _ 5 W RMS - Connectivité _ Bluetooth 5.1 - Capacité de la batterie _ 3880 mAh Lithium - Autonomie _ 10 heures - Temps de charge de la batterie_ 3 heures - Réponse en Fr.jpg",
     "images": [
-      "/telephone_accessoires/63/Haut Parleur Bluetooth JBL Clip 4 - Puissance _ 5 W RMS - Connectivité _ Bluetooth 5.1 - Capacité de la batterie _ 3880 mAh Lithium - Autonomie _ 10 heures - Temps de charge de la batterie_ 3 heures - Réponse en Fr.jpg",
-      "/telephone_accessoires/63/Haut Parleur Bluetooth JBL Clip 4 - Puissance _ 5 W RMS - Connectivité _ Bluetooth 5.1 - Capacité de la batterie _ 3880 mAh Lithium - Autonomie _ 10 heures - Temps de charge de la batterie_ 3 heures - Réponse e (1).jpg",
-      "/telephone_accessoires/63/Haut Parleur Bluetooth JBL Clip 4 - Puissance _ 5 W RMS - Connectivité _ Bluetooth 5.1 - Capacité de la batterie _ 3880 mAh Lithium - Autonomie _ 10 heures - Temps de charge de la batterie_ 3 heures - Réponse e (2).jpg",
-      "/telephone_accessoires/63/Haut Parleur Bluetooth JBL Clip 4 - Puissance _ 5 W RMS - Connectivité _ Bluetooth 5.1 - Capacité de la batterie _ 3880 mAh Lithium - Autonomie _ 10 heures - Temps de charge de la batterie_ 3 heures - Réponse e (3).jpg",
-      "/telephone_accessoires/63/Haut Parleur Bluetooth JBL Clip 4 - Puissance _ 5 W RMS - Connectivité _ Bluetooth 5.1 - Capacité de la batterie _ 3880 mAh Lithium - Autonomie _ 10 heures - Temps de charge de la batterie_ 3 heures - Réponse e (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/63/Haut Parleur Bluetooth JBL Clip 4 - Puissance _ 5 W RMS - Connectivité _ Bluetooth 5.1 - Capacité de la batterie _ 3880 mAh Lithium - Autonomie _ 10 heures - Temps de charge de la batterie_ 3 heures - Réponse en Fr.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/63/Haut Parleur Bluetooth JBL Clip 4 - Puissance _ 5 W RMS - Connectivité _ Bluetooth 5.1 - Capacité de la batterie _ 3880 mAh Lithium - Autonomie _ 10 heures - Temps de charge de la batterie_ 3 heures - Réponse e (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/63/Haut Parleur Bluetooth JBL Clip 4 - Puissance _ 5 W RMS - Connectivité _ Bluetooth 5.1 - Capacité de la batterie _ 3880 mAh Lithium - Autonomie _ 10 heures - Temps de charge de la batterie_ 3 heures - Réponse e (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/63/Haut Parleur Bluetooth JBL Clip 4 - Puissance _ 5 W RMS - Connectivité _ Bluetooth 5.1 - Capacité de la batterie _ 3880 mAh Lithium - Autonomie _ 10 heures - Temps de charge de la batterie_ 3 heures - Réponse e (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/63/Haut Parleur Bluetooth JBL Clip 4 - Puissance _ 5 W RMS - Connectivité _ Bluetooth 5.1 - Capacité de la batterie _ 3880 mAh Lithium - Autonomie _ 10 heures - Temps de charge de la batterie_ 3 heures - Réponse e (4).jpg"
     ]
   },
   {
@@ -2568,11 +2568,11 @@ export const telephone_accessoires = [
       "interfaces": "USB, AUX, Carte TF",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/64/Haut Parleur Bluetooth ZQS 1202 - Puissance _ 5W - Connectivité _ Bluetooth 4.2, carte TF, AUX ou USB - Interface _ USB, Aux - Capacité de la Batterie _ 1500mAh - Autonomie _  jusqu'à 5 heures de lecture continue -.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/64/Haut Parleur Bluetooth ZQS 1202 - Puissance _ 5W - Connectivité _ Bluetooth 4.2, carte TF, AUX ou USB - Interface _ USB, Aux - Capacité de la Batterie _ 1500mAh - Autonomie _  jusqu'à 5 heures de lecture continue -.jpg",
     "images": [
-      "/telephone_accessoires/64/Haut Parleur Bluetooth ZQS 1202 - Puissance _ 5W - Connectivité _ Bluetooth 4.2, carte TF, AUX ou USB - Interface _ USB, Aux - Capacité de la Batterie _ 1500mAh - Autonomie _  jusqu'à 5 heures de lecture continue -.jpg",
-      "/telephone_accessoires/64/Haut Parleur Bluetooth ZQS 1202 - Puissance _ 5W - Connectivité _ Bluetooth 4.2, carte TF, AUX ou USB - Interface _ USB, Aux - Capacité de la Batterie _ 1500mAh - Autonomie _  jusqu'à 5 heures de lecture contin (1).jpg",
-      "/telephone_accessoires/64/Haut Parleur Bluetooth ZQS 1202 - Puissance _ 5W - Connectivité _ Bluetooth 4.2, carte TF, AUX ou USB - Interface _ USB, Aux - Capacité de la Batterie _ 1500mAh - Autonomie _  jusqu'à 5 heures de lecture contin (2).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/64/Haut Parleur Bluetooth ZQS 1202 - Puissance _ 5W - Connectivité _ Bluetooth 4.2, carte TF, AUX ou USB - Interface _ USB, Aux - Capacité de la Batterie _ 1500mAh - Autonomie _  jusqu'à 5 heures de lecture continue -.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/64/Haut Parleur Bluetooth ZQS 1202 - Puissance _ 5W - Connectivité _ Bluetooth 4.2, carte TF, AUX ou USB - Interface _ USB, Aux - Capacité de la Batterie _ 1500mAh - Autonomie _  jusqu'à 5 heures de lecture contin (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/64/Haut Parleur Bluetooth ZQS 1202 - Puissance _ 5W - Connectivité _ Bluetooth 4.2, carte TF, AUX ou USB - Interface _ USB, Aux - Capacité de la Batterie _ 1500mAh - Autonomie _  jusqu'à 5 heures de lecture contin (2).jpg"
     ]
   },
   {
@@ -2607,13 +2607,13 @@ export const telephone_accessoires = [
       "interfaces": "USB, AUX",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/65/Haut Parleur Bluetooth ZQS 8230 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-parle.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/65/Haut Parleur Bluetooth ZQS 8230 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-parle.jpg",
     "images": [
-      "/telephone_accessoires/65/Haut Parleur Bluetooth ZQS 8230 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-parle.jpg",
-      "/telephone_accessoires/65/Haut Parleur Bluetooth ZQS 8230 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (1).jpg",
-      "/telephone_accessoires/65/Haut Parleur Bluetooth ZQS 8230 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (2).jpg",
-      "/telephone_accessoires/65/Haut Parleur Bluetooth ZQS 8230 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (3).jpg",
-      "/telephone_accessoires/65/Haut Parleur Bluetooth ZQS 8230 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/65/Haut Parleur Bluetooth ZQS 8230 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-parle.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/65/Haut Parleur Bluetooth ZQS 8230 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/65/Haut Parleur Bluetooth ZQS 8230 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/65/Haut Parleur Bluetooth ZQS 8230 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/65/Haut Parleur Bluetooth ZQS 8230 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (4).jpg"
     ]
   },
   {
@@ -2648,18 +2648,18 @@ export const telephone_accessoires = [
       "interfaces": "USB, AUX",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/66/Haut Parleur Bluetooth ZQS 8229 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-parle.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/66/Haut Parleur Bluetooth ZQS 8229 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-parle.jpg",
     "images": [
-      "/telephone_accessoires/66/Haut Parleur Bluetooth ZQS 8229 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-parle.jpg",
-      "/telephone_accessoires/66/Haut Parleur Bluetooth ZQS 8229 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (1).jpg",
-      "/telephone_accessoires/66/Haut Parleur Bluetooth ZQS 8229 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (2).jpg",
-      "/telephone_accessoires/66/Haut Parleur Bluetooth ZQS 8229 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (3).jpg",
-      "/telephone_accessoires/66/Haut Parleur Bluetooth ZQS 8229 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (4).jpg",
-      "/telephone_accessoires/66/Haut Parleur Bluetooth ZQS 8229 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (5).jpg",
-      "/telephone_accessoires/66/Haut Parleur Bluetooth ZQS 8229 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (6).jpg",
-      "/telephone_accessoires/66/Haut Parleur Bluetooth ZQS 8229 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (7).jpg",
-      "/telephone_accessoires/66/Haut Parleur Bluetooth ZQS 8229 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (8).jpg",
-      "/telephone_accessoires/66/Haut Parleur Bluetooth ZQS 8229 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (9).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/66/Haut Parleur Bluetooth ZQS 8229 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-parle.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/66/Haut Parleur Bluetooth ZQS 8229 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/66/Haut Parleur Bluetooth ZQS 8229 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/66/Haut Parleur Bluetooth ZQS 8229 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/66/Haut Parleur Bluetooth ZQS 8229 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/66/Haut Parleur Bluetooth ZQS 8229 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/66/Haut Parleur Bluetooth ZQS 8229 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (6).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/66/Haut Parleur Bluetooth ZQS 8229 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (7).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/66/Haut Parleur Bluetooth ZQS 8229 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (8).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/66/Haut Parleur Bluetooth ZQS 8229 - Puissance _ 20W x 2 - Connectivité _ Bluetooth 5.0, USB, Carte mémoire, AUX - Interface _ USB, Aux - Capacité de Batterie _ 4500mAh - Autonomie _ 4 Heures - Super Bass - Haut-p (9).jpg"
     ]
   },
   {
@@ -2695,11 +2695,11 @@ export const telephone_accessoires = [
       "interfaces": "USB, AUX, Radio FM",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/67/Haut Parleur Bluetooth H@F HF-F35 - Puissance _ 30W - Connectivité _ USB, Bluetooth 5.1, AUX et FM - Capacité de la Batterie _ 1200 mAh - Autonomie _ 3 à 8 heures - Temps de charge _ environ 2 heures - Réponse haut.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/67/Haut Parleur Bluetooth H@F HF-F35 - Puissance _ 30W - Connectivité _ USB, Bluetooth 5.1, AUX et FM - Capacité de la Batterie _ 1200 mAh - Autonomie _ 3 à 8 heures - Temps de charge _ environ 2 heures - Réponse haut.jpg",
     "images": [
-      "/telephone_accessoires/67/Haut Parleur Bluetooth H@F HF-F35 - Puissance _ 30W - Connectivité _ USB, Bluetooth 5.1, AUX et FM - Capacité de la Batterie _ 1200 mAh - Autonomie _ 3 à 8 heures - Temps de charge _ environ 2 heures - Réponse haut.jpg",
-      "/telephone_accessoires/67/Haut Parleur Bluetooth H@F HF-F35 - Puissance _ 30W - Connectivité _ USB, Bluetooth 5.1, AUX et FM - Capacité de la Batterie _ 1200 mAh - Autonomie _ 3 à 8 heures - Temps de charge _ environ 2 heures - Réponse  (1).jpg",
-      "/telephone_accessoires/67/Haut Parleur Bluetooth H@F HF-F35 - Puissance _ 30W - Connectivité _ USB, Bluetooth 5.1, AUX et FM - Capacité de la Batterie _ 1200 mAh - Autonomie _ 3 à 8 heures - Temps de charge _ environ 2 heures - Réponse  (2).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/67/Haut Parleur Bluetooth H@F HF-F35 - Puissance _ 30W - Connectivité _ USB, Bluetooth 5.1, AUX et FM - Capacité de la Batterie _ 1200 mAh - Autonomie _ 3 à 8 heures - Temps de charge _ environ 2 heures - Réponse haut.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/67/Haut Parleur Bluetooth H@F HF-F35 - Puissance _ 30W - Connectivité _ USB, Bluetooth 5.1, AUX et FM - Capacité de la Batterie _ 1200 mAh - Autonomie _ 3 à 8 heures - Temps de charge _ environ 2 heures - Réponse  (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/67/Haut Parleur Bluetooth H@F HF-F35 - Puissance _ 30W - Connectivité _ USB, Bluetooth 5.1, AUX et FM - Capacité de la Batterie _ 1200 mAh - Autonomie _ 3 à 8 heures - Temps de charge _ environ 2 heures - Réponse  (2).jpg"
     ]
   },
   {
@@ -2734,12 +2734,12 @@ export const telephone_accessoires = [
       "eclairage": "LED / RGB",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/68/Haut Parleur Bluetooth LS-1002 - Connectivité _ Bluetooth - Batterie rechargeable intégrée - Lumières RGB - Emplacement de carte mémoire - Port USB - Aux - Avec un câble de recharge micro-USB - Dimensions _ 15 x 7 .jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/68/Haut Parleur Bluetooth LS-1002 - Connectivité _ Bluetooth - Batterie rechargeable intégrée - Lumières RGB - Emplacement de carte mémoire - Port USB - Aux - Avec un câble de recharge micro-USB - Dimensions _ 15 x 7 .jpg",
     "images": [
-      "/telephone_accessoires/68/Haut Parleur Bluetooth LS-1002 - Connectivité _ Bluetooth - Batterie rechargeable intégrée - Lumières RGB - Emplacement de carte mémoire - Port USB - Aux - Avec un câble de recharge micro-USB - Dimensions _ 15 x 7 .jpg",
-      "/telephone_accessoires/68/Haut Parleur Bluetooth LS-1002 - Connectivité _ Bluetooth - Batterie rechargeable intégrée - Lumières RGB - Emplacement de carte mémoire - Port USB - Aux - Avec un câble de recharge micro-USB - Dimensions _ 15  (1).jpg",
-      "/telephone_accessoires/68/Haut Parleur Bluetooth LS-1002 - Connectivité _ Bluetooth - Batterie rechargeable intégrée - Lumières RGB - Emplacement de carte mémoire - Port USB - Aux - Avec un câble de recharge micro-USB - Dimensions _ 15  (2).jpg",
-      "/telephone_accessoires/68/Haut Parleur Bluetooth LS-1002 - Connectivité _ Bluetooth - Batterie rechargeable intégrée - Lumières RGB - Emplacement de carte mémoire - Port USB - Aux - Avec un câble de recharge micro-USB - Dimensions _ 15  (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/68/Haut Parleur Bluetooth LS-1002 - Connectivité _ Bluetooth - Batterie rechargeable intégrée - Lumières RGB - Emplacement de carte mémoire - Port USB - Aux - Avec un câble de recharge micro-USB - Dimensions _ 15 x 7 .jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/68/Haut Parleur Bluetooth LS-1002 - Connectivité _ Bluetooth - Batterie rechargeable intégrée - Lumières RGB - Emplacement de carte mémoire - Port USB - Aux - Avec un câble de recharge micro-USB - Dimensions _ 15  (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/68/Haut Parleur Bluetooth LS-1002 - Connectivité _ Bluetooth - Batterie rechargeable intégrée - Lumières RGB - Emplacement de carte mémoire - Port USB - Aux - Avec un câble de recharge micro-USB - Dimensions _ 15  (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/68/Haut Parleur Bluetooth LS-1002 - Connectivité _ Bluetooth - Batterie rechargeable intégrée - Lumières RGB - Emplacement de carte mémoire - Port USB - Aux - Avec un câble de recharge micro-USB - Dimensions _ 15  (3).jpg"
     ]
   },
   {
@@ -2774,14 +2774,14 @@ export const telephone_accessoires = [
       "autonomie": "5–6 h",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/69/Haut Parleur Bluetooth ZQS-6111 - Puissance _ 8 W - Connectivité _ Bluetooth 5.0 - Capacité de batterie _ 1800 mAh - Temps de lecture _ jusqu'à 5-6 heures - Temps de charge _ 2-3 heures - Avec  Microphone Filaire e.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/69/Haut Parleur Bluetooth ZQS-6111 - Puissance _ 8 W - Connectivité _ Bluetooth 5.0 - Capacité de batterie _ 1800 mAh - Temps de lecture _ jusqu'à 5-6 heures - Temps de charge _ 2-3 heures - Avec  Microphone Filaire e.jpg",
     "images": [
-      "/telephone_accessoires/69/Haut Parleur Bluetooth ZQS-6111 - Puissance _ 8 W - Connectivité _ Bluetooth 5.0 - Capacité de batterie _ 1800 mAh - Temps de lecture _ jusqu'à 5-6 heures - Temps de charge _ 2-3 heures - Avec  Microphone Filaire e.jpg",
-      "/telephone_accessoires/69/Haut Parleur Bluetooth ZQS-6111 - Puissance _ 8 W - Connectivité _ Bluetooth 5.0 - Capacité de batterie _ 1800 mAh - Temps de lecture _ jusqu'à 5-6 heures - Temps de charge _ 2-3 heures - Avec  Microphone Filai (1).jpg",
-      "/telephone_accessoires/69/Haut Parleur Bluetooth ZQS-6111 - Puissance _ 8 W - Connectivité _ Bluetooth 5.0 - Capacité de batterie _ 1800 mAh - Temps de lecture _ jusqu'à 5-6 heures - Temps de charge _ 2-3 heures - Avec  Microphone Filai (2).jpg",
-      "/telephone_accessoires/69/Haut Parleur Bluetooth ZQS-6111 - Puissance _ 8 W - Connectivité _ Bluetooth 5.0 - Capacité de batterie _ 1800 mAh - Temps de lecture _ jusqu'à 5-6 heures - Temps de charge _ 2-3 heures - Avec  Microphone Filai (3).jpg",
-      "/telephone_accessoires/69/Haut Parleur Bluetooth ZQS-6111 - Puissance _ 8 W - Connectivité _ Bluetooth 5.0 - Capacité de batterie _ 1800 mAh - Temps de lecture _ jusqu'à 5-6 heures - Temps de charge _ 2-3 heures - Avec  Microphone Filai (4).jpg",
-      "/telephone_accessoires/69/Haut Parleur Bluetooth ZQS-6111 - Puissance _ 8 W - Connectivité _ Bluetooth 5.0 - Capacité de batterie _ 1800 mAh - Temps de lecture _ jusqu'à 5-6 heures - Temps de charge _ 2-3 heures - Avec  Microphone Filai (5).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/69/Haut Parleur Bluetooth ZQS-6111 - Puissance _ 8 W - Connectivité _ Bluetooth 5.0 - Capacité de batterie _ 1800 mAh - Temps de lecture _ jusqu'à 5-6 heures - Temps de charge _ 2-3 heures - Avec  Microphone Filaire e.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/69/Haut Parleur Bluetooth ZQS-6111 - Puissance _ 8 W - Connectivité _ Bluetooth 5.0 - Capacité de batterie _ 1800 mAh - Temps de lecture _ jusqu'à 5-6 heures - Temps de charge _ 2-3 heures - Avec  Microphone Filai (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/69/Haut Parleur Bluetooth ZQS-6111 - Puissance _ 8 W - Connectivité _ Bluetooth 5.0 - Capacité de batterie _ 1800 mAh - Temps de lecture _ jusqu'à 5-6 heures - Temps de charge _ 2-3 heures - Avec  Microphone Filai (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/69/Haut Parleur Bluetooth ZQS-6111 - Puissance _ 8 W - Connectivité _ Bluetooth 5.0 - Capacité de batterie _ 1800 mAh - Temps de lecture _ jusqu'à 5-6 heures - Temps de charge _ 2-3 heures - Avec  Microphone Filai (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/69/Haut Parleur Bluetooth ZQS-6111 - Puissance _ 8 W - Connectivité _ Bluetooth 5.0 - Capacité de batterie _ 1800 mAh - Temps de lecture _ jusqu'à 5-6 heures - Temps de charge _ 2-3 heures - Avec  Microphone Filai (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/69/Haut Parleur Bluetooth ZQS-6111 - Puissance _ 8 W - Connectivité _ Bluetooth 5.0 - Capacité de batterie _ 1800 mAh - Temps de lecture _ jusqu'à 5-6 heures - Temps de charge _ 2-3 heures - Avec  Microphone Filai (5).jpg"
     ]
   },
   {
@@ -2815,11 +2815,11 @@ export const telephone_accessoires = [
       "batterie": "1000 mAh",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/70/Haut Parleur Xiaomi S28D  - Puissance _ 5 Watts - Connectivité _ Bluetooth 5.4 - Capacité de la batterie _ 1000mAh - Autonomie_ Environ 10 heures (à 40 %25 du volume) - Son stéréo - Distance de transmission_ 25 mètre.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/70/Haut Parleur Xiaomi S28D  - Puissance _ 5 Watts - Connectivité _ Bluetooth 5.4 - Capacité de la batterie _ 1000mAh - Autonomie_ Environ 10 heures (à 40 %25 du volume) - Son stéréo - Distance de transmission_ 25 mètre.jpg",
     "images": [
-      "/telephone_accessoires/70/Haut Parleur Xiaomi S28D  - Puissance _ 5 Watts - Connectivité _ Bluetooth 5.4 - Capacité de la batterie _ 1000mAh - Autonomie_ Environ 10 heures (à 40 %25 du volume) - Son stéréo - Distance de transmission_ 25 mètre.jpg",
-      "/telephone_accessoires/70/Haut Parleur Xiaomi S28D  - Puissance _ 5 Watts - Connectivité _ Bluetooth 5.4 - Capacité de la batterie _ 1000mAh - Autonomie_ Environ 10 heures (à 40 %25 du volume) - Son stéréo - Distance de transmission_ 25 m (1).jpg",
-      "/telephone_accessoires/70/Haut Parleur Xiaomi S28D  - Puissance _ 5 Watts - Connectivité _ Bluetooth 5.4 - Capacité de la batterie _ 1000mAh - Autonomie_ Environ 10 heures (à 40 %25 du volume) - Son stéréo - Distance de transmission_ 25 m (2).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/70/Haut Parleur Xiaomi S28D  - Puissance _ 5 Watts - Connectivité _ Bluetooth 5.4 - Capacité de la batterie _ 1000mAh - Autonomie_ Environ 10 heures (à 40 %25 du volume) - Son stéréo - Distance de transmission_ 25 mètre.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/70/Haut Parleur Xiaomi S28D  - Puissance _ 5 Watts - Connectivité _ Bluetooth 5.4 - Capacité de la batterie _ 1000mAh - Autonomie_ Environ 10 heures (à 40 %25 du volume) - Son stéréo - Distance de transmission_ 25 m (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/70/Haut Parleur Xiaomi S28D  - Puissance _ 5 Watts - Connectivité _ Bluetooth 5.4 - Capacité de la batterie _ 1000mAh - Autonomie_ Environ 10 heures (à 40 %25 du volume) - Son stéréo - Distance de transmission_ 25 m (2).jpg"
     ]
   },
   {
@@ -2854,13 +2854,13 @@ export const telephone_accessoires = [
       "autonomie": "4–5 h",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/71/Haut Parleur Bluetooth TG-365 - Puissance _ 5 Watts - Connectivité _ Bluetooth 5.0 - Capacité de la batterie _ 1200 mAh - Autonomie_ 4-5 heures - Temps de charge _ 2-3 heures - Fréquence _ 120 Hz-20 kHz - Matériau .jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/71/Haut Parleur Bluetooth TG-365 - Puissance _ 5 Watts - Connectivité _ Bluetooth 5.0 - Capacité de la batterie _ 1200 mAh - Autonomie_ 4-5 heures - Temps de charge _ 2-3 heures - Fréquence _ 120 Hz-20 kHz - Matériau .jpg",
     "images": [
-      "/telephone_accessoires/71/Haut Parleur Bluetooth TG-365 - Puissance _ 5 Watts - Connectivité _ Bluetooth 5.0 - Capacité de la batterie _ 1200 mAh - Autonomie_ 4-5 heures - Temps de charge _ 2-3 heures - Fréquence _ 120 Hz-20 kHz - Matériau .jpg",
-      "/telephone_accessoires/71/Haut Parleur Bluetooth TG-365 - Puissance _ 5 Watts - Connectivité _ Bluetooth 5.0 - Capacité de la batterie _ 1200 mAh - Autonomie_ 4-5 heures - Temps de charge _ 2-3 heures - Fréquence _ 120 Hz-20 kHz - Matér (1).jpg",
-      "/telephone_accessoires/71/Haut Parleur Bluetooth TG-365 - Puissance _ 5 Watts - Connectivité _ Bluetooth 5.0 - Capacité de la batterie _ 1200 mAh - Autonomie_ 4-5 heures - Temps de charge _ 2-3 heures - Fréquence _ 120 Hz-20 kHz - Matér (2).jpg",
-      "/telephone_accessoires/71/Haut Parleur Bluetooth TG-365 - Puissance _ 5 Watts - Connectivité _ Bluetooth 5.0 - Capacité de la batterie _ 1200 mAh - Autonomie_ 4-5 heures - Temps de charge _ 2-3 heures - Fréquence _ 120 Hz-20 kHz - Matér (3).jpg",
-      "/telephone_accessoires/71/Haut Parleur Bluetooth TG-365 - Puissance _ 5 Watts - Connectivité _ Bluetooth 5.0 - Capacité de la batterie _ 1200 mAh - Autonomie_ 4-5 heures - Temps de charge _ 2-3 heures - Fréquence _ 120 Hz-20 kHz - Matér (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/71/Haut Parleur Bluetooth TG-365 - Puissance _ 5 Watts - Connectivité _ Bluetooth 5.0 - Capacité de la batterie _ 1200 mAh - Autonomie_ 4-5 heures - Temps de charge _ 2-3 heures - Fréquence _ 120 Hz-20 kHz - Matériau .jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/71/Haut Parleur Bluetooth TG-365 - Puissance _ 5 Watts - Connectivité _ Bluetooth 5.0 - Capacité de la batterie _ 1200 mAh - Autonomie_ 4-5 heures - Temps de charge _ 2-3 heures - Fréquence _ 120 Hz-20 kHz - Matér (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/71/Haut Parleur Bluetooth TG-365 - Puissance _ 5 Watts - Connectivité _ Bluetooth 5.0 - Capacité de la batterie _ 1200 mAh - Autonomie_ 4-5 heures - Temps de charge _ 2-3 heures - Fréquence _ 120 Hz-20 kHz - Matér (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/71/Haut Parleur Bluetooth TG-365 - Puissance _ 5 Watts - Connectivité _ Bluetooth 5.0 - Capacité de la batterie _ 1200 mAh - Autonomie_ 4-5 heures - Temps de charge _ 2-3 heures - Fréquence _ 120 Hz-20 kHz - Matér (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/71/Haut Parleur Bluetooth TG-365 - Puissance _ 5 Watts - Connectivité _ Bluetooth 5.0 - Capacité de la batterie _ 1200 mAh - Autonomie_ 4-5 heures - Temps de charge _ 2-3 heures - Fréquence _ 120 Hz-20 kHz - Matér (4).jpg"
     ]
   },
   {
@@ -2896,12 +2896,12 @@ export const telephone_accessoires = [
       "eclairage": "LED / RGB",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/72/Haut Parleur Bluetooth LS-1019 - Puissance _ 5W - Connectivité _ Bluetooth, USB, Aux, Carte mémoire - Interface _ USB, Aux - Capacité de la batterie _ 500 Mah - LED D'éclairage _ 5 modes d'éclairage - Matière _ Pla.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/72/Haut Parleur Bluetooth LS-1019 - Puissance _ 5W - Connectivité _ Bluetooth, USB, Aux, Carte mémoire - Interface _ USB, Aux - Capacité de la batterie _ 500 Mah - LED D'éclairage _ 5 modes d'éclairage - Matière _ Pla.jpg",
     "images": [
-      "/telephone_accessoires/72/Haut Parleur Bluetooth LS-1019 - Puissance _ 5W - Connectivité _ Bluetooth, USB, Aux, Carte mémoire - Interface _ USB, Aux - Capacité de la batterie _ 500 Mah - LED D'éclairage _ 5 modes d'éclairage - Matière _ Pla.jpg",
-      "/telephone_accessoires/72/Haut Parleur Bluetooth LS-1019 - Puissance _ 5W - Connectivité _ Bluetooth, USB, Aux, Carte mémoire - Interface _ USB, Aux - Capacité de la batterie _ 500 Mah - LED D'éclairage _ 5 modes d'éclairage - Matière _ (1).jpg",
-      "/telephone_accessoires/72/Haut Parleur Bluetooth LS-1019 - Puissance _ 5W - Connectivité _ Bluetooth, USB, Aux, Carte mémoire - Interface _ USB, Aux - Capacité de la batterie _ 500 Mah - LED D'éclairage _ 5 modes d'éclairage - Matière _ (2).jpg",
-      "/telephone_accessoires/72/Haut Parleur Bluetooth LS-1019 - Puissance _ 5W - Connectivité _ Bluetooth, USB, Aux, Carte mémoire - Interface _ USB, Aux - Capacité de la batterie _ 500 Mah - LED D'éclairage _ 5 modes d'éclairage - Matière _ (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/72/Haut Parleur Bluetooth LS-1019 - Puissance _ 5W - Connectivité _ Bluetooth, USB, Aux, Carte mémoire - Interface _ USB, Aux - Capacité de la batterie _ 500 Mah - LED D'éclairage _ 5 modes d'éclairage - Matière _ Pla.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/72/Haut Parleur Bluetooth LS-1019 - Puissance _ 5W - Connectivité _ Bluetooth, USB, Aux, Carte mémoire - Interface _ USB, Aux - Capacité de la batterie _ 500 Mah - LED D'éclairage _ 5 modes d'éclairage - Matière _ (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/72/Haut Parleur Bluetooth LS-1019 - Puissance _ 5W - Connectivité _ Bluetooth, USB, Aux, Carte mémoire - Interface _ USB, Aux - Capacité de la batterie _ 500 Mah - LED D'éclairage _ 5 modes d'éclairage - Matière _ (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/72/Haut Parleur Bluetooth LS-1019 - Puissance _ 5W - Connectivité _ Bluetooth, USB, Aux, Carte mémoire - Interface _ USB, Aux - Capacité de la batterie _ 500 Mah - LED D'éclairage _ 5 modes d'éclairage - Matière _ (3).jpg"
     ]
   },
   {
@@ -2935,13 +2935,13 @@ export const telephone_accessoires = [
       "autonomie": "2–3 h",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/73/Haut Parleur Bluetooth 3en1 2301 - Puissance_ 10 Watts - Connectivité_ Sans Fil, Bluetooth 5.2 - Autonomie_ 2-3 heures - Chargement sans fil - Angle d'éclairage _Réglable - Matériau Plastique - Qualité du son HiFi .jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/73/Haut Parleur Bluetooth 3en1 2301 - Puissance_ 10 Watts - Connectivité_ Sans Fil, Bluetooth 5.2 - Autonomie_ 2-3 heures - Chargement sans fil - Angle d'éclairage _Réglable - Matériau Plastique - Qualité du son HiFi .jpg",
     "images": [
-      "/telephone_accessoires/73/Haut Parleur Bluetooth 3en1 2301 - Puissance_ 10 Watts - Connectivité_ Sans Fil, Bluetooth 5.2 - Autonomie_ 2-3 heures - Chargement sans fil - Angle d'éclairage _Réglable - Matériau Plastique - Qualité du son HiFi .jpg",
-      "/telephone_accessoires/73/Haut Parleur Bluetooth 3en1 2301 - Puissance_ 10 Watts - Connectivité_ Sans Fil, Bluetooth 5.2 - Autonomie_ 2-3 heures - Chargement sans fil - Angle d'éclairage _Réglable - Matériau Plastique - Qualité du son H (1).jpg",
-      "/telephone_accessoires/73/Haut Parleur Bluetooth 3en1 2301 - Puissance_ 10 Watts - Connectivité_ Sans Fil, Bluetooth 5.2 - Autonomie_ 2-3 heures - Chargement sans fil - Angle d'éclairage _Réglable - Matériau Plastique - Qualité du son H (2).jpg",
-      "/telephone_accessoires/73/Haut Parleur Bluetooth 3en1 2301 - Puissance_ 10 Watts - Connectivité_ Sans Fil, Bluetooth 5.2 - Autonomie_ 2-3 heures - Chargement sans fil - Angle d'éclairage _Réglable - Matériau Plastique - Qualité du son H (3).jpg",
-      "/telephone_accessoires/73/Haut Parleur Bluetooth 3en1 2301 - Puissance_ 10 Watts - Connectivité_ Sans Fil, Bluetooth 5.2 - Autonomie_ 2-3 heures - Chargement sans fil - Angle d'éclairage _Réglable - Matériau Plastique - Qualité du son H (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/73/Haut Parleur Bluetooth 3en1 2301 - Puissance_ 10 Watts - Connectivité_ Sans Fil, Bluetooth 5.2 - Autonomie_ 2-3 heures - Chargement sans fil - Angle d'éclairage _Réglable - Matériau Plastique - Qualité du son HiFi .jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/73/Haut Parleur Bluetooth 3en1 2301 - Puissance_ 10 Watts - Connectivité_ Sans Fil, Bluetooth 5.2 - Autonomie_ 2-3 heures - Chargement sans fil - Angle d'éclairage _Réglable - Matériau Plastique - Qualité du son H (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/73/Haut Parleur Bluetooth 3en1 2301 - Puissance_ 10 Watts - Connectivité_ Sans Fil, Bluetooth 5.2 - Autonomie_ 2-3 heures - Chargement sans fil - Angle d'éclairage _Réglable - Matériau Plastique - Qualité du son H (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/73/Haut Parleur Bluetooth 3en1 2301 - Puissance_ 10 Watts - Connectivité_ Sans Fil, Bluetooth 5.2 - Autonomie_ 2-3 heures - Chargement sans fil - Angle d'éclairage _Réglable - Matériau Plastique - Qualité du son H (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/73/Haut Parleur Bluetooth 3en1 2301 - Puissance_ 10 Watts - Connectivité_ Sans Fil, Bluetooth 5.2 - Autonomie_ 2-3 heures - Chargement sans fil - Angle d'éclairage _Réglable - Matériau Plastique - Qualité du son H (4).jpg"
     ]
   },
   {
@@ -2977,15 +2977,15 @@ export const telephone_accessoires = [
       "interfaces": "USB, AUX, Radio FM",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/74/Haut Parleur Bluetooth Havit M3 - Puissance _ 30W - Connectivité _ Bluetooth , USB, AUX, Wifi - Interface _ USB, Aux - Capacité de la batterie _ 1200 mAh - Autonomie _ 4-6 heures - avec radio FM, caisson de basses,.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/74/Haut Parleur Bluetooth Havit M3 - Puissance _ 30W - Connectivité _ Bluetooth , USB, AUX, Wifi - Interface _ USB, Aux - Capacité de la batterie _ 1200 mAh - Autonomie _ 4-6 heures - avec radio FM, caisson de basses,.jpg",
     "images": [
-      "/telephone_accessoires/74/Haut Parleur Bluetooth Havit M3 - Puissance _ 30W - Connectivité _ Bluetooth , USB, AUX, Wifi - Interface _ USB, Aux - Capacité de la batterie _ 1200 mAh - Autonomie _ 4-6 heures - avec radio FM, caisson de basses,.jpg",
-      "/telephone_accessoires/74/Haut Parleur Bluetooth Havit M3 - Puissance _ 30W - Connectivité _ Bluetooth , USB, AUX, Wifi - Interface _ USB, Aux - Capacité de la batterie _ 1200 mAh - Autonomie _ 4-6 heures - avec radio FM, caisson de bas (1).jpg",
-      "/telephone_accessoires/74/Haut Parleur Bluetooth Havit M3 - Puissance _ 30W - Connectivité _ Bluetooth , USB, AUX, Wifi - Interface _ USB, Aux - Capacité de la batterie _ 1200 mAh - Autonomie _ 4-6 heures - avec radio FM, caisson de bas (2).jpg",
-      "/telephone_accessoires/74/Haut Parleur Bluetooth Havit M3 - Puissance _ 30W - Connectivité _ Bluetooth , USB, AUX, Wifi - Interface _ USB, Aux - Capacité de la batterie _ 1200 mAh - Autonomie _ 4-6 heures - avec radio FM, caisson de bas (3).jpg",
-      "/telephone_accessoires/74/Haut Parleur Bluetooth Havit M3 - Puissance _ 30W - Connectivité _ Bluetooth , USB, AUX, Wifi - Interface _ USB, Aux - Capacité de la batterie _ 1200 mAh - Autonomie _ 4-6 heures - avec radio FM, caisson de bas (4).jpg",
-      "/telephone_accessoires/74/Haut Parleur Bluetooth Havit M3 - Puissance _ 30W - Connectivité _ Bluetooth , USB, AUX, Wifi - Interface _ USB, Aux - Capacité de la batterie _ 1200 mAh - Autonomie _ 4-6 heures - avec radio FM, caisson de bas (5).jpg",
-      "/telephone_accessoires/74/Haut Parleur Bluetooth Havit M3 - Puissance _ 30W - Connectivité _ Bluetooth , USB, AUX, Wifi - Interface _ USB, Aux - Capacité de la batterie _ 1200 mAh - Autonomie _ 4-6 heures - avec radio FM, caisson de bas (6).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/74/Haut Parleur Bluetooth Havit M3 - Puissance _ 30W - Connectivité _ Bluetooth , USB, AUX, Wifi - Interface _ USB, Aux - Capacité de la batterie _ 1200 mAh - Autonomie _ 4-6 heures - avec radio FM, caisson de basses,.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/74/Haut Parleur Bluetooth Havit M3 - Puissance _ 30W - Connectivité _ Bluetooth , USB, AUX, Wifi - Interface _ USB, Aux - Capacité de la batterie _ 1200 mAh - Autonomie _ 4-6 heures - avec radio FM, caisson de bas (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/74/Haut Parleur Bluetooth Havit M3 - Puissance _ 30W - Connectivité _ Bluetooth , USB, AUX, Wifi - Interface _ USB, Aux - Capacité de la batterie _ 1200 mAh - Autonomie _ 4-6 heures - avec radio FM, caisson de bas (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/74/Haut Parleur Bluetooth Havit M3 - Puissance _ 30W - Connectivité _ Bluetooth , USB, AUX, Wifi - Interface _ USB, Aux - Capacité de la batterie _ 1200 mAh - Autonomie _ 4-6 heures - avec radio FM, caisson de bas (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/74/Haut Parleur Bluetooth Havit M3 - Puissance _ 30W - Connectivité _ Bluetooth , USB, AUX, Wifi - Interface _ USB, Aux - Capacité de la batterie _ 1200 mAh - Autonomie _ 4-6 heures - avec radio FM, caisson de bas (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/74/Haut Parleur Bluetooth Havit M3 - Puissance _ 30W - Connectivité _ Bluetooth , USB, AUX, Wifi - Interface _ USB, Aux - Capacité de la batterie _ 1200 mAh - Autonomie _ 4-6 heures - avec radio FM, caisson de bas (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/74/Haut Parleur Bluetooth Havit M3 - Puissance _ 30W - Connectivité _ Bluetooth , USB, AUX, Wifi - Interface _ USB, Aux - Capacité de la batterie _ 1200 mAh - Autonomie _ 4-6 heures - avec radio FM, caisson de bas (6).jpg"
     ]
   },
   {
@@ -3021,13 +3021,13 @@ export const telephone_accessoires = [
       "interfaces": "USB, Carte TF, USB-C",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/75/Haut Parleur Bluetooth X905 - Puissance _ 10W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interface _ USB-C, USB, TF Card - Capacité de Batterie _ 2400 mAh (3,7 V) - Autonomie _ 3-5 heures - Temps de charge de la ba.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/75/Haut Parleur Bluetooth X905 - Puissance _ 10W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interface _ USB-C, USB, TF Card - Capacité de Batterie _ 2400 mAh (3,7 V) - Autonomie _ 3-5 heures - Temps de charge de la ba.jpg",
     "images": [
-      "/telephone_accessoires/75/Haut Parleur Bluetooth X905 - Puissance _ 10W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interface _ USB-C, USB, TF Card - Capacité de Batterie _ 2400 mAh (3,7 V) - Autonomie _ 3-5 heures - Temps de charge de la ba.jpg",
-      "/telephone_accessoires/75/Haut Parleur Bluetooth X905 - Puissance _ 10W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interface _ USB-C, USB, TF Card - Capacité de Batterie _ 2400 mAh (3,7 V) - Autonomie _ 3-5 heures - Temps de charge de l (1).jpg",
-      "/telephone_accessoires/75/Haut Parleur Bluetooth X905 - Puissance _ 10W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interface _ USB-C, USB, TF Card - Capacité de Batterie _ 2400 mAh (3,7 V) - Autonomie _ 3-5 heures - Temps de charge de l (2).jpg",
-      "/telephone_accessoires/75/Haut Parleur Bluetooth X905 - Puissance _ 10W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interface _ USB-C, USB, TF Card - Capacité de Batterie _ 2400 mAh (3,7 V) - Autonomie _ 3-5 heures - Temps de charge de l (3).jpg",
-      "/telephone_accessoires/75/Haut Parleur Bluetooth X905 - Puissance _ 10W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interface _ USB-C, USB, TF Card - Capacité de Batterie _ 2400 mAh (3,7 V) - Autonomie _ 3-5 heures - Temps de charge de l (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/75/Haut Parleur Bluetooth X905 - Puissance _ 10W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interface _ USB-C, USB, TF Card - Capacité de Batterie _ 2400 mAh (3,7 V) - Autonomie _ 3-5 heures - Temps de charge de la ba.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/75/Haut Parleur Bluetooth X905 - Puissance _ 10W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interface _ USB-C, USB, TF Card - Capacité de Batterie _ 2400 mAh (3,7 V) - Autonomie _ 3-5 heures - Temps de charge de l (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/75/Haut Parleur Bluetooth X905 - Puissance _ 10W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interface _ USB-C, USB, TF Card - Capacité de Batterie _ 2400 mAh (3,7 V) - Autonomie _ 3-5 heures - Temps de charge de l (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/75/Haut Parleur Bluetooth X905 - Puissance _ 10W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interface _ USB-C, USB, TF Card - Capacité de Batterie _ 2400 mAh (3,7 V) - Autonomie _ 3-5 heures - Temps de charge de l (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/75/Haut Parleur Bluetooth X905 - Puissance _ 10W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interface _ USB-C, USB, TF Card - Capacité de Batterie _ 2400 mAh (3,7 V) - Autonomie _ 3-5 heures - Temps de charge de l (4).jpg"
     ]
   },
   {
@@ -3063,18 +3063,18 @@ export const telephone_accessoires = [
       "interfaces": "USB, AUX, Carte TF, USB-C",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/76/Haut Parleur Bluetooth Likenuo LX-11 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Temps .jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/76/Haut Parleur Bluetooth Likenuo LX-11 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Temps .jpg",
     "images": [
-      "/telephone_accessoires/76/Haut Parleur Bluetooth Likenuo LX-11 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Temps .jpg",
-      "/telephone_accessoires/76/Haut Parleur Bluetooth Likenuo LX-11 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (1).jpg",
-      "/telephone_accessoires/76/Haut Parleur Bluetooth Likenuo LX-11 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (2).jpg",
-      "/telephone_accessoires/76/Haut Parleur Bluetooth Likenuo LX-11 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (3).jpg",
-      "/telephone_accessoires/76/Haut Parleur Bluetooth Likenuo LX-11 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (4).jpg",
-      "/telephone_accessoires/76/Haut Parleur Bluetooth Likenuo LX-11 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (5).jpg",
-      "/telephone_accessoires/76/Haut Parleur Bluetooth Likenuo LX-11 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (6).jpg",
-      "/telephone_accessoires/76/Haut Parleur Bluetooth Likenuo LX-11 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (7).jpg",
-      "/telephone_accessoires/76/Haut Parleur Bluetooth Likenuo LX-11 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (8).jpg",
-      "/telephone_accessoires/76/Haut Parleur Bluetooth Likenuo LX-11 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (9).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/76/Haut Parleur Bluetooth Likenuo LX-11 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Temps .jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/76/Haut Parleur Bluetooth Likenuo LX-11 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/76/Haut Parleur Bluetooth Likenuo LX-11 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/76/Haut Parleur Bluetooth Likenuo LX-11 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/76/Haut Parleur Bluetooth Likenuo LX-11 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/76/Haut Parleur Bluetooth Likenuo LX-11 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/76/Haut Parleur Bluetooth Likenuo LX-11 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (6).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/76/Haut Parleur Bluetooth Likenuo LX-11 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (7).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/76/Haut Parleur Bluetooth Likenuo LX-11 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (8).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/76/Haut Parleur Bluetooth Likenuo LX-11 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (9).jpg"
     ]
   },
   {
@@ -3110,13 +3110,13 @@ export const telephone_accessoires = [
       "interfaces": "USB, AUX, Carte TF, USB-C",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/77/Haut Parleur Bluetooth Likenuo LX-01 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Temps .jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/77/Haut Parleur Bluetooth Likenuo LX-01 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Temps .jpg",
     "images": [
-      "/telephone_accessoires/77/Haut Parleur Bluetooth Likenuo LX-01 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Temps .jpg",
-      "/telephone_accessoires/77/Haut Parleur Bluetooth Likenuo LX-01 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (1).jpg",
-      "/telephone_accessoires/77/Haut Parleur Bluetooth Likenuo LX-01 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (2).jpg",
-      "/telephone_accessoires/77/Haut Parleur Bluetooth Likenuo LX-01 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (3).jpg",
-      "/telephone_accessoires/77/Haut Parleur Bluetooth Likenuo LX-01 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/77/Haut Parleur Bluetooth Likenuo LX-01 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Temps .jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/77/Haut Parleur Bluetooth Likenuo LX-01 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/77/Haut Parleur Bluetooth Likenuo LX-01 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/77/Haut Parleur Bluetooth Likenuo LX-01 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/77/Haut Parleur Bluetooth Likenuo LX-01 - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth - Interface _ USB-C, AUX , USB, TF Card - Capacité de Batterie _ 1200 mAh (3,7 V) - Autonomie _ environ 3-5 heures - Te (4).jpg"
     ]
   },
   {
@@ -3151,14 +3151,14 @@ export const telephone_accessoires = [
       "interfaces": "USB, USB-C",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/78/_Haut Parleur Bluetooth Anker Soundcore Select 4Go - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth 5.4 - Interface _ USB-C - Autonomie _ 20 Heures - Portée de Bluetooth maximale _ 30m - Indice de protection I.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/78/_Haut Parleur Bluetooth Anker Soundcore Select 4Go - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth 5.4 - Interface _ USB-C - Autonomie _ 20 Heures - Portée de Bluetooth maximale _ 30m - Indice de protection I.jpg",
     "images": [
-      "/telephone_accessoires/78/_Haut Parleur Bluetooth Anker Soundcore Select 4Go - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth 5.4 - Interface _ USB-C - Autonomie _ 20 Heures - Portée de Bluetooth maximale _ 30m - Indice de protection I.jpg",
-      "/telephone_accessoires/78/_Haut Parleur Bluetooth Anker Soundcore Select 4Go - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth 5.4 - Interface _ USB-C - Autonomie _ 20 Heures - Portée de Bluetooth maximale _ 30m - Indice de protecti (1).jpg",
-      "/telephone_accessoires/78/_Haut Parleur Bluetooth Anker Soundcore Select 4Go - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth 5.4 - Interface _ USB-C - Autonomie _ 20 Heures - Portée de Bluetooth maximale _ 30m - Indice de protecti (2).jpg",
-      "/telephone_accessoires/78/_Haut Parleur Bluetooth Anker Soundcore Select 4Go - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth 5.4 - Interface _ USB-C - Autonomie _ 20 Heures - Portée de Bluetooth maximale _ 30m - Indice de protecti (3).jpg",
-      "/telephone_accessoires/78/_Haut Parleur Bluetooth Anker Soundcore Select 4Go - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth 5.4 - Interface _ USB-C - Autonomie _ 20 Heures - Portée de Bluetooth maximale _ 30m - Indice de protecti (4).jpg",
-      "/telephone_accessoires/78/_Haut Parleur Bluetooth Anker Soundcore Select 4Go - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth 5.4 - Interface _ USB-C - Autonomie _ 20 Heures - Portée de Bluetooth maximale _ 30m - Indice de protecti (5).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/78/_Haut Parleur Bluetooth Anker Soundcore Select 4Go - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth 5.4 - Interface _ USB-C - Autonomie _ 20 Heures - Portée de Bluetooth maximale _ 30m - Indice de protection I.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/78/_Haut Parleur Bluetooth Anker Soundcore Select 4Go - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth 5.4 - Interface _ USB-C - Autonomie _ 20 Heures - Portée de Bluetooth maximale _ 30m - Indice de protecti (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/78/_Haut Parleur Bluetooth Anker Soundcore Select 4Go - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth 5.4 - Interface _ USB-C - Autonomie _ 20 Heures - Portée de Bluetooth maximale _ 30m - Indice de protecti (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/78/_Haut Parleur Bluetooth Anker Soundcore Select 4Go - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth 5.4 - Interface _ USB-C - Autonomie _ 20 Heures - Portée de Bluetooth maximale _ 30m - Indice de protecti (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/78/_Haut Parleur Bluetooth Anker Soundcore Select 4Go - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth 5.4 - Interface _ USB-C - Autonomie _ 20 Heures - Portée de Bluetooth maximale _ 30m - Indice de protecti (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/78/_Haut Parleur Bluetooth Anker Soundcore Select 4Go - Puissance _ 5W - Connectivité _ Sans Fil, Bluetooth 5.4 - Interface _ USB-C - Autonomie _ 20 Heures - Portée de Bluetooth maximale _ 30m - Indice de protecti (5).jpg"
     ]
   },
   {
@@ -3193,11 +3193,11 @@ export const telephone_accessoires = [
       "autonomie": "5 h",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/79/Haut-parleurs Bluetooth Aibimy 282 - Puissance _ 10 Watts - Connectivité _ Bluetooth 5.0 - Capacité de batterie _ 2000mAh - Autonomie _ jusqu'à 2.5 heures de lecture - délivre un son clair et puissant avec des bass.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/79/Haut-parleurs Bluetooth Aibimy 282 - Puissance _ 10 Watts - Connectivité _ Bluetooth 5.0 - Capacité de batterie _ 2000mAh - Autonomie _ jusqu'à 2.5 heures de lecture - délivre un son clair et puissant avec des bass.jpg",
     "images": [
-      "/telephone_accessoires/79/Haut-parleurs Bluetooth Aibimy 282 - Puissance _ 10 Watts - Connectivité _ Bluetooth 5.0 - Capacité de batterie _ 2000mAh - Autonomie _ jusqu'à 2.5 heures de lecture - délivre un son clair et puissant avec des bass.jpg",
-      "/telephone_accessoires/79/Haut-parleurs Bluetooth Aibimy 282 - Puissance _ 10 Watts - Connectivité _ Bluetooth 5.0 - Capacité de batterie _ 2000mAh - Autonomie _ jusqu'à 2.5 heures de lecture - délivre un son clair et puissant avec des  (1).jpg",
-      "/telephone_accessoires/79/Haut-parleurs Bluetooth Aibimy 282 - Puissance _ 10 Watts - Connectivité _ Bluetooth 5.0 - Capacité de batterie _ 2000mAh - Autonomie _ jusqu'à 2.5 heures de lecture - délivre un son clair et puissant avec des  (2).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/79/Haut-parleurs Bluetooth Aibimy 282 - Puissance _ 10 Watts - Connectivité _ Bluetooth 5.0 - Capacité de batterie _ 2000mAh - Autonomie _ jusqu'à 2.5 heures de lecture - délivre un son clair et puissant avec des bass.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/79/Haut-parleurs Bluetooth Aibimy 282 - Puissance _ 10 Watts - Connectivité _ Bluetooth 5.0 - Capacité de batterie _ 2000mAh - Autonomie _ jusqu'à 2.5 heures de lecture - délivre un son clair et puissant avec des  (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/79/Haut-parleurs Bluetooth Aibimy 282 - Puissance _ 10 Watts - Connectivité _ Bluetooth 5.0 - Capacité de batterie _ 2000mAh - Autonomie _ jusqu'à 2.5 heures de lecture - délivre un son clair et puissant avec des  (2).jpg"
     ]
   },
   {
@@ -3233,14 +3233,14 @@ export const telephone_accessoires = [
       "interfaces": "USB, AUX, Carte TF",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/80/Haut Parleur Bluetooth Kisonli K17 - Puissance _ 50W (2 x 20W + 2 x 5 W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  USB _ TF _ AUX - Capacité batterie _ 4000 mAh - Autonomie _ 2 à 5 h - Temps de charg.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/80/Haut Parleur Bluetooth Kisonli K17 - Puissance _ 50W (2 x 20W + 2 x 5 W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  USB _ TF _ AUX - Capacité batterie _ 4000 mAh - Autonomie _ 2 à 5 h - Temps de charg.jpg",
     "images": [
-      "/telephone_accessoires/80/Haut Parleur Bluetooth Kisonli K17 - Puissance _ 50W (2 x 20W + 2 x 5 W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  USB _ TF _ AUX - Capacité batterie _ 4000 mAh - Autonomie _ 2 à 5 h - Temps de charg.jpg",
-      "/telephone_accessoires/80/Haut Parleur Bluetooth Kisonli K17 - Puissance _ 50W (2 x 20W + 2 x 5 W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  USB _ TF _ AUX - Capacité batterie _ 4000 mAh - Autonomie _ 2 à 5 h - Temps de c (1).jpg",
-      "/telephone_accessoires/80/Haut Parleur Bluetooth Kisonli K17 - Puissance _ 50W (2 x 20W + 2 x 5 W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  USB _ TF _ AUX - Capacité batterie _ 4000 mAh - Autonomie _ 2 à 5 h - Temps de c (2).jpg",
-      "/telephone_accessoires/80/Haut Parleur Bluetooth Kisonli K17 - Puissance _ 50W (2 x 20W + 2 x 5 W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  USB _ TF _ AUX - Capacité batterie _ 4000 mAh - Autonomie _ 2 à 5 h - Temps de c (3).jpg",
-      "/telephone_accessoires/80/Haut Parleur Bluetooth Kisonli K17 - Puissance _ 50W (2 x 20W + 2 x 5 W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  USB _ TF _ AUX - Capacité batterie _ 4000 mAh - Autonomie _ 2 à 5 h - Temps de c (4).jpg",
-      "/telephone_accessoires/80/Haut Parleur Bluetooth Kisonli K17 - Puissance _ 50W (2 x 20W + 2 x 5 W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  USB _ TF _ AUX - Capacité batterie _ 4000 mAh - Autonomie _ 2 à 5 h - Temps de c (5).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/80/Haut Parleur Bluetooth Kisonli K17 - Puissance _ 50W (2 x 20W + 2 x 5 W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  USB _ TF _ AUX - Capacité batterie _ 4000 mAh - Autonomie _ 2 à 5 h - Temps de charg.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/80/Haut Parleur Bluetooth Kisonli K17 - Puissance _ 50W (2 x 20W + 2 x 5 W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  USB _ TF _ AUX - Capacité batterie _ 4000 mAh - Autonomie _ 2 à 5 h - Temps de c (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/80/Haut Parleur Bluetooth Kisonli K17 - Puissance _ 50W (2 x 20W + 2 x 5 W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  USB _ TF _ AUX - Capacité batterie _ 4000 mAh - Autonomie _ 2 à 5 h - Temps de c (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/80/Haut Parleur Bluetooth Kisonli K17 - Puissance _ 50W (2 x 20W + 2 x 5 W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  USB _ TF _ AUX - Capacité batterie _ 4000 mAh - Autonomie _ 2 à 5 h - Temps de c (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/80/Haut Parleur Bluetooth Kisonli K17 - Puissance _ 50W (2 x 20W + 2 x 5 W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  USB _ TF _ AUX - Capacité batterie _ 4000 mAh - Autonomie _ 2 à 5 h - Temps de c (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/80/Haut Parleur Bluetooth Kisonli K17 - Puissance _ 50W (2 x 20W + 2 x 5 W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  USB _ TF _ AUX - Capacité batterie _ 4000 mAh - Autonomie _ 2 à 5 h - Temps de c (5).jpg"
     ]
   },
   {
@@ -3275,16 +3275,16 @@ export const telephone_accessoires = [
       "autonomie": "5–10 h",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/81/Haut Parleur Bluetooth Kisonli K13 - Puissance _ 20W (2 x 10W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 3600 mAh - Autonomie _ 5 à 10 h - Temps de charge de la bat.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/81/Haut Parleur Bluetooth Kisonli K13 - Puissance _ 20W (2 x 10W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 3600 mAh - Autonomie _ 5 à 10 h - Temps de charge de la bat.jpg",
     "images": [
-      "/telephone_accessoires/81/Haut Parleur Bluetooth Kisonli K13 - Puissance _ 20W (2 x 10W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 3600 mAh - Autonomie _ 5 à 10 h - Temps de charge de la bat.jpg",
-      "/telephone_accessoires/81/Haut Parleur Bluetooth Kisonli K13 - Puissance _ 20W (2 x 10W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 3600 mAh - Autonomie _ 5 à 10 h - Temps de charge de la (1).jpg",
-      "/telephone_accessoires/81/Haut Parleur Bluetooth Kisonli K13 - Puissance _ 20W (2 x 10W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 3600 mAh - Autonomie _ 5 à 10 h - Temps de charge de la (2).jpg",
-      "/telephone_accessoires/81/Haut Parleur Bluetooth Kisonli K13 - Puissance _ 20W (2 x 10W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 3600 mAh - Autonomie _ 5 à 10 h - Temps de charge de la (3).jpg",
-      "/telephone_accessoires/81/Haut Parleur Bluetooth Kisonli K13 - Puissance _ 20W (2 x 10W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 3600 mAh - Autonomie _ 5 à 10 h - Temps de charge de la (4).jpg",
-      "/telephone_accessoires/81/Haut Parleur Bluetooth Kisonli K13 - Puissance _ 20W (2 x 10W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 3600 mAh - Autonomie _ 5 à 10 h - Temps de charge de la (5).jpg",
-      "/telephone_accessoires/81/Haut Parleur Bluetooth Kisonli K13 - Puissance _ 20W (2 x 10W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 3600 mAh - Autonomie _ 5 à 10 h - Temps de charge de la (6).jpg",
-      "/telephone_accessoires/81/Haut Parleur Bluetooth Kisonli K13 - Puissance _ 20W (2 x 10W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 3600 mAh - Autonomie _ 5 à 10 h - Temps de charge de la (7).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/81/Haut Parleur Bluetooth Kisonli K13 - Puissance _ 20W (2 x 10W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 3600 mAh - Autonomie _ 5 à 10 h - Temps de charge de la bat.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/81/Haut Parleur Bluetooth Kisonli K13 - Puissance _ 20W (2 x 10W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 3600 mAh - Autonomie _ 5 à 10 h - Temps de charge de la (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/81/Haut Parleur Bluetooth Kisonli K13 - Puissance _ 20W (2 x 10W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 3600 mAh - Autonomie _ 5 à 10 h - Temps de charge de la (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/81/Haut Parleur Bluetooth Kisonli K13 - Puissance _ 20W (2 x 10W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 3600 mAh - Autonomie _ 5 à 10 h - Temps de charge de la (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/81/Haut Parleur Bluetooth Kisonli K13 - Puissance _ 20W (2 x 10W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 3600 mAh - Autonomie _ 5 à 10 h - Temps de charge de la (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/81/Haut Parleur Bluetooth Kisonli K13 - Puissance _ 20W (2 x 10W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 3600 mAh - Autonomie _ 5 à 10 h - Temps de charge de la (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/81/Haut Parleur Bluetooth Kisonli K13 - Puissance _ 20W (2 x 10W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 3600 mAh - Autonomie _ 5 à 10 h - Temps de charge de la (6).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/81/Haut Parleur Bluetooth Kisonli K13 - Puissance _ 20W (2 x 10W) - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 3600 mAh - Autonomie _ 5 à 10 h - Temps de charge de la (7).jpg"
     ]
   },
   {
@@ -3319,13 +3319,13 @@ export const telephone_accessoires = [
       "autonomie": "6–10 h",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/82/Haut Parleur Bluetooth Kisonli K11 - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 4000 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 3-.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/82/Haut Parleur Bluetooth Kisonli K11 - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 4000 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 3-.jpg",
     "images": [
-      "/telephone_accessoires/82/Haut Parleur Bluetooth Kisonli K11 - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 4000 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 3-.jpg",
-      "/telephone_accessoires/82/Haut Parleur Bluetooth Kisonli K11 - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 4000 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie  (1).jpg",
-      "/telephone_accessoires/82/Haut Parleur Bluetooth Kisonli K11 - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 4000 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie  (2).jpg",
-      "/telephone_accessoires/82/Haut Parleur Bluetooth Kisonli K11 - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 4000 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie  (3).jpg",
-      "/telephone_accessoires/82/Haut Parleur Bluetooth Kisonli K11 - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 4000 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie  (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/82/Haut Parleur Bluetooth Kisonli K11 - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 4000 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 3-.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/82/Haut Parleur Bluetooth Kisonli K11 - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 4000 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie  (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/82/Haut Parleur Bluetooth Kisonli K11 - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 4000 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie  (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/82/Haut Parleur Bluetooth Kisonli K11 - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 4000 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie  (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/82/Haut Parleur Bluetooth Kisonli K11 - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF_U - Capacité batterie _ 4000 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie  (4).jpg"
     ]
   },
   {
@@ -3362,14 +3362,14 @@ export const telephone_accessoires = [
       "interfaces": "USB",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/83/Enceinte Bluetooth Kisonli K8  - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh  - Autonomie _ 3 – 8 heures - Temps de charge_ 3-5 heures - Portée Bluetooth_ J.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/83/Enceinte Bluetooth Kisonli K8  - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh  - Autonomie _ 3 – 8 heures - Temps de charge_ 3-5 heures - Portée Bluetooth_ J.jpg",
     "images": [
-      "/telephone_accessoires/83/Enceinte Bluetooth Kisonli K8  - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh  - Autonomie _ 3 – 8 heures - Temps de charge_ 3-5 heures - Portée Bluetooth_ J.jpg",
-      "/telephone_accessoires/83/Enceinte Bluetooth Kisonli K8  - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh  - Autonomie _ 3 – 8 heures - Temps de charge_ 3-5 heures - Portée Bluetoot (1).jpg",
-      "/telephone_accessoires/83/Enceinte Bluetooth Kisonli K8  - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh  - Autonomie _ 3 – 8 heures - Temps de charge_ 3-5 heures - Portée Bluetoot (2).jpg",
-      "/telephone_accessoires/83/Enceinte Bluetooth Kisonli K8  - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh  - Autonomie _ 3 – 8 heures - Temps de charge_ 3-5 heures - Portée Bluetoot (3).jpg",
-      "/telephone_accessoires/83/Enceinte Bluetooth Kisonli K8  - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh  - Autonomie _ 3 – 8 heures - Temps de charge_ 3-5 heures - Portée Bluetoot (4).jpg",
-      "/telephone_accessoires/83/Enceinte Bluetooth Kisonli K8  - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh  - Autonomie _ 3 – 8 heures - Temps de charge_ 3-5 heures - Portée Bluetoot (5).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/83/Enceinte Bluetooth Kisonli K8  - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh  - Autonomie _ 3 – 8 heures - Temps de charge_ 3-5 heures - Portée Bluetooth_ J.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/83/Enceinte Bluetooth Kisonli K8  - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh  - Autonomie _ 3 – 8 heures - Temps de charge_ 3-5 heures - Portée Bluetoot (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/83/Enceinte Bluetooth Kisonli K8  - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh  - Autonomie _ 3 – 8 heures - Temps de charge_ 3-5 heures - Portée Bluetoot (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/83/Enceinte Bluetooth Kisonli K8  - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh  - Autonomie _ 3 – 8 heures - Temps de charge_ 3-5 heures - Portée Bluetoot (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/83/Enceinte Bluetooth Kisonli K8  - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh  - Autonomie _ 3 – 8 heures - Temps de charge_ 3-5 heures - Portée Bluetoot (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/83/Enceinte Bluetooth Kisonli K8  - Puissance _ 50W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh  - Autonomie _ 3 – 8 heures - Temps de charge_ 3-5 heures - Portée Bluetoot (5).jpg"
     ]
   },
   {
@@ -3406,14 +3406,14 @@ export const telephone_accessoires = [
       "interfaces": "USB",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/85/Enceinte Bluetooth Kisonli K6 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh - Autonomie _ 6 – 10 heures - Temps de charge_ 3-5 heures - Portée Bluetooth_ Ju.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/85/Enceinte Bluetooth Kisonli K6 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh - Autonomie _ 6 – 10 heures - Temps de charge_ 3-5 heures - Portée Bluetooth_ Ju.jpg",
     "images": [
-      "/telephone_accessoires/85/Enceinte Bluetooth Kisonli K6 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh - Autonomie _ 6 – 10 heures - Temps de charge_ 3-5 heures - Portée Bluetooth_ Ju.jpg",
-      "/telephone_accessoires/85/Enceinte Bluetooth Kisonli K6 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh - Autonomie _ 6 – 10 heures - Temps de charge_ 3-5 heures - Portée Bluetooth (1).jpg",
-      "/telephone_accessoires/85/Enceinte Bluetooth Kisonli K6 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh - Autonomie _ 6 – 10 heures - Temps de charge_ 3-5 heures - Portée Bluetooth (2).jpg",
-      "/telephone_accessoires/85/Enceinte Bluetooth Kisonli K6 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh - Autonomie _ 6 – 10 heures - Temps de charge_ 3-5 heures - Portée Bluetooth (3).jpg",
-      "/telephone_accessoires/85/Enceinte Bluetooth Kisonli K6 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh - Autonomie _ 6 – 10 heures - Temps de charge_ 3-5 heures - Portée Bluetooth (4).jpg",
-      "/telephone_accessoires/85/Enceinte Bluetooth Kisonli K6 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh - Autonomie _ 6 – 10 heures - Temps de charge_ 3-5 heures - Portée Bluetooth (5).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/85/Enceinte Bluetooth Kisonli K6 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh - Autonomie _ 6 – 10 heures - Temps de charge_ 3-5 heures - Portée Bluetooth_ Ju.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/85/Enceinte Bluetooth Kisonli K6 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh - Autonomie _ 6 – 10 heures - Temps de charge_ 3-5 heures - Portée Bluetooth (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/85/Enceinte Bluetooth Kisonli K6 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh - Autonomie _ 6 – 10 heures - Temps de charge_ 3-5 heures - Portée Bluetooth (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/85/Enceinte Bluetooth Kisonli K6 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh - Autonomie _ 6 – 10 heures - Temps de charge_ 3-5 heures - Portée Bluetooth (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/85/Enceinte Bluetooth Kisonli K6 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh - Autonomie _ 6 – 10 heures - Temps de charge_ 3-5 heures - Portée Bluetooth (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/85/Enceinte Bluetooth Kisonli K6 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth - Interfaces _ USB - Capacité batterie_ 4000 mAh - Autonomie _ 6 – 10 heures - Temps de charge_ 3-5 heures - Portée Bluetooth (5).jpg"
     ]
   },
   {
@@ -3448,12 +3448,12 @@ export const telephone_accessoires = [
       "autonomie": "6–10 h",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/86/Enceinte Bluetooth Kisonli K10 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF - Capacité batterie _ 4400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 4-6 heur.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/86/Enceinte Bluetooth Kisonli K10 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF - Capacité batterie _ 4400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 4-6 heur.jpg",
     "images": [
-      "/telephone_accessoires/86/Enceinte Bluetooth Kisonli K10 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF - Capacité batterie _ 4400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 4-6 heur.jpg",
-      "/telephone_accessoires/86/Enceinte Bluetooth Kisonli K10 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF - Capacité batterie _ 4400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 4-6  (1).jpg",
-      "/telephone_accessoires/86/Enceinte Bluetooth Kisonli K10 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF - Capacité batterie _ 4400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 4-6  (2).jpg",
-      "/telephone_accessoires/86/Enceinte Bluetooth Kisonli K10 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF - Capacité batterie _ 4400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 4-6  (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/86/Enceinte Bluetooth Kisonli K10 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF - Capacité batterie _ 4400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 4-6 heur.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/86/Enceinte Bluetooth Kisonli K10 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF - Capacité batterie _ 4400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 4-6  (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/86/Enceinte Bluetooth Kisonli K10 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF - Capacité batterie _ 4400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 4-6  (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/86/Enceinte Bluetooth Kisonli K10 - Puissance _ 30W - Connectivité _ Sans Fil, Bluetooth 5.3 - Interfaces _  Aux_USB_TF - Capacité batterie _ 4400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 4-6  (3).jpg"
     ]
   },
   {
@@ -3488,14 +3488,14 @@ export const telephone_accessoires = [
       "autonomie": "6–10 h",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/87/Enceinte Bluetooth Kisonli K2 - Puissance _ 13W - Connectivité _ Sans Fil, Bluetooth 5.0 - Interfaces _ Aux_USB_TF - Capacité batterie _ 2400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 3-5 heures.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/87/Enceinte Bluetooth Kisonli K2 - Puissance _ 13W - Connectivité _ Sans Fil, Bluetooth 5.0 - Interfaces _ Aux_USB_TF - Capacité batterie _ 2400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 3-5 heures.jpg",
     "images": [
-      "/telephone_accessoires/87/Enceinte Bluetooth Kisonli K2 - Puissance _ 13W - Connectivité _ Sans Fil, Bluetooth 5.0 - Interfaces _ Aux_USB_TF - Capacité batterie _ 2400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 3-5 heures.jpg",
-      "/telephone_accessoires/87/Enceinte Bluetooth Kisonli K2 - Puissance _ 13W - Connectivité _ Sans Fil, Bluetooth 5.0 - Interfaces _ Aux_USB_TF - Capacité batterie _ 2400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 3-5 he (1).jpg",
-      "/telephone_accessoires/87/Enceinte Bluetooth Kisonli K2 - Puissance _ 13W - Connectivité _ Sans Fil, Bluetooth 5.0 - Interfaces _ Aux_USB_TF - Capacité batterie _ 2400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 3-5 he (2).jpg",
-      "/telephone_accessoires/87/Enceinte Bluetooth Kisonli K2 - Puissance _ 13W - Connectivité _ Sans Fil, Bluetooth 5.0 - Interfaces _ Aux_USB_TF - Capacité batterie _ 2400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 3-5 he (3).jpg",
-      "/telephone_accessoires/87/Enceinte Bluetooth Kisonli K2 - Puissance _ 13W - Connectivité _ Sans Fil, Bluetooth 5.0 - Interfaces _ Aux_USB_TF - Capacité batterie _ 2400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 3-5 he (4).jpg",
-      "/telephone_accessoires/87/Enceinte Bluetooth Kisonli K2 - Puissance _ 13W - Connectivité _ Sans Fil, Bluetooth 5.0 - Interfaces _ Aux_USB_TF - Capacité batterie _ 2400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 3-5 he (5).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/87/Enceinte Bluetooth Kisonli K2 - Puissance _ 13W - Connectivité _ Sans Fil, Bluetooth 5.0 - Interfaces _ Aux_USB_TF - Capacité batterie _ 2400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 3-5 heures.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/87/Enceinte Bluetooth Kisonli K2 - Puissance _ 13W - Connectivité _ Sans Fil, Bluetooth 5.0 - Interfaces _ Aux_USB_TF - Capacité batterie _ 2400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 3-5 he (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/87/Enceinte Bluetooth Kisonli K2 - Puissance _ 13W - Connectivité _ Sans Fil, Bluetooth 5.0 - Interfaces _ Aux_USB_TF - Capacité batterie _ 2400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 3-5 he (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/87/Enceinte Bluetooth Kisonli K2 - Puissance _ 13W - Connectivité _ Sans Fil, Bluetooth 5.0 - Interfaces _ Aux_USB_TF - Capacité batterie _ 2400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 3-5 he (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/87/Enceinte Bluetooth Kisonli K2 - Puissance _ 13W - Connectivité _ Sans Fil, Bluetooth 5.0 - Interfaces _ Aux_USB_TF - Capacité batterie _ 2400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 3-5 he (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/87/Enceinte Bluetooth Kisonli K2 - Puissance _ 13W - Connectivité _ Sans Fil, Bluetooth 5.0 - Interfaces _ Aux_USB_TF - Capacité batterie _ 2400 mAh - Autonomie _ 6 à 10 h - Temps de charge de la batterie _ 3-5 he (5).jpg"
     ]
   },
   {
@@ -3527,13 +3527,13 @@ export const telephone_accessoires = [
       "interfaces": "USB, AUX",
       "type_connexion": "Filaire"
     },
-    "image": "/telephone_accessoires/88/Haut Parleur Stéréo Logitech USB Z150 - Puissance_ 3 Watts - Connectivité _ Filaire - Interface _ USB - Commandes _ Contrôle de l'alimentation et du volume sur le haut-parleur droit - Entrée 3,5 mm _ 2 (jusqu'à 108.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/88/Haut Parleur Stéréo Logitech USB Z150 - Puissance_ 3 Watts - Connectivité _ Filaire - Interface _ USB - Commandes _ Contrôle de l'alimentation et du volume sur le haut-parleur droit - Entrée 3,5 mm _ 2 (jusqu'à 108.jpg",
     "images": [
-      "/telephone_accessoires/88/Haut Parleur Stéréo Logitech USB Z150 - Puissance_ 3 Watts - Connectivité _ Filaire - Interface _ USB - Commandes _ Contrôle de l'alimentation et du volume sur le haut-parleur droit - Entrée 3,5 mm _ 2 (jusqu'à 108.jpg",
-      "/telephone_accessoires/88/Haut Parleur Stéréo Logitech USB Z150 - Puissance_ 3 Watts - Connectivité _ Filaire - Interface _ USB - Commandes _ Contrôle de l'alimentation et du volume sur le haut-parleur droit - Entrée 3,5 mm _ 2 (jusqu'à (1).jpg",
-      "/telephone_accessoires/88/Haut Parleur Stéréo Logitech USB Z150 - Puissance_ 3 Watts - Connectivité _ Filaire - Interface _ USB - Commandes _ Contrôle de l'alimentation et du volume sur le haut-parleur droit - Entrée 3,5 mm _ 2 (jusqu'à (2).jpg",
-      "/telephone_accessoires/88/Haut Parleur Stéréo Logitech USB Z150 - Puissance_ 3 Watts - Connectivité _ Filaire - Interface _ USB - Commandes _ Contrôle de l'alimentation et du volume sur le haut-parleur droit - Entrée 3,5 mm _ 2 (jusqu'à (3).jpg",
-      "/telephone_accessoires/88/Haut Parleur Stéréo Logitech USB Z150 - Puissance_ 3 Watts - Connectivité _ Filaire - Interface _ USB - Commandes _ Contrôle de l'alimentation et du volume sur le haut-parleur droit - Entrée 3,5 mm _ 2 (jusqu'à (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/88/Haut Parleur Stéréo Logitech USB Z150 - Puissance_ 3 Watts - Connectivité _ Filaire - Interface _ USB - Commandes _ Contrôle de l'alimentation et du volume sur le haut-parleur droit - Entrée 3,5 mm _ 2 (jusqu'à 108.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/88/Haut Parleur Stéréo Logitech USB Z150 - Puissance_ 3 Watts - Connectivité _ Filaire - Interface _ USB - Commandes _ Contrôle de l'alimentation et du volume sur le haut-parleur droit - Entrée 3,5 mm _ 2 (jusqu'à (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/88/Haut Parleur Stéréo Logitech USB Z150 - Puissance_ 3 Watts - Connectivité _ Filaire - Interface _ USB - Commandes _ Contrôle de l'alimentation et du volume sur le haut-parleur droit - Entrée 3,5 mm _ 2 (jusqu'à (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/88/Haut Parleur Stéréo Logitech USB Z150 - Puissance_ 3 Watts - Connectivité _ Filaire - Interface _ USB - Commandes _ Contrôle de l'alimentation et du volume sur le haut-parleur droit - Entrée 3,5 mm _ 2 (jusqu'à (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/88/Haut Parleur Stéréo Logitech USB Z150 - Puissance_ 3 Watts - Connectivité _ Filaire - Interface _ USB - Commandes _ Contrôle de l'alimentation et du volume sur le haut-parleur droit - Entrée 3,5 mm _ 2 (jusqu'à (4).jpg"
     ]
   },
   {
@@ -3568,14 +3568,14 @@ export const telephone_accessoires = [
       "etancheite": "Étanche",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/89/Haut-parleur Bluetooth stéréo extérieur F14 - Enceinte sans fil portable avec subwoofer basses, chargement USB-C, basses puissantes, étanche et enceinte mini compacte pour la maison, la fête.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/89/Haut-parleur Bluetooth stéréo extérieur F14 - Enceinte sans fil portable avec subwoofer basses, chargement USB-C, basses puissantes, étanche et enceinte mini compacte pour la maison, la fête.webp",
     "images": [
-      "/telephone_accessoires/89/Haut-parleur Bluetooth stéréo extérieur F14 - Enceinte sans fil portable avec subwoofer basses, chargement USB-C, basses puissantes, étanche et enceinte mini compacte pour la maison, la fête.webp",
-      "/telephone_accessoires/89/Haut-parleur Bluetooth stéréo extérieur F14 - Enceinte sans fil portable avec subwoofer basses, chargement USB-C, basses puissantes, étanche et enceinte mini compacte pour la maison, la fête (1).webp",
-      "/telephone_accessoires/89/Haut-parleur Bluetooth stéréo extérieur F14 - Enceinte sans fil portable avec subwoofer basses, chargement USB-C, basses puissantes, étanche et enceinte mini compacte pour la maison, la fête (2).webp",
-      "/telephone_accessoires/89/Haut-parleur Bluetooth stéréo extérieur F14 - Enceinte sans fil portable avec subwoofer basses, chargement USB-C, basses puissantes, étanche et enceinte mini compacte pour la maison, la fête (3).webp",
-      "/telephone_accessoires/89/Haut-parleur Bluetooth stéréo extérieur F14 - Enceinte sans fil portable avec subwoofer basses, chargement USB-C, basses puissantes, étanche et enceinte mini compacte pour la maison, la fête (4).webp",
-      "/telephone_accessoires/89/Haut-parleur Bluetooth stéréo extérieur F14 - Enceinte sans fil portable avec subwoofer basses, chargement USB-C, basses puissantes, étanche et enceinte mini compacte pour la maison, la fête (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/89/Haut-parleur Bluetooth stéréo extérieur F14 - Enceinte sans fil portable avec subwoofer basses, chargement USB-C, basses puissantes, étanche et enceinte mini compacte pour la maison, la fête.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/89/Haut-parleur Bluetooth stéréo extérieur F14 - Enceinte sans fil portable avec subwoofer basses, chargement USB-C, basses puissantes, étanche et enceinte mini compacte pour la maison, la fête (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/89/Haut-parleur Bluetooth stéréo extérieur F14 - Enceinte sans fil portable avec subwoofer basses, chargement USB-C, basses puissantes, étanche et enceinte mini compacte pour la maison, la fête (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/89/Haut-parleur Bluetooth stéréo extérieur F14 - Enceinte sans fil portable avec subwoofer basses, chargement USB-C, basses puissantes, étanche et enceinte mini compacte pour la maison, la fête (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/89/Haut-parleur Bluetooth stéréo extérieur F14 - Enceinte sans fil portable avec subwoofer basses, chargement USB-C, basses puissantes, étanche et enceinte mini compacte pour la maison, la fête (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/89/Haut-parleur Bluetooth stéréo extérieur F14 - Enceinte sans fil portable avec subwoofer basses, chargement USB-C, basses puissantes, étanche et enceinte mini compacte pour la maison, la fête (5).webp"
     ]
   },
   {
@@ -3611,18 +3611,18 @@ export const telephone_accessoires = [
       "eclairage": "LED / RGB",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/90/Haut-parleur Bluetooth portable T&G 696, haut-parleur subwoofer sans fil étanche avec lumières RGB, radio FM, basses puissantes pour extérieur et fête.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/90/Haut-parleur Bluetooth portable T&G 696, haut-parleur subwoofer sans fil étanche avec lumières RGB, radio FM, basses puissantes pour extérieur et fête.webp",
     "images": [
-      "/telephone_accessoires/90/Haut-parleur Bluetooth portable T&G 696, haut-parleur subwoofer sans fil étanche avec lumières RGB, radio FM, basses puissantes pour extérieur et fête.webp",
-      "/telephone_accessoires/90/Haut-parleur Bluetooth portable T&G 696, haut-parleur subwoofer sans fil étanche avec lumières RGB, radio FM, basses puissantes pour extérieur et fête (1).webp",
-      "/telephone_accessoires/90/Haut-parleur Bluetooth portable T&G 696, haut-parleur subwoofer sans fil étanche avec lumières RGB, radio FM, basses puissantes pour extérieur et fête (2).webp",
-      "/telephone_accessoires/90/Haut-parleur Bluetooth portable T&G 696, haut-parleur subwoofer sans fil étanche avec lumières RGB, radio FM, basses puissantes pour extérieur et fête (3).webp",
-      "/telephone_accessoires/90/Haut-parleur Bluetooth portable T&G 696, haut-parleur subwoofer sans fil étanche avec lumières RGB, radio FM, basses puissantes pour extérieur et fête (4).webp",
-      "/telephone_accessoires/90/Haut-parleur Bluetooth portable T&G 696, haut-parleur subwoofer sans fil étanche avec lumières RGB, radio FM, basses puissantes pour extérieur et fête (5).webp",
-      "/telephone_accessoires/90/Haut-parleur Bluetooth portable T&G 696, haut-parleur subwoofer sans fil étanche avec lumières RGB, radio FM, basses puissantes pour extérieur et fête (6).webp",
-      "/telephone_accessoires/90/Haut-parleur Bluetooth portable T&G 696, haut-parleur subwoofer sans fil étanche avec lumières RGB, radio FM, basses puissantes pour extérieur et fête (7).webp",
-      "/telephone_accessoires/90/Haut-parleur Bluetooth portable T&G 696, haut-parleur subwoofer sans fil étanche avec lumières RGB, radio FM, basses puissantes pour extérieur et fête (8).webp",
-      "/telephone_accessoires/90/Haut-parleur Bluetooth portable T&G 696, haut-parleur subwoofer sans fil étanche avec lumières RGB, radio FM, basses puissantes pour extérieur et fête (9).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/90/Haut-parleur Bluetooth portable T&G 696, haut-parleur subwoofer sans fil étanche avec lumières RGB, radio FM, basses puissantes pour extérieur et fête.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/90/Haut-parleur Bluetooth portable T&G 696, haut-parleur subwoofer sans fil étanche avec lumières RGB, radio FM, basses puissantes pour extérieur et fête (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/90/Haut-parleur Bluetooth portable T&G 696, haut-parleur subwoofer sans fil étanche avec lumières RGB, radio FM, basses puissantes pour extérieur et fête (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/90/Haut-parleur Bluetooth portable T&G 696, haut-parleur subwoofer sans fil étanche avec lumières RGB, radio FM, basses puissantes pour extérieur et fête (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/90/Haut-parleur Bluetooth portable T&G 696, haut-parleur subwoofer sans fil étanche avec lumières RGB, radio FM, basses puissantes pour extérieur et fête (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/90/Haut-parleur Bluetooth portable T&G 696, haut-parleur subwoofer sans fil étanche avec lumières RGB, radio FM, basses puissantes pour extérieur et fête (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/90/Haut-parleur Bluetooth portable T&G 696, haut-parleur subwoofer sans fil étanche avec lumières RGB, radio FM, basses puissantes pour extérieur et fête (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/90/Haut-parleur Bluetooth portable T&G 696, haut-parleur subwoofer sans fil étanche avec lumières RGB, radio FM, basses puissantes pour extérieur et fête (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/90/Haut-parleur Bluetooth portable T&G 696, haut-parleur subwoofer sans fil étanche avec lumières RGB, radio FM, basses puissantes pour extérieur et fête (8).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/90/Haut-parleur Bluetooth portable T&G 696, haut-parleur subwoofer sans fil étanche avec lumières RGB, radio FM, basses puissantes pour extérieur et fête (9).webp"
     ]
   },
   {
@@ -3657,13 +3657,13 @@ export const telephone_accessoires = [
       "eclairage": "LED / RGB",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/91/Cyboris S1 15W Haut-parleur Bluetooth portable étanche avec lumières RGB, Ipx6 basses de subwoofer, haut-parleur sans fil pour extérieur.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/91/Cyboris S1 15W Haut-parleur Bluetooth portable étanche avec lumières RGB, Ipx6 basses de subwoofer, haut-parleur sans fil pour extérieur.webp",
     "images": [
-      "/telephone_accessoires/91/Cyboris S1 15W Haut-parleur Bluetooth portable étanche avec lumières RGB, Ipx6 basses de subwoofer, haut-parleur sans fil pour extérieur.webp",
-      "/telephone_accessoires/91/Cyboris S1 15W Haut-parleur Bluetooth portable étanche avec lumières RGB, Ipx6 basses de subwoofer, haut-parleur sans fil pour extérieur (1).webp",
-      "/telephone_accessoires/91/Cyboris S1 15W Haut-parleur Bluetooth portable étanche avec lumières RGB, Ipx6 basses de subwoofer, haut-parleur sans fil pour extérieur (2).webp",
-      "/telephone_accessoires/91/Cyboris S1 15W Haut-parleur Bluetooth portable étanche avec lumières RGB, Ipx6 basses de subwoofer, haut-parleur sans fil pour extérieur (3).webp",
-      "/telephone_accessoires/91/Cyboris S1 15W Haut-parleur Bluetooth portable étanche avec lumières RGB, Ipx6 basses de subwoofer, haut-parleur sans fil pour extérieur (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/91/Cyboris S1 15W Haut-parleur Bluetooth portable étanche avec lumières RGB, Ipx6 basses de subwoofer, haut-parleur sans fil pour extérieur.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/91/Cyboris S1 15W Haut-parleur Bluetooth portable étanche avec lumières RGB, Ipx6 basses de subwoofer, haut-parleur sans fil pour extérieur (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/91/Cyboris S1 15W Haut-parleur Bluetooth portable étanche avec lumières RGB, Ipx6 basses de subwoofer, haut-parleur sans fil pour extérieur (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/91/Cyboris S1 15W Haut-parleur Bluetooth portable étanche avec lumières RGB, Ipx6 basses de subwoofer, haut-parleur sans fil pour extérieur (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/91/Cyboris S1 15W Haut-parleur Bluetooth portable étanche avec lumières RGB, Ipx6 basses de subwoofer, haut-parleur sans fil pour extérieur (4).webp"
     ]
   },
   {
@@ -3698,16 +3698,16 @@ export const telephone_accessoires = [
       "eclairage": "LED / RGB",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/92/Ouiido Ysw22 Haut-parleur portable RGB étanche sans fil avec subwoofer Bluetooth.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/92/Ouiido Ysw22 Haut-parleur portable RGB étanche sans fil avec subwoofer Bluetooth.webp",
     "images": [
-      "/telephone_accessoires/92/Ouiido Ysw22 Haut-parleur portable RGB étanche sans fil avec subwoofer Bluetooth.webp",
-      "/telephone_accessoires/92/Ouiido Ysw22 Haut-parleur portable RGB étanche sans fil avec subwoofer Bluetooth (1).webp",
-      "/telephone_accessoires/92/Ouiido Ysw22 Haut-parleur portable RGB étanche sans fil avec subwoofer Bluetooth (2).webp",
-      "/telephone_accessoires/92/Ouiido Ysw22 Haut-parleur portable RGB étanche sans fil avec subwoofer Bluetooth (3).webp",
-      "/telephone_accessoires/92/Ouiido Ysw22 Haut-parleur portable RGB étanche sans fil avec subwoofer Bluetooth (4).webp",
-      "/telephone_accessoires/92/Ouiido Ysw22 Haut-parleur portable RGB étanche sans fil avec subwoofer Bluetooth (5).webp",
-      "/telephone_accessoires/92/Ouiido Ysw22 Haut-parleur portable RGB étanche sans fil avec subwoofer Bluetooth (6).webp",
-      "/telephone_accessoires/92/Ouiido Ysw22 Haut-parleur portable RGB étanche sans fil avec subwoofer Bluetooth (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/92/Ouiido Ysw22 Haut-parleur portable RGB étanche sans fil avec subwoofer Bluetooth.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/92/Ouiido Ysw22 Haut-parleur portable RGB étanche sans fil avec subwoofer Bluetooth (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/92/Ouiido Ysw22 Haut-parleur portable RGB étanche sans fil avec subwoofer Bluetooth (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/92/Ouiido Ysw22 Haut-parleur portable RGB étanche sans fil avec subwoofer Bluetooth (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/92/Ouiido Ysw22 Haut-parleur portable RGB étanche sans fil avec subwoofer Bluetooth (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/92/Ouiido Ysw22 Haut-parleur portable RGB étanche sans fil avec subwoofer Bluetooth (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/92/Ouiido Ysw22 Haut-parleur portable RGB étanche sans fil avec subwoofer Bluetooth (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/92/Ouiido Ysw22 Haut-parleur portable RGB étanche sans fil avec subwoofer Bluetooth (7).webp"
     ]
   },
   {
@@ -3741,15 +3741,15 @@ export const telephone_accessoires = [
       "eclairage": "LED / RGB",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/93/_Enceinte Bluetooth Portable Dynamique RGB Sans Fil avec Subwoofer Musical Onikuma L20.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/93/_Enceinte Bluetooth Portable Dynamique RGB Sans Fil avec Subwoofer Musical Onikuma L20.webp",
     "images": [
-      "/telephone_accessoires/93/_Enceinte Bluetooth Portable Dynamique RGB Sans Fil avec Subwoofer Musical Onikuma L20.webp",
-      "/telephone_accessoires/93/_Enceinte Bluetooth Portable Dynamique RGB Sans Fil avec Subwoofer Musical Onikuma L20 (1).webp",
-      "/telephone_accessoires/93/_Enceinte Bluetooth Portable Dynamique RGB Sans Fil avec Subwoofer Musical Onikuma L20 (2).webp",
-      "/telephone_accessoires/93/_Enceinte Bluetooth Portable Dynamique RGB Sans Fil avec Subwoofer Musical Onikuma L20 (3).webp",
-      "/telephone_accessoires/93/_Enceinte Bluetooth Portable Dynamique RGB Sans Fil avec Subwoofer Musical Onikuma L20 (4).webp",
-      "/telephone_accessoires/93/_Enceinte Bluetooth Portable Dynamique RGB Sans Fil avec Subwoofer Musical Onikuma L20 (5).webp",
-      "/telephone_accessoires/93/_Enceinte Bluetooth Portable Dynamique RGB Sans Fil avec Subwoofer Musical Onikuma L20 (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/93/_Enceinte Bluetooth Portable Dynamique RGB Sans Fil avec Subwoofer Musical Onikuma L20.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/93/_Enceinte Bluetooth Portable Dynamique RGB Sans Fil avec Subwoofer Musical Onikuma L20 (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/93/_Enceinte Bluetooth Portable Dynamique RGB Sans Fil avec Subwoofer Musical Onikuma L20 (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/93/_Enceinte Bluetooth Portable Dynamique RGB Sans Fil avec Subwoofer Musical Onikuma L20 (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/93/_Enceinte Bluetooth Portable Dynamique RGB Sans Fil avec Subwoofer Musical Onikuma L20 (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/93/_Enceinte Bluetooth Portable Dynamique RGB Sans Fil avec Subwoofer Musical Onikuma L20 (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/93/_Enceinte Bluetooth Portable Dynamique RGB Sans Fil avec Subwoofer Musical Onikuma L20 (6).webp"
     ]
   },
   {
@@ -3777,15 +3777,15 @@ export const telephone_accessoires = [
     ],
     "minOrder": 20,
     "specifications": {},
-    "image": "/telephone_accessoires/94/je voudrais _que tu maide avec laffichage de certain produit dans product detailscrenn defois tu clique sur un produit et cest un autre qui apparait il ya un soucis d id de certain produit qui se melange_.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/94/je voudrais _que tu maide avec laffichage de certain produit dans product detailscrenn defois tu clique sur un produit et cest un autre qui apparait il ya un soucis d id de certain produit qui se melange_.webp",
     "images": [
-      "/telephone_accessoires/94/je voudrais _que tu maide avec laffichage de certain produit dans product detailscrenn defois tu clique sur un produit et cest un autre qui apparait il ya un soucis d id de certain produit qui se melange_.webp",
-      "/telephone_accessoires/94/je voudrais _que tu maide avec laffichage de certain produit dans product detailscrenn defois tu clique sur un produit et cest un autre qui apparait il ya un soucis d id de certain produit qui se melange_ (1).webp",
-      "/telephone_accessoires/94/je voudrais _que tu maide avec laffichage de certain produit dans product detailscrenn defois tu clique sur un produit et cest un autre qui apparait il ya un soucis d id de certain produit qui se melange_ (2).webp",
-      "/telephone_accessoires/94/je voudrais _que tu maide avec laffichage de certain produit dans product detailscrenn defois tu clique sur un produit et cest un autre qui apparait il ya un soucis d id de certain produit qui se melange_ (3).webp",
-      "/telephone_accessoires/94/je voudrais _que tu maide avec laffichage de certain produit dans product detailscrenn defois tu clique sur un produit et cest un autre qui apparait il ya un soucis d id de certain produit qui se melange_ (4).webp",
-      "/telephone_accessoires/94/je voudrais _que tu maide avec laffichage de certain produit dans product detailscrenn defois tu clique sur un produit et cest un autre qui apparait il ya un soucis d id de certain produit qui se melange_ (5).webp",
-      "/telephone_accessoires/94/je voudrais _que tu maide avec laffichage de certain produit dans product detailscrenn defois tu clique sur un produit et cest un autre qui apparait il ya un soucis d id de certain produit qui se melange_ (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/94/je voudrais _que tu maide avec laffichage de certain produit dans product detailscrenn defois tu clique sur un produit et cest un autre qui apparait il ya un soucis d id de certain produit qui se melange_.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/94/je voudrais _que tu maide avec laffichage de certain produit dans product detailscrenn defois tu clique sur un produit et cest un autre qui apparait il ya un soucis d id de certain produit qui se melange_ (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/94/je voudrais _que tu maide avec laffichage de certain produit dans product detailscrenn defois tu clique sur un produit et cest un autre qui apparait il ya un soucis d id de certain produit qui se melange_ (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/94/je voudrais _que tu maide avec laffichage de certain produit dans product detailscrenn defois tu clique sur un produit et cest un autre qui apparait il ya un soucis d id de certain produit qui se melange_ (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/94/je voudrais _que tu maide avec laffichage de certain produit dans product detailscrenn defois tu clique sur un produit et cest un autre qui apparait il ya un soucis d id de certain produit qui se melange_ (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/94/je voudrais _que tu maide avec laffichage de certain produit dans product detailscrenn defois tu clique sur un produit et cest un autre qui apparait il ya un soucis d id de certain produit qui se melange_ (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/94/je voudrais _que tu maide avec laffichage de certain produit dans product detailscrenn defois tu clique sur un produit et cest un autre qui apparait il ya un soucis d id de certain produit qui se melange_ (6).webp"
     ]
   },
   {
@@ -3818,16 +3818,16 @@ export const telephone_accessoires = [
       "bluetooth": "Bluetooth",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/95/T&G Tg679 Caisson de basses Bluetooth portable - Mini haut-parleur avec boucle de suspension.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/95/T&G Tg679 Caisson de basses Bluetooth portable - Mini haut-parleur avec boucle de suspension.webp",
     "images": [
-      "/telephone_accessoires/95/T&G Tg679 Caisson de basses Bluetooth portable - Mini haut-parleur avec boucle de suspension.webp",
-      "/telephone_accessoires/95/T&G Tg679 Caisson de basses Bluetooth portable - Mini haut-parleur avec boucle de suspension (1).webp",
-      "/telephone_accessoires/95/T&G Tg679 Caisson de basses Bluetooth portable - Mini haut-parleur avec boucle de suspension (2).webp",
-      "/telephone_accessoires/95/T&G Tg679 Caisson de basses Bluetooth portable - Mini haut-parleur avec boucle de suspension (3).webp",
-      "/telephone_accessoires/95/T&G Tg679 Caisson de basses Bluetooth portable - Mini haut-parleur avec boucle de suspension (4).webp",
-      "/telephone_accessoires/95/T&G Tg679 Caisson de basses Bluetooth portable - Mini haut-parleur avec boucle de suspension (5).webp",
-      "/telephone_accessoires/95/T&G Tg679 Caisson de basses Bluetooth portable - Mini haut-parleur avec boucle de suspension (6).webp",
-      "/telephone_accessoires/95/T&G Tg679 Caisson de basses Bluetooth portable - Mini haut-parleur avec boucle de suspension (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/95/T&G Tg679 Caisson de basses Bluetooth portable - Mini haut-parleur avec boucle de suspension.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/95/T&G Tg679 Caisson de basses Bluetooth portable - Mini haut-parleur avec boucle de suspension (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/95/T&G Tg679 Caisson de basses Bluetooth portable - Mini haut-parleur avec boucle de suspension (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/95/T&G Tg679 Caisson de basses Bluetooth portable - Mini haut-parleur avec boucle de suspension (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/95/T&G Tg679 Caisson de basses Bluetooth portable - Mini haut-parleur avec boucle de suspension (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/95/T&G Tg679 Caisson de basses Bluetooth portable - Mini haut-parleur avec boucle de suspension (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/95/T&G Tg679 Caisson de basses Bluetooth portable - Mini haut-parleur avec boucle de suspension (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/95/T&G Tg679 Caisson de basses Bluetooth portable - Mini haut-parleur avec boucle de suspension (7).webp"
     ]
   },
   {
@@ -3861,15 +3861,15 @@ export const telephone_accessoires = [
       "eclairage": "LED / RGB",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/96/Ik25 Haut-parleur Bluetooth portable de karaoké en gros pour extérieur avec lumière LED.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/96/Ik25 Haut-parleur Bluetooth portable de karaoké en gros pour extérieur avec lumière LED.webp",
     "images": [
-      "/telephone_accessoires/96/Ik25 Haut-parleur Bluetooth portable de karaoké en gros pour extérieur avec lumière LED.webp",
-      "/telephone_accessoires/96/Ik25 Haut-parleur Bluetooth portable de karaoké en gros pour extérieur avec lumière LED (1).webp",
-      "/telephone_accessoires/96/Ik25 Haut-parleur Bluetooth portable de karaoké en gros pour extérieur avec lumière LED (2).webp",
-      "/telephone_accessoires/96/Ik25 Haut-parleur Bluetooth portable de karaoké en gros pour extérieur avec lumière LED (3).webp",
-      "/telephone_accessoires/96/Ik25 Haut-parleur Bluetooth portable de karaoké en gros pour extérieur avec lumière LED (4).webp",
-      "/telephone_accessoires/96/Ik25 Haut-parleur Bluetooth portable de karaoké en gros pour extérieur avec lumière LED (5).webp",
-      "/telephone_accessoires/96/Ik25 Haut-parleur Bluetooth portable de karaoké en gros pour extérieur avec lumière LED (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/96/Ik25 Haut-parleur Bluetooth portable de karaoké en gros pour extérieur avec lumière LED.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/96/Ik25 Haut-parleur Bluetooth portable de karaoké en gros pour extérieur avec lumière LED (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/96/Ik25 Haut-parleur Bluetooth portable de karaoké en gros pour extérieur avec lumière LED (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/96/Ik25 Haut-parleur Bluetooth portable de karaoké en gros pour extérieur avec lumière LED (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/96/Ik25 Haut-parleur Bluetooth portable de karaoké en gros pour extérieur avec lumière LED (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/96/Ik25 Haut-parleur Bluetooth portable de karaoké en gros pour extérieur avec lumière LED (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/96/Ik25 Haut-parleur Bluetooth portable de karaoké en gros pour extérieur avec lumière LED (6).webp"
     ]
   },
   {
@@ -3902,12 +3902,12 @@ export const telephone_accessoires = [
       "bluetooth": "Bluetooth",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/97/Haut-parleur Bluetooth de sac à main haut de gamme, portable, compact, sans fil pour la maison, les activités en plein air et les voyages.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/97/Haut-parleur Bluetooth de sac à main haut de gamme, portable, compact, sans fil pour la maison, les activités en plein air et les voyages.webp",
     "images": [
-      "/telephone_accessoires/97/Haut-parleur Bluetooth de sac à main haut de gamme, portable, compact, sans fil pour la maison, les activités en plein air et les voyages.webp",
-      "/telephone_accessoires/97/Haut-parleur Bluetooth de sac à main haut de gamme, portable, compact, sans fil pour la maison, les activités en plein air et les voyages (1).webp",
-      "/telephone_accessoires/97/Haut-parleur Bluetooth de sac à main haut de gamme, portable, compact, sans fil pour la maison, les activités en plein air et les voyages (2).webp",
-      "/telephone_accessoires/97/Haut-parleur Bluetooth de sac à main haut de gamme, portable, compact, sans fil pour la maison, les activités en plein air et les voyages (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/97/Haut-parleur Bluetooth de sac à main haut de gamme, portable, compact, sans fil pour la maison, les activités en plein air et les voyages.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/97/Haut-parleur Bluetooth de sac à main haut de gamme, portable, compact, sans fil pour la maison, les activités en plein air et les voyages (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/97/Haut-parleur Bluetooth de sac à main haut de gamme, portable, compact, sans fil pour la maison, les activités en plein air et les voyages (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/97/Haut-parleur Bluetooth de sac à main haut de gamme, portable, compact, sans fil pour la maison, les activités en plein air et les voyages (3).webp"
     ]
   },
   {
@@ -3943,14 +3943,14 @@ export const telephone_accessoires = [
       "eclairage": "LED / RGB",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/98/Ipx7 Haut-parleur Bluetooth sans fil Musique LED Portable Extérieur Bass Subwoofer Boîte Sonore avec Micro Support TF FM USB.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/98/Ipx7 Haut-parleur Bluetooth sans fil Musique LED Portable Extérieur Bass Subwoofer Boîte Sonore avec Micro Support TF FM USB.webp",
     "images": [
-      "/telephone_accessoires/98/Ipx7 Haut-parleur Bluetooth sans fil Musique LED Portable Extérieur Bass Subwoofer Boîte Sonore avec Micro Support TF FM USB.webp",
-      "/telephone_accessoires/98/Ipx7 Haut-parleur Bluetooth sans fil Musique LED Portable Extérieur Bass Subwoofer Boîte Sonore avec Micro Support TF FM USB (1).webp",
-      "/telephone_accessoires/98/Ipx7 Haut-parleur Bluetooth sans fil Musique LED Portable Extérieur Bass Subwoofer Boîte Sonore avec Micro Support TF FM USB (2).webp",
-      "/telephone_accessoires/98/Ipx7 Haut-parleur Bluetooth sans fil Musique LED Portable Extérieur Bass Subwoofer Boîte Sonore avec Micro Support TF FM USB (3).webp",
-      "/telephone_accessoires/98/Ipx7 Haut-parleur Bluetooth sans fil Musique LED Portable Extérieur Bass Subwoofer Boîte Sonore avec Micro Support TF FM USB (4).webp",
-      "/telephone_accessoires/98/Ipx7 Haut-parleur Bluetooth sans fil Musique LED Portable Extérieur Bass Subwoofer Boîte Sonore avec Micro Support TF FM USB (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/98/Ipx7 Haut-parleur Bluetooth sans fil Musique LED Portable Extérieur Bass Subwoofer Boîte Sonore avec Micro Support TF FM USB.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/98/Ipx7 Haut-parleur Bluetooth sans fil Musique LED Portable Extérieur Bass Subwoofer Boîte Sonore avec Micro Support TF FM USB (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/98/Ipx7 Haut-parleur Bluetooth sans fil Musique LED Portable Extérieur Bass Subwoofer Boîte Sonore avec Micro Support TF FM USB (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/98/Ipx7 Haut-parleur Bluetooth sans fil Musique LED Portable Extérieur Bass Subwoofer Boîte Sonore avec Micro Support TF FM USB (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/98/Ipx7 Haut-parleur Bluetooth sans fil Musique LED Portable Extérieur Bass Subwoofer Boîte Sonore avec Micro Support TF FM USB (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/98/Ipx7 Haut-parleur Bluetooth sans fil Musique LED Portable Extérieur Bass Subwoofer Boîte Sonore avec Micro Support TF FM USB (5).webp"
     ]
   },
   {
@@ -3984,18 +3984,18 @@ export const telephone_accessoires = [
       "eclairage": "LED / RGB",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/99/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/99/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes.webp",
     "images": [
-      "/telephone_accessoires/99/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes.webp",
-      "/telephone_accessoires/99/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (1).webp",
-      "/telephone_accessoires/99/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (2).webp",
-      "/telephone_accessoires/99/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (3).webp",
-      "/telephone_accessoires/99/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (4).webp",
-      "/telephone_accessoires/99/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (5).webp",
-      "/telephone_accessoires/99/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (6).webp",
-      "/telephone_accessoires/99/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (7).webp",
-      "/telephone_accessoires/99/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (8).webp",
-      "/telephone_accessoires/99/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (9).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/99/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/99/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/99/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/99/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/99/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/99/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/99/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/99/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/99/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (8).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/99/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (9).webp"
     ]
   },
   {
@@ -4029,13 +4029,13 @@ export const telephone_accessoires = [
       "eclairage": "LED / RGB",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/100/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/100/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes.webp",
     "images": [
-      "/telephone_accessoires/100/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes.webp",
-      "/telephone_accessoires/100/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (1).webp",
-      "/telephone_accessoires/100/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (2).webp",
-      "/telephone_accessoires/100/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (3).webp",
-      "/telephone_accessoires/100/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/100/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/100/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/100/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/100/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/100/Mini haut-parleur Bluetooth portable sans fil avec lumières RGB, son Hi-Fi et subwoofer à basses profondes (4).webp"
     ]
   },
   {
@@ -4066,13 +4066,13 @@ export const telephone_accessoires = [
     "specifications": {
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/101/Casque sans fil Soyto P9plus avec haut-parleurs de 40 mm, son HiFi, design supra-auriculaire, écouteurs confortables pour le bureau, les études, la musique et les jeux.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/101/Casque sans fil Soyto P9plus avec haut-parleurs de 40 mm, son HiFi, design supra-auriculaire, écouteurs confortables pour le bureau, les études, la musique et les jeux.jpg",
     "images": [
-      "/telephone_accessoires/101/Casque sans fil Soyto P9plus avec haut-parleurs de 40 mm, son HiFi, design supra-auriculaire, écouteurs confortables pour le bureau, les études, la musique et les jeux.jpg",
-      "/telephone_accessoires/101/Casque sans fil Soyto P9plus avec haut-parleurs de 40 mm, son HiFi, design supra-auriculaire, écouteurs confortables pour le bureau, les études, la musique et les jeux (1).jpg",
-      "/telephone_accessoires/101/Casque sans fil Soyto P9plus avec haut-parleurs de 40 mm, son HiFi, design supra-auriculaire, écouteurs confortables pour le bureau, les études, la musique et les jeux (2).jpg",
-      "/telephone_accessoires/101/Casque sans fil Soyto P9plus avec haut-parleurs de 40 mm, son HiFi, design supra-auriculaire, écouteurs confortables pour le bureau, les études, la musique et les jeux (3).jpg",
-      "/telephone_accessoires/101/Casque sans fil Soyto P9plus avec haut-parleurs de 40 mm, son HiFi, design supra-auriculaire, écouteurs confortables pour le bureau, les études, la musique et les jeux (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/101/Casque sans fil Soyto P9plus avec haut-parleurs de 40 mm, son HiFi, design supra-auriculaire, écouteurs confortables pour le bureau, les études, la musique et les jeux.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/101/Casque sans fil Soyto P9plus avec haut-parleurs de 40 mm, son HiFi, design supra-auriculaire, écouteurs confortables pour le bureau, les études, la musique et les jeux (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/101/Casque sans fil Soyto P9plus avec haut-parleurs de 40 mm, son HiFi, design supra-auriculaire, écouteurs confortables pour le bureau, les études, la musique et les jeux (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/101/Casque sans fil Soyto P9plus avec haut-parleurs de 40 mm, son HiFi, design supra-auriculaire, écouteurs confortables pour le bureau, les études, la musique et les jeux (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/101/Casque sans fil Soyto P9plus avec haut-parleurs de 40 mm, son HiFi, design supra-auriculaire, écouteurs confortables pour le bureau, les études, la musique et les jeux (4).jpg"
     ]
   },
   {
@@ -4105,15 +4105,15 @@ export const telephone_accessoires = [
       "reduction_bruit": "ANC (Réduction Active du Bruit)",
       "microphone": "Oui"
     },
-    "image": "/telephone_accessoires/102/Casque sans fil P9Promax à basses profondes avec microphone, suppression active du bruit (ANC) et longue autonomie P9 Pro max.png",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/102/Casque sans fil P9Promax à basses profondes avec microphone, suppression active du bruit (ANC) et longue autonomie P9 Pro max.png",
     "images": [
-      "/telephone_accessoires/102/Casque sans fil P9Promax à basses profondes avec microphone, suppression active du bruit (ANC) et longue autonomie P9 Pro max.png",
-      "/telephone_accessoires/102/Casque sans fil P9Promax à basses profondes avec microphone, suppression active du bruit (ANC) et longue autonomie P9 Pro max (1).png",
-      "/telephone_accessoires/102/Casque sans fil P9Promax à basses profondes avec microphone, suppression active du bruit (ANC) et longue autonomie P9 Pro max (2).png",
-      "/telephone_accessoires/102/Casque sans fil P9Promax à basses profondes avec microphone, suppression active du bruit (ANC) et longue autonomie P9 Pro max (3).png",
-      "/telephone_accessoires/102/Casque sans fil P9Promax à basses profondes avec microphone, suppression active du bruit (ANC) et longue autonomie P9 Pro max (4).png",
-      "/telephone_accessoires/102/Casque sans fil P9Promax à basses profondes avec microphone, suppression active du bruit (ANC) et longue autonomie P9 Pro max (5).png",
-      "/telephone_accessoires/102/Casque sans fil P9Promax à basses profondes avec microphone, suppression active du bruit (ANC) et longue autonomie P9 Pro max (6).png"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/102/Casque sans fil P9Promax à basses profondes avec microphone, suppression active du bruit (ANC) et longue autonomie P9 Pro max.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/102/Casque sans fil P9Promax à basses profondes avec microphone, suppression active du bruit (ANC) et longue autonomie P9 Pro max (1).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/102/Casque sans fil P9Promax à basses profondes avec microphone, suppression active du bruit (ANC) et longue autonomie P9 Pro max (2).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/102/Casque sans fil P9Promax à basses profondes avec microphone, suppression active du bruit (ANC) et longue autonomie P9 Pro max (3).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/102/Casque sans fil P9Promax à basses profondes avec microphone, suppression active du bruit (ANC) et longue autonomie P9 Pro max (4).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/102/Casque sans fil P9Promax à basses profondes avec microphone, suppression active du bruit (ANC) et longue autonomie P9 Pro max (5).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/102/Casque sans fil P9Promax à basses profondes avec microphone, suppression active du bruit (ANC) et longue autonomie P9 Pro max (6).png"
     ]
   },
   {
@@ -4146,12 +4146,12 @@ export const telephone_accessoires = [
       "bluetooth": "Bluetooth",
       "reduction_bruit": "ANC (Réduction Active du Bruit)"
     },
-    "image": "/telephone_accessoires/103/Casque Écouteurs sans Fil BT Studio Pro Studio4 Beat by Dre Solo4 de Haute Qualité à Faible MOQ avec ANC ENC pour Sport.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/103/Casque Écouteurs sans Fil BT Studio Pro Studio4 Beat by Dre Solo4 de Haute Qualité à Faible MOQ avec ANC ENC pour Sport.jpg",
     "images": [
-      "/telephone_accessoires/103/Casque Écouteurs sans Fil BT Studio Pro Studio4 Beat by Dre Solo4 de Haute Qualité à Faible MOQ avec ANC ENC pour Sport.jpg",
-      "/telephone_accessoires/103/Casque Écouteurs sans Fil BT Studio Pro Studio4 Beat by Dre Solo4 de Haute Qualité à Faible MOQ avec ANC ENC pour Sport (1).jpg",
-      "/telephone_accessoires/103/Casque Écouteurs sans Fil BT Studio Pro Studio4 Beat by Dre Solo4 de Haute Qualité à Faible MOQ avec ANC ENC pour Sport (2).jpg",
-      "/telephone_accessoires/103/Casque Écouteurs sans Fil BT Studio Pro Studio4 Beat by Dre Solo4 de Haute Qualité à Faible MOQ avec ANC ENC pour Sport (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/103/Casque Écouteurs sans Fil BT Studio Pro Studio4 Beat by Dre Solo4 de Haute Qualité à Faible MOQ avec ANC ENC pour Sport.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/103/Casque Écouteurs sans Fil BT Studio Pro Studio4 Beat by Dre Solo4 de Haute Qualité à Faible MOQ avec ANC ENC pour Sport (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/103/Casque Écouteurs sans Fil BT Studio Pro Studio4 Beat by Dre Solo4 de Haute Qualité à Faible MOQ avec ANC ENC pour Sport (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/103/Casque Écouteurs sans Fil BT Studio Pro Studio4 Beat by Dre Solo4 de Haute Qualité à Faible MOQ avec ANC ENC pour Sport (3).jpg"
     ]
   },
   {
@@ -4183,12 +4183,12 @@ export const telephone_accessoires = [
       "bluetooth": "Bluetooth",
       "microphone": "Oui"
     },
-    "image": "/telephone_accessoires/104/Casque sans fil 1000xm6 1000Xm5 4 fils, casque supra-auriculaire haut de gamme à réduction de bruit avec micro pour appels téléphoniques.png",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/104/Casque sans fil 1000xm6 1000Xm5 4 fils, casque supra-auriculaire haut de gamme à réduction de bruit avec micro pour appels téléphoniques.png",
     "images": [
-      "/telephone_accessoires/104/Casque sans fil 1000xm6 1000Xm5 4 fils, casque supra-auriculaire haut de gamme à réduction de bruit avec micro pour appels téléphoniques.png",
-      "/telephone_accessoires/104/Casque sans fil 1000xm6 1000Xm5 4 fils, casque supra-auriculaire haut de gamme à réduction de bruit avec micro pour appels téléphoniques (1).png",
-      "/telephone_accessoires/104/Casque sans fil 1000xm6 1000Xm5 4 fils, casque supra-auriculaire haut de gamme à réduction de bruit avec micro pour appels téléphoniques (2).png",
-      "/telephone_accessoires/104/Casque sans fil 1000xm6 1000Xm5 4 fils, casque supra-auriculaire haut de gamme à réduction de bruit avec micro pour appels téléphoniques (3).png"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/104/Casque sans fil 1000xm6 1000Xm5 4 fils, casque supra-auriculaire haut de gamme à réduction de bruit avec micro pour appels téléphoniques.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/104/Casque sans fil 1000xm6 1000Xm5 4 fils, casque supra-auriculaire haut de gamme à réduction de bruit avec micro pour appels téléphoniques (1).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/104/Casque sans fil 1000xm6 1000Xm5 4 fils, casque supra-auriculaire haut de gamme à réduction de bruit avec micro pour appels téléphoniques (2).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/104/Casque sans fil 1000xm6 1000Xm5 4 fils, casque supra-auriculaire haut de gamme à réduction de bruit avec micro pour appels téléphoniques (3).png"
     ]
   },
   {
@@ -4219,13 +4219,13 @@ export const telephone_accessoires = [
       "type_connexion": "Sans fil (Bluetooth)",
       "bluetooth": "Bluetooth"
     },
-    "image": "/telephone_accessoires/105/Casque sans fil Be s Solo4.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/105/Casque sans fil Be s Solo4.jpg",
     "images": [
-      "/telephone_accessoires/105/Casque sans fil Be s Solo4.jpg",
-      "/telephone_accessoires/105/Casque sans fil Be s Solo4 (1).jpg",
-      "/telephone_accessoires/105/Casque sans fil Be s Solo4 (2).jpg",
-      "/telephone_accessoires/105/Casque sans fil Be s Solo4 (3).jpg",
-      "/telephone_accessoires/105/Casque sans fil Be s Solo4 (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/105/Casque sans fil Be s Solo4.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/105/Casque sans fil Be s Solo4 (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/105/Casque sans fil Be s Solo4 (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/105/Casque sans fil Be s Solo4 (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/105/Casque sans fil Be s Solo4 (4).jpg"
     ]
   },
   {
@@ -4255,14 +4255,14 @@ export const telephone_accessoires = [
     "specifications": {
       "type_connexion": "Bluetooth / Filaire"
     },
-    "image": "/telephone_accessoires/106/Écouteurs et Casques Studio Pro Beat Studio Buds Stéréo Studio Solo à Réduction de Bruit TWS, Vente Chaude.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/106/Écouteurs et Casques Studio Pro Beat Studio Buds Stéréo Studio Solo à Réduction de Bruit TWS, Vente Chaude.jpg",
     "images": [
-      "/telephone_accessoires/106/Écouteurs et Casques Studio Pro Beat Studio Buds Stéréo Studio Solo à Réduction de Bruit TWS, Vente Chaude.jpg",
-      "/telephone_accessoires/106/Écouteurs et Casques Studio Pro Beat Studio Buds Stéréo Studio Solo à Réduction de Bruit TWS, Vente Chaude.png",
-      "/telephone_accessoires/106/Écouteurs et Casques Studio Pro Beat Studio Buds Stéréo Studio Solo à Réduction de Bruit TWS, Vente Chaude (1).jpg",
-      "/telephone_accessoires/106/Écouteurs et Casques Studio Pro Beat Studio Buds Stéréo Studio Solo à Réduction de Bruit TWS, Vente Chaude (2).jpg",
-      "/telephone_accessoires/106/Écouteurs et Casques Studio Pro Beat Studio Buds Stéréo Studio Solo à Réduction de Bruit TWS, Vente Chaude (3).jpg",
-      "/telephone_accessoires/106/Écouteurs et Casques Studio Pro Beat Studio Buds Stéréo Studio Solo à Réduction de Bruit TWS, Vente Chaude (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/106/Écouteurs et Casques Studio Pro Beat Studio Buds Stéréo Studio Solo à Réduction de Bruit TWS, Vente Chaude.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/106/Écouteurs et Casques Studio Pro Beat Studio Buds Stéréo Studio Solo à Réduction de Bruit TWS, Vente Chaude.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/106/Écouteurs et Casques Studio Pro Beat Studio Buds Stéréo Studio Solo à Réduction de Bruit TWS, Vente Chaude (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/106/Écouteurs et Casques Studio Pro Beat Studio Buds Stéréo Studio Solo à Réduction de Bruit TWS, Vente Chaude (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/106/Écouteurs et Casques Studio Pro Beat Studio Buds Stéréo Studio Solo à Réduction de Bruit TWS, Vente Chaude (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/106/Écouteurs et Casques Studio Pro Beat Studio Buds Stéréo Studio Solo à Réduction de Bruit TWS, Vente Chaude (4).jpg"
     ]
   },
   {
@@ -4296,15 +4296,15 @@ export const telephone_accessoires = [
       "bluetooth": "Bluetooth",
       "gaming": "Oui"
     },
-    "image": "/telephone_accessoires/109/Casque Supra-Auriculaire Bluetooth Sans Fil P2961 Longue Autonomie, Son Stéréo Haute Qualité pour Sport et Gaming.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/109/Casque Supra-Auriculaire Bluetooth Sans Fil P2961 Longue Autonomie, Son Stéréo Haute Qualité pour Sport et Gaming.jpg",
     "images": [
-      "/telephone_accessoires/109/Casque Supra-Auriculaire Bluetooth Sans Fil P2961 Longue Autonomie, Son Stéréo Haute Qualité pour Sport et Gaming.jpg",
-      "/telephone_accessoires/109/Casque Supra-Auriculaire Bluetooth Sans Fil P2961 Longue Autonomie, Son Stéréo Haute Qualité pour Sport et Gaming (1).jpg",
-      "/telephone_accessoires/109/Casque Supra-Auriculaire Bluetooth Sans Fil P2961 Longue Autonomie, Son Stéréo Haute Qualité pour Sport et Gaming (2).jpg",
-      "/telephone_accessoires/109/Casque Supra-Auriculaire Bluetooth Sans Fil P2961 Longue Autonomie, Son Stéréo Haute Qualité pour Sport et Gaming (3).jpg",
-      "/telephone_accessoires/109/Casque Supra-Auriculaire Bluetooth Sans Fil P2961 Longue Autonomie, Son Stéréo Haute Qualité pour Sport et Gaming (4).jpg",
-      "/telephone_accessoires/109/Casque Supra-Auriculaire Bluetooth Sans Fil P2961 Longue Autonomie, Son Stéréo Haute Qualité pour Sport et Gaming (5).jpg",
-      "/telephone_accessoires/109/Casque Supra-Auriculaire Bluetooth Sans Fil P2961 Longue Autonomie, Son Stéréo Haute Qualité pour Sport et Gaming (6).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/109/Casque Supra-Auriculaire Bluetooth Sans Fil P2961 Longue Autonomie, Son Stéréo Haute Qualité pour Sport et Gaming.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/109/Casque Supra-Auriculaire Bluetooth Sans Fil P2961 Longue Autonomie, Son Stéréo Haute Qualité pour Sport et Gaming (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/109/Casque Supra-Auriculaire Bluetooth Sans Fil P2961 Longue Autonomie, Son Stéréo Haute Qualité pour Sport et Gaming (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/109/Casque Supra-Auriculaire Bluetooth Sans Fil P2961 Longue Autonomie, Son Stéréo Haute Qualité pour Sport et Gaming (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/109/Casque Supra-Auriculaire Bluetooth Sans Fil P2961 Longue Autonomie, Son Stéréo Haute Qualité pour Sport et Gaming (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/109/Casque Supra-Auriculaire Bluetooth Sans Fil P2961 Longue Autonomie, Son Stéréo Haute Qualité pour Sport et Gaming (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/109/Casque Supra-Auriculaire Bluetooth Sans Fil P2961 Longue Autonomie, Son Stéréo Haute Qualité pour Sport et Gaming (6).jpg"
     ]
   },
   {
@@ -4338,18 +4338,18 @@ export const telephone_accessoires = [
       "eclairage": "LED / RGB",
       "microphone": "Oui"
     },
-    "image": "/telephone_accessoires/110/Casque sans fil P35 pour peinture, casque de jeu graffiti, casque stéréo supra-auriculaire, casque BT avec micro LED.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/110/Casque sans fil P35 pour peinture, casque de jeu graffiti, casque stéréo supra-auriculaire, casque BT avec micro LED.jpg",
     "images": [
-      "/telephone_accessoires/110/Casque sans fil P35 pour peinture, casque de jeu graffiti, casque stéréo supra-auriculaire, casque BT avec micro LED.jpg",
-      "/telephone_accessoires/110/Casque sans fil P35 pour peinture, casque de jeu graffiti, casque stéréo supra-auriculaire, casque BT avec micro LED.png",
-      "/telephone_accessoires/110/Casque sans fil P35 pour peinture, casque de jeu graffiti, casque stéréo supra-auriculaire, casque BT avec micro LED (1).jpg",
-      "/telephone_accessoires/110/Casque sans fil P35 pour peinture, casque de jeu graffiti, casque stéréo supra-auriculaire, casque BT avec micro LED (1).png",
-      "/telephone_accessoires/110/Casque sans fil P35 pour peinture, casque de jeu graffiti, casque stéréo supra-auriculaire, casque BT avec micro LED (2).png",
-      "/telephone_accessoires/110/Casque sans fil P35 pour peinture, casque de jeu graffiti, casque stéréo supra-auriculaire, casque BT avec micro LED (3).png",
-      "/telephone_accessoires/110/Casque sans fil P35 pour peinture, casque de jeu graffiti, casque stéréo supra-auriculaire, casque BT avec micro LED (4).png",
-      "/telephone_accessoires/110/Casque sans fil P35 pour peinture, casque de jeu graffiti, casque stéréo supra-auriculaire, casque BT avec micro LED (5).png",
-      "/telephone_accessoires/110/Casque sans fil P35 pour peinture, casque de jeu graffiti, casque stéréo supra-auriculaire, casque BT avec micro LED (6).png",
-      "/telephone_accessoires/110/Casque sans fil P35 pour peinture, casque de jeu graffiti, casque stéréo supra-auriculaire, casque BT avec micro LED (7).png"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/110/Casque sans fil P35 pour peinture, casque de jeu graffiti, casque stéréo supra-auriculaire, casque BT avec micro LED.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/110/Casque sans fil P35 pour peinture, casque de jeu graffiti, casque stéréo supra-auriculaire, casque BT avec micro LED.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/110/Casque sans fil P35 pour peinture, casque de jeu graffiti, casque stéréo supra-auriculaire, casque BT avec micro LED (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/110/Casque sans fil P35 pour peinture, casque de jeu graffiti, casque stéréo supra-auriculaire, casque BT avec micro LED (1).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/110/Casque sans fil P35 pour peinture, casque de jeu graffiti, casque stéréo supra-auriculaire, casque BT avec micro LED (2).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/110/Casque sans fil P35 pour peinture, casque de jeu graffiti, casque stéréo supra-auriculaire, casque BT avec micro LED (3).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/110/Casque sans fil P35 pour peinture, casque de jeu graffiti, casque stéréo supra-auriculaire, casque BT avec micro LED (4).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/110/Casque sans fil P35 pour peinture, casque de jeu graffiti, casque stéréo supra-auriculaire, casque BT avec micro LED (5).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/110/Casque sans fil P35 pour peinture, casque de jeu graffiti, casque stéréo supra-auriculaire, casque BT avec micro LED (6).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/110/Casque sans fil P35 pour peinture, casque de jeu graffiti, casque stéréo supra-auriculaire, casque BT avec micro LED (7).png"
     ]
   },
   {
@@ -4382,17 +4382,17 @@ export const telephone_accessoires = [
       "gaming": "Oui",
       "microphone": "Oui"
     },
-    "image": "/telephone_accessoires/111/Casque sans fil Beatstudio 950BT pliable avec design bandeau, film laser, carte FM, personnalisation, microphone de jeu et son surround.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/111/Casque sans fil Beatstudio 950BT pliable avec design bandeau, film laser, carte FM, personnalisation, microphone de jeu et son surround.jpg",
     "images": [
-      "/telephone_accessoires/111/Casque sans fil Beatstudio 950BT pliable avec design bandeau, film laser, carte FM, personnalisation, microphone de jeu et son surround.jpg",
-      "/telephone_accessoires/111/Casque sans fil Beatstudio 950BT pliable avec design bandeau, film laser, carte FM, personnalisation, microphone de jeu et son surround.png",
-      "/telephone_accessoires/111/Casque sans fil Beatstudio 950BT pliable avec design bandeau, film laser, carte FM, personnalisation, microphone de jeu et son surround (1).jpg",
-      "/telephone_accessoires/111/Casque sans fil Beatstudio 950BT pliable avec design bandeau, film laser, carte FM, personnalisation, microphone de jeu et son surround (1).png",
-      "/telephone_accessoires/111/Casque sans fil Beatstudio 950BT pliable avec design bandeau, film laser, carte FM, personnalisation, microphone de jeu et son surround (2).jpg",
-      "/telephone_accessoires/111/Casque sans fil Beatstudio 950BT pliable avec design bandeau, film laser, carte FM, personnalisation, microphone de jeu et son surround (3).jpg",
-      "/telephone_accessoires/111/Casque sans fil Beatstudio 950BT pliable avec design bandeau, film laser, carte FM, personnalisation, microphone de jeu et son surround (4).jpg",
-      "/telephone_accessoires/111/Casque sans fil Beatstudio 950BT pliable avec design bandeau, film laser, carte FM, personnalisation, microphone de jeu et son surround (5).jpg",
-      "/telephone_accessoires/111/Casque sans fil Beatstudio 950BT pliable avec design bandeau, film laser, carte FM, personnalisation, microphone de jeu et son surround (6).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/111/Casque sans fil Beatstudio 950BT pliable avec design bandeau, film laser, carte FM, personnalisation, microphone de jeu et son surround.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/111/Casque sans fil Beatstudio 950BT pliable avec design bandeau, film laser, carte FM, personnalisation, microphone de jeu et son surround.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/111/Casque sans fil Beatstudio 950BT pliable avec design bandeau, film laser, carte FM, personnalisation, microphone de jeu et son surround (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/111/Casque sans fil Beatstudio 950BT pliable avec design bandeau, film laser, carte FM, personnalisation, microphone de jeu et son surround (1).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/111/Casque sans fil Beatstudio 950BT pliable avec design bandeau, film laser, carte FM, personnalisation, microphone de jeu et son surround (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/111/Casque sans fil Beatstudio 950BT pliable avec design bandeau, film laser, carte FM, personnalisation, microphone de jeu et son surround (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/111/Casque sans fil Beatstudio 950BT pliable avec design bandeau, film laser, carte FM, personnalisation, microphone de jeu et son surround (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/111/Casque sans fil Beatstudio 950BT pliable avec design bandeau, film laser, carte FM, personnalisation, microphone de jeu et son surround (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/111/Casque sans fil Beatstudio 950BT pliable avec design bandeau, film laser, carte FM, personnalisation, microphone de jeu et son surround (6).jpg"
     ]
   },
   {
@@ -4427,18 +4427,18 @@ export const telephone_accessoires = [
       "autonomie_ecouteurs": "4–5 h",
       "autonomie_totale": "16–22 h (avec étui de charge)"
     },
-    "image": "/telephone_accessoires/112/Nouveaux écouteurs sans fil Bluetooth P47M avec oreilles de chat, pliables et extensibles, style mignon.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/112/Nouveaux écouteurs sans fil Bluetooth P47M avec oreilles de chat, pliables et extensibles, style mignon.jpg",
     "images": [
-      "/telephone_accessoires/112/Nouveaux écouteurs sans fil Bluetooth P47M avec oreilles de chat, pliables et extensibles, style mignon.jpg",
-      "/telephone_accessoires/112/Nouveaux écouteurs sans fil Bluetooth PG830, circum-auriculaires, avec éclairage éblouissant tricolore, pour jeux, faible latence.jpg",
-      "/telephone_accessoires/112/Nouveaux écouteurs sans fil Bluetooth PG830, circum-auriculaires, avec éclairage éblouissant tricolore, pour jeux, faible latence.png",
-      "/telephone_accessoires/112/Nouveaux écouteurs sans fil Bluetooth P47M avec oreilles de chat, pliables et extensibles, style mignon (1).jpg",
-      "/telephone_accessoires/112/Nouveaux écouteurs sans fil Bluetooth P47M avec oreilles de chat, pliables et extensibles, style mignon (2).jpg",
-      "/telephone_accessoires/112/Nouveaux écouteurs sans fil Bluetooth P47M avec oreilles de chat, pliables et extensibles, style mignon (3).jpg",
-      "/telephone_accessoires/112/Nouveaux écouteurs sans fil Bluetooth P47M avec oreilles de chat, pliables et extensibles, style mignon (4).jpg",
-      "/telephone_accessoires/112/Nouveaux écouteurs sans fil Bluetooth P47M avec oreilles de chat, pliables et extensibles, style mignon (5).jpg",
-      "/telephone_accessoires/112/Nouveaux écouteurs sans fil Bluetooth PG830, circum-auriculaires, avec éclairage éblouissant tricolore, pour jeux, faible latence (1).jpg",
-      "/telephone_accessoires/112/Nouveaux écouteurs sans fil Bluetooth PG830, circum-auriculaires, avec éclairage éblouissant tricolore, pour jeux, faible latence (1).png"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/112/Nouveaux écouteurs sans fil Bluetooth P47M avec oreilles de chat, pliables et extensibles, style mignon.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/112/Nouveaux écouteurs sans fil Bluetooth PG830, circum-auriculaires, avec éclairage éblouissant tricolore, pour jeux, faible latence.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/112/Nouveaux écouteurs sans fil Bluetooth PG830, circum-auriculaires, avec éclairage éblouissant tricolore, pour jeux, faible latence.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/112/Nouveaux écouteurs sans fil Bluetooth P47M avec oreilles de chat, pliables et extensibles, style mignon (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/112/Nouveaux écouteurs sans fil Bluetooth P47M avec oreilles de chat, pliables et extensibles, style mignon (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/112/Nouveaux écouteurs sans fil Bluetooth P47M avec oreilles de chat, pliables et extensibles, style mignon (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/112/Nouveaux écouteurs sans fil Bluetooth P47M avec oreilles de chat, pliables et extensibles, style mignon (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/112/Nouveaux écouteurs sans fil Bluetooth P47M avec oreilles de chat, pliables et extensibles, style mignon (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/112/Nouveaux écouteurs sans fil Bluetooth PG830, circum-auriculaires, avec éclairage éblouissant tricolore, pour jeux, faible latence (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/112/Nouveaux écouteurs sans fil Bluetooth PG830, circum-auriculaires, avec éclairage éblouissant tricolore, pour jeux, faible latence (1).png"
     ]
   },
   {
@@ -4472,13 +4472,13 @@ export const telephone_accessoires = [
       "autonomie_ecouteurs": "4–6 h",
       "autonomie_totale": "20–25 h (avec étui de charge)"
     },
-    "image": "/telephone_accessoires/113/Nouveaux écouteurs sans fil Ck800 Bluetooth 5.4 sans réduction de bruit et design lumineux.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/113/Nouveaux écouteurs sans fil Ck800 Bluetooth 5.4 sans réduction de bruit et design lumineux.jpg",
     "images": [
-      "/telephone_accessoires/113/Nouveaux écouteurs sans fil Ck800 Bluetooth 5.4 sans réduction de bruit et design lumineux.jpg",
-      "/telephone_accessoires/113/Nouveaux écouteurs sans fil Ck800 Bluetooth 5.4 sans réduction de bruit et design lumineux (1).jpg",
-      "/telephone_accessoires/113/Nouveaux écouteurs sans fil Ck800 Bluetooth 5.4 sans réduction de bruit et design lumineux (2).jpg",
-      "/telephone_accessoires/113/Nouveaux écouteurs sans fil Ck800 Bluetooth 5.4 sans réduction de bruit et design lumineux (3).jpg",
-      "/telephone_accessoires/113/Nouveaux écouteurs sans fil Ck800 Bluetooth 5.4 sans réduction de bruit et design lumineux (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/113/Nouveaux écouteurs sans fil Ck800 Bluetooth 5.4 sans réduction de bruit et design lumineux.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/113/Nouveaux écouteurs sans fil Ck800 Bluetooth 5.4 sans réduction de bruit et design lumineux (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/113/Nouveaux écouteurs sans fil Ck800 Bluetooth 5.4 sans réduction de bruit et design lumineux (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/113/Nouveaux écouteurs sans fil Ck800 Bluetooth 5.4 sans réduction de bruit et design lumineux (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/113/Nouveaux écouteurs sans fil Ck800 Bluetooth 5.4 sans réduction de bruit et design lumineux (4).jpg"
     ]
   },
   {
@@ -4510,13 +4510,13 @@ export const telephone_accessoires = [
       "bluetooth": "Bluetooth",
       "gaming": "Oui"
     },
-    "image": "/telephone_accessoires/114/Casque de jeu professionnel PG373D avec lumières RVB, sans fil, 5.4, circum-auriculaire, longue durée de lecture.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/114/Casque de jeu professionnel PG373D avec lumières RVB, sans fil, 5.4, circum-auriculaire, longue durée de lecture.jpg",
     "images": [
-      "/telephone_accessoires/114/Casque de jeu professionnel PG373D avec lumières RVB, sans fil, 5.4, circum-auriculaire, longue durée de lecture.jpg",
-      "/telephone_accessoires/114/Casque de jeu professionnel PG373D avec lumières RVB, sans fil, 5.4, circum-auriculaire, longue durée de lecture (1).jpg",
-      "/telephone_accessoires/114/Casque de jeu professionnel PG373D avec lumières RVB, sans fil, 5.4, circum-auriculaire, longue durée de lecture (2).jpg",
-      "/telephone_accessoires/114/Casque de jeu professionnel PG373D avec lumières RVB, sans fil, 5.4, circum-auriculaire, longue durée de lecture (3).jpg",
-      "/telephone_accessoires/114/Casque de jeu professionnel PG373D avec lumières RVB, sans fil, 5.4, circum-auriculaire, longue durée de lecture (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/114/Casque de jeu professionnel PG373D avec lumières RVB, sans fil, 5.4, circum-auriculaire, longue durée de lecture.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/114/Casque de jeu professionnel PG373D avec lumières RVB, sans fil, 5.4, circum-auriculaire, longue durée de lecture (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/114/Casque de jeu professionnel PG373D avec lumières RVB, sans fil, 5.4, circum-auriculaire, longue durée de lecture (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/114/Casque de jeu professionnel PG373D avec lumières RVB, sans fil, 5.4, circum-auriculaire, longue durée de lecture (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/114/Casque de jeu professionnel PG373D avec lumières RVB, sans fil, 5.4, circum-auriculaire, longue durée de lecture (4).jpg"
     ]
   },
   {
@@ -4548,13 +4548,13 @@ export const telephone_accessoires = [
       "type_connexion": "Sans fil (Bluetooth)",
       "bluetooth": "Bluetooth"
     },
-    "image": "/telephone_accessoires/115/Nouveau casque supra-auriculaire sans fil CK100A, casque de sport et oreillettes émettant de la lumière multicolore_.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/115/Nouveau casque supra-auriculaire sans fil CK100A, casque de sport et oreillettes émettant de la lumière multicolore_.jpg",
     "images": [
-      "/telephone_accessoires/115/Nouveau casque supra-auriculaire sans fil CK100A, casque de sport et oreillettes émettant de la lumière multicolore_.jpg",
-      "/telephone_accessoires/115/Nouveau casque supra-auriculaire sans fil CK100A, casque de sport et oreillettes émettant de la lumière multicolore_ (1).jpg",
-      "/telephone_accessoires/115/Nouveau casque supra-auriculaire sans fil CK100A, casque de sport et oreillettes émettant de la lumière multicolore_ (2).jpg",
-      "/telephone_accessoires/115/Nouveau casque supra-auriculaire sans fil CK100A, casque de sport et oreillettes émettant de la lumière multicolore_ (3).jpg",
-      "/telephone_accessoires/115/Nouveau casque supra-auriculaire sans fil CK100A, casque de sport et oreillettes émettant de la lumière multicolore_ (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/115/Nouveau casque supra-auriculaire sans fil CK100A, casque de sport et oreillettes émettant de la lumière multicolore_.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/115/Nouveau casque supra-auriculaire sans fil CK100A, casque de sport et oreillettes émettant de la lumière multicolore_ (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/115/Nouveau casque supra-auriculaire sans fil CK100A, casque de sport et oreillettes émettant de la lumière multicolore_ (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/115/Nouveau casque supra-auriculaire sans fil CK100A, casque de sport et oreillettes émettant de la lumière multicolore_ (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/115/Nouveau casque supra-auriculaire sans fil CK100A, casque de sport et oreillettes émettant de la lumière multicolore_ (4).jpg"
     ]
   },
   {
@@ -4588,13 +4588,13 @@ export const telephone_accessoires = [
       "gaming": "Oui",
       "eclairage": "LED / RGB"
     },
-    "image": "/telephone_accessoires/116/Nouveaux écouteurs de jeu circum-auriculaires PG921 avec éclairage RGB, son de haute qualité, écouteurs Bluetooth.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/116/Nouveaux écouteurs de jeu circum-auriculaires PG921 avec éclairage RGB, son de haute qualité, écouteurs Bluetooth.jpg",
     "images": [
-      "/telephone_accessoires/116/Nouveaux écouteurs de jeu circum-auriculaires PG921 avec éclairage RGB, son de haute qualité, écouteurs Bluetooth.jpg",
-      "/telephone_accessoires/116/Nouveaux écouteurs de jeu circum-auriculaires PG921 avec éclairage RGB, son de haute qualité, écouteurs Bluetooth (1).jpg",
-      "/telephone_accessoires/116/Nouveaux écouteurs de jeu circum-auriculaires PG921 avec éclairage RGB, son de haute qualité, écouteurs Bluetooth (2).jpg",
-      "/telephone_accessoires/116/Nouveaux écouteurs de jeu circum-auriculaires PG921 avec éclairage RGB, son de haute qualité, écouteurs Bluetooth (3).jpg",
-      "/telephone_accessoires/116/Nouveaux écouteurs de jeu circum-auriculaires PG921 avec éclairage RGB, son de haute qualité, écouteurs Bluetooth (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/116/Nouveaux écouteurs de jeu circum-auriculaires PG921 avec éclairage RGB, son de haute qualité, écouteurs Bluetooth.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/116/Nouveaux écouteurs de jeu circum-auriculaires PG921 avec éclairage RGB, son de haute qualité, écouteurs Bluetooth (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/116/Nouveaux écouteurs de jeu circum-auriculaires PG921 avec éclairage RGB, son de haute qualité, écouteurs Bluetooth (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/116/Nouveaux écouteurs de jeu circum-auriculaires PG921 avec éclairage RGB, son de haute qualité, écouteurs Bluetooth (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/116/Nouveaux écouteurs de jeu circum-auriculaires PG921 avec éclairage RGB, son de haute qualité, écouteurs Bluetooth (4).jpg"
     ]
   },
   {
@@ -4622,14 +4622,14 @@ export const telephone_accessoires = [
     ],
     "minOrder": 13,
     "specifications": {},
-    "image": "/telephone_accessoires/118/Nouvelle carte pliable d'éclairage RVB lumineux de modèle privé An-1 à suppression de bruit transfrontalier-IPX3 insérable étanche pour les jeux.png",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/118/Nouvelle carte pliable d'éclairage RVB lumineux de modèle privé An-1 à suppression de bruit transfrontalier-IPX3 insérable étanche pour les jeux.png",
     "images": [
-      "/telephone_accessoires/118/Nouvelle carte pliable d'éclairage RVB lumineux de modèle privé An-1 à suppression de bruit transfrontalier-IPX3 insérable étanche pour les jeux.png",
-      "/telephone_accessoires/118/Nouvelle carte pliable d'éclairage RVB lumineux de modèle privé An-1 à suppression de bruit transfrontalier-IPX3 insérable étanche pour les jeux (1).png",
-      "/telephone_accessoires/118/Nouvelle carte pliable d'éclairage RVB lumineux de modèle privé An-1 à suppression de bruit transfrontalier-IPX3 insérable étanche pour les jeux (2).png",
-      "/telephone_accessoires/118/Nouvelle carte pliable d'éclairage RVB lumineux de modèle privé An-1 à suppression de bruit transfrontalier-IPX3 insérable étanche pour les jeux (3).png",
-      "/telephone_accessoires/118/Nouvelle carte pliable d'éclairage RVB lumineux de modèle privé An-1 à suppression de bruit transfrontalier-IPX3 insérable étanche pour les jeux (4).png",
-      "/telephone_accessoires/118/Nouvelle carte pliable d'éclairage RVB lumineux de modèle privé An-1 à suppression de bruit transfrontalier-IPX3 insérable étanche pour les jeux (5).png"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/118/Nouvelle carte pliable d'éclairage RVB lumineux de modèle privé An-1 à suppression de bruit transfrontalier-IPX3 insérable étanche pour les jeux.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/118/Nouvelle carte pliable d'éclairage RVB lumineux de modèle privé An-1 à suppression de bruit transfrontalier-IPX3 insérable étanche pour les jeux (1).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/118/Nouvelle carte pliable d'éclairage RVB lumineux de modèle privé An-1 à suppression de bruit transfrontalier-IPX3 insérable étanche pour les jeux (2).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/118/Nouvelle carte pliable d'éclairage RVB lumineux de modèle privé An-1 à suppression de bruit transfrontalier-IPX3 insérable étanche pour les jeux (3).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/118/Nouvelle carte pliable d'éclairage RVB lumineux de modèle privé An-1 à suppression de bruit transfrontalier-IPX3 insérable étanche pour les jeux (4).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/118/Nouvelle carte pliable d'éclairage RVB lumineux de modèle privé An-1 à suppression de bruit transfrontalier-IPX3 insérable étanche pour les jeux (5).png"
     ]
   },
   {
@@ -4663,13 +4663,13 @@ export const telephone_accessoires = [
       "reduction_bruit": "ENC (Microphone)",
       "gaming": "Oui"
     },
-    "image": "/telephone_accessoires/119/Nouveau casque de jeu sans fil PG835, cache-oreilles avec effet de glace fissurée, faible latence et haute qualité sonore, effet lumineux_.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/119/Nouveau casque de jeu sans fil PG835, cache-oreilles avec effet de glace fissurée, faible latence et haute qualité sonore, effet lumineux_.jpg",
     "images": [
-      "/telephone_accessoires/119/Nouveau casque de jeu sans fil PG835, cache-oreilles avec effet de glace fissurée, faible latence et haute qualité sonore, effet lumineux_.jpg",
-      "/telephone_accessoires/119/Nouveau casque de jeu sans fil PG835, cache-oreilles avec effet de glace fissurée, faible latence et haute qualité sonore, effet lumineux_ (1).jpg",
-      "/telephone_accessoires/119/Nouveau casque de jeu sans fil PG835, cache-oreilles avec effet de glace fissurée, faible latence et haute qualité sonore, effet lumineux_ (2).jpg",
-      "/telephone_accessoires/119/Nouveau casque de jeu sans fil PG835, cache-oreilles avec effet de glace fissurée, faible latence et haute qualité sonore, effet lumineux_ (3).jpg",
-      "/telephone_accessoires/119/Nouveau casque de jeu sans fil PG835, cache-oreilles avec effet de glace fissurée, faible latence et haute qualité sonore, effet lumineux_ (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/119/Nouveau casque de jeu sans fil PG835, cache-oreilles avec effet de glace fissurée, faible latence et haute qualité sonore, effet lumineux_.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/119/Nouveau casque de jeu sans fil PG835, cache-oreilles avec effet de glace fissurée, faible latence et haute qualité sonore, effet lumineux_ (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/119/Nouveau casque de jeu sans fil PG835, cache-oreilles avec effet de glace fissurée, faible latence et haute qualité sonore, effet lumineux_ (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/119/Nouveau casque de jeu sans fil PG835, cache-oreilles avec effet de glace fissurée, faible latence et haute qualité sonore, effet lumineux_ (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/119/Nouveau casque de jeu sans fil PG835, cache-oreilles avec effet de glace fissurée, faible latence et haute qualité sonore, effet lumineux_ (4).jpg"
     ]
   },
   {
@@ -4700,14 +4700,14 @@ export const telephone_accessoires = [
       "type_connexion": "Sans fil (Bluetooth)",
       "bluetooth": "Bluetooth"
     },
-    "image": "/telephone_accessoires/120/Casque sans fil supra-auriculaire C-2370R, diverses couleurs, radio FM sans fil, écouteurs mains libres.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/120/Casque sans fil supra-auriculaire C-2370R, diverses couleurs, radio FM sans fil, écouteurs mains libres.jpg",
     "images": [
-      "/telephone_accessoires/120/Casque sans fil supra-auriculaire C-2370R, diverses couleurs, radio FM sans fil, écouteurs mains libres.jpg",
-      "/telephone_accessoires/120/Casque sans fil supra-auriculaire C-2370R, diverses couleurs, radio FM sans fil, écouteurs mains libres.png",
-      "/telephone_accessoires/120/Casque sans fil supra-auriculaire C-2370R, diverses couleurs, radio FM sans fil, écouteurs mains libres (1).jpg",
-      "/telephone_accessoires/120/Casque sans fil supra-auriculaire C-2370R, diverses couleurs, radio FM sans fil, écouteurs mains libres (2).jpg",
-      "/telephone_accessoires/120/Casque sans fil supra-auriculaire C-2370R, diverses couleurs, radio FM sans fil, écouteurs mains libres (3).jpg",
-      "/telephone_accessoires/120/Casque sans fil supra-auriculaire C-2370R, diverses couleurs, radio FM sans fil, écouteurs mains libres (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/120/Casque sans fil supra-auriculaire C-2370R, diverses couleurs, radio FM sans fil, écouteurs mains libres.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/120/Casque sans fil supra-auriculaire C-2370R, diverses couleurs, radio FM sans fil, écouteurs mains libres.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/120/Casque sans fil supra-auriculaire C-2370R, diverses couleurs, radio FM sans fil, écouteurs mains libres (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/120/Casque sans fil supra-auriculaire C-2370R, diverses couleurs, radio FM sans fil, écouteurs mains libres (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/120/Casque sans fil supra-auriculaire C-2370R, diverses couleurs, radio FM sans fil, écouteurs mains libres (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/120/Casque sans fil supra-auriculaire C-2370R, diverses couleurs, radio FM sans fil, écouteurs mains libres (4).jpg"
     ]
   },
   {
@@ -4741,16 +4741,16 @@ export const telephone_accessoires = [
       "gaming": "Oui",
       "eclairage": "LED / RGB"
     },
-    "image": "/telephone_accessoires/121/G608 Casque de jeu Cross-Border Hot Item Universal Computer Mobile Phone Interface Type-C PUBG Sound Positioning RGB DJ.png",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/121/G608 Casque de jeu Cross-Border Hot Item Universal Computer Mobile Phone Interface Type-C PUBG Sound Positioning RGB DJ.png",
     "images": [
-      "/telephone_accessoires/121/G608 Casque de jeu Cross-Border Hot Item Universal Computer Mobile Phone Interface Type-C PUBG Sound Positioning RGB DJ.png",
-      "/telephone_accessoires/121/G608 Casque de jeu Cross-Border Hot Item Universal Computer Mobile Phone Interface Type-C PUBG Sound Positioning RGB DJ (1).png",
-      "/telephone_accessoires/121/G608 Casque de jeu Cross-Border Hot Item Universal Computer Mobile Phone Interface Type-C PUBG Sound Positioning RGB DJ (2).png",
-      "/telephone_accessoires/121/G608 Casque de jeu Cross-Border Hot Item Universal Computer Mobile Phone Interface Type-C PUBG Sound Positioning RGB DJ (3).png",
-      "/telephone_accessoires/121/G608 Casque de jeu Cross-Border Hot Item Universal Computer Mobile Phone Interface Type-C PUBG Sound Positioning RGB DJ (4).png",
-      "/telephone_accessoires/121/G608 Casque de jeu Cross-Border Hot Item Universal Computer Mobile Phone Interface Type-C PUBG Sound Positioning RGB DJ (5).png",
-      "/telephone_accessoires/121/G608 Casque de jeu Cross-Border Hot Item Universal Computer Mobile Phone Interface Type-C PUBG Sound Positioning RGB DJ (6).png",
-      "/telephone_accessoires/121/G608 Casque de jeu Cross-Border Hot Item Universal Computer Mobile Phone Interface Type-C PUBG Sound Positioning RGB DJ (7).png"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/121/G608 Casque de jeu Cross-Border Hot Item Universal Computer Mobile Phone Interface Type-C PUBG Sound Positioning RGB DJ.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/121/G608 Casque de jeu Cross-Border Hot Item Universal Computer Mobile Phone Interface Type-C PUBG Sound Positioning RGB DJ (1).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/121/G608 Casque de jeu Cross-Border Hot Item Universal Computer Mobile Phone Interface Type-C PUBG Sound Positioning RGB DJ (2).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/121/G608 Casque de jeu Cross-Border Hot Item Universal Computer Mobile Phone Interface Type-C PUBG Sound Positioning RGB DJ (3).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/121/G608 Casque de jeu Cross-Border Hot Item Universal Computer Mobile Phone Interface Type-C PUBG Sound Positioning RGB DJ (4).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/121/G608 Casque de jeu Cross-Border Hot Item Universal Computer Mobile Phone Interface Type-C PUBG Sound Positioning RGB DJ (5).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/121/G608 Casque de jeu Cross-Border Hot Item Universal Computer Mobile Phone Interface Type-C PUBG Sound Positioning RGB DJ (6).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/121/G608 Casque de jeu Cross-Border Hot Item Universal Computer Mobile Phone Interface Type-C PUBG Sound Positioning RGB DJ (7).png"
     ]
   },
   {
@@ -4782,14 +4782,14 @@ export const telephone_accessoires = [
       "gaming": "Oui",
       "microphone": "Oui"
     },
-    "image": "/telephone_accessoires/122/Casque de jeu de qualité haute fidélité son surround meilleur casque de jeu USB avec microphone antibruit.png",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/122/Casque de jeu de qualité haute fidélité son surround meilleur casque de jeu USB avec microphone antibruit.png",
     "images": [
-      "/telephone_accessoires/122/Casque de jeu de qualité haute fidélité son surround meilleur casque de jeu USB avec microphone antibruit.png",
-      "/telephone_accessoires/122/Casque de jeu de qualité haute fidélité son surround meilleur casque de jeu USB avec microphone antibruit (1).png",
-      "/telephone_accessoires/122/Casque de jeu de qualité haute fidélité son surround meilleur casque de jeu USB avec microphone antibruit (2).png",
-      "/telephone_accessoires/122/Casque de jeu de qualité haute fidélité son surround meilleur casque de jeu USB avec microphone antibruit (3).png",
-      "/telephone_accessoires/122/Casque de jeu de qualité haute fidélité son surround meilleur casque de jeu USB avec microphone antibruit (4).png",
-      "/telephone_accessoires/122/Casque de jeu de qualité haute fidélité son surround meilleur casque de jeu USB avec microphone antibruit (5).png"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/122/Casque de jeu de qualité haute fidélité son surround meilleur casque de jeu USB avec microphone antibruit.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/122/Casque de jeu de qualité haute fidélité son surround meilleur casque de jeu USB avec microphone antibruit (1).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/122/Casque de jeu de qualité haute fidélité son surround meilleur casque de jeu USB avec microphone antibruit (2).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/122/Casque de jeu de qualité haute fidélité son surround meilleur casque de jeu USB avec microphone antibruit (3).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/122/Casque de jeu de qualité haute fidélité son surround meilleur casque de jeu USB avec microphone antibruit (4).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/122/Casque de jeu de qualité haute fidélité son surround meilleur casque de jeu USB avec microphone antibruit (5).png"
     ]
   },
   {
@@ -4821,13 +4821,13 @@ export const telephone_accessoires = [
       "type_connexion": "Bluetooth / Filaire",
       "gaming": "Oui"
     },
-    "image": "/telephone_accessoires/123/Casque audio supra-auriculaire à réduction de bruit 2026, best-seller, pour le sport, la course à pied, la musique et les jeux P47.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/123/Casque audio supra-auriculaire à réduction de bruit 2026, best-seller, pour le sport, la course à pied, la musique et les jeux P47.jpg",
     "images": [
-      "/telephone_accessoires/123/Casque audio supra-auriculaire à réduction de bruit 2026, best-seller, pour le sport, la course à pied, la musique et les jeux P47.jpg",
-      "/telephone_accessoires/123/Casque audio supra-auriculaire à réduction de bruit 2026, best-seller, pour le sport, la course à pied, la musique et les jeux P47.png",
-      "/telephone_accessoires/123/Casque audio supra-auriculaire à réduction de bruit 2026, best-seller, pour le sport, la course à pied, la musique et les jeux P47 (1).png",
-      "/telephone_accessoires/123/Casque audio supra-auriculaire à réduction de bruit 2026, best-seller, pour le sport, la course à pied, la musique et les jeux P47 (2).png",
-      "/telephone_accessoires/123/Casque audio supra-auriculaire à réduction de bruit 2026, best-seller, pour le sport, la course à pied, la musique et les jeux P47 (3).png"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/123/Casque audio supra-auriculaire à réduction de bruit 2026, best-seller, pour le sport, la course à pied, la musique et les jeux P47.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/123/Casque audio supra-auriculaire à réduction de bruit 2026, best-seller, pour le sport, la course à pied, la musique et les jeux P47.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/123/Casque audio supra-auriculaire à réduction de bruit 2026, best-seller, pour le sport, la course à pied, la musique et les jeux P47 (1).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/123/Casque audio supra-auriculaire à réduction de bruit 2026, best-seller, pour le sport, la course à pied, la musique et les jeux P47 (2).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/123/Casque audio supra-auriculaire à réduction de bruit 2026, best-seller, pour le sport, la course à pied, la musique et les jeux P47 (3).png"
     ]
   },
   {
@@ -4860,15 +4860,15 @@ export const telephone_accessoires = [
       "bluetooth": "Bluetooth",
       "gaming": "Oui"
     },
-    "image": "/telephone_accessoires/124/Casque de jeu sans fil Bt Tws Stéréo Musique Écouteurs Bluetooth Casque de jeu B39.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/124/Casque de jeu sans fil Bt Tws Stéréo Musique Écouteurs Bluetooth Casque de jeu B39.jpg",
     "images": [
-      "/telephone_accessoires/124/Casque de jeu sans fil Bt Tws Stéréo Musique Écouteurs Bluetooth Casque de jeu B39.jpg",
-      "/telephone_accessoires/124/Casque de jeu sans fil Bt Tws Stéréo Musique Écouteurs Bluetooth Casque de jeu B39 (1).jpg",
-      "/telephone_accessoires/124/Casque de jeu sans fil Bt Tws Stéréo Musique Écouteurs Bluetooth Casque de jeu B39 (2).jpg",
-      "/telephone_accessoires/124/Casque de jeu sans fil Bt Tws Stéréo Musique Écouteurs Bluetooth Casque de jeu B39 (3).jpg",
-      "/telephone_accessoires/124/Casque de jeu sans fil Bt Tws Stéréo Musique Écouteurs Bluetooth Casque de jeu B39 (4).jpg",
-      "/telephone_accessoires/124/Casque de jeu sans fil Bt Tws Stéréo Musique Écouteurs Bluetooth Casque de jeu B39 (5).jpg",
-      "/telephone_accessoires/124/Casque de jeu sans fil Bt Tws Stéréo Musique Écouteurs Bluetooth Casque de jeu B39 (6).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/124/Casque de jeu sans fil Bt Tws Stéréo Musique Écouteurs Bluetooth Casque de jeu B39.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/124/Casque de jeu sans fil Bt Tws Stéréo Musique Écouteurs Bluetooth Casque de jeu B39 (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/124/Casque de jeu sans fil Bt Tws Stéréo Musique Écouteurs Bluetooth Casque de jeu B39 (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/124/Casque de jeu sans fil Bt Tws Stéréo Musique Écouteurs Bluetooth Casque de jeu B39 (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/124/Casque de jeu sans fil Bt Tws Stéréo Musique Écouteurs Bluetooth Casque de jeu B39 (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/124/Casque de jeu sans fil Bt Tws Stéréo Musique Écouteurs Bluetooth Casque de jeu B39 (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/124/Casque de jeu sans fil Bt Tws Stéréo Musique Écouteurs Bluetooth Casque de jeu B39 (6).jpg"
     ]
   },
   {
@@ -4900,18 +4900,18 @@ export const telephone_accessoires = [
       "type_connexion": "Bluetooth / Filaire",
       "gaming": "Oui"
     },
-    "image": "/telephone_accessoires/125/Casque Gaming Stéréo Pliable P47M à Oreilles de Chat, Puces JL, Design Lumineux, Type Supra-Auriculaire et Circum-Auriculaire, Meilleures Ventes.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/125/Casque Gaming Stéréo Pliable P47M à Oreilles de Chat, Puces JL, Design Lumineux, Type Supra-Auriculaire et Circum-Auriculaire, Meilleures Ventes.jpg",
     "images": [
-      "/telephone_accessoires/125/Casque Gaming Stéréo Pliable P47M à Oreilles de Chat, Puces JL, Design Lumineux, Type Supra-Auriculaire et Circum-Auriculaire, Meilleures Ventes.jpg",
-      "/telephone_accessoires/125/Casque Gaming Stéréo Pliable P47M à Oreilles de Chat, Puces JL, Design Lumineux, Type Supra-Auriculaire et Circum-Auriculaire, Meilleures Ventes (1).jpg",
-      "/telephone_accessoires/125/Casque Gaming Stéréo Pliable P47M à Oreilles de Chat, Puces JL, Design Lumineux, Type Supra-Auriculaire et Circum-Auriculaire, Meilleures Ventes (2).jpg",
-      "/telephone_accessoires/125/Casque Gaming Stéréo Pliable P47M à Oreilles de Chat, Puces JL, Design Lumineux, Type Supra-Auriculaire et Circum-Auriculaire, Meilleures Ventes (3).jpg",
-      "/telephone_accessoires/125/Casque Gaming Stéréo Pliable P47M à Oreilles de Chat, Puces JL, Design Lumineux, Type Supra-Auriculaire et Circum-Auriculaire, Meilleures Ventes (4).jpg",
-      "/telephone_accessoires/125/Casque Gaming Stéréo Pliable P47M à Oreilles de Chat, Puces JL, Design Lumineux, Type Supra-Auriculaire et Circum-Auriculaire, Meilleures Ventes (5).jpg",
-      "/telephone_accessoires/125/Casque Gaming Stéréo Pliable P47M à Oreilles de Chat, Puces JL, Design Lumineux, Type Supra-Auriculaire et Circum-Auriculaire, Meilleures Ventes (6).jpg",
-      "/telephone_accessoires/125/Casque Gaming Stéréo Pliable P47M à Oreilles de Chat, Puces JL, Design Lumineux, Type Supra-Auriculaire et Circum-Auriculaire, Meilleures Ventes (7).jpg",
-      "/telephone_accessoires/125/Casque Gaming Stéréo Pliable P47M à Oreilles de Chat, Puces JL, Design Lumineux, Type Supra-Auriculaire et Circum-Auriculaire, Meilleures Ventes (8).jpg",
-      "/telephone_accessoires/125/Casque Gaming Stéréo Pliable P47M à Oreilles de Chat, Puces JL, Design Lumineux, Type Supra-Auriculaire et Circum-Auriculaire, Meilleures Ventes (9).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/125/Casque Gaming Stéréo Pliable P47M à Oreilles de Chat, Puces JL, Design Lumineux, Type Supra-Auriculaire et Circum-Auriculaire, Meilleures Ventes.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/125/Casque Gaming Stéréo Pliable P47M à Oreilles de Chat, Puces JL, Design Lumineux, Type Supra-Auriculaire et Circum-Auriculaire, Meilleures Ventes (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/125/Casque Gaming Stéréo Pliable P47M à Oreilles de Chat, Puces JL, Design Lumineux, Type Supra-Auriculaire et Circum-Auriculaire, Meilleures Ventes (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/125/Casque Gaming Stéréo Pliable P47M à Oreilles de Chat, Puces JL, Design Lumineux, Type Supra-Auriculaire et Circum-Auriculaire, Meilleures Ventes (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/125/Casque Gaming Stéréo Pliable P47M à Oreilles de Chat, Puces JL, Design Lumineux, Type Supra-Auriculaire et Circum-Auriculaire, Meilleures Ventes (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/125/Casque Gaming Stéréo Pliable P47M à Oreilles de Chat, Puces JL, Design Lumineux, Type Supra-Auriculaire et Circum-Auriculaire, Meilleures Ventes (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/125/Casque Gaming Stéréo Pliable P47M à Oreilles de Chat, Puces JL, Design Lumineux, Type Supra-Auriculaire et Circum-Auriculaire, Meilleures Ventes (6).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/125/Casque Gaming Stéréo Pliable P47M à Oreilles de Chat, Puces JL, Design Lumineux, Type Supra-Auriculaire et Circum-Auriculaire, Meilleures Ventes (7).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/125/Casque Gaming Stéréo Pliable P47M à Oreilles de Chat, Puces JL, Design Lumineux, Type Supra-Auriculaire et Circum-Auriculaire, Meilleures Ventes (8).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/125/Casque Gaming Stéréo Pliable P47M à Oreilles de Chat, Puces JL, Design Lumineux, Type Supra-Auriculaire et Circum-Auriculaire, Meilleures Ventes (9).jpg"
     ]
   },
   {
@@ -4944,16 +4944,16 @@ export const telephone_accessoires = [
       "reduction_bruit": "ANC (Réduction Active du Bruit)",
       "charge": "USB-C"
     },
-    "image": "/telephone_accessoires/126/Casque sans fil OEM JL avec affichage numérique de la batterie, super basses, étanche IPX3, chargement Type-C, carte mémoire.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/126/Casque sans fil OEM JL avec affichage numérique de la batterie, super basses, étanche IPX3, chargement Type-C, carte mémoire.jpg",
     "images": [
-      "/telephone_accessoires/126/Casque sans fil OEM JL avec affichage numérique de la batterie, super basses, étanche IPX3, chargement Type-C, carte mémoire.jpg",
-      "/telephone_accessoires/126/Casque sans fil OEM JL avec affichage numérique de la batterie, super basses, étanche IPX3, chargement Type-C, carte mémoire (1).jpg",
-      "/telephone_accessoires/126/Casque sans fil OEM JL avec affichage numérique de la batterie, super basses, étanche IPX3, chargement Type-C, carte mémoire (2).jpg",
-      "/telephone_accessoires/126/Casque sans fil OEM JL avec affichage numérique de la batterie, super basses, étanche IPX3, chargement Type-C, carte mémoire (3).jpg",
-      "/telephone_accessoires/126/Casque sans fil OEM JL avec affichage numérique de la batterie, super basses, étanche IPX3, chargement Type-C, carte mémoire (4).jpg",
-      "/telephone_accessoires/126/Casque sans fil OEM JL avec affichage numérique de la batterie, super basses, étanche IPX3, chargement Type-C, carte mémoire (5).jpg",
-      "/telephone_accessoires/126/Casque sans fil OEM JL avec affichage numérique de la batterie, super basses, étanche IPX3, chargement Type-C, carte mémoire (6).jpg",
-      "/telephone_accessoires/126/Casque sans fil OEM JL avec affichage numérique de la batterie, super basses, étanche IPX3, chargement Type-C, carte mémoire (7).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/126/Casque sans fil OEM JL avec affichage numérique de la batterie, super basses, étanche IPX3, chargement Type-C, carte mémoire.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/126/Casque sans fil OEM JL avec affichage numérique de la batterie, super basses, étanche IPX3, chargement Type-C, carte mémoire (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/126/Casque sans fil OEM JL avec affichage numérique de la batterie, super basses, étanche IPX3, chargement Type-C, carte mémoire (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/126/Casque sans fil OEM JL avec affichage numérique de la batterie, super basses, étanche IPX3, chargement Type-C, carte mémoire (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/126/Casque sans fil OEM JL avec affichage numérique de la batterie, super basses, étanche IPX3, chargement Type-C, carte mémoire (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/126/Casque sans fil OEM JL avec affichage numérique de la batterie, super basses, étanche IPX3, chargement Type-C, carte mémoire (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/126/Casque sans fil OEM JL avec affichage numérique de la batterie, super basses, étanche IPX3, chargement Type-C, carte mémoire (6).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/126/Casque sans fil OEM JL avec affichage numérique de la batterie, super basses, étanche IPX3, chargement Type-C, carte mémoire (7).jpg"
     ]
   },
   {
@@ -4985,14 +4985,14 @@ export const telephone_accessoires = [
       "type_connexion": "Sans fil (Bluetooth)",
       "bluetooth": "Bluetooth"
     },
-    "image": "/telephone_accessoires/127/Casque sans fil Bluetooth Bobo+ Kid′ S 5.0 Réduction de bruit Casque supra-auriculaire Son stéréo Radio FM Carte TF.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/127/Casque sans fil Bluetooth Bobo+ Kid′ S 5.0 Réduction de bruit Casque supra-auriculaire Son stéréo Radio FM Carte TF.webp",
     "images": [
-      "/telephone_accessoires/127/Casque sans fil Bluetooth Bobo+ Kid′ S 5.0 Réduction de bruit Casque supra-auriculaire Son stéréo Radio FM Carte TF.webp",
-      "/telephone_accessoires/127/Casque sans fil Bluetooth Bobo+ Kid′ S 5.0 Réduction de bruit Casque supra-auriculaire Son stéréo Radio FM Carte TF (1).webp",
-      "/telephone_accessoires/127/Casque sans fil Bluetooth Bobo+ Kid′ S 5.0 Réduction de bruit Casque supra-auriculaire Son stéréo Radio FM Carte TF (2).webp",
-      "/telephone_accessoires/127/Casque sans fil Bluetooth Bobo+ Kid′ S 5.0 Réduction de bruit Casque supra-auriculaire Son stéréo Radio FM Carte TF (3).webp",
-      "/telephone_accessoires/127/Casque sans fil Bluetooth Bobo+ Kid′ S 5.0 Réduction de bruit Casque supra-auriculaire Son stéréo Radio FM Carte TF (4).webp",
-      "/telephone_accessoires/127/Casque sans fil Bluetooth Bobo+ Kid′ S 5.0 Réduction de bruit Casque supra-auriculaire Son stéréo Radio FM Carte TF (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/127/Casque sans fil Bluetooth Bobo+ Kid′ S 5.0 Réduction de bruit Casque supra-auriculaire Son stéréo Radio FM Carte TF.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/127/Casque sans fil Bluetooth Bobo+ Kid′ S 5.0 Réduction de bruit Casque supra-auriculaire Son stéréo Radio FM Carte TF (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/127/Casque sans fil Bluetooth Bobo+ Kid′ S 5.0 Réduction de bruit Casque supra-auriculaire Son stéréo Radio FM Carte TF (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/127/Casque sans fil Bluetooth Bobo+ Kid′ S 5.0 Réduction de bruit Casque supra-auriculaire Son stéréo Radio FM Carte TF (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/127/Casque sans fil Bluetooth Bobo+ Kid′ S 5.0 Réduction de bruit Casque supra-auriculaire Son stéréo Radio FM Carte TF (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/127/Casque sans fil Bluetooth Bobo+ Kid′ S 5.0 Réduction de bruit Casque supra-auriculaire Son stéréo Radio FM Carte TF (5).webp"
     ]
   },
   {
@@ -5027,12 +5027,12 @@ export const telephone_accessoires = [
       "gaming": "Oui",
       "microphone": "Oui"
     },
-    "image": "/telephone_accessoires/128/Casque Microphone à annulation de bruit profonde avec casque Bluetooth filaire sans fil pour jeux Esports avec 3D son stéréo.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/128/Casque Microphone à annulation de bruit profonde avec casque Bluetooth filaire sans fil pour jeux Esports avec 3D son stéréo.webp",
     "images": [
-      "/telephone_accessoires/128/Casque Microphone à annulation de bruit profonde avec casque Bluetooth filaire sans fil pour jeux Esports avec 3D son stéréo.webp",
-      "/telephone_accessoires/128/Casque Microphone à annulation de bruit profonde avec casque Bluetooth filaire sans fil pour jeux Esports avec 3D son stéréo (1).webp",
-      "/telephone_accessoires/128/Casque Microphone à annulation de bruit profonde avec casque Bluetooth filaire sans fil pour jeux Esports avec 3D son stéréo (2).webp",
-      "/telephone_accessoires/128/Casque Microphone à annulation de bruit profonde avec casque Bluetooth filaire sans fil pour jeux Esports avec 3D son stéréo (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/128/Casque Microphone à annulation de bruit profonde avec casque Bluetooth filaire sans fil pour jeux Esports avec 3D son stéréo.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/128/Casque Microphone à annulation de bruit profonde avec casque Bluetooth filaire sans fil pour jeux Esports avec 3D son stéréo (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/128/Casque Microphone à annulation de bruit profonde avec casque Bluetooth filaire sans fil pour jeux Esports avec 3D son stéréo (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/128/Casque Microphone à annulation de bruit profonde avec casque Bluetooth filaire sans fil pour jeux Esports avec 3D son stéréo (3).webp"
     ]
   },
   {
@@ -5067,13 +5067,13 @@ export const telephone_accessoires = [
       "gaming": "Oui",
       "microphone": "Oui"
     },
-    "image": "/telephone_accessoires/129/Casque Microphone à annulation de bruit profonde avec casque Bluetooth filaire sans fil pour jeux Esports avec 3D son stéréo.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/129/Casque Microphone à annulation de bruit profonde avec casque Bluetooth filaire sans fil pour jeux Esports avec 3D son stéréo.webp",
     "images": [
-      "/telephone_accessoires/129/Casque Microphone à annulation de bruit profonde avec casque Bluetooth filaire sans fil pour jeux Esports avec 3D son stéréo.webp",
-      "/telephone_accessoires/129/Casque Microphone à annulation de bruit profonde avec casque Bluetooth filaire sans fil pour jeux Esports avec 3D son stéréo (1).webp",
-      "/telephone_accessoires/129/Casque Microphone à annulation de bruit profonde avec casque Bluetooth filaire sans fil pour jeux Esports avec 3D son stéréo (2).webp",
-      "/telephone_accessoires/129/Casque Microphone à annulation de bruit profonde avec casque Bluetooth filaire sans fil pour jeux Esports avec 3D son stéréo (3).webp",
-      "/telephone_accessoires/129/Casque Microphone à annulation de bruit profonde avec casque Bluetooth filaire sans fil pour jeux Esports avec 3D son stéréo (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/129/Casque Microphone à annulation de bruit profonde avec casque Bluetooth filaire sans fil pour jeux Esports avec 3D son stéréo.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/129/Casque Microphone à annulation de bruit profonde avec casque Bluetooth filaire sans fil pour jeux Esports avec 3D son stéréo (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/129/Casque Microphone à annulation de bruit profonde avec casque Bluetooth filaire sans fil pour jeux Esports avec 3D son stéréo (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/129/Casque Microphone à annulation de bruit profonde avec casque Bluetooth filaire sans fil pour jeux Esports avec 3D son stéréo (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/129/Casque Microphone à annulation de bruit profonde avec casque Bluetooth filaire sans fil pour jeux Esports avec 3D son stéréo (4).webp"
     ]
   },
   {
@@ -5106,15 +5106,15 @@ export const telephone_accessoires = [
       "type_connexion": "Sans fil (Bluetooth)",
       "bluetooth": "Bluetooth"
     },
-    "image": "/telephone_accessoires/130/Casque sans fil Bluetooth pliable multicolore pour ordinateur, casque universel (KHP-002).webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/130/Casque sans fil Bluetooth pliable multicolore pour ordinateur, casque universel (KHP-002).webp",
     "images": [
-      "/telephone_accessoires/130/Casque sans fil Bluetooth pliable multicolore pour ordinateur, casque universel (KHP-002).webp",
-      "/telephone_accessoires/130/Casque sans fil Bluetooth pliable multicolore pour ordinateur, casque universel (KHP-002) (1).webp",
-      "/telephone_accessoires/130/Casque sans fil Bluetooth pliable multicolore pour ordinateur, casque universel (KHP-002) (2).webp",
-      "/telephone_accessoires/130/Casque sans fil Bluetooth pliable multicolore pour ordinateur, casque universel (KHP-002) (3).webp",
-      "/telephone_accessoires/130/Casque sans fil Bluetooth pliable multicolore pour ordinateur, casque universel (KHP-002) (4).webp",
-      "/telephone_accessoires/130/Casque sans fil Bluetooth pliable multicolore pour ordinateur, casque universel (KHP-002) (5).webp",
-      "/telephone_accessoires/130/Casque sans fil Bluetooth pliable multicolore pour ordinateur, casque universel (KHP-002) (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/130/Casque sans fil Bluetooth pliable multicolore pour ordinateur, casque universel (KHP-002).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/130/Casque sans fil Bluetooth pliable multicolore pour ordinateur, casque universel (KHP-002) (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/130/Casque sans fil Bluetooth pliable multicolore pour ordinateur, casque universel (KHP-002) (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/130/Casque sans fil Bluetooth pliable multicolore pour ordinateur, casque universel (KHP-002) (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/130/Casque sans fil Bluetooth pliable multicolore pour ordinateur, casque universel (KHP-002) (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/130/Casque sans fil Bluetooth pliable multicolore pour ordinateur, casque universel (KHP-002) (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/130/Casque sans fil Bluetooth pliable multicolore pour ordinateur, casque universel (KHP-002) (6).webp"
     ]
   },
   {
@@ -5146,15 +5146,15 @@ export const telephone_accessoires = [
       "type_connexion": "Sans fil (Bluetooth)",
       "bluetooth": "Bluetooth 5.0"
     },
-    "image": "/telephone_accessoires/131/JBL Tune 510 BT - Casque supra-auriculaire sans fil - Son JBL Pure Bass - Bluetooth 5.0.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/131/JBL Tune 510 BT - Casque supra-auriculaire sans fil - Son JBL Pure Bass - Bluetooth 5.0.jpg",
     "images": [
-      "/telephone_accessoires/131/JBL Tune 510 BT - Casque supra-auriculaire sans fil - Son JBL Pure Bass - Bluetooth 5.0.jpg",
-      "/telephone_accessoires/131/JBL Tune 510 BT - Casque supra-auriculaire sans fil - Son JBL Pure Bass - Bluetooth 5.0 (1).jpg",
-      "/telephone_accessoires/131/JBL Tune 510 BT - Casque supra-auriculaire sans fil - Son JBL Pure Bass - Bluetooth 5.0 (2).jpg",
-      "/telephone_accessoires/131/JBL Tune 510 BT - Casque supra-auriculaire sans fil - Son JBL Pure Bass - Bluetooth 5.0 (3).jpg",
-      "/telephone_accessoires/131/JBL Tune 510 BT - Casque supra-auriculaire sans fil - Son JBL Pure Bass - Bluetooth 5.0 (4).jpg",
-      "/telephone_accessoires/131/JBL Tune 510 BT - Casque supra-auriculaire sans fil - Son JBL Pure Bass - Bluetooth 5.0 (5).jpg",
-      "/telephone_accessoires/131/JBL Tune 510 BT - Casque supra-auriculaire sans fil - Son JBL Pure Bass - Bluetooth 5.0 (6).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/131/JBL Tune 510 BT - Casque supra-auriculaire sans fil - Son JBL Pure Bass - Bluetooth 5.0.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/131/JBL Tune 510 BT - Casque supra-auriculaire sans fil - Son JBL Pure Bass - Bluetooth 5.0 (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/131/JBL Tune 510 BT - Casque supra-auriculaire sans fil - Son JBL Pure Bass - Bluetooth 5.0 (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/131/JBL Tune 510 BT - Casque supra-auriculaire sans fil - Son JBL Pure Bass - Bluetooth 5.0 (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/131/JBL Tune 510 BT - Casque supra-auriculaire sans fil - Son JBL Pure Bass - Bluetooth 5.0 (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/131/JBL Tune 510 BT - Casque supra-auriculaire sans fil - Son JBL Pure Bass - Bluetooth 5.0 (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/131/JBL Tune 510 BT - Casque supra-auriculaire sans fil - Son JBL Pure Bass - Bluetooth 5.0 (6).jpg"
     ]
   },
   {
@@ -5184,13 +5184,13 @@ export const telephone_accessoires = [
     "specifications": {
       "type_connexion": "Filaire"
     },
-    "image": "/telephone_accessoires/132/Casque filaire JBL Tune 500 - Son Pure Bass - Conception légère et et pliable.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/132/Casque filaire JBL Tune 500 - Son Pure Bass - Conception légère et et pliable.jpg",
     "images": [
-      "/telephone_accessoires/132/Casque filaire JBL Tune 500 - Son Pure Bass - Conception légère et et pliable.jpg",
-      "/telephone_accessoires/132/Casque filaire JBL Tune 500 - Son Pure Bass - Conception légère et et pliable (1).jpg",
-      "/telephone_accessoires/132/Casque filaire JBL Tune 500 - Son Pure Bass - Conception légère et et pliable (2).jpg",
-      "/telephone_accessoires/132/Casque filaire JBL Tune 500 - Son Pure Bass - Conception légère et et pliable (3).jpg",
-      "/telephone_accessoires/132/Casque filaire JBL Tune 500 - Son Pure Bass - Conception légère et et pliable (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/132/Casque filaire JBL Tune 500 - Son Pure Bass - Conception légère et et pliable.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/132/Casque filaire JBL Tune 500 - Son Pure Bass - Conception légère et et pliable (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/132/Casque filaire JBL Tune 500 - Son Pure Bass - Conception légère et et pliable (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/132/Casque filaire JBL Tune 500 - Son Pure Bass - Conception légère et et pliable (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/132/Casque filaire JBL Tune 500 - Son Pure Bass - Conception légère et et pliable (4).jpg"
     ]
   },
   {
@@ -5221,15 +5221,15 @@ export const telephone_accessoires = [
       "type_connexion": "Filaire",
       "charge": "USB-C"
     },
-    "image": "/telephone_accessoires/133/Casque filaire - JBL Tune 520 C - USB-C - Hi-Res audio_.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/133/Casque filaire - JBL Tune 520 C - USB-C - Hi-Res audio_.jpg",
     "images": [
-      "/telephone_accessoires/133/Casque filaire - JBL Tune 520 C - USB-C - Hi-Res audio_.jpg",
-      "/telephone_accessoires/133/Casque filaire - JBL Tune 520 C - USB-C - Hi-Res audio_ (1).jpg",
-      "/telephone_accessoires/133/Casque filaire - JBL Tune 520 C - USB-C - Hi-Res audio_ (2).jpg",
-      "/telephone_accessoires/133/Casque filaire - JBL Tune 520 C - USB-C - Hi-Res audio_ (3).jpg",
-      "/telephone_accessoires/133/Casque filaire - JBL Tune 520 C - USB-C - Hi-Res audio_ (4).jpg",
-      "/telephone_accessoires/133/Casque filaire - JBL Tune 520 C - USB-C - Hi-Res audio_ (5).jpg",
-      "/telephone_accessoires/133/Casque filaire - JBL Tune 520 C - USB-C - Hi-Res audio_ (6).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/133/Casque filaire - JBL Tune 520 C - USB-C - Hi-Res audio_.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/133/Casque filaire - JBL Tune 520 C - USB-C - Hi-Res audio_ (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/133/Casque filaire - JBL Tune 520 C - USB-C - Hi-Res audio_ (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/133/Casque filaire - JBL Tune 520 C - USB-C - Hi-Res audio_ (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/133/Casque filaire - JBL Tune 520 C - USB-C - Hi-Res audio_ (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/133/Casque filaire - JBL Tune 520 C - USB-C - Hi-Res audio_ (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/133/Casque filaire - JBL Tune 520 C - USB-C - Hi-Res audio_ (6).jpg"
     ]
   },
   {
@@ -5261,16 +5261,16 @@ export const telephone_accessoires = [
       "type_connexion": "Sans fil (Bluetooth)",
       "bluetooth": "Bluetooth"
     },
-    "image": "/telephone_accessoires/134/Casque Bluetooth - JBL - Tour One M2 - Réduction de bruit active - Son spatial - Commande vocale.png",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/134/Casque Bluetooth - JBL - Tour One M2 - Réduction de bruit active - Son spatial - Commande vocale.png",
     "images": [
-      "/telephone_accessoires/134/Casque Bluetooth - JBL - Tour One M2 - Réduction de bruit active - Son spatial - Commande vocale.png",
-      "/telephone_accessoires/134/Casque Bluetooth - JBL - Tour One M2 - Réduction de bruit active - Son spatial - Commande vocale (1).png",
-      "/telephone_accessoires/134/Casque Bluetooth - JBL - Tour One M2 - Réduction de bruit active - Son spatial - Commande vocale (2).png",
-      "/telephone_accessoires/134/Casque Bluetooth - JBL - Tour One M2 - Réduction de bruit active - Son spatial - Commande vocale (3).png",
-      "/telephone_accessoires/134/Casque Bluetooth - JBL - Tour One M2 - Réduction de bruit active - Son spatial - Commande vocale (4).png",
-      "/telephone_accessoires/134/Casque Bluetooth - JBL - Tour One M2 - Réduction de bruit active - Son spatial - Commande vocale (5).png",
-      "/telephone_accessoires/134/Casque Bluetooth - JBL - Tour One M2 - Réduction de bruit active - Son spatial - Commande vocale (6).png",
-      "/telephone_accessoires/134/Casque Bluetooth - JBL - Tour One M2 - Réduction de bruit active - Son spatial - Commande vocale (7).png"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/134/Casque Bluetooth - JBL - Tour One M2 - Réduction de bruit active - Son spatial - Commande vocale.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/134/Casque Bluetooth - JBL - Tour One M2 - Réduction de bruit active - Son spatial - Commande vocale (1).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/134/Casque Bluetooth - JBL - Tour One M2 - Réduction de bruit active - Son spatial - Commande vocale (2).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/134/Casque Bluetooth - JBL - Tour One M2 - Réduction de bruit active - Son spatial - Commande vocale (3).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/134/Casque Bluetooth - JBL - Tour One M2 - Réduction de bruit active - Son spatial - Commande vocale (4).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/134/Casque Bluetooth - JBL - Tour One M2 - Réduction de bruit active - Son spatial - Commande vocale (5).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/134/Casque Bluetooth - JBL - Tour One M2 - Réduction de bruit active - Son spatial - Commande vocale (6).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/134/Casque Bluetooth - JBL - Tour One M2 - Réduction de bruit active - Son spatial - Commande vocale (7).png"
     ]
   },
   {
@@ -5303,11 +5303,11 @@ export const telephone_accessoires = [
       "bluetooth": "Bluetooth",
       "reduction_bruit": "ENC (Microphone)"
     },
-    "image": "/telephone_accessoires/135/oraimo BoomPop Lite Écouteurs supra-auriculaires sans fil ENC.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/135/oraimo BoomPop Lite Écouteurs supra-auriculaires sans fil ENC.jpg",
     "images": [
-      "/telephone_accessoires/135/oraimo BoomPop Lite Écouteurs supra-auriculaires sans fil ENC.jpg",
-      "/telephone_accessoires/135/oraimo BoomPop Lite Écouteurs supra-auriculaires sans fil ENC (1).jpg",
-      "/telephone_accessoires/135/oraimo BoomPop Lite Écouteurs supra-auriculaires sans fil ENC (2).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/135/oraimo BoomPop Lite Écouteurs supra-auriculaires sans fil ENC.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/135/oraimo BoomPop Lite Écouteurs supra-auriculaires sans fil ENC (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/135/oraimo BoomPop Lite Écouteurs supra-auriculaires sans fil ENC (2).jpg"
     ]
   },
   {
@@ -5340,13 +5340,13 @@ export const telephone_accessoires = [
       "bluetooth": "Bluetooth",
       "reduction_bruit": "ENC (Microphone)"
     },
-    "image": "/telephone_accessoires/136/oraimo BoomPop 2 ENC Casques sans fil.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/136/oraimo BoomPop 2 ENC Casques sans fil.jpg",
     "images": [
-      "/telephone_accessoires/136/oraimo BoomPop 2 ENC Casques sans fil.jpg",
-      "/telephone_accessoires/136/oraimo BoomPop 2 ENC Casques sans fil (1).jpg",
-      "/telephone_accessoires/136/oraimo BoomPop 2 ENC Casques sans fil (2).jpg",
-      "/telephone_accessoires/136/oraimo BoomPop 2 ENC Casques sans fil (3).jpg",
-      "/telephone_accessoires/136/oraimo BoomPop 2 ENC Casques sans fil (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/136/oraimo BoomPop 2 ENC Casques sans fil.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/136/oraimo BoomPop 2 ENC Casques sans fil (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/136/oraimo BoomPop 2 ENC Casques sans fil (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/136/oraimo BoomPop 2 ENC Casques sans fil (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/136/oraimo BoomPop 2 ENC Casques sans fil (4).jpg"
     ]
   },
   {
@@ -5379,11 +5379,11 @@ export const telephone_accessoires = [
       "bluetooth": "Bluetooth 5.4",
       "reduction_bruit": "ANC (Réduction Active du Bruit)"
     },
-    "image": "/telephone_accessoires/137/Casque - HOCO - W53 - In-ear sans fil - ANC - Bluetooth 5.4.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/137/Casque - HOCO - W53 - In-ear sans fil - ANC - Bluetooth 5.4.jpg",
     "images": [
-      "/telephone_accessoires/137/Casque - HOCO - W53 - In-ear sans fil - ANC - Bluetooth 5.4.jpg",
-      "/telephone_accessoires/137/Casque - HOCO - W53 - In-ear sans fil - ANC - Bluetooth 5.4 (1).jpg",
-      "/telephone_accessoires/137/Casque - HOCO - W53 - In-ear sans fil - ANC - Bluetooth 5.4 (2).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/137/Casque - HOCO - W53 - In-ear sans fil - ANC - Bluetooth 5.4.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/137/Casque - HOCO - W53 - In-ear sans fil - ANC - Bluetooth 5.4 (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/137/Casque - HOCO - W53 - In-ear sans fil - ANC - Bluetooth 5.4 (2).jpg"
     ]
   },
   {
@@ -5416,10 +5416,10 @@ export const telephone_accessoires = [
       "bluetooth": "Bluetooth",
       "reduction_bruit": "ANC (Réduction Active du Bruit)"
     },
-    "image": "/telephone_accessoires/138/Casque sans fil - HOCO - W54 Young - ANC - Intra-auriculaire - Bluetooth.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/138/Casque sans fil - HOCO - W54 Young - ANC - Intra-auriculaire - Bluetooth.jpg",
     "images": [
-      "/telephone_accessoires/138/Casque sans fil - HOCO - W54 Young - ANC - Intra-auriculaire - Bluetooth.jpg",
-      "/telephone_accessoires/138/Casque sans fil - HOCO - W54 Young - ANC - Intra-auriculaire - Bluetooth (1).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/138/Casque sans fil - HOCO - W54 Young - ANC - Intra-auriculaire - Bluetooth.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/138/Casque sans fil - HOCO - W54 Young - ANC - Intra-auriculaire - Bluetooth (1).jpg"
     ]
   },
   {
@@ -5452,15 +5452,15 @@ export const telephone_accessoires = [
       "type_connexion": "Sans fil (Bluetooth)",
       "bluetooth": "Bluetooth"
     },
-    "image": "/telephone_accessoires/139/Casque Bluetooth - HOCO - W35 Max - Argent - Pliable.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/139/Casque Bluetooth - HOCO - W35 Max - Argent - Pliable.jpg",
     "images": [
-      "/telephone_accessoires/139/Casque Bluetooth - HOCO - W35 Max - Argent - Pliable.jpg",
-      "/telephone_accessoires/139/Casque Bluetooth - HOCO - W35 Max - Argent - Pliable (1).jpg",
-      "/telephone_accessoires/139/Casque Bluetooth - HOCO - W35 Max - Argent - Pliable (2).jpg",
-      "/telephone_accessoires/139/Casque Bluetooth - HOCO - W35 Max - Argent - Pliable (3).jpg",
-      "/telephone_accessoires/139/Casque Bluetooth - HOCO - W35 Max - Argent - Pliable (4).jpg",
-      "/telephone_accessoires/139/Casque Bluetooth - HOCO - W35 Max - Argent - Pliable (5).jpg",
-      "/telephone_accessoires/139/Casque Bluetooth - HOCO - W35 Max - Argent - Pliable (6).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/139/Casque Bluetooth - HOCO - W35 Max - Argent - Pliable.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/139/Casque Bluetooth - HOCO - W35 Max - Argent - Pliable (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/139/Casque Bluetooth - HOCO - W35 Max - Argent - Pliable (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/139/Casque Bluetooth - HOCO - W35 Max - Argent - Pliable (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/139/Casque Bluetooth - HOCO - W35 Max - Argent - Pliable (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/139/Casque Bluetooth - HOCO - W35 Max - Argent - Pliable (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/139/Casque Bluetooth - HOCO - W35 Max - Argent - Pliable (6).jpg"
     ]
   },
   {
@@ -5493,12 +5493,12 @@ export const telephone_accessoires = [
       "reduction_bruit": "ANC (Réduction Active du Bruit)",
       "gaming": "Oui"
     },
-    "image": "/telephone_accessoires/140/casque TWS 5.0 Hifi au design noir tendance, casque BT sans fil, casque de jeu sans fil.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/140/casque TWS 5.0 Hifi au design noir tendance, casque BT sans fil, casque de jeu sans fil.jpg",
     "images": [
-      "/telephone_accessoires/140/casque TWS 5.0 Hifi au design noir tendance, casque BT sans fil, casque de jeu sans fil.jpg",
-      "/telephone_accessoires/140/casque TWS 5.0 Hifi au design noir tendance, casque BT sans fil, casque de jeu sans fil.png",
-      "/telephone_accessoires/140/casque TWS 5.0 Hifi au design noir tendance, casque BT sans fil, casque de jeu sans fil (1).png",
-      "/telephone_accessoires/140/casque TWS 5.0 Hifi au design noir tendance, casque BT sans fil, casque de jeu sans fil (2).png"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/140/casque TWS 5.0 Hifi au design noir tendance, casque BT sans fil, casque de jeu sans fil.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/140/casque TWS 5.0 Hifi au design noir tendance, casque BT sans fil, casque de jeu sans fil.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/140/casque TWS 5.0 Hifi au design noir tendance, casque BT sans fil, casque de jeu sans fil (1).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/140/casque TWS 5.0 Hifi au design noir tendance, casque BT sans fil, casque de jeu sans fil (2).png"
     ]
   },
   {
@@ -5533,13 +5533,13 @@ export const telephone_accessoires = [
       "etancheite": "IP54",
       "qualite_audio": "Hi-Fi"
     },
-    "image": "/telephone_accessoires/141/Écouteurs Filaires Xiaomi Type-C – Connexion USB-C Plug-and-Play – Microphone HD – Étanchéité IP54 – Son Hi-Fi 12.4mm.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/141/Écouteurs Filaires Xiaomi Type-C – Connexion USB-C Plug-and-Play – Microphone HD – Étanchéité IP54 – Son Hi-Fi 12.4mm.jpg",
     "images": [
-      "/telephone_accessoires/141/Écouteurs Filaires Xiaomi Type-C – Connexion USB-C Plug-and-Play – Microphone HD – Étanchéité IP54 – Son Hi-Fi 12.4mm.jpg",
-      "/telephone_accessoires/141/Écouteurs Filaires Xiaomi Type-C – Connexion USB-C Plug-and-Play – Microphone HD – Étanchéité IP54 – Son Hi-Fi 12.4mm (1).jpg",
-      "/telephone_accessoires/141/Écouteurs Filaires Xiaomi Type-C – Connexion USB-C Plug-and-Play – Microphone HD – Étanchéité IP54 – Son Hi-Fi 12.4mm (2).jpg",
-      "/telephone_accessoires/141/Écouteurs Filaires Xiaomi Type-C – Connexion USB-C Plug-and-Play – Microphone HD – Étanchéité IP54 – Son Hi-Fi 12.4mm (3).jpg",
-      "/telephone_accessoires/141/Écouteurs Filaires Xiaomi Type-C – Connexion USB-C Plug-and-Play – Microphone HD – Étanchéité IP54 – Son Hi-Fi 12.4mm (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/141/Écouteurs Filaires Xiaomi Type-C – Connexion USB-C Plug-and-Play – Microphone HD – Étanchéité IP54 – Son Hi-Fi 12.4mm.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/141/Écouteurs Filaires Xiaomi Type-C – Connexion USB-C Plug-and-Play – Microphone HD – Étanchéité IP54 – Son Hi-Fi 12.4mm (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/141/Écouteurs Filaires Xiaomi Type-C – Connexion USB-C Plug-and-Play – Microphone HD – Étanchéité IP54 – Son Hi-Fi 12.4mm (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/141/Écouteurs Filaires Xiaomi Type-C – Connexion USB-C Plug-and-Play – Microphone HD – Étanchéité IP54 – Son Hi-Fi 12.4mm (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/141/Écouteurs Filaires Xiaomi Type-C – Connexion USB-C Plug-and-Play – Microphone HD – Étanchéité IP54 – Son Hi-Fi 12.4mm (4).jpg"
     ]
   },
   {
@@ -5575,11 +5575,11 @@ export const telephone_accessoires = [
       "autonomie": "16 h",
       "charge": "USB-C"
     },
-    "image": "/telephone_accessoires/142/Casque sans fil - ORAIMO OpenCirclet 2 OPN-672 - Bluetooth V5.4 - Autonomie 16h - Résistance IPX5 - Charge Type-C.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/142/Casque sans fil - ORAIMO OpenCirclet 2 OPN-672 - Bluetooth V5.4 - Autonomie 16h - Résistance IPX5 - Charge Type-C.jpg",
     "images": [
-      "/telephone_accessoires/142/Casque sans fil - ORAIMO OpenCirclet 2 OPN-672 - Bluetooth V5.4 - Autonomie 16h - Résistance IPX5 - Charge Type-C.jpg",
-      "/telephone_accessoires/142/Casque sans fil - ORAIMO OpenCirclet 2 OPN-672 - Bluetooth V5.4 - Autonomie 16h - Résistance IPX5 - Charge Type-C (1).jpg",
-      "/telephone_accessoires/142/Casque sans fil - ORAIMO OpenCirclet 2 OPN-672 - Bluetooth V5.4 - Autonomie 16h - Résistance IPX5 - Charge Type-C (2).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/142/Casque sans fil - ORAIMO OpenCirclet 2 OPN-672 - Bluetooth V5.4 - Autonomie 16h - Résistance IPX5 - Charge Type-C.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/142/Casque sans fil - ORAIMO OpenCirclet 2 OPN-672 - Bluetooth V5.4 - Autonomie 16h - Résistance IPX5 - Charge Type-C (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/142/Casque sans fil - ORAIMO OpenCirclet 2 OPN-672 - Bluetooth V5.4 - Autonomie 16h - Résistance IPX5 - Charge Type-C (2).jpg"
     ]
   },
   {
@@ -5613,16 +5613,16 @@ export const telephone_accessoires = [
       "autonomie_ecouteurs": "4–5 h",
       "autonomie_totale": "16–22 h (avec étui de charge)"
     },
-    "image": "/telephone_accessoires/143/SAMSUNG Galaxy Buds 4 Pro - Bluetooth 6.1 - Double Amplificateur - Réduction de Bruit Adaptative - Audio 360.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/143/SAMSUNG Galaxy Buds 4 Pro - Bluetooth 6.1 - Double Amplificateur - Réduction de Bruit Adaptative - Audio 360.jpg",
     "images": [
-      "/telephone_accessoires/143/SAMSUNG Galaxy Buds 4 Pro - Bluetooth 6.1 - Double Amplificateur - Réduction de Bruit Adaptative - Audio 360.jpg",
-      "/telephone_accessoires/143/SAMSUNG Galaxy Buds 4 Pro - Bluetooth 6.1 - Double Amplificateur - Réduction de Bruit Adaptative - Audio 360 (1).jpg",
-      "/telephone_accessoires/143/SAMSUNG Galaxy Buds 4 Pro - Bluetooth 6.1 - Double Amplificateur - Réduction de Bruit Adaptative - Audio 360 (2).jpg",
-      "/telephone_accessoires/143/SAMSUNG Galaxy Buds 4 Pro - Bluetooth 6.1 - Double Amplificateur - Réduction de Bruit Adaptative - Audio 360 (3).jpg",
-      "/telephone_accessoires/143/SAMSUNG Galaxy Buds 4 Pro - Bluetooth 6.1 - Double Amplificateur - Réduction de Bruit Adaptative - Audio 360 (4).jpg",
-      "/telephone_accessoires/143/SAMSUNG Galaxy Buds 4 Pro - Bluetooth 6.1 - Double Amplificateur - Réduction de Bruit Adaptative - Audio 360 (5).jpg",
-      "/telephone_accessoires/143/SAMSUNG Galaxy Buds 4 Pro - Bluetooth 6.1 - Double Amplificateur - Réduction de Bruit Adaptative - Audio 360 (6).jpg",
-      "/telephone_accessoires/143/SAMSUNG Galaxy Buds 4 Pro - Bluetooth 6.1 - Double Amplificateur - Réduction de Bruit Adaptative - Audio 360 (7).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/143/SAMSUNG Galaxy Buds 4 Pro - Bluetooth 6.1 - Double Amplificateur - Réduction de Bruit Adaptative - Audio 360.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/143/SAMSUNG Galaxy Buds 4 Pro - Bluetooth 6.1 - Double Amplificateur - Réduction de Bruit Adaptative - Audio 360 (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/143/SAMSUNG Galaxy Buds 4 Pro - Bluetooth 6.1 - Double Amplificateur - Réduction de Bruit Adaptative - Audio 360 (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/143/SAMSUNG Galaxy Buds 4 Pro - Bluetooth 6.1 - Double Amplificateur - Réduction de Bruit Adaptative - Audio 360 (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/143/SAMSUNG Galaxy Buds 4 Pro - Bluetooth 6.1 - Double Amplificateur - Réduction de Bruit Adaptative - Audio 360 (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/143/SAMSUNG Galaxy Buds 4 Pro - Bluetooth 6.1 - Double Amplificateur - Réduction de Bruit Adaptative - Audio 360 (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/143/SAMSUNG Galaxy Buds 4 Pro - Bluetooth 6.1 - Double Amplificateur - Réduction de Bruit Adaptative - Audio 360 (6).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/143/SAMSUNG Galaxy Buds 4 Pro - Bluetooth 6.1 - Double Amplificateur - Réduction de Bruit Adaptative - Audio 360 (7).jpg"
     ]
   },
   {
@@ -5655,14 +5655,14 @@ export const telephone_accessoires = [
       "bluetooth": "Bluetooth 5.4",
       "type_connexion": "Sans fil (Bluetooth)"
     },
-    "image": "/telephone_accessoires/144/Écouteur sans fil - Redmi Buds 8 Lite - Haut-parleur 12.4mm - Réduction de bruit 42dB - Bluetooth 5.4.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/144/Écouteur sans fil - Redmi Buds 8 Lite - Haut-parleur 12.4mm - Réduction de bruit 42dB - Bluetooth 5.4.jpg",
     "images": [
-      "/telephone_accessoires/144/Écouteur sans fil - Redmi Buds 8 Lite - Haut-parleur 12.4mm - Réduction de bruit 42dB - Bluetooth 5.4.jpg",
-      "/telephone_accessoires/144/Écouteurs filaire Infinix XH01 - Bout jack.jpg",
-      "/telephone_accessoires/144/Écouteur sans fil - Redmi Buds 8 Lite - Haut-parleur 12.4mm - Réduction de bruit 42dB - Bluetooth 5.4 (1).jpg",
-      "/telephone_accessoires/144/Écouteur sans fil - Redmi Buds 8 Lite - Haut-parleur 12.4mm - Réduction de bruit 42dB - Bluetooth 5.4 (2).jpg",
-      "/telephone_accessoires/144/Écouteur sans fil - Redmi Buds 8 Lite - Haut-parleur 12.4mm - Réduction de bruit 42dB - Bluetooth 5.4 (3).jpg",
-      "/telephone_accessoires/144/Écouteurs filaire Infinix XH01 - Bout jack (1).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/144/Écouteur sans fil - Redmi Buds 8 Lite - Haut-parleur 12.4mm - Réduction de bruit 42dB - Bluetooth 5.4.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/144/Écouteurs filaire Infinix XH01 - Bout jack.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/144/Écouteur sans fil - Redmi Buds 8 Lite - Haut-parleur 12.4mm - Réduction de bruit 42dB - Bluetooth 5.4 (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/144/Écouteur sans fil - Redmi Buds 8 Lite - Haut-parleur 12.4mm - Réduction de bruit 42dB - Bluetooth 5.4 (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/144/Écouteur sans fil - Redmi Buds 8 Lite - Haut-parleur 12.4mm - Réduction de bruit 42dB - Bluetooth 5.4 (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/144/Écouteurs filaire Infinix XH01 - Bout jack (1).jpg"
     ]
   },
   {
@@ -5694,19 +5694,19 @@ export const telephone_accessoires = [
       "interfaces": "USB-C",
       "type_connexion": "Filaire"
     },
-    "image": "/telephone_accessoires/145/Ecouteur filaire ORAIMO Type-C - CONCH 2C (OEP-320C) - Haut-parleur 10mm - Câble 1.2m - Son Haute Fidélité.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/145/Ecouteur filaire ORAIMO Type-C - CONCH 2C (OEP-320C) - Haut-parleur 10mm - Câble 1.2m - Son Haute Fidélité.jpg",
     "images": [
-      "/telephone_accessoires/145/Ecouteur filaire ORAIMO Type-C - CONCH 2C (OEP-320C) - Haut-parleur 10mm - Câble 1.2m - Son Haute Fidélité.jpg",
-      "/telephone_accessoires/145/Écouteurs M79 à clipser, type non intra-auriculaire, qualité sonore sans perte, étanchéité IPX4, commande vocale, dédiés au sport.jpg",
-      "/telephone_accessoires/145/Écouteurs M79 à clipser, type non intra-auriculaire, qualité sonore sans perte, étanchéité IPX4, commande vocale, dédiés au sport.png",
-      "/telephone_accessoires/145/Ecouteur filaire ORAIMO Type-C - CONCH 2C (OEP-320C) - Haut-parleur 10mm - Câble 1.2m - Son Haute Fidélité (1).jpg",
-      "/telephone_accessoires/145/Ecouteur filaire ORAIMO Type-C - CONCH 2C (OEP-320C) - Haut-parleur 10mm - Câble 1.2m - Son Haute Fidélité (2).jpg",
-      "/telephone_accessoires/145/Ecouteur filaire ORAIMO Type-C - CONCH 2C (OEP-320C) - Haut-parleur 10mm - Câble 1.2m - Son Haute Fidélité (3).jpg",
-      "/telephone_accessoires/145/Ecouteur filaire ORAIMO Type-C - CONCH 2C (OEP-320C) - Haut-parleur 10mm - Câble 1.2m - Son Haute Fidélité (4).jpg",
-      "/telephone_accessoires/145/Écouteurs M79 à clipser, type non intra-auriculaire, qualité sonore sans perte, étanchéité IPX4, commande vocale, dédiés au sport (1).png",
-      "/telephone_accessoires/145/Écouteurs M79 à clipser, type non intra-auriculaire, qualité sonore sans perte, étanchéité IPX4, commande vocale, dédiés au sport (2).png",
-      "/telephone_accessoires/145/Écouteurs M79 à clipser, type non intra-auriculaire, qualité sonore sans perte, étanchéité IPX4, commande vocale, dédiés au sport (3).png",
-      "/telephone_accessoires/145/Écouteurs M79 à clipser, type non intra-auriculaire, qualité sonore sans perte, étanchéité IPX4, commande vocale, dédiés au sport (4).png"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/145/Ecouteur filaire ORAIMO Type-C - CONCH 2C (OEP-320C) - Haut-parleur 10mm - Câble 1.2m - Son Haute Fidélité.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/145/Écouteurs M79 à clipser, type non intra-auriculaire, qualité sonore sans perte, étanchéité IPX4, commande vocale, dédiés au sport.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/145/Écouteurs M79 à clipser, type non intra-auriculaire, qualité sonore sans perte, étanchéité IPX4, commande vocale, dédiés au sport.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/145/Ecouteur filaire ORAIMO Type-C - CONCH 2C (OEP-320C) - Haut-parleur 10mm - Câble 1.2m - Son Haute Fidélité (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/145/Ecouteur filaire ORAIMO Type-C - CONCH 2C (OEP-320C) - Haut-parleur 10mm - Câble 1.2m - Son Haute Fidélité (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/145/Ecouteur filaire ORAIMO Type-C - CONCH 2C (OEP-320C) - Haut-parleur 10mm - Câble 1.2m - Son Haute Fidélité (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/145/Ecouteur filaire ORAIMO Type-C - CONCH 2C (OEP-320C) - Haut-parleur 10mm - Câble 1.2m - Son Haute Fidélité (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/145/Écouteurs M79 à clipser, type non intra-auriculaire, qualité sonore sans perte, étanchéité IPX4, commande vocale, dédiés au sport (1).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/145/Écouteurs M79 à clipser, type non intra-auriculaire, qualité sonore sans perte, étanchéité IPX4, commande vocale, dédiés au sport (2).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/145/Écouteurs M79 à clipser, type non intra-auriculaire, qualité sonore sans perte, étanchéité IPX4, commande vocale, dédiés au sport (3).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/145/Écouteurs M79 à clipser, type non intra-auriculaire, qualité sonore sans perte, étanchéité IPX4, commande vocale, dédiés au sport (4).png"
     ]
   },
   {
@@ -5737,10 +5737,10 @@ export const telephone_accessoires = [
       "type_connexion": "Filaire",
       "connecteur": "Jack 3,5 mm"
     },
-    "image": "/telephone_accessoires/146/Écouteurs filaire filaire Infinix XH02 -Bout jack.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/146/Écouteurs filaire filaire Infinix XH02 -Bout jack.jpg",
     "images": [
-      "/telephone_accessoires/146/Écouteurs filaire filaire Infinix XH02 -Bout jack.jpg",
-      "/telephone_accessoires/146/Écouteurs filaire filaire Infinix XH02 -Bout jack (1).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/146/Écouteurs filaire filaire Infinix XH02 -Bout jack.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/146/Écouteurs filaire filaire Infinix XH02 -Bout jack (1).jpg"
     ]
   },
   {
@@ -5774,14 +5774,14 @@ export const telephone_accessoires = [
       "autonomie_totale": "20–28 h (avec étui de charge)",
       "gaming": "Faible latence gaming"
     },
-    "image": "/telephone_accessoires/147/Écouteurs sans fil CobraStrike True Wireless (TWS) pour le gaming, sans réduction de bruit.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/147/Écouteurs sans fil CobraStrike True Wireless (TWS) pour le gaming, sans réduction de bruit.jpg",
     "images": [
-      "/telephone_accessoires/147/Écouteurs sans fil CobraStrike True Wireless (TWS) pour le gaming, sans réduction de bruit.jpg",
-      "/telephone_accessoires/147/Écouteurs sans fil CobraStrike True Wireless (TWS) pour le gaming, sans réduction de bruit (1).jpg",
-      "/telephone_accessoires/147/Écouteurs sans fil CobraStrike True Wireless (TWS) pour le gaming, sans réduction de bruit (2).jpg",
-      "/telephone_accessoires/147/Écouteurs sans fil CobraStrike True Wireless (TWS) pour le gaming, sans réduction de bruit (3).jpg",
-      "/telephone_accessoires/147/Écouteurs sans fil CobraStrike True Wireless (TWS) pour le gaming, sans réduction de bruit (4).jpg",
-      "/telephone_accessoires/147/Écouteurs sans fil CobraStrike True Wireless (TWS) pour le gaming, sans réduction de bruit (5).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/147/Écouteurs sans fil CobraStrike True Wireless (TWS) pour le gaming, sans réduction de bruit.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/147/Écouteurs sans fil CobraStrike True Wireless (TWS) pour le gaming, sans réduction de bruit (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/147/Écouteurs sans fil CobraStrike True Wireless (TWS) pour le gaming, sans réduction de bruit (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/147/Écouteurs sans fil CobraStrike True Wireless (TWS) pour le gaming, sans réduction de bruit (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/147/Écouteurs sans fil CobraStrike True Wireless (TWS) pour le gaming, sans réduction de bruit (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/147/Écouteurs sans fil CobraStrike True Wireless (TWS) pour le gaming, sans réduction de bruit (5).jpg"
     ]
   },
   {
@@ -5811,14 +5811,14 @@ export const telephone_accessoires = [
     "specifications": {
       "etat": "Neuf"
     },
-    "image": "/telephone_accessoires/148/Connecteur Usb C original dans l'oreille S20 S22 S21 écouteurs pour Samsung Note 10 écouteurs pour AKG Type C Headsts EO-IG955.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/148/Connecteur Usb C original dans l'oreille S20 S22 S21 écouteurs pour Samsung Note 10 écouteurs pour AKG Type C Headsts EO-IG955.jpg",
     "images": [
-      "/telephone_accessoires/148/Connecteur Usb C original dans l'oreille S20 S22 S21 écouteurs pour Samsung Note 10 écouteurs pour AKG Type C Headsts EO-IG955.jpg",
-      "/telephone_accessoires/148/Connecteur Usb C original dans l'oreille S20 S22 S21 écouteurs pour Samsung Note 10 écouteurs pour AKG Type C Headsts EO-IG955 (1).jpg",
-      "/telephone_accessoires/148/Connecteur Usb C original dans l'oreille S20 S22 S21 écouteurs pour Samsung Note 10 écouteurs pour AKG Type C Headsts EO-IG955 (2).jpg",
-      "/telephone_accessoires/148/Connecteur Usb C original dans l'oreille S20 S22 S21 écouteurs pour Samsung Note 10 écouteurs pour AKG Type C Headsts EO-IG955 (3).jpg",
-      "/telephone_accessoires/148/Connecteur Usb C original dans l'oreille S20 S22 S21 écouteurs pour Samsung Note 10 écouteurs pour AKG Type C Headsts EO-IG955 (4).jpg",
-      "/telephone_accessoires/148/Connecteur Usb C original dans l'oreille S20 S22 S21 écouteurs pour Samsung Note 10 écouteurs pour AKG Type C Headsts EO-IG955 (5).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/148/Connecteur Usb C original dans l'oreille S20 S22 S21 écouteurs pour Samsung Note 10 écouteurs pour AKG Type C Headsts EO-IG955.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/148/Connecteur Usb C original dans l'oreille S20 S22 S21 écouteurs pour Samsung Note 10 écouteurs pour AKG Type C Headsts EO-IG955 (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/148/Connecteur Usb C original dans l'oreille S20 S22 S21 écouteurs pour Samsung Note 10 écouteurs pour AKG Type C Headsts EO-IG955 (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/148/Connecteur Usb C original dans l'oreille S20 S22 S21 écouteurs pour Samsung Note 10 écouteurs pour AKG Type C Headsts EO-IG955 (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/148/Connecteur Usb C original dans l'oreille S20 S22 S21 écouteurs pour Samsung Note 10 écouteurs pour AKG Type C Headsts EO-IG955 (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/148/Connecteur Usb C original dans l'oreille S20 S22 S21 écouteurs pour Samsung Note 10 écouteurs pour AKG Type C Headsts EO-IG955 (5).jpg"
     ]
   },
   {
@@ -5854,13 +5854,13 @@ export const telephone_accessoires = [
       "reduction_bruit": "ANC (Réduction Active du Bruit)",
       "eclairage": "LED / RGB"
     },
-    "image": "/telephone_accessoires/149/ANKER A3961 SoundCore Sport X10 pour casque Bluetooth LED IPX7 étanche crochet d'oreille ouvert 32H longue durée course à pied cyclisme Sports.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/149/ANKER A3961 SoundCore Sport X10 pour casque Bluetooth LED IPX7 étanche crochet d'oreille ouvert 32H longue durée course à pied cyclisme Sports.jpg",
     "images": [
-      "/telephone_accessoires/149/ANKER A3961 SoundCore Sport X10 pour casque Bluetooth LED IPX7 étanche crochet d'oreille ouvert 32H longue durée course à pied cyclisme Sports.jpg",
-      "/telephone_accessoires/149/ANKER A3961 SoundCore Sport X10 pour casque Bluetooth LED IPX7 étanche crochet d'oreille ouvert 32H longue durée course à pied cyclisme Sports.png",
-      "/telephone_accessoires/149/ANKER A3961 SoundCore Sport X10 pour casque Bluetooth LED IPX7 étanche crochet d'oreille ouvert 32H longue durée course à pied cyclisme Sports (1).jpg",
-      "/telephone_accessoires/149/ANKER A3961 SoundCore Sport X10 pour casque Bluetooth LED IPX7 étanche crochet d'oreille ouvert 32H longue durée course à pied cyclisme Sports (1).png",
-      "/telephone_accessoires/149/ANKER A3961 SoundCore Sport X10 pour casque Bluetooth LED IPX7 étanche crochet d'oreille ouvert 32H longue durée course à pied cyclisme Sports (2).png"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/149/ANKER A3961 SoundCore Sport X10 pour casque Bluetooth LED IPX7 étanche crochet d'oreille ouvert 32H longue durée course à pied cyclisme Sports.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/149/ANKER A3961 SoundCore Sport X10 pour casque Bluetooth LED IPX7 étanche crochet d'oreille ouvert 32H longue durée course à pied cyclisme Sports.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/149/ANKER A3961 SoundCore Sport X10 pour casque Bluetooth LED IPX7 étanche crochet d'oreille ouvert 32H longue durée course à pied cyclisme Sports (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/149/ANKER A3961 SoundCore Sport X10 pour casque Bluetooth LED IPX7 étanche crochet d'oreille ouvert 32H longue durée course à pied cyclisme Sports (1).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/149/ANKER A3961 SoundCore Sport X10 pour casque Bluetooth LED IPX7 étanche crochet d'oreille ouvert 32H longue durée course à pied cyclisme Sports (2).png"
     ]
   },
   {
@@ -5893,17 +5893,17 @@ export const telephone_accessoires = [
       "autonomie_ecouteurs": "5–7 h",
       "autonomie_totale": "20–30 h (avec étui de charge)"
     },
-    "image": "/telephone_accessoires/150/Écouteurs de traduction linguistique en temps réel, traducteur instantané sans fil, 144 langues pour les voyages, les affaires et l'apprentissage.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/150/Écouteurs de traduction linguistique en temps réel, traducteur instantané sans fil, 144 langues pour les voyages, les affaires et l'apprentissage.jpg",
     "images": [
-      "/telephone_accessoires/150/Écouteurs de traduction linguistique en temps réel, traducteur instantané sans fil, 144 langues pour les voyages, les affaires et l'apprentissage.jpg",
-      "/telephone_accessoires/150/Écouteurs de traduction linguistique en temps réel, traducteur instantané sans fil, 144 langues pour les voyages, les affaires et l'apprentissage (1).jpg",
-      "/telephone_accessoires/150/Écouteurs de traduction linguistique en temps réel, traducteur instantané sans fil, 144 langues pour les voyages, les affaires et l'apprentissage (2).jpg",
-      "/telephone_accessoires/150/Écouteurs de traduction linguistique en temps réel, traducteur instantané sans fil, 144 langues pour les voyages, les affaires et l'apprentissage (3).jpg",
-      "/telephone_accessoires/150/Écouteurs de traduction linguistique en temps réel, traducteur instantané sans fil, 144 langues pour les voyages, les affaires et l'apprentissage (4).jpg",
-      "/telephone_accessoires/150/Écouteurs de traduction linguistique en temps réel, traducteur instantané sans fil, 144 langues pour les voyages, les affaires et l'apprentissage (5).jpg",
-      "/telephone_accessoires/150/Écouteurs de traduction linguistique en temps réel, traducteur instantané sans fil, 144 langues pour les voyages, les affaires et l'apprentissage (6).jpg",
-      "/telephone_accessoires/150/Écouteurs de traduction linguistique en temps réel, traducteur instantané sans fil, 144 langues pour les voyages, les affaires et l'apprentissage (7).jpg",
-      "/telephone_accessoires/150/Écouteurs de traduction linguistique en temps réel, traducteur instantané sans fil, 144 langues pour les voyages, les affaires et l'apprentissage (8).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/150/Écouteurs de traduction linguistique en temps réel, traducteur instantané sans fil, 144 langues pour les voyages, les affaires et l'apprentissage.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/150/Écouteurs de traduction linguistique en temps réel, traducteur instantané sans fil, 144 langues pour les voyages, les affaires et l'apprentissage (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/150/Écouteurs de traduction linguistique en temps réel, traducteur instantané sans fil, 144 langues pour les voyages, les affaires et l'apprentissage (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/150/Écouteurs de traduction linguistique en temps réel, traducteur instantané sans fil, 144 langues pour les voyages, les affaires et l'apprentissage (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/150/Écouteurs de traduction linguistique en temps réel, traducteur instantané sans fil, 144 langues pour les voyages, les affaires et l'apprentissage (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/150/Écouteurs de traduction linguistique en temps réel, traducteur instantané sans fil, 144 langues pour les voyages, les affaires et l'apprentissage (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/150/Écouteurs de traduction linguistique en temps réel, traducteur instantané sans fil, 144 langues pour les voyages, les affaires et l'apprentissage (6).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/150/Écouteurs de traduction linguistique en temps réel, traducteur instantané sans fil, 144 langues pour les voyages, les affaires et l'apprentissage (7).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/150/Écouteurs de traduction linguistique en temps réel, traducteur instantané sans fil, 144 langues pour les voyages, les affaires et l'apprentissage (8).jpg"
     ]
   },
   {
@@ -5937,14 +5937,14 @@ export const telephone_accessoires = [
       "driver": "3,5 mm",
       "microphone": "Oui"
     },
-    "image": "/telephone_accessoires/151/Écouteurs filaires intra-auriculaires D21 3,5 mm avec microphone, basses stéréo, contrôle intégré pour téléphones, idéaux pour le sport.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/151/Écouteurs filaires intra-auriculaires D21 3,5 mm avec microphone, basses stéréo, contrôle intégré pour téléphones, idéaux pour le sport.jpg",
     "images": [
-      "/telephone_accessoires/151/Écouteurs filaires intra-auriculaires D21 3,5 mm avec microphone, basses stéréo, contrôle intégré pour téléphones, idéaux pour le sport.jpg",
-      "/telephone_accessoires/151/Écouteurs filaires intra-auriculaires D21 3,5 mm avec microphone, basses stéréo, contrôle intégré pour téléphones, idéaux pour le sport.png",
-      "/telephone_accessoires/151/Écouteurs filaires intra-auriculaires D21 3,5 mm avec microphone, basses stéréo, contrôle intégré pour téléphones, idéaux pour le sport (1).jpg",
-      "/telephone_accessoires/151/Écouteurs filaires intra-auriculaires D21 3,5 mm avec microphone, basses stéréo, contrôle intégré pour téléphones, idéaux pour le sport (2).jpg",
-      "/telephone_accessoires/151/Écouteurs filaires intra-auriculaires D21 3,5 mm avec microphone, basses stéréo, contrôle intégré pour téléphones, idéaux pour le sport (3).jpg",
-      "/telephone_accessoires/151/Écouteurs filaires intra-auriculaires D21 3,5 mm avec microphone, basses stéréo, contrôle intégré pour téléphones, idéaux pour le sport (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/151/Écouteurs filaires intra-auriculaires D21 3,5 mm avec microphone, basses stéréo, contrôle intégré pour téléphones, idéaux pour le sport.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/151/Écouteurs filaires intra-auriculaires D21 3,5 mm avec microphone, basses stéréo, contrôle intégré pour téléphones, idéaux pour le sport.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/151/Écouteurs filaires intra-auriculaires D21 3,5 mm avec microphone, basses stéréo, contrôle intégré pour téléphones, idéaux pour le sport (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/151/Écouteurs filaires intra-auriculaires D21 3,5 mm avec microphone, basses stéréo, contrôle intégré pour téléphones, idéaux pour le sport (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/151/Écouteurs filaires intra-auriculaires D21 3,5 mm avec microphone, basses stéréo, contrôle intégré pour téléphones, idéaux pour le sport (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/151/Écouteurs filaires intra-auriculaires D21 3,5 mm avec microphone, basses stéréo, contrôle intégré pour téléphones, idéaux pour le sport (4).jpg"
     ]
   },
   {
@@ -5977,12 +5977,12 @@ export const telephone_accessoires = [
       "reduction_bruit": "ANC (Réduction Active du Bruit)",
       "gaming": "Oui"
     },
-    "image": "/telephone_accessoires/152/Écouteurs sans fil en gros, mini-écouteurs à faible latence, étanches, avec suppression du bruit, casque de jeu pour étudiants.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/152/Écouteurs sans fil en gros, mini-écouteurs à faible latence, étanches, avec suppression du bruit, casque de jeu pour étudiants.jpg",
     "images": [
-      "/telephone_accessoires/152/Écouteurs sans fil en gros, mini-écouteurs à faible latence, étanches, avec suppression du bruit, casque de jeu pour étudiants.jpg",
-      "/telephone_accessoires/152/Écouteurs sans fil en gros, mini-écouteurs à faible latence, étanches, avec suppression du bruit, casque de jeu pour étudiants (1).jpg",
-      "/telephone_accessoires/152/Écouteurs sans fil en gros, mini-écouteurs à faible latence, étanches, avec suppression du bruit, casque de jeu pour étudiants (2).jpg",
-      "/telephone_accessoires/152/Écouteurs sans fil en gros, mini-écouteurs à faible latence, étanches, avec suppression du bruit, casque de jeu pour étudiants (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/152/Écouteurs sans fil en gros, mini-écouteurs à faible latence, étanches, avec suppression du bruit, casque de jeu pour étudiants.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/152/Écouteurs sans fil en gros, mini-écouteurs à faible latence, étanches, avec suppression du bruit, casque de jeu pour étudiants (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/152/Écouteurs sans fil en gros, mini-écouteurs à faible latence, étanches, avec suppression du bruit, casque de jeu pour étudiants (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/152/Écouteurs sans fil en gros, mini-écouteurs à faible latence, étanches, avec suppression du bruit, casque de jeu pour étudiants (3).jpg"
     ]
   },
   {
@@ -6011,13 +6011,13 @@ export const telephone_accessoires = [
     ],
     "minOrder": 18,
     "specifications": {},
-    "image": "/telephone_accessoires/153/Écouteurs Sport Intra-auriculaires Pro5s pour V5.3 avec Étanchéité IPX5, Indicateur LED, Batterie Longue Durée, Chipset JL, Charge Type-C.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/153/Écouteurs Sport Intra-auriculaires Pro5s pour V5.3 avec Étanchéité IPX5, Indicateur LED, Batterie Longue Durée, Chipset JL, Charge Type-C.jpg",
     "images": [
-      "/telephone_accessoires/153/Écouteurs Sport Intra-auriculaires Pro5s pour V5.3 avec Étanchéité IPX5, Indicateur LED, Batterie Longue Durée, Chipset JL, Charge Type-C.jpg",
-      "/telephone_accessoires/153/Écouteurs Sport Intra-auriculaires Pro5s pour V5.3 avec Étanchéité IPX5, Indicateur LED, Batterie Longue Durée, Chipset JL, Charge Type-C (1).jpg",
-      "/telephone_accessoires/153/Écouteurs Sport Intra-auriculaires Pro5s pour V5.3 avec Étanchéité IPX5, Indicateur LED, Batterie Longue Durée, Chipset JL, Charge Type-C (2).jpg",
-      "/telephone_accessoires/153/Écouteurs Sport Intra-auriculaires Pro5s pour V5.3 avec Étanchéité IPX5, Indicateur LED, Batterie Longue Durée, Chipset JL, Charge Type-C (3).jpg",
-      "/telephone_accessoires/153/Écouteurs Sport Intra-auriculaires Pro5s pour V5.3 avec Étanchéité IPX5, Indicateur LED, Batterie Longue Durée, Chipset JL, Charge Type-C (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/153/Écouteurs Sport Intra-auriculaires Pro5s pour V5.3 avec Étanchéité IPX5, Indicateur LED, Batterie Longue Durée, Chipset JL, Charge Type-C.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/153/Écouteurs Sport Intra-auriculaires Pro5s pour V5.3 avec Étanchéité IPX5, Indicateur LED, Batterie Longue Durée, Chipset JL, Charge Type-C (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/153/Écouteurs Sport Intra-auriculaires Pro5s pour V5.3 avec Étanchéité IPX5, Indicateur LED, Batterie Longue Durée, Chipset JL, Charge Type-C (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/153/Écouteurs Sport Intra-auriculaires Pro5s pour V5.3 avec Étanchéité IPX5, Indicateur LED, Batterie Longue Durée, Chipset JL, Charge Type-C (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/153/Écouteurs Sport Intra-auriculaires Pro5s pour V5.3 avec Étanchéité IPX5, Indicateur LED, Batterie Longue Durée, Chipset JL, Charge Type-C (4).jpg"
     ]
   },
   {
@@ -6051,13 +6051,13 @@ export const telephone_accessoires = [
       "autonomie_ecouteurs": "6–7 h",
       "autonomie_totale": "30–39 h (avec étui de charge)"
     },
-    "image": "/telephone_accessoires/154/Écouteurs intra-auriculaires de sport et de jeu sans fil True Wireless.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/154/Écouteurs intra-auriculaires de sport et de jeu sans fil True Wireless.jpg",
     "images": [
-      "/telephone_accessoires/154/Écouteurs intra-auriculaires de sport et de jeu sans fil True Wireless.jpg",
-      "/telephone_accessoires/154/Écouteurs intra-auriculaires de sport et de jeu sans fil True Wireless.png",
-      "/telephone_accessoires/154/Écouteurs intra-auriculaires de sport et de jeu sans fil True Wireless (1).jpg",
-      "/telephone_accessoires/154/Écouteurs intra-auriculaires de sport et de jeu sans fil True Wireless (1).png",
-      "/telephone_accessoires/154/Écouteurs intra-auriculaires de sport et de jeu sans fil True Wireless (2).png"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/154/Écouteurs intra-auriculaires de sport et de jeu sans fil True Wireless.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/154/Écouteurs intra-auriculaires de sport et de jeu sans fil True Wireless.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/154/Écouteurs intra-auriculaires de sport et de jeu sans fil True Wireless (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/154/Écouteurs intra-auriculaires de sport et de jeu sans fil True Wireless (1).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/154/Écouteurs intra-auriculaires de sport et de jeu sans fil True Wireless (2).png"
     ]
   },
   {
@@ -6095,9 +6095,9 @@ export const telephone_accessoires = [
       "gaming": "Faible latence gaming",
       "affichage": "LED"
     },
-    "image": "/telephone_accessoires/155/Écouteurs TWS à Clip Ouvert, Sans Fil, Lumière LED, Son Stéréo, Faible Latence, Puce JL pour Gaming et Sport.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/155/Écouteurs TWS à Clip Ouvert, Sans Fil, Lumière LED, Son Stéréo, Faible Latence, Puce JL pour Gaming et Sport.jpg",
     "images": [
-      "/telephone_accessoires/155/Écouteurs TWS à Clip Ouvert, Sans Fil, Lumière LED, Son Stéréo, Faible Latence, Puce JL pour Gaming et Sport.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/155/Écouteurs TWS à Clip Ouvert, Sans Fil, Lumière LED, Son Stéréo, Faible Latence, Puce JL pour Gaming et Sport.jpg"
     ]
   },
   {
@@ -6131,11 +6131,11 @@ export const telephone_accessoires = [
       "autonomie_ecouteurs": "6–9 h",
       "autonomie_totale": "24–33 h (avec étui de charge)"
     },
-    "image": "/telephone_accessoires/156/Écouteurs sans fil intra-auriculaires à réduction de bruit ANC, modèles Air Earphone Pods Pro 2 et Pods 3ème génération – Nouveauté très demandée.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/156/Écouteurs sans fil intra-auriculaires à réduction de bruit ANC, modèles Air Earphone Pods Pro 2 et Pods 3ème génération – Nouveauté très demandée.jpg",
     "images": [
-      "/telephone_accessoires/156/Écouteurs sans fil intra-auriculaires à réduction de bruit ANC, modèles Air Earphone Pods Pro 2 et Pods 3ème génération – Nouveauté très demandée.jpg",
-      "/telephone_accessoires/156/Écouteurs sans fil intra-auriculaires à réduction de bruit ANC, modèles Air Earphone Pods Pro 2 et Pods 3ème génération – Nouveauté très demandée.png",
-      "/telephone_accessoires/156/Écouteurs sans fil intra-auriculaires à réduction de bruit ANC, modèles Air Earphone Pods Pro 2 et Pods 3ème génération – Nouveauté très demandée (1).png"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/156/Écouteurs sans fil intra-auriculaires à réduction de bruit ANC, modèles Air Earphone Pods Pro 2 et Pods 3ème génération – Nouveauté très demandée.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/156/Écouteurs sans fil intra-auriculaires à réduction de bruit ANC, modèles Air Earphone Pods Pro 2 et Pods 3ème génération – Nouveauté très demandée.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/156/Écouteurs sans fil intra-auriculaires à réduction de bruit ANC, modèles Air Earphone Pods Pro 2 et Pods 3ème génération – Nouveauté très demandée (1).png"
     ]
   },
   {
@@ -6170,14 +6170,14 @@ export const telephone_accessoires = [
       "autonomie_totale": "20–26 h (avec étui de charge)",
       "gaming": "Faible latence gaming"
     },
-    "image": "/telephone_accessoires/157/Écouteurs de Jeu Pro 60 TWS Sans Fil à Faible Latence Intra-Auriculaires pour Gamers Pro60.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/157/Écouteurs de Jeu Pro 60 TWS Sans Fil à Faible Latence Intra-Auriculaires pour Gamers Pro60.jpg",
     "images": [
-      "/telephone_accessoires/157/Écouteurs de Jeu Pro 60 TWS Sans Fil à Faible Latence Intra-Auriculaires pour Gamers Pro60.jpg",
-      "/telephone_accessoires/157/Écouteurs de Jeu Pro 60 TWS Sans Fil à Faible Latence Intra-Auriculaires pour Gamers Pro60 (1).jpg",
-      "/telephone_accessoires/157/Écouteurs de Jeu Pro 60 TWS Sans Fil à Faible Latence Intra-Auriculaires pour Gamers Pro60 (2).jpg",
-      "/telephone_accessoires/157/Écouteurs de Jeu Pro 60 TWS Sans Fil à Faible Latence Intra-Auriculaires pour Gamers Pro60 (3).jpg",
-      "/telephone_accessoires/157/Écouteurs de Jeu Pro 60 TWS Sans Fil à Faible Latence Intra-Auriculaires pour Gamers Pro60 (4).jpg",
-      "/telephone_accessoires/157/Écouteurs de Jeu Pro 60 TWS Sans Fil à Faible Latence Intra-Auriculaires pour Gamers Pro60 (5).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/157/Écouteurs de Jeu Pro 60 TWS Sans Fil à Faible Latence Intra-Auriculaires pour Gamers Pro60.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/157/Écouteurs de Jeu Pro 60 TWS Sans Fil à Faible Latence Intra-Auriculaires pour Gamers Pro60 (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/157/Écouteurs de Jeu Pro 60 TWS Sans Fil à Faible Latence Intra-Auriculaires pour Gamers Pro60 (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/157/Écouteurs de Jeu Pro 60 TWS Sans Fil à Faible Latence Intra-Auriculaires pour Gamers Pro60 (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/157/Écouteurs de Jeu Pro 60 TWS Sans Fil à Faible Latence Intra-Auriculaires pour Gamers Pro60 (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/157/Écouteurs de Jeu Pro 60 TWS Sans Fil à Faible Latence Intra-Auriculaires pour Gamers Pro60 (5).jpg"
     ]
   },
   {
@@ -6213,17 +6213,17 @@ export const telephone_accessoires = [
       "autonomie_totale": "20–29 h (avec étui de charge)",
       "affichage": "LED"
     },
-    "image": "/telephone_accessoires/158/Écouteurs sans Fil T02 Bt V5.3 EDR depuis Entrepôt Américain avec Affichage LED, Écouteurs Intra-Auriculaires Étanche à Réduction de Bruit pour Téléphone.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/158/Écouteurs sans Fil T02 Bt V5.3 EDR depuis Entrepôt Américain avec Affichage LED, Écouteurs Intra-Auriculaires Étanche à Réduction de Bruit pour Téléphone.jpg",
     "images": [
-      "/telephone_accessoires/158/Écouteurs sans Fil T02 Bt V5.3 EDR depuis Entrepôt Américain avec Affichage LED, Écouteurs Intra-Auriculaires Étanche à Réduction de Bruit pour Téléphone.jpg",
-      "/telephone_accessoires/158/Écouteurs sans Fil T02 Bt V5.3 EDR depuis Entrepôt Américain avec Affichage LED, Écouteurs Intra-Auriculaires Étanche à Réduction de Bruit pour Téléphone (1).jpg",
-      "/telephone_accessoires/158/Écouteurs sans Fil T02 Bt V5.3 EDR depuis Entrepôt Américain avec Affichage LED, Écouteurs Intra-Auriculaires Étanche à Réduction de Bruit pour Téléphone (2).jpg",
-      "/telephone_accessoires/158/Écouteurs sans Fil T02 Bt V5.3 EDR depuis Entrepôt Américain avec Affichage LED, Écouteurs Intra-Auriculaires Étanche à Réduction de Bruit pour Téléphone (3).jpg",
-      "/telephone_accessoires/158/Écouteurs sans Fil T02 Bt V5.3 EDR depuis Entrepôt Américain avec Affichage LED, Écouteurs Intra-Auriculaires Étanche à Réduction de Bruit pour Téléphone (4).jpg",
-      "/telephone_accessoires/158/Écouteurs sans Fil T02 Bt V5.3 EDR depuis Entrepôt Américain avec Affichage LED, Écouteurs Intra-Auriculaires Étanche à Réduction de Bruit pour Téléphone (5).jpg",
-      "/telephone_accessoires/158/Écouteurs sans Fil T02 Bt V5.3 EDR depuis Entrepôt Américain avec Affichage LED, Écouteurs Intra-Auriculaires Étanche à Réduction de Bruit pour Téléphone (6).jpg",
-      "/telephone_accessoires/158/Écouteurs sans Fil T02 Bt V5.3 EDR depuis Entrepôt Américain avec Affichage LED, Écouteurs Intra-Auriculaires Étanche à Réduction de Bruit pour Téléphone (7).jpg",
-      "/telephone_accessoires/158/Écouteurs sans Fil T02 Bt V5.3 EDR depuis Entrepôt Américain avec Affichage LED, Écouteurs Intra-Auriculaires Étanche à Réduction de Bruit pour Téléphone (8).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/158/Écouteurs sans Fil T02 Bt V5.3 EDR depuis Entrepôt Américain avec Affichage LED, Écouteurs Intra-Auriculaires Étanche à Réduction de Bruit pour Téléphone.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/158/Écouteurs sans Fil T02 Bt V5.3 EDR depuis Entrepôt Américain avec Affichage LED, Écouteurs Intra-Auriculaires Étanche à Réduction de Bruit pour Téléphone (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/158/Écouteurs sans Fil T02 Bt V5.3 EDR depuis Entrepôt Américain avec Affichage LED, Écouteurs Intra-Auriculaires Étanche à Réduction de Bruit pour Téléphone (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/158/Écouteurs sans Fil T02 Bt V5.3 EDR depuis Entrepôt Américain avec Affichage LED, Écouteurs Intra-Auriculaires Étanche à Réduction de Bruit pour Téléphone (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/158/Écouteurs sans Fil T02 Bt V5.3 EDR depuis Entrepôt Américain avec Affichage LED, Écouteurs Intra-Auriculaires Étanche à Réduction de Bruit pour Téléphone (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/158/Écouteurs sans Fil T02 Bt V5.3 EDR depuis Entrepôt Américain avec Affichage LED, Écouteurs Intra-Auriculaires Étanche à Réduction de Bruit pour Téléphone (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/158/Écouteurs sans Fil T02 Bt V5.3 EDR depuis Entrepôt Américain avec Affichage LED, Écouteurs Intra-Auriculaires Étanche à Réduction de Bruit pour Téléphone (6).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/158/Écouteurs sans Fil T02 Bt V5.3 EDR depuis Entrepôt Américain avec Affichage LED, Écouteurs Intra-Auriculaires Étanche à Réduction de Bruit pour Téléphone (7).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/158/Écouteurs sans Fil T02 Bt V5.3 EDR depuis Entrepôt Américain avec Affichage LED, Écouteurs Intra-Auriculaires Étanche à Réduction de Bruit pour Téléphone (8).jpg"
     ]
   },
   {
@@ -6260,12 +6260,12 @@ export const telephone_accessoires = [
       "autonomie_ecouteurs": "4–6 h",
       "autonomie_totale": "20–29 h (avec étui de charge)"
     },
-    "image": "/telephone_accessoires/159/écouteurs TWS sans fil Bluetooth de haute qualité, écouteurs sans fil véritablement étanches, écouteurs de sport et de jeu, auriculares.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/159/écouteurs TWS sans fil Bluetooth de haute qualité, écouteurs sans fil véritablement étanches, écouteurs de sport et de jeu, auriculares.jpg",
     "images": [
-      "/telephone_accessoires/159/écouteurs TWS sans fil Bluetooth de haute qualité, écouteurs sans fil véritablement étanches, écouteurs de sport et de jeu, auriculares.jpg",
-      "/telephone_accessoires/159/écouteurs TWS sans fil Bluetooth de haute qualité, écouteurs sans fil véritablement étanches, écouteurs de sport et de jeu, auriculares (1).jpg",
-      "/telephone_accessoires/159/écouteurs TWS sans fil Bluetooth de haute qualité, écouteurs sans fil véritablement étanches, écouteurs de sport et de jeu, auriculares (2).jpg",
-      "/telephone_accessoires/159/écouteurs TWS sans fil Bluetooth de haute qualité, écouteurs sans fil véritablement étanches, écouteurs de sport et de jeu, auriculares (3).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/159/écouteurs TWS sans fil Bluetooth de haute qualité, écouteurs sans fil véritablement étanches, écouteurs de sport et de jeu, auriculares.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/159/écouteurs TWS sans fil Bluetooth de haute qualité, écouteurs sans fil véritablement étanches, écouteurs de sport et de jeu, auriculares (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/159/écouteurs TWS sans fil Bluetooth de haute qualité, écouteurs sans fil véritablement étanches, écouteurs de sport et de jeu, auriculares (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/159/écouteurs TWS sans fil Bluetooth de haute qualité, écouteurs sans fil véritablement étanches, écouteurs de sport et de jeu, auriculares (3).jpg"
     ]
   },
   {
@@ -6297,11 +6297,11 @@ export const telephone_accessoires = [
       "connecteur": "USB-C",
       "microphone": "Oui"
     },
-    "image": "/telephone_accessoires/160/Écouteurs Filaire Type C Intra-Auriculaires Avec Micro Pour Galaxy Note 10 Ultra et Samsung AKG.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/160/Écouteurs Filaire Type C Intra-Auriculaires Avec Micro Pour Galaxy Note 10 Ultra et Samsung AKG.jpg",
     "images": [
-      "/telephone_accessoires/160/Écouteurs Filaire Type C Intra-Auriculaires Avec Micro Pour Galaxy Note 10 Ultra et Samsung AKG.jpg",
-      "/telephone_accessoires/160/Écouteurs Filaire Type C Intra-Auriculaires Avec Micro Pour Galaxy Note 10 Ultra et Samsung AKG (1).jpg",
-      "/telephone_accessoires/160/Écouteurs Filaire Type C Intra-Auriculaires Avec Micro Pour Galaxy Note 10 Ultra et Samsung AKG (2).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/160/Écouteurs Filaire Type C Intra-Auriculaires Avec Micro Pour Galaxy Note 10 Ultra et Samsung AKG.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/160/Écouteurs Filaire Type C Intra-Auriculaires Avec Micro Pour Galaxy Note 10 Ultra et Samsung AKG (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/160/Écouteurs Filaire Type C Intra-Auriculaires Avec Micro Pour Galaxy Note 10 Ultra et Samsung AKG (2).jpg"
     ]
   },
   {
@@ -6334,13 +6334,13 @@ export const telephone_accessoires = [
       "type_connexion": "Sans fil (Bluetooth)",
       "bluetooth": "Bluetooth 895"
     },
-    "image": "/telephone_accessoires/161/Casque Bluetooth 895B S510 avec Affichage Numérique, Casque Sport Sans Fil Intra-Auriculaire TWS pour Apple.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/161/Casque Bluetooth 895B S510 avec Affichage Numérique, Casque Sport Sans Fil Intra-Auriculaire TWS pour Apple.jpg",
     "images": [
-      "/telephone_accessoires/161/Casque Bluetooth 895B S510 avec Affichage Numérique, Casque Sport Sans Fil Intra-Auriculaire TWS pour Apple.jpg",
-      "/telephone_accessoires/161/Casque Bluetooth 895B S510 avec Affichage Numérique, Casque Sport Sans Fil Intra-Auriculaire TWS pour Apple.png",
-      "/telephone_accessoires/161/Casque Bluetooth 895B S510 avec Affichage Numérique, Casque Sport Sans Fil Intra-Auriculaire TWS pour Apple (1).jpg",
-      "/telephone_accessoires/161/Casque Bluetooth 895B S510 avec Affichage Numérique, Casque Sport Sans Fil Intra-Auriculaire TWS pour Apple (1).png",
-      "/telephone_accessoires/161/Casque Bluetooth 895B S510 avec Affichage Numérique, Casque Sport Sans Fil Intra-Auriculaire TWS pour Apple (2).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/161/Casque Bluetooth 895B S510 avec Affichage Numérique, Casque Sport Sans Fil Intra-Auriculaire TWS pour Apple.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/161/Casque Bluetooth 895B S510 avec Affichage Numérique, Casque Sport Sans Fil Intra-Auriculaire TWS pour Apple.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/161/Casque Bluetooth 895B S510 avec Affichage Numérique, Casque Sport Sans Fil Intra-Auriculaire TWS pour Apple (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/161/Casque Bluetooth 895B S510 avec Affichage Numérique, Casque Sport Sans Fil Intra-Auriculaire TWS pour Apple (1).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/161/Casque Bluetooth 895B S510 avec Affichage Numérique, Casque Sport Sans Fil Intra-Auriculaire TWS pour Apple (2).jpg"
     ]
   },
   {
@@ -6376,14 +6376,14 @@ export const telephone_accessoires = [
       "autonomie_ecouteurs": "5–6 h",
       "autonomie_totale": "25–33 h (avec étui de charge)"
     },
-    "image": "/telephone_accessoires/162/Écouteurs sans fil AI Traducteur JM13, petit modèle OWS en forme de noix de coco, à porter autour de l'oreille, étanches, sans réduction de bruit.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/162/Écouteurs sans fil AI Traducteur JM13, petit modèle OWS en forme de noix de coco, à porter autour de l'oreille, étanches, sans réduction de bruit.jpg",
     "images": [
-      "/telephone_accessoires/162/Écouteurs sans fil AI Traducteur JM13, petit modèle OWS en forme de noix de coco, à porter autour de l'oreille, étanches, sans réduction de bruit.jpg",
-      "/telephone_accessoires/162/Écouteurs sans fil AI Traducteur JM13, petit modèle OWS en forme de noix de coco, à porter autour de l'oreille, étanches, sans réduction de bruit.png",
-      "/telephone_accessoires/162/Écouteurs sans fil AI Traducteur JM13, petit modèle OWS en forme de noix de coco, à porter autour de l'oreille, étanches, sans réduction de bruit (1).jpg",
-      "/telephone_accessoires/162/Écouteurs sans fil AI Traducteur JM13, petit modèle OWS en forme de noix de coco, à porter autour de l'oreille, étanches, sans réduction de bruit (2).jpg",
-      "/telephone_accessoires/162/Écouteurs sans fil AI Traducteur JM13, petit modèle OWS en forme de noix de coco, à porter autour de l'oreille, étanches, sans réduction de bruit (3).jpg",
-      "/telephone_accessoires/162/Écouteurs sans fil AI Traducteur JM13, petit modèle OWS en forme de noix de coco, à porter autour de l'oreille, étanches, sans réduction de bruit (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/162/Écouteurs sans fil AI Traducteur JM13, petit modèle OWS en forme de noix de coco, à porter autour de l'oreille, étanches, sans réduction de bruit.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/162/Écouteurs sans fil AI Traducteur JM13, petit modèle OWS en forme de noix de coco, à porter autour de l'oreille, étanches, sans réduction de bruit.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/162/Écouteurs sans fil AI Traducteur JM13, petit modèle OWS en forme de noix de coco, à porter autour de l'oreille, étanches, sans réduction de bruit (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/162/Écouteurs sans fil AI Traducteur JM13, petit modèle OWS en forme de noix de coco, à porter autour de l'oreille, étanches, sans réduction de bruit (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/162/Écouteurs sans fil AI Traducteur JM13, petit modèle OWS en forme de noix de coco, à porter autour de l'oreille, étanches, sans réduction de bruit (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/162/Écouteurs sans fil AI Traducteur JM13, petit modèle OWS en forme de noix de coco, à porter autour de l'oreille, étanches, sans réduction de bruit (4).jpg"
     ]
   },
   {
@@ -6419,18 +6419,18 @@ export const telephone_accessoires = [
       "gaming": "Faible latence gaming",
       "affichage": "LED"
     },
-    "image": "/telephone_accessoires/163/Écouteurs intra-auriculaires sans fil Pro Version BT 5.3 TWS Mini avec affichage LED pour le sport et le gaming F9.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/163/Écouteurs intra-auriculaires sans fil Pro Version BT 5.3 TWS Mini avec affichage LED pour le sport et le gaming F9.jpg",
     "images": [
-      "/telephone_accessoires/163/Écouteurs intra-auriculaires sans fil Pro Version BT 5.3 TWS Mini avec affichage LED pour le sport et le gaming F9.jpg",
-      "/telephone_accessoires/163/Écouteurs sans fil TWS Air31 transparents, directement de l'usine, oreillettes cristallines, écouteurs sans fil, casque audio, pods, auriculares, audifonos.jpg",
-      "/telephone_accessoires/163/Écouteurs intra-auriculaires sans fil Pro Version BT 5.3 TWS Mini avec affichage LED pour le sport et le gaming F9 (1).jpg",
-      "/telephone_accessoires/163/Écouteurs intra-auriculaires sans fil Pro Version BT 5.3 TWS Mini avec affichage LED pour le sport et le gaming F9 (2).jpg",
-      "/telephone_accessoires/163/Écouteurs sans fil TWS Air31 transparents, directement de l'usine, oreillettes cristallines, écouteurs sans fil, casque audio, pods, auriculares, audifonos (1).jpg",
-      "/telephone_accessoires/163/Écouteurs sans fil TWS Air31 transparents, directement de l'usine, oreillettes cristallines, écouteurs sans fil, casque audio, pods, auriculares, audifonos (2).jpg",
-      "/telephone_accessoires/163/Écouteurs sans fil TWS Air31 transparents, directement de l'usine, oreillettes cristallines, écouteurs sans fil, casque audio, pods, auriculares, audifonos (3).jpg",
-      "/telephone_accessoires/163/Écouteurs sans fil TWS Air31 transparents, directement de l'usine, oreillettes cristallines, écouteurs sans fil, casque audio, pods, auriculares, audifonos (4).jpg",
-      "/telephone_accessoires/163/Écouteurs sans fil TWS Air31 transparents, directement de l'usine, oreillettes cristallines, écouteurs sans fil, casque audio, pods, auriculares, audifonos (5).jpg",
-      "/telephone_accessoires/163/Écouteurs sans fil TWS Air31 transparents, directement de l'usine, oreillettes cristallines, écouteurs sans fil, casque audio, pods, auriculares, audifonos (6).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/163/Écouteurs intra-auriculaires sans fil Pro Version BT 5.3 TWS Mini avec affichage LED pour le sport et le gaming F9.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/163/Écouteurs sans fil TWS Air31 transparents, directement de l'usine, oreillettes cristallines, écouteurs sans fil, casque audio, pods, auriculares, audifonos.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/163/Écouteurs intra-auriculaires sans fil Pro Version BT 5.3 TWS Mini avec affichage LED pour le sport et le gaming F9 (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/163/Écouteurs intra-auriculaires sans fil Pro Version BT 5.3 TWS Mini avec affichage LED pour le sport et le gaming F9 (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/163/Écouteurs sans fil TWS Air31 transparents, directement de l'usine, oreillettes cristallines, écouteurs sans fil, casque audio, pods, auriculares, audifonos (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/163/Écouteurs sans fil TWS Air31 transparents, directement de l'usine, oreillettes cristallines, écouteurs sans fil, casque audio, pods, auriculares, audifonos (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/163/Écouteurs sans fil TWS Air31 transparents, directement de l'usine, oreillettes cristallines, écouteurs sans fil, casque audio, pods, auriculares, audifonos (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/163/Écouteurs sans fil TWS Air31 transparents, directement de l'usine, oreillettes cristallines, écouteurs sans fil, casque audio, pods, auriculares, audifonos (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/163/Écouteurs sans fil TWS Air31 transparents, directement de l'usine, oreillettes cristallines, écouteurs sans fil, casque audio, pods, auriculares, audifonos (5).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/163/Écouteurs sans fil TWS Air31 transparents, directement de l'usine, oreillettes cristallines, écouteurs sans fil, casque audio, pods, auriculares, audifonos (6).jpg"
     ]
   },
   {
@@ -6465,13 +6465,13 @@ export const telephone_accessoires = [
       "gaming": "Oui",
       "eclairage": "LED / RGB"
     },
-    "image": "/telephone_accessoires/164/Casque de jeu sans fil à chargement magnétique, LED, faible latence, suppression du bruit ENC, son stéréo véritable, étanche, pour le sport et la musique.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/164/Casque de jeu sans fil à chargement magnétique, LED, faible latence, suppression du bruit ENC, son stéréo véritable, étanche, pour le sport et la musique.jpg",
     "images": [
-      "/telephone_accessoires/164/Casque de jeu sans fil à chargement magnétique, LED, faible latence, suppression du bruit ENC, son stéréo véritable, étanche, pour le sport et la musique.jpg",
-      "/telephone_accessoires/164/Casque de jeu sans fil à chargement magnétique, LED, faible latence, suppression du bruit ENC, son stéréo véritable, étanche, pour le sport et la musique (1).jpg",
-      "/telephone_accessoires/164/Casque de jeu sans fil à chargement magnétique, LED, faible latence, suppression du bruit ENC, son stéréo véritable, étanche, pour le sport et la musique (2).jpg",
-      "/telephone_accessoires/164/Casque de jeu sans fil à chargement magnétique, LED, faible latence, suppression du bruit ENC, son stéréo véritable, étanche, pour le sport et la musique (3).jpg",
-      "/telephone_accessoires/164/Casque de jeu sans fil à chargement magnétique, LED, faible latence, suppression du bruit ENC, son stéréo véritable, étanche, pour le sport et la musique (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/164/Casque de jeu sans fil à chargement magnétique, LED, faible latence, suppression du bruit ENC, son stéréo véritable, étanche, pour le sport et la musique.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/164/Casque de jeu sans fil à chargement magnétique, LED, faible latence, suppression du bruit ENC, son stéréo véritable, étanche, pour le sport et la musique (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/164/Casque de jeu sans fil à chargement magnétique, LED, faible latence, suppression du bruit ENC, son stéréo véritable, étanche, pour le sport et la musique (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/164/Casque de jeu sans fil à chargement magnétique, LED, faible latence, suppression du bruit ENC, son stéréo véritable, étanche, pour le sport et la musique (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/164/Casque de jeu sans fil à chargement magnétique, LED, faible latence, suppression du bruit ENC, son stéréo véritable, étanche, pour le sport et la musique (4).jpg"
     ]
   },
   {
@@ -6508,13 +6508,13 @@ export const telephone_accessoires = [
       "autonomie_ecouteurs": "5–6 h",
       "autonomie_totale": "25–34 h (avec étui de charge)"
     },
-    "image": "/telephone_accessoires/165/Écouteurs sans Fil A6s TWS Originaux 2024 Bt 5.3 Fone De Ouvido Bluetooth Étanche Intra-Auriculaire Audifonos Bluetooth.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/165/Écouteurs sans Fil A6s TWS Originaux 2024 Bt 5.3 Fone De Ouvido Bluetooth Étanche Intra-Auriculaire Audifonos Bluetooth.jpg",
     "images": [
-      "/telephone_accessoires/165/Écouteurs sans Fil A6s TWS Originaux 2024 Bt 5.3 Fone De Ouvido Bluetooth Étanche Intra-Auriculaire Audifonos Bluetooth.jpg",
-      "/telephone_accessoires/165/Écouteurs sans Fil A6s TWS Originaux 2024 Bt 5.3 Fone De Ouvido Bluetooth Étanche Intra-Auriculaire Audifonos Bluetooth (1).jpg",
-      "/telephone_accessoires/165/Écouteurs sans Fil A6s TWS Originaux 2024 Bt 5.3 Fone De Ouvido Bluetooth Étanche Intra-Auriculaire Audifonos Bluetooth (2).jpg",
-      "/telephone_accessoires/165/Écouteurs sans Fil A6s TWS Originaux 2024 Bt 5.3 Fone De Ouvido Bluetooth Étanche Intra-Auriculaire Audifonos Bluetooth (3).jpg",
-      "/telephone_accessoires/165/Écouteurs sans Fil A6s TWS Originaux 2024 Bt 5.3 Fone De Ouvido Bluetooth Étanche Intra-Auriculaire Audifonos Bluetooth (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/165/Écouteurs sans Fil A6s TWS Originaux 2024 Bt 5.3 Fone De Ouvido Bluetooth Étanche Intra-Auriculaire Audifonos Bluetooth.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/165/Écouteurs sans Fil A6s TWS Originaux 2024 Bt 5.3 Fone De Ouvido Bluetooth Étanche Intra-Auriculaire Audifonos Bluetooth (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/165/Écouteurs sans Fil A6s TWS Originaux 2024 Bt 5.3 Fone De Ouvido Bluetooth Étanche Intra-Auriculaire Audifonos Bluetooth (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/165/Écouteurs sans Fil A6s TWS Originaux 2024 Bt 5.3 Fone De Ouvido Bluetooth Étanche Intra-Auriculaire Audifonos Bluetooth (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/165/Écouteurs sans Fil A6s TWS Originaux 2024 Bt 5.3 Fone De Ouvido Bluetooth Étanche Intra-Auriculaire Audifonos Bluetooth (4).jpg"
     ]
   },
   {
@@ -6549,14 +6549,14 @@ export const telephone_accessoires = [
       "autonomie_totale": "20–30 h (avec étui de charge)",
       "affichage": "LED"
     },
-    "image": "/telephone_accessoires/166/Écouteurs Sportifs Magnétiques Tour de Cou Sans Fil TWS avec Indicateur de Batterie LED et Puce JL.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/166/Écouteurs Sportifs Magnétiques Tour de Cou Sans Fil TWS avec Indicateur de Batterie LED et Puce JL.jpg",
     "images": [
-      "/telephone_accessoires/166/Écouteurs Sportifs Magnétiques Tour de Cou Sans Fil TWS avec Indicateur de Batterie LED et Puce JL.jpg",
-      "/telephone_accessoires/166/Écouteurs Sportifs Magnétiques Tour de Cou Sans Fil TWS avec Indicateur de Batterie LED et Puce JL (1).jpg",
-      "/telephone_accessoires/166/Écouteurs Sportifs Magnétiques Tour de Cou Sans Fil TWS avec Indicateur de Batterie LED et Puce JL (2).jpg",
-      "/telephone_accessoires/166/Écouteurs Sportifs Magnétiques Tour de Cou Sans Fil TWS avec Indicateur de Batterie LED et Puce JL (3).jpg",
-      "/telephone_accessoires/166/Écouteurs Sportifs Magnétiques Tour de Cou Sans Fil TWS avec Indicateur de Batterie LED et Puce JL (4).jpg",
-      "/telephone_accessoires/166/Écouteurs Sportifs Magnétiques Tour de Cou Sans Fil TWS avec Indicateur de Batterie LED et Puce JL (5).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/166/Écouteurs Sportifs Magnétiques Tour de Cou Sans Fil TWS avec Indicateur de Batterie LED et Puce JL.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/166/Écouteurs Sportifs Magnétiques Tour de Cou Sans Fil TWS avec Indicateur de Batterie LED et Puce JL (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/166/Écouteurs Sportifs Magnétiques Tour de Cou Sans Fil TWS avec Indicateur de Batterie LED et Puce JL (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/166/Écouteurs Sportifs Magnétiques Tour de Cou Sans Fil TWS avec Indicateur de Batterie LED et Puce JL (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/166/Écouteurs Sportifs Magnétiques Tour de Cou Sans Fil TWS avec Indicateur de Batterie LED et Puce JL (4).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/166/Écouteurs Sportifs Magnétiques Tour de Cou Sans Fil TWS avec Indicateur de Batterie LED et Puce JL (5).jpg"
     ]
   },
   {
@@ -6591,13 +6591,13 @@ export const telephone_accessoires = [
       "autonomie_totale": "20–25 h (avec étui de charge)",
       "gaming": "Faible latence gaming"
     },
-    "image": "/telephone_accessoires/167/Écouteurs Non-Réducteurs de Bruit TWS Sans Fil pour Gaming avec Faible Latence et Excellent Son du Fabricant d'Écouteurs LINX.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/167/Écouteurs Non-Réducteurs de Bruit TWS Sans Fil pour Gaming avec Faible Latence et Excellent Son du Fabricant d'Écouteurs LINX.jpg",
     "images": [
-      "/telephone_accessoires/167/Écouteurs Non-Réducteurs de Bruit TWS Sans Fil pour Gaming avec Faible Latence et Excellent Son du Fabricant d'Écouteurs LINX.jpg",
-      "/telephone_accessoires/167/Écouteurs Non-Réducteurs de Bruit TWS Sans Fil pour Gaming avec Faible Latence et Excellent Son du Fabricant d'Écouteurs LINX.png",
-      "/telephone_accessoires/167/Écouteurs Non-Réducteurs de Bruit TWS Sans Fil pour Gaming avec Faible Latence et Excellent Son du Fabricant d'Écouteurs LINX (1).jpg",
-      "/telephone_accessoires/167/Écouteurs Non-Réducteurs de Bruit TWS Sans Fil pour Gaming avec Faible Latence et Excellent Son du Fabricant d'Écouteurs LINX (1).png",
-      "/telephone_accessoires/167/Écouteurs Non-Réducteurs de Bruit TWS Sans Fil pour Gaming avec Faible Latence et Excellent Son du Fabricant d'Écouteurs LINX (2).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/167/Écouteurs Non-Réducteurs de Bruit TWS Sans Fil pour Gaming avec Faible Latence et Excellent Son du Fabricant d'Écouteurs LINX.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/167/Écouteurs Non-Réducteurs de Bruit TWS Sans Fil pour Gaming avec Faible Latence et Excellent Son du Fabricant d'Écouteurs LINX.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/167/Écouteurs Non-Réducteurs de Bruit TWS Sans Fil pour Gaming avec Faible Latence et Excellent Son du Fabricant d'Écouteurs LINX (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/167/Écouteurs Non-Réducteurs de Bruit TWS Sans Fil pour Gaming avec Faible Latence et Excellent Son du Fabricant d'Écouteurs LINX (1).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/167/Écouteurs Non-Réducteurs de Bruit TWS Sans Fil pour Gaming avec Faible Latence et Excellent Son du Fabricant d'Écouteurs LINX (2).jpg"
     ]
   },
   {
@@ -6633,11 +6633,11 @@ export const telephone_accessoires = [
       "autonomie_ecouteurs": "5–7 h",
       "autonomie_totale": "20–25 h (avec étui de charge)"
     },
-    "image": "/telephone_accessoires/168/Écouteurs Sportifs à Conduction Osseuse TSSD Q39 ENC, Suppression du Bruit, Transmission Directionnelle, Sans Fil Bluetooth.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/168/Écouteurs Sportifs à Conduction Osseuse TSSD Q39 ENC, Suppression du Bruit, Transmission Directionnelle, Sans Fil Bluetooth.jpg",
     "images": [
-      "/telephone_accessoires/168/Écouteurs Sportifs à Conduction Osseuse TSSD Q39 ENC, Suppression du Bruit, Transmission Directionnelle, Sans Fil Bluetooth.jpg",
-      "/telephone_accessoires/168/Écouteurs Sportifs à Conduction Osseuse TSSD Q39 ENC, Suppression du Bruit, Transmission Directionnelle, Sans Fil Bluetooth (1).jpg",
-      "/telephone_accessoires/168/Écouteurs Sportifs à Conduction Osseuse TSSD Q39 ENC, Suppression du Bruit, Transmission Directionnelle, Sans Fil Bluetooth (2).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/168/Écouteurs Sportifs à Conduction Osseuse TSSD Q39 ENC, Suppression du Bruit, Transmission Directionnelle, Sans Fil Bluetooth.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/168/Écouteurs Sportifs à Conduction Osseuse TSSD Q39 ENC, Suppression du Bruit, Transmission Directionnelle, Sans Fil Bluetooth (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/168/Écouteurs Sportifs à Conduction Osseuse TSSD Q39 ENC, Suppression du Bruit, Transmission Directionnelle, Sans Fil Bluetooth (2).jpg"
     ]
   },
   {
@@ -6669,14 +6669,14 @@ export const telephone_accessoires = [
       "charge": "USB-C",
       "gaming": "Oui"
     },
-    "image": "/telephone_accessoires/169/Casque TWS à conduction osseuse avec affichage numérique miroir de l'alimentation, étui de charge USB C pour le gaming.png",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/169/Casque TWS à conduction osseuse avec affichage numérique miroir de l'alimentation, étui de charge USB C pour le gaming.png",
     "images": [
-      "/telephone_accessoires/169/Casque TWS à conduction osseuse avec affichage numérique miroir de l'alimentation, étui de charge USB C pour le gaming.png",
-      "/telephone_accessoires/169/Casque TWS à conduction osseuse avec affichage numérique miroir de l'alimentation, étui de charge USB C pour le gaming (1).png",
-      "/telephone_accessoires/169/Casque TWS à conduction osseuse avec affichage numérique miroir de l'alimentation, étui de charge USB C pour le gaming (2).png",
-      "/telephone_accessoires/169/Casque TWS à conduction osseuse avec affichage numérique miroir de l'alimentation, étui de charge USB C pour le gaming (3).png",
-      "/telephone_accessoires/169/Casque TWS à conduction osseuse avec affichage numérique miroir de l'alimentation, étui de charge USB C pour le gaming (4).png",
-      "/telephone_accessoires/169/Casque TWS à conduction osseuse avec affichage numérique miroir de l'alimentation, étui de charge USB C pour le gaming (5).png"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/169/Casque TWS à conduction osseuse avec affichage numérique miroir de l'alimentation, étui de charge USB C pour le gaming.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/169/Casque TWS à conduction osseuse avec affichage numérique miroir de l'alimentation, étui de charge USB C pour le gaming (1).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/169/Casque TWS à conduction osseuse avec affichage numérique miroir de l'alimentation, étui de charge USB C pour le gaming (2).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/169/Casque TWS à conduction osseuse avec affichage numérique miroir de l'alimentation, étui de charge USB C pour le gaming (3).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/169/Casque TWS à conduction osseuse avec affichage numérique miroir de l'alimentation, étui de charge USB C pour le gaming (4).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/169/Casque TWS à conduction osseuse avec affichage numérique miroir de l'alimentation, étui de charge USB C pour le gaming (5).png"
     ]
   },
   {
@@ -6709,13 +6709,13 @@ export const telephone_accessoires = [
       "reduction_bruit": "ANC (Réduction Active du Bruit)",
       "gaming": "Oui"
     },
-    "image": "/telephone_accessoires/170/K520 TWS True Wireless Earbuds Bass Earphone Headset pour les jeux et les sports Lovely Heart Shaped Case Non-Noise Cancelling.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/170/K520 TWS True Wireless Earbuds Bass Earphone Headset pour les jeux et les sports Lovely Heart Shaped Case Non-Noise Cancelling.jpg",
     "images": [
-      "/telephone_accessoires/170/K520 TWS True Wireless Earbuds Bass Earphone Headset pour les jeux et les sports Lovely Heart Shaped Case Non-Noise Cancelling.jpg",
-      "/telephone_accessoires/170/K520 TWS True Wireless Earbuds Bass Earphone Headset pour les jeux et les sports Lovely Heart Shaped Case Non-Noise Cancelling (1).jpg",
-      "/telephone_accessoires/170/K520 TWS True Wireless Earbuds Bass Earphone Headset pour les jeux et les sports Lovely Heart Shaped Case Non-Noise Cancelling (2).jpg",
-      "/telephone_accessoires/170/K520 TWS True Wireless Earbuds Bass Earphone Headset pour les jeux et les sports Lovely Heart Shaped Case Non-Noise Cancelling (3).jpg",
-      "/telephone_accessoires/170/K520 TWS True Wireless Earbuds Bass Earphone Headset pour les jeux et les sports Lovely Heart Shaped Case Non-Noise Cancelling (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/170/K520 TWS True Wireless Earbuds Bass Earphone Headset pour les jeux et les sports Lovely Heart Shaped Case Non-Noise Cancelling.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/170/K520 TWS True Wireless Earbuds Bass Earphone Headset pour les jeux et les sports Lovely Heart Shaped Case Non-Noise Cancelling (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/170/K520 TWS True Wireless Earbuds Bass Earphone Headset pour les jeux et les sports Lovely Heart Shaped Case Non-Noise Cancelling (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/170/K520 TWS True Wireless Earbuds Bass Earphone Headset pour les jeux et les sports Lovely Heart Shaped Case Non-Noise Cancelling (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/170/K520 TWS True Wireless Earbuds Bass Earphone Headset pour les jeux et les sports Lovely Heart Shaped Case Non-Noise Cancelling (4).jpg"
     ]
   },
   {
@@ -6751,13 +6751,13 @@ export const telephone_accessoires = [
       "autonomie_totale": "25–32 h (avec étui de charge)",
       "affichage": "LED"
     },
-    "image": "/telephone_accessoires/171/TWS Écouteurs sans fil avec 5.4 Bluetooth Play Back Sport Écouteurs avec affichage LED Écouteurs et écouteurs.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/171/TWS Écouteurs sans fil avec 5.4 Bluetooth Play Back Sport Écouteurs avec affichage LED Écouteurs et écouteurs.jpg",
     "images": [
-      "/telephone_accessoires/171/TWS Écouteurs sans fil avec 5.4 Bluetooth Play Back Sport Écouteurs avec affichage LED Écouteurs et écouteurs.jpg",
-      "/telephone_accessoires/171/TWS Écouteurs sans fil avec 5.4 Bluetooth Play Back Sport Écouteurs avec affichage LED Écouteurs et écouteurs (1).jpg",
-      "/telephone_accessoires/171/TWS Écouteurs sans fil avec 5.4 Bluetooth Play Back Sport Écouteurs avec affichage LED Écouteurs et écouteurs (2).jpg",
-      "/telephone_accessoires/171/TWS Écouteurs sans fil avec 5.4 Bluetooth Play Back Sport Écouteurs avec affichage LED Écouteurs et écouteurs (3).jpg",
-      "/telephone_accessoires/171/TWS Écouteurs sans fil avec 5.4 Bluetooth Play Back Sport Écouteurs avec affichage LED Écouteurs et écouteurs (4).jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/171/TWS Écouteurs sans fil avec 5.4 Bluetooth Play Back Sport Écouteurs avec affichage LED Écouteurs et écouteurs.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/171/TWS Écouteurs sans fil avec 5.4 Bluetooth Play Back Sport Écouteurs avec affichage LED Écouteurs et écouteurs (1).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/171/TWS Écouteurs sans fil avec 5.4 Bluetooth Play Back Sport Écouteurs avec affichage LED Écouteurs et écouteurs (2).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/171/TWS Écouteurs sans fil avec 5.4 Bluetooth Play Back Sport Écouteurs avec affichage LED Écouteurs et écouteurs (3).jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/telephone_accessoires/171/TWS Écouteurs sans fil avec 5.4 Bluetooth Play Back Sport Écouteurs avec affichage LED Écouteurs et écouteurs (4).jpg"
     ]
   }
 ]

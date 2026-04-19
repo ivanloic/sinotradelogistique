@@ -6,7 +6,7 @@ export const vetement_homme = [
     "originalPrice": 6518,
     "category": "men",
     "brand": "Nike",
-    "image": "/vetement_homme/1/Ensemble nike .jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/1/Ensemble nike .jpg",
     "taxType": "ht",
     "colors": [
       "Marron",
@@ -24,11 +24,11 @@ export const vetement_homme = [
     ],
     "minOrder": 8,
     "images": [
-      "/vetement_homme/1/Ensemble nike .jpg",
-      "/vetement_homme/1/IMG-20251117-WA0034.jpg",
-      "/vetement_homme/1/IMG-20251117-WA0035.jpg",
-      "/vetement_homme/1/IMG-20251117-WA0036.jpg",
-      "/vetement_homme/1/WhatsApp Image 2025-11-17 à 07.24.06_e74cf29e.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/1/Ensemble nike .jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/1/IMG-20251117-WA0034.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/1/IMG-20251117-WA0035.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/1/IMG-20251117-WA0036.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/1/WhatsApp Image 2025-11-17 à 07.24.06_e74cf29e.jpg"
     ]
   },
   {
@@ -38,7 +38,7 @@ export const vetement_homme = [
     "originalPrice": 7313,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/3/Ensemble-Longue-manche-palm-angels.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/3/Ensemble-Longue-manche-palm-angels.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -55,12 +55,12 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/3/Ensemble-Longue-manche-palm-angels.jpg",
-      "/vetement_homme/3/IMG-20251117-WA0108.jpg",
-      "/vetement_homme/3/IMG-20251117-WA0109.jpg",
-      "/vetement_homme/3/IMG-20251117-WA0110.jpg",
-      "/vetement_homme/3/IMG-20251117-WA0111.jpg",
-      "/vetement_homme/3/WhatsApp Image 2025-11-15 à 06.44.14_79b9e2e1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/3/Ensemble-Longue-manche-palm-angels.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/3/IMG-20251117-WA0108.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/3/IMG-20251117-WA0109.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/3/IMG-20251117-WA0110.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/3/IMG-20251117-WA0111.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/3/WhatsApp Image 2025-11-15 à 06.44.14_79b9e2e1.jpg"
     ]
   },
   {
@@ -70,7 +70,7 @@ export const vetement_homme = [
     "originalPrice": 5179,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/4/Ensemble_jogging_homme-mutimarque.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/4/Ensemble_jogging_homme-mutimarque.jpg",
     "taxType": "ht",
     "colors": [
       "Gris",
@@ -88,10 +88,10 @@ export const vetement_homme = [
     ],
     "minOrder": 1,
     "images": [
-      "/vetement_homme/4/Ensemble_jogging_homme-mutimarque.jpg",
-      "/vetement_homme/4/IMG-20251114-WA0040.jpg",
-      "/vetement_homme/4/IMG-20251114-WA0041.jpg",
-      "/vetement_homme/4/IMG-20251114-WA0043.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/4/Ensemble_jogging_homme-mutimarque.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/4/IMG-20251114-WA0040.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/4/IMG-20251114-WA0041.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/4/IMG-20251114-WA0043.jpg"
     ]
   },
   {
@@ -101,7 +101,7 @@ export const vetement_homme = [
     "originalPrice": 3628,
     "category": "clothbrands",
     "brand": "Multiple",
-    "image": "/vetement_homme/5/T-shirt_homme_Multimarque.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/5/T-shirt_homme_Multimarque.jpg",
     "taxType": "ht",
     "colors": [
       "Marron",
@@ -119,11 +119,11 @@ export const vetement_homme = [
     ],
     "minOrder": 16,
     "images": [
-      "/vetement_homme/5/T-shirt_homme_Multimarque.jpg",
-      "/vetement_homme/5/z1.jpg",
-      "/vetement_homme/5/z2.jpg",
-      "/vetement_homme/5/z3.jpg",
-      "/vetement_homme/5/z4.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/5/T-shirt_homme_Multimarque.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/5/z1.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/5/z2.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/5/z3.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/5/z4.jpg"
     ],
     "clothbrands": [
       "Reebok",
@@ -147,7 +147,7 @@ export const vetement_homme = [
     "originalPrice": 3816,
     "category": "tshirts",
     "brand": "Lacoste",
-    "image": "/vetement_homme/6/ASweatshirt_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/6/ASweatshirt_lacoste.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -164,13 +164,13 @@ export const vetement_homme = [
     ],
     "minOrder": 11,
     "images": [
-      "/vetement_homme/6/ASweatshirt_lacoste.jpg",
-      "/vetement_homme/6/photo_27_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/6/photo_28_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/6/photo_29_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/6/photo_30_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/6/photo_31_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/6/photo_32_2025-11-17_22-00-37.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/6/ASweatshirt_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/6/photo_27_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/6/photo_28_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/6/photo_29_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/6/photo_30_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/6/photo_31_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/6/photo_32_2025-11-17_22-00-37.jpg"
     ]
   },
   {
@@ -180,7 +180,7 @@ export const vetement_homme = [
     "originalPrice": 3850,
     "category": "clothbrands",
     "brand": "Multiple",
-    "image": "/vetement_homme/7/Aswaertshirt_multimarque.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/7/Aswaertshirt_multimarque.jpg",
     "taxType": "ht",
     "colors": [
       "Marron",
@@ -198,15 +198,15 @@ export const vetement_homme = [
     ],
     "minOrder": 15,
     "images": [
-      "/vetement_homme/7/Aswaertshirt_multimarque.jpg",
-      "/vetement_homme/7/photo_35_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/7/photo_37_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/7/photo_39_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/7/photo_41_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/7/photo_43_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/7/photo_45_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/7/photo_49_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/7/photo_51_2025-11-17_22-00-37.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/7/Aswaertshirt_multimarque.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/7/photo_35_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/7/photo_37_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/7/photo_39_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/7/photo_41_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/7/photo_43_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/7/photo_45_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/7/photo_49_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/7/photo_51_2025-11-17_22-00-37.jpg"
     ],
     "clothbrands": [
       "Armani",
@@ -230,7 +230,7 @@ export const vetement_homme = [
     "originalPrice": 5302,
     "category": "men",
     "brand": "Lacoste",
-    "image": "/vetement_homme/8/Aensemble_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/8/Aensemble_homme_lacoste.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -247,11 +247,11 @@ export const vetement_homme = [
     ],
     "minOrder": 10,
     "images": [
-      "/vetement_homme/8/Aensemble_homme_lacoste.jpg",
-      "/vetement_homme/8/photo_68_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/8/photo_70_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/8/photo_72_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/8/photo_74_2025-11-17_22-00-37.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/8/Aensemble_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/8/photo_68_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/8/photo_70_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/8/photo_72_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/8/photo_74_2025-11-17_22-00-37.jpg"
     ]
   },
   {
@@ -261,7 +261,7 @@ export const vetement_homme = [
     "originalPrice": 5940,
     "category": "men",
     "brand": "Lacoste",
-    "image": "/vetement_homme/9/Aensemble_sport_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/9/Aensemble_sport_lacoste.jpg",
     "taxType": "ttc",
     "colors": [
       "Vert",
@@ -279,9 +279,9 @@ export const vetement_homme = [
     ],
     "minOrder": 8,
     "images": [
-      "/vetement_homme/9/Aensemble_sport_lacoste.jpg",
-      "/vetement_homme/9/photo_76_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/9/photo_80_2025-11-17_22-00-37.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/9/Aensemble_sport_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/9/photo_76_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/9/photo_80_2025-11-17_22-00-37.jpg"
     ]
   },
   {
@@ -291,7 +291,7 @@ export const vetement_homme = [
     "originalPrice": 7243,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/10/Aensemble_sportunder_armour.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/10/Aensemble_sportunder_armour.jpg",
     "taxType": "ht",
     "colors": [
       "Bleu",
@@ -309,10 +309,10 @@ export const vetement_homme = [
     ],
     "minOrder": 7,
     "images": [
-      "/vetement_homme/10/Aensemble_sportunder_armour.jpg",
-      "/vetement_homme/10/photo_86_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/10/photo_87_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/10/photo_88_2025-11-17_22-00-37.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/10/Aensemble_sportunder_armour.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/10/photo_86_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/10/photo_87_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/10/photo_88_2025-11-17_22-00-37.jpg"
     ]
   },
   {
@@ -322,7 +322,7 @@ export const vetement_homme = [
     "originalPrice": 3167,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/11/doudoune_louis vuiton.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/11/doudoune_louis vuiton.jpg",
     "taxType": "ttc",
     "colors": [
       "Marron",
@@ -339,12 +339,12 @@ export const vetement_homme = [
     ],
     "minOrder": 17,
     "images": [
-      "/vetement_homme/11/doudoune_louis vuiton.jpg",
-      "/vetement_homme/11/photo_14_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/11/photo_15_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/11/photo_16_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/11/photo_17_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/11/photo_18_2025-11-17_21-59-10.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/11/doudoune_louis vuiton.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/11/photo_14_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/11/photo_15_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/11/photo_16_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/11/photo_17_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/11/photo_18_2025-11-17_21-59-10.jpg"
     ]
   },
   {
@@ -354,7 +354,7 @@ export const vetement_homme = [
     "originalPrice": 3566,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/12/Asweatshirt_homme_mutlimarque.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/12/Asweatshirt_homme_mutlimarque.jpg",
     "taxType": "ht",
     "colors": [
       "Bleu",
@@ -370,9 +370,9 @@ export const vetement_homme = [
     ],
     "minOrder": 13,
     "images": [
-      "/vetement_homme/12/Asweatshirt_homme_mutlimarque.jpg",
-      "/vetement_homme/12/photo_27_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/12/photo_34_2025-11-17_21-59-10.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/12/Asweatshirt_homme_mutlimarque.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/12/photo_27_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/12/photo_34_2025-11-17_21-59-10.jpg"
     ]
   },
   {
@@ -382,7 +382,7 @@ export const vetement_homme = [
     "originalPrice": 2831,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/13/photo_10_2025-11-17_21-59-10.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/13/photo_10_2025-11-17_21-59-10.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -400,15 +400,15 @@ export const vetement_homme = [
     ],
     "minOrder": 17,
     "images": [
-      "/vetement_homme/13/photo_10_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/13/photo_2_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/13/photo_3_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/13/photo_4_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/13/photo_5_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/13/photo_6_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/13/photo_7_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/13/photo_8_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/13/photo_9_2025-11-17_21-59-10.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/13/photo_10_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/13/photo_2_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/13/photo_3_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/13/photo_4_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/13/photo_5_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/13/photo_6_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/13/photo_7_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/13/photo_8_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/13/photo_9_2025-11-17_21-59-10.jpg"
     ]
   },
   {
@@ -418,7 +418,7 @@ export const vetement_homme = [
     "originalPrice": 2575,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/14/photo_36_2025-11-17_21-59-10.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/14/photo_36_2025-11-17_21-59-10.jpg",
     "taxType": "ht",
     "colors": [
       "Gris",
@@ -436,19 +436,19 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/14/photo_36_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/14/photo_38_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/14/photo_39_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/14/photo_41_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/14/photo_42_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/14/photo_43_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/14/photo_45_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/14/photo_46_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/14/photo_48_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/14/photo_49_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/14/photo_50_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/14/photo_52_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/14/photo_53_2025-11-17_21-59-10.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/14/photo_36_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/14/photo_38_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/14/photo_39_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/14/photo_41_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/14/photo_42_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/14/photo_43_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/14/photo_45_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/14/photo_46_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/14/photo_48_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/14/photo_49_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/14/photo_50_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/14/photo_52_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/14/photo_53_2025-11-17_21-59-10.jpg"
     ]
   },
   {
@@ -458,7 +458,7 @@ export const vetement_homme = [
     "originalPrice": 6784,
     "category": "men",
     "brand": "Lacoste",
-    "image": "/vetement_homme/15/Aensemble_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/15/Aensemble_homme_lacoste.jpg",
     "taxType": "ttc",
     "colors": [
       "Gris",
@@ -475,9 +475,9 @@ export const vetement_homme = [
     ],
     "minOrder": 9,
     "images": [
-      "/vetement_homme/15/Aensemble_homme_lacoste.jpg",
-      "/vetement_homme/15/photo_74_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/15/photo_75_2025-11-17_21-59-10.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/15/Aensemble_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/15/photo_74_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/15/photo_75_2025-11-17_21-59-10.jpg"
     ]
   },
   {
@@ -487,7 +487,7 @@ export const vetement_homme = [
     "originalPrice": 6834,
     "category": "men",
     "brand": "Lacoste",
-    "image": "/vetement_homme/16/Aensemble_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/16/Aensemble_homme_lacoste.jpg",
     "taxType": "ht",
     "colors": [
       "Blanc",
@@ -505,12 +505,12 @@ export const vetement_homme = [
     ],
     "minOrder": 9,
     "images": [
-      "/vetement_homme/16/Aensemble_homme_lacoste.jpg",
-      "/vetement_homme/16/photo_64_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/16/photo_65_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/16/photo_66_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/16/photo_67_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/16/photo_68_2025-11-17_21-59-10.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/16/Aensemble_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/16/photo_64_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/16/photo_65_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/16/photo_66_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/16/photo_67_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/16/photo_68_2025-11-17_21-59-10.jpg"
     ]
   },
   {
@@ -520,7 +520,7 @@ export const vetement_homme = [
     "originalPrice": 6868,
     "category": "men",
     "brand": "Lacoste",
-    "image": "/vetement_homme/17/Aensemble_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/17/Aensemble_homme_lacoste.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -538,10 +538,10 @@ export const vetement_homme = [
     ],
     "minOrder": 10,
     "images": [
-      "/vetement_homme/17/Aensemble_homme_lacoste.jpg",
-      "/vetement_homme/17/photo_70_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/17/photo_71_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/17/photo_72_2025-11-17_21-59-10.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/17/Aensemble_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/17/photo_70_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/17/photo_71_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/17/photo_72_2025-11-17_21-59-10.jpg"
     ]
   },
   {
@@ -551,7 +551,7 @@ export const vetement_homme = [
     "originalPrice": 3781,
     "category": "men",
     "brand": "Tommy",
-    "image": "/vetement_homme/18/Apullover_homme_tommy_hilfiger.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/18/Apullover_homme_tommy_hilfiger.jpg",
     "taxType": "ttc",
     "colors": [
       "Orange",
@@ -569,9 +569,9 @@ export const vetement_homme = [
     ],
     "minOrder": 9,
     "images": [
-      "/vetement_homme/18/Apullover_homme_tommy_hilfiger.jpg",
-      "/vetement_homme/18/photo_77_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/18/photo_78_2025-11-17_21-59-10.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/18/Apullover_homme_tommy_hilfiger.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/18/photo_77_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/18/photo_78_2025-11-17_21-59-10.jpg"
     ]
   },
   {
@@ -581,7 +581,7 @@ export const vetement_homme = [
     "originalPrice": 6472,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/19/Aensemble_homme_addidas.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/19/Aensemble_homme_addidas.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -598,13 +598,13 @@ export const vetement_homme = [
     ],
     "minOrder": 11,
     "images": [
-      "/vetement_homme/19/Aensemble_homme_addidas.jpg",
-      "/vetement_homme/19/photo_80_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/19/photo_81_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/19/photo_82_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/19/photo_83_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/19/photo_84_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/19/photo_85_2025-11-17_21-59-10.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/19/Aensemble_homme_addidas.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/19/photo_80_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/19/photo_81_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/19/photo_82_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/19/photo_83_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/19/photo_84_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/19/photo_85_2025-11-17_21-59-10.jpg"
     ]
   },
   {
@@ -614,7 +614,7 @@ export const vetement_homme = [
     "originalPrice": 3093,
     "category": "clothbrands",
     "brand": "Multiple",
-    "image": "/vetement_homme/20/Apullover_homme_multimarque.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/20/Apullover_homme_multimarque.jpg",
     "taxType": "ttc",
     "colors": [
       "Vert",
@@ -633,18 +633,18 @@ export const vetement_homme = [
     ],
     "minOrder": 12,
     "images": [
-      "/vetement_homme/20/Apullover_homme_multimarque.jpg",
-      "/vetement_homme/20/photo_12_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/20/photo_14_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/20/photo_17_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/20/photo_3_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/20/photo_6_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/20/photo_7_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/20/photo_86_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/20/photo_88_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/20/photo_9_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/20/photo_90_2025-11-17_21-59-10.jpg",
-      "/vetement_homme/20/photo_92_2025-11-17_21-59-10.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/20/Apullover_homme_multimarque.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/20/photo_12_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/20/photo_14_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/20/photo_17_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/20/photo_3_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/20/photo_6_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/20/photo_7_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/20/photo_86_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/20/photo_88_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/20/photo_9_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/20/photo_90_2025-11-17_21-59-10.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/20/photo_92_2025-11-17_21-59-10.jpg"
     ],
     "clothbrands": [
       "Celine",
@@ -668,7 +668,7 @@ export const vetement_homme = [
     "originalPrice": 3095,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/21/photo_19_2025-11-17_21-58-19.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/21/photo_19_2025-11-17_21-58-19.jpg",
     "taxType": "ht",
     "colors": [
       "Orange",
@@ -687,10 +687,10 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/21/photo_19_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/21/photo_21_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/21/photo_23_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/21/photo_25_2025-11-17_21-58-19.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/21/photo_19_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/21/photo_21_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/21/photo_23_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/21/photo_25_2025-11-17_21-58-19.jpg"
     ]
   },
   {
@@ -700,7 +700,7 @@ export const vetement_homme = [
     "originalPrice": 6608,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/22/Aensemble_homme_under_armour.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/22/Aensemble_homme_under_armour.jpg",
     "taxType": "ht",
     "colors": [
       "Jaune",
@@ -717,9 +717,9 @@ export const vetement_homme = [
     ],
     "minOrder": 10,
     "images": [
-      "/vetement_homme/22/Aensemble_homme_under_armour.jpg",
-      "/vetement_homme/22/photo_27_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/22/photo_30_2025-11-17_21-58-19.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/22/Aensemble_homme_under_armour.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/22/photo_27_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/22/photo_30_2025-11-17_21-58-19.jpg"
     ]
   },
   {
@@ -729,7 +729,7 @@ export const vetement_homme = [
     "originalPrice": 6627,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/23/Aensemble_homme_under_armour.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/23/Aensemble_homme_under_armour.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -747,8 +747,8 @@ export const vetement_homme = [
     ],
     "minOrder": 9,
     "images": [
-      "/vetement_homme/23/Aensemble_homme_under_armour.jpg",
-      "/vetement_homme/23/photo_45_2025-11-17_21-58-19.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/23/Aensemble_homme_under_armour.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/23/photo_45_2025-11-17_21-58-19.jpg"
     ]
   },
   {
@@ -758,7 +758,7 @@ export const vetement_homme = [
     "originalPrice": 5827,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/24/Aensemble_homme_under_armour.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/24/Aensemble_homme_under_armour.jpg",
     "taxType": "ttc",
     "colors": [
       "Vert",
@@ -776,10 +776,10 @@ export const vetement_homme = [
     ],
     "minOrder": 7,
     "images": [
-      "/vetement_homme/24/Aensemble_homme_under_armour.jpg",
-      "/vetement_homme/24/photo_31_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/24/photo_33_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/24/photo_34_2025-11-17_21-58-19.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/24/Aensemble_homme_under_armour.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/24/photo_31_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/24/photo_33_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/24/photo_34_2025-11-17_21-58-19.jpg"
     ]
   },
   {
@@ -789,7 +789,7 @@ export const vetement_homme = [
     "originalPrice": 3650,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/25/photo_48_2025-11-17_21-58-19.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/25/photo_48_2025-11-17_21-58-19.jpg",
     "taxType": "ttc",
     "colors": [
       "Beige",
@@ -804,11 +804,11 @@ export const vetement_homme = [
     ],
     "minOrder": 17,
     "images": [
-      "/vetement_homme/25/photo_48_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/25/photo_55_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/25/photo_58_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/25/photo_61_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/25/photo_64_2025-11-17_21-58-19.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/25/photo_48_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/25/photo_55_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/25/photo_58_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/25/photo_61_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/25/photo_64_2025-11-17_21-58-19.jpg"
     ]
   },
   {
@@ -818,7 +818,7 @@ export const vetement_homme = [
     "originalPrice": 7373,
     "category": "men",
     "brand": "Lacoste",
-    "image": "/vetement_homme/26/Aensemble_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/26/Aensemble_homme_lacoste.jpg",
     "taxType": "ht",
     "colors": [
       "Beige",
@@ -836,11 +836,11 @@ export const vetement_homme = [
     ],
     "minOrder": 11,
     "images": [
-      "/vetement_homme/26/Aensemble_homme_lacoste.jpg",
-      "/vetement_homme/26/photo_69_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/26/photo_71_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/26/photo_73_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/26/photo_74_2025-11-17_21-58-19.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/26/Aensemble_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/26/photo_69_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/26/photo_71_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/26/photo_73_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/26/photo_74_2025-11-17_21-58-19.jpg"
     ]
   },
   {
@@ -850,7 +850,7 @@ export const vetement_homme = [
     "originalPrice": 2960,
     "category": "clothbrands",
     "brand": "Multiple",
-    "image": "/vetement_homme/27/Apullover_homme_multimarque.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/27/Apullover_homme_multimarque.jpg",
     "taxType": "ttc",
     "colors": [
       "Orange",
@@ -867,18 +867,18 @@ export const vetement_homme = [
     ],
     "minOrder": 18,
     "images": [
-      "/vetement_homme/27/Apullover_homme_multimarque.jpg",
-      "/vetement_homme/27/photo_58_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/27/photo_59_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/27/photo_60_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/27/photo_61_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/27/photo_62_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/27/photo_63_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/27/photo_64_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/27/photo_65_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/27/photo_66_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/27/photo_67_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/27/photo_68_2025-11-17_21-57-31.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/27/Apullover_homme_multimarque.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/27/photo_58_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/27/photo_59_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/27/photo_60_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/27/photo_61_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/27/photo_62_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/27/photo_63_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/27/photo_64_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/27/photo_65_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/27/photo_66_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/27/photo_67_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/27/photo_68_2025-11-17_21-57-31.jpg"
     ],
     "clothbrands": [
       "Nike",
@@ -902,7 +902,7 @@ export const vetement_homme = [
     "originalPrice": 3622,
     "category": "clothbrands",
     "brand": "Multiple",
-    "image": "/vetement_homme/28/Apullover_homme_multimarque.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/28/Apullover_homme_multimarque.jpg",
     "taxType": "ht",
     "colors": [
       "Blanc",
@@ -920,14 +920,14 @@ export const vetement_homme = [
     ],
     "minOrder": 12,
     "images": [
-      "/vetement_homme/28/Apullover_homme_multimarque.jpg",
-      "/vetement_homme/28/photo_69_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/28/photo_70_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/28/photo_72_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/28/photo_73_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/28/photo_74_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/28/photo_75_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/28/photo_76_2025-11-17_21-57-31.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/28/Apullover_homme_multimarque.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/28/photo_69_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/28/photo_70_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/28/photo_72_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/28/photo_73_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/28/photo_74_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/28/photo_75_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/28/photo_76_2025-11-17_21-57-31.jpg"
     ],
     "clothbrands": [
       "Ralph Lauren",
@@ -951,7 +951,7 @@ export const vetement_homme = [
     "originalPrice": 3590,
     "category": "clothbrands",
     "brand": "Multiple",
-    "image": "/vetement_homme/29/Apullover_homme_multimarque.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/29/Apullover_homme_multimarque.jpg",
     "taxType": "ttc",
     "colors": [
       "Jaune",
@@ -970,15 +970,15 @@ export const vetement_homme = [
     ],
     "minOrder": 12,
     "images": [
-      "/vetement_homme/29/Apullover_homme_multimarque.jpg",
-      "/vetement_homme/29/photo_78_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/29/photo_79_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/29/photo_80_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/29/photo_81_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/29/photo_83_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/29/photo_84_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/29/photo_85_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/29/photo_86_2025-11-17_21-57-31.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/29/Apullover_homme_multimarque.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/29/photo_78_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/29/photo_79_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/29/photo_80_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/29/photo_81_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/29/photo_83_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/29/photo_84_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/29/photo_85_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/29/photo_86_2025-11-17_21-57-31.jpg"
     ],
     "clothbrands": [
       "Nike",
@@ -1002,7 +1002,7 @@ export const vetement_homme = [
     "originalPrice": 3486,
     "category": "clothbrands",
     "brand": "Multiple",
-    "image": "/vetement_homme/30/Asweatshirt_a_capuche_homme_multimarque.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/30/Asweatshirt_a_capuche_homme_multimarque.jpg",
     "taxType": "ttc",
     "colors": [
       "Bleu",
@@ -1021,14 +1021,14 @@ export const vetement_homme = [
     ],
     "minOrder": 7,
     "images": [
-      "/vetement_homme/30/Asweatshirt_a_capuche_homme_multimarque.jpg",
-      "/vetement_homme/30/photo_18_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/30/photo_19_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/30/photo_20_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/30/photo_21_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/30/photo_22_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/30/photo_23_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/30/photo_24_2025-11-17_21-56-34.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/30/Asweatshirt_a_capuche_homme_multimarque.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/30/photo_18_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/30/photo_19_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/30/photo_20_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/30/photo_21_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/30/photo_22_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/30/photo_23_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/30/photo_24_2025-11-17_21-56-34.jpg"
     ],
     "clothbrands": [
       "Levis",
@@ -1052,7 +1052,7 @@ export const vetement_homme = [
     "originalPrice": 3441,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/31/Asweatshirt_homme_mutlimarque.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/31/Asweatshirt_homme_mutlimarque.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -1070,15 +1070,15 @@ export const vetement_homme = [
     ],
     "minOrder": 17,
     "images": [
-      "/vetement_homme/31/Asweatshirt_homme_mutlimarque.jpg",
-      "/vetement_homme/31/photo_88_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/31/photo_89_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/31/photo_90_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/31/photo_91_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/31/photo_92_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/31/photo_93_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/31/photo_94_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/31/photo_95_2025-11-17_21-57-31.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/31/Asweatshirt_homme_mutlimarque.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/31/photo_88_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/31/photo_89_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/31/photo_90_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/31/photo_91_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/31/photo_92_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/31/photo_93_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/31/photo_94_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/31/photo_95_2025-11-17_21-57-31.jpg"
     ]
   },
   {
@@ -1088,7 +1088,7 @@ export const vetement_homme = [
     "originalPrice": 3152,
     "category": "men",
     "brand": "Tommy",
-    "image": "/vetement_homme/32/Apullover_homme_tommy_hilfiger.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/32/Apullover_homme_tommy_hilfiger.jpg",
     "taxType": "ttc",
     "colors": [
       "Violet",
@@ -1106,11 +1106,11 @@ export const vetement_homme = [
     ],
     "minOrder": 18,
     "images": [
-      "/vetement_homme/32/Apullover_homme_tommy_hilfiger.jpg",
-      "/vetement_homme/32/photo_10_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/32/photo_11_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/32/photo_8_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/32/photo_9_2025-11-17_21-56-34.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/32/Apullover_homme_tommy_hilfiger.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/32/photo_10_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/32/photo_11_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/32/photo_8_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/32/photo_9_2025-11-17_21-56-34.jpg"
     ]
   },
   {
@@ -1120,7 +1120,7 @@ export const vetement_homme = [
     "originalPrice": 5137,
     "category": "men",
     "brand": "Lacoste",
-    "image": "/vetement_homme/33/Aensemble_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/33/Aensemble_homme_lacoste.jpg",
     "taxType": "ht",
     "colors": [
       "Beige",
@@ -1137,14 +1137,14 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/33/Aensemble_homme_lacoste.jpg",
-      "/vetement_homme/33/photo_25_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/33/photo_26_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/33/photo_27_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/33/photo_28_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/33/photo_29_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/33/photo_31_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/33/photo_32_2025-11-17_21-56-34.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/33/Aensemble_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/33/photo_25_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/33/photo_26_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/33/photo_27_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/33/photo_28_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/33/photo_29_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/33/photo_31_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/33/photo_32_2025-11-17_21-56-34.jpg"
     ]
   },
   {
@@ -1154,7 +1154,7 @@ export const vetement_homme = [
     "originalPrice": 6153,
     "category": "men",
     "brand": "Nike",
-    "image": "/vetement_homme/34/Aensemble_homme_Nike.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/34/Aensemble_homme_Nike.jpg",
     "taxType": "ttc",
     "colors": [
       "Vert",
@@ -1171,10 +1171,10 @@ export const vetement_homme = [
     ],
     "minOrder": 5,
     "images": [
-      "/vetement_homme/34/Aensemble_homme_Nike.jpg",
-      "/vetement_homme/34/photo_47_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/34/photo_48_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/34/photo_49_2025-11-17_21-56-34.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/34/Aensemble_homme_Nike.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/34/photo_47_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/34/photo_48_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/34/photo_49_2025-11-17_21-56-34.jpg"
     ]
   },
   {
@@ -1184,7 +1184,7 @@ export const vetement_homme = [
     "originalPrice": 6646,
     "category": "men",
     "brand": "Nike",
-    "image": "/vetement_homme/35/Aensemble_homme_Nike.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/35/Aensemble_homme_Nike.jpg",
     "taxType": "ht",
     "colors": [
       "Gris",
@@ -1202,11 +1202,11 @@ export const vetement_homme = [
     ],
     "minOrder": 3,
     "images": [
-      "/vetement_homme/35/Aensemble_homme_Nike.jpg",
-      "/vetement_homme/35/photo_58_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/35/photo_61_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/35/photo_65_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/35/photo_68_2025-11-17_21-56-34.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/35/Aensemble_homme_Nike.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/35/photo_58_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/35/photo_61_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/35/photo_65_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/35/photo_68_2025-11-17_21-56-34.jpg"
     ]
   },
   {
@@ -1216,7 +1216,7 @@ export const vetement_homme = [
     "originalPrice": 3129,
     "category": "clothbrands",
     "brand": "Multiple",
-    "image": "/vetement_homme/36/Abonnet_multimarque.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/36/Abonnet_multimarque.jpg",
     "taxType": "ht",
     "colors": [
       "Jaune",
@@ -1234,10 +1234,10 @@ export const vetement_homme = [
     ],
     "minOrder": 10,
     "images": [
-      "/vetement_homme/36/Abonnet_multimarque.jpg",
-      "/vetement_homme/36/photo_34_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/36/photo_35_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/36/photo_41_2025-11-17_21-56-34.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/36/Abonnet_multimarque.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/36/photo_34_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/36/photo_35_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/36/photo_41_2025-11-17_21-56-34.jpg"
     ],
     "clothbrands": [
       "Fendi",
@@ -1261,7 +1261,7 @@ export const vetement_homme = [
     "originalPrice": 3046,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/37/photo_42_2025-11-17_21-56-34.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/37/photo_42_2025-11-17_21-56-34.jpg",
     "taxType": "ht",
     "colors": [
       "Jaune",
@@ -1279,10 +1279,10 @@ export const vetement_homme = [
     ],
     "minOrder": 9,
     "images": [
-      "/vetement_homme/37/photo_42_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/37/photo_43_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/37/photo_44_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/37/photo_45_2025-11-17_21-56-34.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/37/photo_42_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/37/photo_43_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/37/photo_44_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/37/photo_45_2025-11-17_21-56-34.jpg"
     ]
   },
   {
@@ -1292,7 +1292,7 @@ export const vetement_homme = [
     "originalPrice": 6365,
     "category": "men",
     "brand": "Nike",
-    "image": "/vetement_homme/38/Aensemble_homme_Nike.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/38/Aensemble_homme_Nike.jpg",
     "taxType": "ttc",
     "colors": [
       "Beige",
@@ -1309,9 +1309,9 @@ export const vetement_homme = [
     ],
     "minOrder": 10,
     "images": [
-      "/vetement_homme/38/Aensemble_homme_Nike.jpg",
-      "/vetement_homme/38/photo_92_2025-11-17_21-56-34.jpg",
-      "/vetement_homme/38/photo_93_2025-11-17_21-56-34.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/38/Aensemble_homme_Nike.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/38/photo_92_2025-11-17_21-56-34.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/38/photo_93_2025-11-17_21-56-34.jpg"
     ]
   },
   {
@@ -1321,7 +1321,7 @@ export const vetement_homme = [
     "originalPrice": 5919,
     "category": "men",
     "brand": "Nike",
-    "image": "/vetement_homme/39/Aensemble_homme_Nike.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/39/Aensemble_homme_Nike.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -1340,11 +1340,11 @@ export const vetement_homme = [
     ],
     "minOrder": 3,
     "images": [
-      "/vetement_homme/39/Aensemble_homme_Nike.jpg",
-      "/vetement_homme/39/photo_10_2025-11-17_21-53-57.jpg",
-      "/vetement_homme/39/photo_11_2025-11-17_21-53-57.jpg",
-      "/vetement_homme/39/photo_8_2025-11-17_21-53-57.jpg",
-      "/vetement_homme/39/photo_9_2025-11-17_21-53-57.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/39/Aensemble_homme_Nike.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/39/photo_10_2025-11-17_21-53-57.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/39/photo_11_2025-11-17_21-53-57.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/39/photo_8_2025-11-17_21-53-57.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/39/photo_9_2025-11-17_21-53-57.jpg"
     ]
   },
   {
@@ -1354,7 +1354,7 @@ export const vetement_homme = [
     "originalPrice": 6574,
     "category": "men",
     "brand": "Nike",
-    "image": "/vetement_homme/40/Aensemble_homme_Nike.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/40/Aensemble_homme_Nike.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -1372,10 +1372,10 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/40/Aensemble_homme_Nike.jpg",
-      "/vetement_homme/40/photo_3_2025-11-17_21-53-57.jpg",
-      "/vetement_homme/40/photo_4_2025-11-17_21-53-57.jpg",
-      "/vetement_homme/40/photo_5_2025-11-17_21-53-57.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/40/Aensemble_homme_Nike.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/40/photo_3_2025-11-17_21-53-57.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/40/photo_4_2025-11-17_21-53-57.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/40/photo_5_2025-11-17_21-53-57.jpg"
     ]
   },
   {
@@ -1385,7 +1385,7 @@ export const vetement_homme = [
     "originalPrice": 3560,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/41/photo_67_2025-11-17_22-02-41.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/41/photo_67_2025-11-17_22-02-41.jpg",
     "taxType": "ht",
     "colors": [
       "Beige",
@@ -1403,14 +1403,14 @@ export const vetement_homme = [
     ],
     "minOrder": 5,
     "images": [
-      "/vetement_homme/41/photo_67_2025-11-17_22-02-41.jpg",
-      "/vetement_homme/41/photo_68_2025-11-17_22-02-41.jpg",
-      "/vetement_homme/41/photo_71_2025-11-17_22-02-41.jpg",
-      "/vetement_homme/41/photo_73_2025-11-17_22-02-41.jpg",
-      "/vetement_homme/41/photo_77_2025-11-17_22-02-41.jpg",
-      "/vetement_homme/41/photo_79_2025-11-17_22-02-41.jpg",
-      "/vetement_homme/41/photo_81_2025-11-17_22-02-41.jpg",
-      "/vetement_homme/41/photo_83_2025-11-17_22-02-41.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/41/photo_67_2025-11-17_22-02-41.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/41/photo_68_2025-11-17_22-02-41.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/41/photo_71_2025-11-17_22-02-41.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/41/photo_73_2025-11-17_22-02-41.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/41/photo_77_2025-11-17_22-02-41.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/41/photo_79_2025-11-17_22-02-41.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/41/photo_81_2025-11-17_22-02-41.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/41/photo_83_2025-11-17_22-02-41.jpg"
     ]
   },
   {
@@ -1420,7 +1420,7 @@ export const vetement_homme = [
     "originalPrice": 3368,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/42/Asweatshirt_homme_amiri.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/42/Asweatshirt_homme_amiri.jpg",
     "taxType": "ttc",
     "colors": [
       "Jaune",
@@ -1438,9 +1438,9 @@ export const vetement_homme = [
     ],
     "minOrder": 17,
     "images": [
-      "/vetement_homme/42/Asweatshirt_homme_amiri.jpg",
-      "/vetement_homme/42/photo_15_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/42/photo_16_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/42/Asweatshirt_homme_amiri.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/42/photo_15_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/42/photo_16_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -1450,7 +1450,7 @@ export const vetement_homme = [
     "originalPrice": 3577,
     "category": "tshirts",
     "brand": "Lacoste",
-    "image": "/vetement_homme/43/Asweatshirt_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/43/Asweatshirt_homme_lacoste.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -1468,10 +1468,10 @@ export const vetement_homme = [
     ],
     "minOrder": 8,
     "images": [
-      "/vetement_homme/43/Asweatshirt_homme_lacoste.jpg",
-      "/vetement_homme/43/photo_12_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/43/photo_13_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/43/photo_14_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/43/Asweatshirt_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/43/photo_12_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/43/photo_13_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/43/photo_14_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -1481,7 +1481,7 @@ export const vetement_homme = [
     "originalPrice": 3146,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/44/photo_10_2025-11-17_22-14-36.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/44/photo_10_2025-11-17_22-14-36.jpg",
     "taxType": "ttc",
     "colors": [
       "Bleu",
@@ -1498,8 +1498,8 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/44/photo_10_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/44/photo_9_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/44/photo_10_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/44/photo_9_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -1509,7 +1509,7 @@ export const vetement_homme = [
     "originalPrice": 3621,
     "category": "tshirts",
     "brand": "Gucci",
-    "image": "/vetement_homme/45/Asweatshirt_homme_gucci.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/45/Asweatshirt_homme_gucci.jpg",
     "taxType": "ttc",
     "colors": [
       "Blanc",
@@ -1526,8 +1526,8 @@ export const vetement_homme = [
     ],
     "minOrder": 15,
     "images": [
-      "/vetement_homme/45/Asweatshirt_homme_gucci.jpg",
-      "/vetement_homme/45/photo_8_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/45/Asweatshirt_homme_gucci.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/45/photo_8_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -1537,7 +1537,7 @@ export const vetement_homme = [
     "originalPrice": 3415,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/46/Asweatshirt_homme_hugo_boss.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/46/Asweatshirt_homme_hugo_boss.jpg",
     "taxType": "ttc",
     "colors": [
       "Beige",
@@ -1553,8 +1553,8 @@ export const vetement_homme = [
     ],
     "minOrder": 19,
     "images": [
-      "/vetement_homme/46/Asweatshirt_homme_hugo_boss.jpg",
-      "/vetement_homme/46/photo_6_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/46/Asweatshirt_homme_hugo_boss.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/46/photo_6_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -1564,7 +1564,7 @@ export const vetement_homme = [
     "originalPrice": 2954,
     "category": "clothbrands",
     "brand": "Multiple",
-    "image": "/vetement_homme/47/At-shirt_homme_multimarque.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/47/At-shirt_homme_multimarque.jpg",
     "taxType": "ht",
     "colors": [
       "Bleu",
@@ -1582,11 +1582,11 @@ export const vetement_homme = [
     ],
     "minOrder": 15,
     "images": [
-      "/vetement_homme/47/At-shirt_homme_multimarque.jpg",
-      "/vetement_homme/47/photo_2_2025-11-17_22-19-15.jpg",
-      "/vetement_homme/47/photo_3_2025-11-17_22-19-15.jpg",
-      "/vetement_homme/47/photo_4_2025-11-17_22-19-15.jpg",
-      "/vetement_homme/47/photo_5_2025-11-17_22-19-15.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/47/At-shirt_homme_multimarque.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/47/photo_2_2025-11-17_22-19-15.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/47/photo_3_2025-11-17_22-19-15.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/47/photo_4_2025-11-17_22-19-15.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/47/photo_5_2025-11-17_22-19-15.jpg"
     ],
     "clothbrands": [
       "Reebok",
@@ -1610,7 +1610,7 @@ export const vetement_homme = [
     "originalPrice": 3023,
     "category": "tshirts",
     "brand": "Lacoste",
-    "image": "/vetement_homme/48/Asweatshirt_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/48/Asweatshirt_homme_lacoste.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -1628,12 +1628,12 @@ export const vetement_homme = [
     ],
     "minOrder": 14,
     "images": [
-      "/vetement_homme/48/Asweatshirt_homme_lacoste.jpg",
-      "/vetement_homme/48/photo_44_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/48/photo_45_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/48/photo_46_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/48/photo_47_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/48/photo_48_2025-11-17_22-20-48.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/48/Asweatshirt_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/48/photo_44_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/48/photo_45_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/48/photo_46_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/48/photo_47_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/48/photo_48_2025-11-17_22-20-48.jpg"
     ]
   },
   {
@@ -1643,7 +1643,7 @@ export const vetement_homme = [
     "originalPrice": 3161,
     "category": "tshirts",
     "brand": "Lacoste",
-    "image": "/vetement_homme/49/Asweatshirt_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/49/Asweatshirt_homme_lacoste.jpg",
     "taxType": "ht",
     "colors": [
       "Jaune",
@@ -1661,10 +1661,10 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/49/Asweatshirt_homme_lacoste.jpg",
-      "/vetement_homme/49/photo_50_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/49/photo_51_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/49/photo_52_2025-11-17_22-20-48.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/49/Asweatshirt_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/49/photo_50_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/49/photo_51_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/49/photo_52_2025-11-17_22-20-48.jpg"
     ]
   },
   {
@@ -1674,7 +1674,7 @@ export const vetement_homme = [
     "originalPrice": 3036,
     "category": "tshirts",
     "brand": "Lacoste",
-    "image": "/vetement_homme/50/Asweatshirt_a_capuche_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/50/Asweatshirt_a_capuche_homme_lacoste.jpg",
     "taxType": "ttc",
     "colors": [
       "Bleu",
@@ -1691,11 +1691,11 @@ export const vetement_homme = [
     ],
     "minOrder": 14,
     "images": [
-      "/vetement_homme/50/Asweatshirt_a_capuche_homme_lacoste.jpg",
-      "/vetement_homme/50/photo_71_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/50/photo_72_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/50/photo_73_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/50/photo_74_2025-11-17_22-20-48.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/50/Asweatshirt_a_capuche_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/50/photo_71_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/50/photo_72_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/50/photo_73_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/50/photo_74_2025-11-17_22-20-48.jpg"
     ]
   },
   {
@@ -1705,7 +1705,7 @@ export const vetement_homme = [
     "originalPrice": 2641,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/51/Asweatshirt_homme_addidas.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/51/Asweatshirt_homme_addidas.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -1721,11 +1721,11 @@ export const vetement_homme = [
     ],
     "minOrder": 19,
     "images": [
-      "/vetement_homme/51/Asweatshirt_homme_addidas.jpg",
-      "/vetement_homme/51/photo_96_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/51/photo_97_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/51/photo_98_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/51/photo_99_2025-11-17_22-20-48.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/51/Asweatshirt_homme_addidas.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/51/photo_96_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/51/photo_97_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/51/photo_98_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/51/photo_99_2025-11-17_22-20-48.jpg"
     ]
   },
   {
@@ -1735,7 +1735,7 @@ export const vetement_homme = [
     "originalPrice": 3209,
     "category": "tshirts",
     "brand": "Lacoste",
-    "image": "/vetement_homme/52/Asweatshirt_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/52/Asweatshirt_homme_lacoste.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -1753,11 +1753,11 @@ export const vetement_homme = [
     ],
     "minOrder": 7,
     "images": [
-      "/vetement_homme/52/Asweatshirt_homme_lacoste.jpg",
-      "/vetement_homme/52/photo_91_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/52/photo_92_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/52/photo_93_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/52/photo_94_2025-11-17_22-20-48.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/52/Asweatshirt_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/52/photo_91_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/52/photo_92_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/52/photo_93_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/52/photo_94_2025-11-17_22-20-48.jpg"
     ]
   },
   {
@@ -1767,7 +1767,7 @@ export const vetement_homme = [
     "originalPrice": 2817,
     "category": "tshirts",
     "brand": "Puma",
-    "image": "/vetement_homme/53/Asweatshirt_homme_puma.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/53/Asweatshirt_homme_puma.jpg",
     "taxType": "ht",
     "colors": [
       "Gris",
@@ -1784,10 +1784,10 @@ export const vetement_homme = [
     ],
     "minOrder": 11,
     "images": [
-      "/vetement_homme/53/Asweatshirt_homme_puma.jpg",
-      "/vetement_homme/53/photo_86_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/53/photo_87_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/53/photo_88_2025-11-17_22-20-48.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/53/Asweatshirt_homme_puma.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/53/photo_86_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/53/photo_87_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/53/photo_88_2025-11-17_22-20-48.jpg"
     ]
   },
   {
@@ -1797,7 +1797,7 @@ export const vetement_homme = [
     "originalPrice": 3352,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/54/Asweatshirt_homme_addidas.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/54/Asweatshirt_homme_addidas.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -1815,10 +1815,10 @@ export const vetement_homme = [
     ],
     "minOrder": 11,
     "images": [
-      "/vetement_homme/54/Asweatshirt_homme_addidas.jpg",
-      "/vetement_homme/54/photo_78_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/54/photo_79_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/54/photo_81_2025-11-17_22-20-48.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/54/Asweatshirt_homme_addidas.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/54/photo_78_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/54/photo_79_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/54/photo_81_2025-11-17_22-20-48.jpg"
     ]
   },
   {
@@ -1828,7 +1828,7 @@ export const vetement_homme = [
     "originalPrice": 3564,
     "category": "tshirts",
     "brand": "Nike",
-    "image": "/vetement_homme/55/Asweatshirt_homme_Nike.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/55/Asweatshirt_homme_Nike.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -1845,11 +1845,11 @@ export const vetement_homme = [
     ],
     "minOrder": 12,
     "images": [
-      "/vetement_homme/55/Asweatshirt_homme_Nike.jpg",
-      "/vetement_homme/55/photo_57_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/55/photo_58_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/55/photo_59_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/55/photo_60_2025-11-17_22-20-48.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/55/Asweatshirt_homme_Nike.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/55/photo_57_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/55/photo_58_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/55/photo_59_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/55/photo_60_2025-11-17_22-20-48.jpg"
     ]
   },
   {
@@ -1859,7 +1859,7 @@ export const vetement_homme = [
     "originalPrice": 2987,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/56/Asweatshirt_homme_addidas.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/56/Asweatshirt_homme_addidas.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -1877,12 +1877,12 @@ export const vetement_homme = [
     ],
     "minOrder": 17,
     "images": [
-      "/vetement_homme/56/Asweatshirt_homme_addidas.jpg",
-      "/vetement_homme/56/photo_63_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/56/photo_65_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/56/photo_66_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/56/photo_67_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/56/photo_69_2025-11-17_22-20-48.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/56/Asweatshirt_homme_addidas.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/56/photo_63_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/56/photo_65_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/56/photo_66_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/56/photo_67_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/56/photo_69_2025-11-17_22-20-48.jpg"
     ]
   },
   {
@@ -1892,7 +1892,7 @@ export const vetement_homme = [
     "originalPrice": 2735,
     "category": "tshirts",
     "brand": "Lacoste",
-    "image": "/vetement_homme/57/Asweatshirt_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/57/Asweatshirt_homme_lacoste.jpg",
     "taxType": "ht",
     "colors": [
       "Blanc",
@@ -1911,11 +1911,11 @@ export const vetement_homme = [
     ],
     "minOrder": 18,
     "images": [
-      "/vetement_homme/57/Asweatshirt_homme_lacoste.jpg",
-      "/vetement_homme/57/photo_30_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/57/photo_31_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/57/photo_32_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/57/photo_35_2025-11-17_22-20-48.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/57/Asweatshirt_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/57/photo_30_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/57/photo_31_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/57/photo_32_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/57/photo_35_2025-11-17_22-20-48.jpg"
     ]
   },
   {
@@ -1925,7 +1925,7 @@ export const vetement_homme = [
     "originalPrice": 2891,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/58/Asweatshirt_homme_mutlimarque.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/58/Asweatshirt_homme_mutlimarque.jpg",
     "taxType": "ht",
     "colors": [
       "Violet",
@@ -1942,16 +1942,16 @@ export const vetement_homme = [
     ],
     "minOrder": 18,
     "images": [
-      "/vetement_homme/58/Asweatshirt_homme_mutlimarque.jpg",
-      "/vetement_homme/58/photo_1_2025-11-17_22-21-12.jpg",
-      "/vetement_homme/58/photo_2_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/58/photo_2_2025-11-17_22-21-12.jpg",
-      "/vetement_homme/58/photo_3_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/58/photo_4_2025-11-17_22-21-12.jpg",
-      "/vetement_homme/58/photo_5_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/58/photo_6_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/58/photo_6_2025-11-17_22-21-12.jpg",
-      "/vetement_homme/58/photo_7_2025-11-17_22-20-48.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/58/Asweatshirt_homme_mutlimarque.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/58/photo_1_2025-11-17_22-21-12.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/58/photo_2_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/58/photo_2_2025-11-17_22-21-12.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/58/photo_3_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/58/photo_4_2025-11-17_22-21-12.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/58/photo_5_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/58/photo_6_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/58/photo_6_2025-11-17_22-21-12.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/58/photo_7_2025-11-17_22-20-48.jpg"
     ]
   },
   {
@@ -1961,7 +1961,7 @@ export const vetement_homme = [
     "originalPrice": 3420,
     "category": "tshirts",
     "brand": "Lacoste",
-    "image": "/vetement_homme/59/Asweatshirt_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/59/Asweatshirt_homme_lacoste.jpg",
     "taxType": "ht",
     "colors": [
       "Blanc",
@@ -1980,10 +1980,10 @@ export const vetement_homme = [
     ],
     "minOrder": 14,
     "images": [
-      "/vetement_homme/59/Asweatshirt_homme_lacoste.jpg",
-      "/vetement_homme/59/photo_85_2025-11-17_22-02-41.jpg",
-      "/vetement_homme/59/photo_87_2025-11-17_22-02-41.jpg",
-      "/vetement_homme/59/photo_93_2025-11-17_22-02-41.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/59/Asweatshirt_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/59/photo_85_2025-11-17_22-02-41.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/59/photo_87_2025-11-17_22-02-41.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/59/photo_93_2025-11-17_22-02-41.jpg"
     ]
   },
   {
@@ -1993,7 +1993,7 @@ export const vetement_homme = [
     "originalPrice": 3253,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/60/Asweatshirt_homme_hugo_boss.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/60/Asweatshirt_homme_hugo_boss.jpg",
     "taxType": "ht",
     "colors": [
       "Jaune",
@@ -2012,10 +2012,10 @@ export const vetement_homme = [
     ],
     "minOrder": 5,
     "images": [
-      "/vetement_homme/60/Asweatshirt_homme_hugo_boss.jpg",
-      "/vetement_homme/60/photo_94_2025-11-17_22-14-37.jpg",
-      "/vetement_homme/60/photo_95_2025-11-17_22-14-37.jpg",
-      "/vetement_homme/60/photo_96_2025-11-17_22-14-37.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/60/Asweatshirt_homme_hugo_boss.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/60/photo_94_2025-11-17_22-14-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/60/photo_95_2025-11-17_22-14-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/60/photo_96_2025-11-17_22-14-37.jpg"
     ]
   },
   {
@@ -2025,7 +2025,7 @@ export const vetement_homme = [
     "originalPrice": 3024,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/61/photo_46_2025-11-17_22-11-58.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/61/photo_46_2025-11-17_22-11-58.jpg",
     "taxType": "ht",
     "colors": [
       "Vert",
@@ -2043,9 +2043,9 @@ export const vetement_homme = [
     ],
     "minOrder": 18,
     "images": [
-      "/vetement_homme/61/photo_46_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/61/photo_48_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/61/photo_50_2025-11-17_22-11-58.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/61/photo_46_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/61/photo_48_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/61/photo_50_2025-11-17_22-11-58.jpg"
     ]
   },
   {
@@ -2055,7 +2055,7 @@ export const vetement_homme = [
     "originalPrice": 3327,
     "category": "men",
     "brand": "Prada",
-    "image": "/vetement_homme/62/debardeur_prada.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/62/debardeur_prada.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -2074,8 +2074,8 @@ export const vetement_homme = [
     ],
     "minOrder": 17,
     "images": [
-      "/vetement_homme/62/debardeur_prada.jpg",
-      "/vetement_homme/62/photo_38_2025-11-17_22-11-58.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/62/debardeur_prada.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/62/photo_38_2025-11-17_22-11-58.jpg"
     ]
   },
   {
@@ -2085,7 +2085,7 @@ export const vetement_homme = [
     "originalPrice": 5533,
     "category": "men",
     "brand": "Tommy",
-    "image": "/vetement_homme/63/Aensemble_homme_tommy_hilfiger.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/63/Aensemble_homme_tommy_hilfiger.jpg",
     "taxType": "ht",
     "colors": [
       "Orange",
@@ -2102,10 +2102,10 @@ export const vetement_homme = [
     ],
     "minOrder": 11,
     "images": [
-      "/vetement_homme/63/Aensemble_homme_tommy_hilfiger.jpg",
-      "/vetement_homme/63/photo_27_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/63/photo_28_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/63/photo_29_2025-11-17_22-11-58.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/63/Aensemble_homme_tommy_hilfiger.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/63/photo_27_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/63/photo_28_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/63/photo_29_2025-11-17_22-11-58.jpg"
     ]
   },
   {
@@ -2115,7 +2115,7 @@ export const vetement_homme = [
     "originalPrice": 3824,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/64/Asweatshirt_homme_louis_vouiton.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/64/Asweatshirt_homme_louis_vouiton.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -2131,9 +2131,9 @@ export const vetement_homme = [
     ],
     "minOrder": 14,
     "images": [
-      "/vetement_homme/64/Asweatshirt_homme_louis_vouiton.jpg",
-      "/vetement_homme/64/photo_48_2025-11-17_22-02-41.jpg",
-      "/vetement_homme/64/photo_49_2025-11-17_22-02-41.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/64/Asweatshirt_homme_louis_vouiton.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/64/photo_48_2025-11-17_22-02-41.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/64/photo_49_2025-11-17_22-02-41.jpg"
     ]
   },
   {
@@ -2143,7 +2143,7 @@ export const vetement_homme = [
     "originalPrice": 7266,
     "category": "men",
     "brand": "Nike",
-    "image": "/vetement_homme/65/Aensemble_homme_Nike.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/65/Aensemble_homme_Nike.jpg",
     "taxType": "ht",
     "colors": [
       "Violet",
@@ -2160,10 +2160,10 @@ export const vetement_homme = [
     ],
     "minOrder": 5,
     "images": [
-      "/vetement_homme/65/Aensemble_homme_Nike.jpg",
-      "/vetement_homme/65/photo_31_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/65/photo_32_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/65/photo_33_2025-11-17_22-11-58.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/65/Aensemble_homme_Nike.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/65/photo_31_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/65/photo_32_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/65/photo_33_2025-11-17_22-11-58.jpg"
     ]
   },
   {
@@ -2173,7 +2173,7 @@ export const vetement_homme = [
     "originalPrice": 6907,
     "category": "clothbrands",
     "brand": "Multiple",
-    "image": "/vetement_homme/66/Aensemble_homme_multimarque .jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/66/Aensemble_homme_multimarque .jpg",
     "taxType": "ht",
     "colors": [
       "Jaune",
@@ -2191,13 +2191,13 @@ export const vetement_homme = [
     ],
     "minOrder": 9,
     "images": [
-      "/vetement_homme/66/Aensemble_homme_multimarque .jpg",
-      "/vetement_homme/66/photo_19_2025-11-17_22-10-02.jpg",
-      "/vetement_homme/66/photo_20_2025-11-17_22-10-02.jpg",
-      "/vetement_homme/66/photo_21_2025-11-17_22-10-02.jpg",
-      "/vetement_homme/66/photo_23_2025-11-17_22-10-02.jpg",
-      "/vetement_homme/66/photo_24_2025-11-17_22-10-02.jpg",
-      "/vetement_homme/66/photo_25_2025-11-17_22-10-02.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/66/Aensemble_homme_multimarque .jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/66/photo_19_2025-11-17_22-10-02.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/66/photo_20_2025-11-17_22-10-02.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/66/photo_21_2025-11-17_22-10-02.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/66/photo_23_2025-11-17_22-10-02.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/66/photo_24_2025-11-17_22-10-02.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/66/photo_25_2025-11-17_22-10-02.jpg"
     ],
     "clothbrands": [
       "Tommy Hilfiger",
@@ -2221,7 +2221,7 @@ export const vetement_homme = [
     "originalPrice": 3040,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/67/Asweatshirt_homme_amiri.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/67/Asweatshirt_homme_amiri.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -2239,11 +2239,11 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/67/Asweatshirt_homme_amiri.jpg",
-      "/vetement_homme/67/photo_29_2025-11-17_22-10-02.jpg",
-      "/vetement_homme/67/photo_30_2025-11-17_22-10-02.jpg",
-      "/vetement_homme/67/photo_31_2025-11-17_22-10-02.jpg",
-      "/vetement_homme/67/photo_32_2025-11-17_22-10-02.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/67/Asweatshirt_homme_amiri.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/67/photo_29_2025-11-17_22-10-02.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/67/photo_30_2025-11-17_22-10-02.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/67/photo_31_2025-11-17_22-10-02.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/67/photo_32_2025-11-17_22-10-02.jpg"
     ]
   },
   {
@@ -2253,7 +2253,7 @@ export const vetement_homme = [
     "originalPrice": 2699,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/68/Asweatshirt_homme_louis_vouiton.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/68/Asweatshirt_homme_louis_vouiton.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -2271,10 +2271,10 @@ export const vetement_homme = [
     ],
     "minOrder": 17,
     "images": [
-      "/vetement_homme/68/Asweatshirt_homme_louis_vouiton.jpg",
-      "/vetement_homme/68/photo_2_2025-11-17_22-07-20.jpg",
-      "/vetement_homme/68/photo_3_2025-11-17_22-07-20.jpg",
-      "/vetement_homme/68/photo_4_2025-11-17_22-07-20.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/68/Asweatshirt_homme_louis_vouiton.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/68/photo_2_2025-11-17_22-07-20.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/68/photo_3_2025-11-17_22-07-20.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/68/photo_4_2025-11-17_22-07-20.jpg"
     ]
   },
   {
@@ -2284,7 +2284,7 @@ export const vetement_homme = [
     "originalPrice": 3607,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/69/Asweatshirt_homme_louis_vouiton.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/69/Asweatshirt_homme_louis_vouiton.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -2302,10 +2302,10 @@ export const vetement_homme = [
     ],
     "minOrder": 7,
     "images": [
-      "/vetement_homme/69/Asweatshirt_homme_louis_vouiton.jpg",
-      "/vetement_homme/69/photo_10_2025-11-17_22-07-20.jpg",
-      "/vetement_homme/69/photo_11_2025-11-17_22-07-20.jpg",
-      "/vetement_homme/69/photo_12_2025-11-17_22-07-20.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/69/Asweatshirt_homme_louis_vouiton.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/69/photo_10_2025-11-17_22-07-20.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/69/photo_11_2025-11-17_22-07-20.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/69/photo_12_2025-11-17_22-07-20.jpg"
     ]
   },
   {
@@ -2315,7 +2315,7 @@ export const vetement_homme = [
     "originalPrice": 3043,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/70/Asweatshirt_homme_louis_vouiton.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/70/Asweatshirt_homme_louis_vouiton.jpg",
     "taxType": "ttc",
     "colors": [
       "Jaune",
@@ -2333,10 +2333,10 @@ export const vetement_homme = [
     ],
     "minOrder": 13,
     "images": [
-      "/vetement_homme/70/Asweatshirt_homme_louis_vouiton.jpg",
-      "/vetement_homme/70/photo_32_2025-11-17_22-07-20.jpg",
-      "/vetement_homme/70/photo_33_2025-11-17_22-07-20.jpg",
-      "/vetement_homme/70/photo_34_2025-11-17_22-07-20.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/70/Asweatshirt_homme_louis_vouiton.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/70/photo_32_2025-11-17_22-07-20.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/70/photo_33_2025-11-17_22-07-20.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/70/photo_34_2025-11-17_22-07-20.jpg"
     ]
   },
   {
@@ -2346,7 +2346,7 @@ export const vetement_homme = [
     "originalPrice": 3336,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/71/Asweatshirt_a_capuche_homme_polo.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/71/Asweatshirt_a_capuche_homme_polo.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -2363,11 +2363,11 @@ export const vetement_homme = [
     ],
     "minOrder": 5,
     "images": [
-      "/vetement_homme/71/Asweatshirt_a_capuche_homme_polo.jpg",
-      "/vetement_homme/71/photo_46_2025-11-17_22-07-20.jpg",
-      "/vetement_homme/71/photo_47_2025-11-17_22-07-20.jpg",
-      "/vetement_homme/71/photo_49_2025-11-17_22-07-20.jpg",
-      "/vetement_homme/71/photo_50_2025-11-17_22-07-20.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/71/Asweatshirt_a_capuche_homme_polo.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/71/photo_46_2025-11-17_22-07-20.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/71/photo_47_2025-11-17_22-07-20.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/71/photo_49_2025-11-17_22-07-20.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/71/photo_50_2025-11-17_22-07-20.jpg"
     ]
   },
   {
@@ -2377,7 +2377,7 @@ export const vetement_homme = [
     "originalPrice": 3411,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/73/Asweatshirt_homme_mutlimarque.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/73/Asweatshirt_homme_mutlimarque.jpg",
     "taxType": "ht",
     "colors": [
       "Violet",
@@ -2395,11 +2395,11 @@ export const vetement_homme = [
     ],
     "minOrder": 9,
     "images": [
-      "/vetement_homme/73/Asweatshirt_homme_mutlimarque.jpg",
-      "/vetement_homme/73/photo_65_2025-11-17_22-07-20.jpg",
-      "/vetement_homme/73/photo_68_2025-11-17_22-07-20.jpg",
-      "/vetement_homme/73/photo_80_2025-11-17_22-07-20.jpg",
-      "/vetement_homme/73/photo_84_2025-11-17_22-07-20.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/73/Asweatshirt_homme_mutlimarque.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/73/photo_65_2025-11-17_22-07-20.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/73/photo_68_2025-11-17_22-07-20.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/73/photo_80_2025-11-17_22-07-20.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/73/photo_84_2025-11-17_22-07-20.jpg"
     ]
   },
   {
@@ -2409,7 +2409,7 @@ export const vetement_homme = [
     "originalPrice": 3266,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/74/Asweatshirt_homme_mutlimarque.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/74/Asweatshirt_homme_mutlimarque.jpg",
     "taxType": "ht",
     "colors": [
       "Orange",
@@ -2426,10 +2426,10 @@ export const vetement_homme = [
     ],
     "minOrder": 16,
     "images": [
-      "/vetement_homme/74/Asweatshirt_homme_mutlimarque.jpg",
-      "/vetement_homme/74/photo_12_2025-11-17_22-04-47.jpg",
-      "/vetement_homme/74/photo_14_2025-11-17_22-04-47.jpg",
-      "/vetement_homme/74/photo_3_2025-11-17_22-04-47.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/74/Asweatshirt_homme_mutlimarque.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/74/photo_12_2025-11-17_22-04-47.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/74/photo_14_2025-11-17_22-04-47.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/74/photo_3_2025-11-17_22-04-47.jpg"
     ]
   },
   {
@@ -2439,7 +2439,7 @@ export const vetement_homme = [
     "originalPrice": 5200,
     "category": "men",
     "brand": "Nike",
-    "image": "/vetement_homme/75/Aensemble_homme_Nike.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/75/Aensemble_homme_Nike.jpg",
     "taxType": "ttc",
     "colors": [
       "Jaune",
@@ -2457,10 +2457,10 @@ export const vetement_homme = [
     ],
     "minOrder": 11,
     "images": [
-      "/vetement_homme/75/Aensemble_homme_Nike.jpg",
-      "/vetement_homme/75/photo_46_2025-11-17_22-04-47.jpg",
-      "/vetement_homme/75/photo_47_2025-11-17_22-04-47.jpg",
-      "/vetement_homme/75/photo_48_2025-11-17_22-04-47.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/75/Aensemble_homme_Nike.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/75/photo_46_2025-11-17_22-04-47.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/75/photo_47_2025-11-17_22-04-47.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/75/photo_48_2025-11-17_22-04-47.jpg"
     ]
   },
   {
@@ -2470,7 +2470,7 @@ export const vetement_homme = [
     "originalPrice": 7011,
     "category": "men",
     "brand": "Lacoste",
-    "image": "/vetement_homme/76/Aensemble_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/76/Aensemble_homme_lacoste.jpg",
     "taxType": "ttc",
     "colors": [
       "Violet",
@@ -2488,10 +2488,10 @@ export const vetement_homme = [
     ],
     "minOrder": 2,
     "images": [
-      "/vetement_homme/76/Aensemble_homme_lacoste.jpg",
-      "/vetement_homme/76/photo_39_2025-11-17_22-04-47.jpg",
-      "/vetement_homme/76/photo_40_2025-11-17_22-04-47.jpg",
-      "/vetement_homme/76/photo_41_2025-11-17_22-04-47.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/76/Aensemble_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/76/photo_39_2025-11-17_22-04-47.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/76/photo_40_2025-11-17_22-04-47.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/76/photo_41_2025-11-17_22-04-47.jpg"
     ]
   },
   {
@@ -2501,7 +2501,7 @@ export const vetement_homme = [
     "originalPrice": 6604,
     "category": "men",
     "brand": "Lacoste",
-    "image": "/vetement_homme/77/Aensemble_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/77/Aensemble_homme_lacoste.jpg",
     "taxType": "ht",
     "colors": [
       "Vert",
@@ -2519,10 +2519,10 @@ export const vetement_homme = [
     ],
     "minOrder": 9,
     "images": [
-      "/vetement_homme/77/Aensemble_homme_lacoste.jpg",
-      "/vetement_homme/77/photo_34_2025-11-17_22-04-47.jpg",
-      "/vetement_homme/77/photo_35_2025-11-17_22-04-47.jpg",
-      "/vetement_homme/77/photo_36_2025-11-17_22-04-47.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/77/Aensemble_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/77/photo_34_2025-11-17_22-04-47.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/77/photo_35_2025-11-17_22-04-47.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/77/photo_36_2025-11-17_22-04-47.jpg"
     ]
   },
   {
@@ -2532,7 +2532,7 @@ export const vetement_homme = [
     "originalPrice": 7346,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/78/Aensemble_homme_under_armour.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/78/Aensemble_homme_under_armour.jpg",
     "taxType": "ht",
     "colors": [
       "Beige",
@@ -2551,10 +2551,10 @@ export const vetement_homme = [
     ],
     "minOrder": 9,
     "images": [
-      "/vetement_homme/78/Aensemble_homme_under_armour.jpg",
-      "/vetement_homme/78/photo_25_2025-11-17_22-04-47.jpg",
-      "/vetement_homme/78/photo_26_2025-11-17_22-04-47.jpg",
-      "/vetement_homme/78/photo_27_2025-11-17_22-04-47.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/78/Aensemble_homme_under_armour.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/78/photo_25_2025-11-17_22-04-47.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/78/photo_26_2025-11-17_22-04-47.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/78/photo_27_2025-11-17_22-04-47.jpg"
     ]
   },
   {
@@ -2564,7 +2564,7 @@ export const vetement_homme = [
     "originalPrice": 6308,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/79/Aensemble_homme_under_armour.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/79/Aensemble_homme_under_armour.jpg",
     "taxType": "ttc",
     "colors": [
       "Beige",
@@ -2583,9 +2583,9 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/79/Aensemble_homme_under_armour.jpg",
-      "/vetement_homme/79/photo_58_2025-11-17_22-04-47.jpg",
-      "/vetement_homme/79/photo_76_2025-11-17_22-04-47.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/79/Aensemble_homme_under_armour.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/79/photo_58_2025-11-17_22-04-47.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/79/photo_76_2025-11-17_22-04-47.jpg"
     ]
   },
   {
@@ -2595,7 +2595,7 @@ export const vetement_homme = [
     "originalPrice": 6923,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/80/Aensemble_homme_addidas.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/80/Aensemble_homme_addidas.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -2613,9 +2613,9 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/80/Aensemble_homme_addidas.jpg",
-      "/vetement_homme/80/photo_81_2025-11-17_22-04-47.jpg",
-      "/vetement_homme/80/photo_85_2025-11-17_22-04-47.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/80/Aensemble_homme_addidas.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/80/photo_81_2025-11-17_22-04-47.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/80/photo_85_2025-11-17_22-04-47.jpg"
     ]
   },
   {
@@ -2625,7 +2625,7 @@ export const vetement_homme = [
     "originalPrice": 6478,
     "category": "men",
     "brand": "Burberry",
-    "image": "/vetement_homme/81/Aensemble_homme_burberry.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/81/Aensemble_homme_burberry.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -2644,10 +2644,10 @@ export const vetement_homme = [
     ],
     "minOrder": 5,
     "images": [
-      "/vetement_homme/81/Aensemble_homme_burberry.jpg",
-      "/vetement_homme/81/photo_88_2025-11-17_22-04-47.jpg",
-      "/vetement_homme/81/photo_89_2025-11-17_22-04-47.jpg",
-      "/vetement_homme/81/photo_90_2025-11-17_22-04-47.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/81/Aensemble_homme_burberry.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/81/photo_88_2025-11-17_22-04-47.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/81/photo_89_2025-11-17_22-04-47.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/81/photo_90_2025-11-17_22-04-47.jpg"
     ]
   },
   {
@@ -2657,7 +2657,7 @@ export const vetement_homme = [
     "originalPrice": 5767,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/82/Aensemble_homme_addidas.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/82/Aensemble_homme_addidas.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -2674,10 +2674,10 @@ export const vetement_homme = [
     ],
     "minOrder": 11,
     "images": [
-      "/vetement_homme/82/Aensemble_homme_addidas.jpg",
-      "/vetement_homme/82/photo_12_2025-11-17_22-03-43.jpg",
-      "/vetement_homme/82/photo_18_2025-11-17_22-03-43.jpg",
-      "/vetement_homme/82/photo_20_2025-11-17_22-03-43.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/82/Aensemble_homme_addidas.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/82/photo_12_2025-11-17_22-03-43.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/82/photo_18_2025-11-17_22-03-43.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/82/photo_20_2025-11-17_22-03-43.jpg"
     ]
   },
   {
@@ -2687,7 +2687,7 @@ export const vetement_homme = [
     "originalPrice": 6827,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/83/Aensemble_homme_guicci.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/83/Aensemble_homme_guicci.jpg",
     "taxType": "ht",
     "colors": [
       "Orange",
@@ -2705,10 +2705,10 @@ export const vetement_homme = [
     ],
     "minOrder": 3,
     "images": [
-      "/vetement_homme/83/Aensemble_homme_guicci.jpg",
-      "/vetement_homme/83/photo_11_2025-11-17_22-03-43.jpg",
-      "/vetement_homme/83/photo_3_2025-11-17_22-03-43.jpg",
-      "/vetement_homme/83/photo_5_2025-11-17_22-03-43.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/83/Aensemble_homme_guicci.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/83/photo_11_2025-11-17_22-03-43.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/83/photo_3_2025-11-17_22-03-43.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/83/photo_5_2025-11-17_22-03-43.jpg"
     ]
   },
   {
@@ -2718,7 +2718,7 @@ export const vetement_homme = [
     "originalPrice": 6034,
     "category": "men",
     "brand": "Nike",
-    "image": "/vetement_homme/84/Aensemble_homme_Nike.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/84/Aensemble_homme_Nike.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -2737,12 +2737,12 @@ export const vetement_homme = [
     ],
     "minOrder": 1,
     "images": [
-      "/vetement_homme/84/Aensemble_homme_Nike.jpg",
-      "/vetement_homme/84/photo_23_2025-11-17_22-03-43.jpg",
-      "/vetement_homme/84/photo_24_2025-11-17_22-03-43.jpg",
-      "/vetement_homme/84/photo_26_2025-11-17_22-03-43.jpg",
-      "/vetement_homme/84/photo_27_2025-11-17_22-03-43.jpg",
-      "/vetement_homme/84/photo_29_2025-11-17_22-03-43.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/84/Aensemble_homme_Nike.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/84/photo_23_2025-11-17_22-03-43.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/84/photo_24_2025-11-17_22-03-43.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/84/photo_26_2025-11-17_22-03-43.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/84/photo_27_2025-11-17_22-03-43.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/84/photo_29_2025-11-17_22-03-43.jpg"
     ]
   },
   {
@@ -2752,7 +2752,7 @@ export const vetement_homme = [
     "originalPrice": 5383,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/85/Aensemble_homme_louis_vouiton.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/85/Aensemble_homme_louis_vouiton.jpg",
     "taxType": "ht",
     "colors": [
       "Orange",
@@ -2771,10 +2771,10 @@ export const vetement_homme = [
     ],
     "minOrder": 7,
     "images": [
-      "/vetement_homme/85/Aensemble_homme_louis_vouiton.jpg",
-      "/vetement_homme/85/photo_47_2025-11-17_22-03-43.jpg",
-      "/vetement_homme/85/photo_48_2025-11-17_22-03-43.jpg",
-      "/vetement_homme/85/photo_49_2025-11-17_22-03-43.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/85/Aensemble_homme_louis_vouiton.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/85/photo_47_2025-11-17_22-03-43.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/85/photo_48_2025-11-17_22-03-43.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/85/photo_49_2025-11-17_22-03-43.jpg"
     ]
   },
   {
@@ -2784,7 +2784,7 @@ export const vetement_homme = [
     "originalPrice": 3002,
     "category": "men",
     "brand": "Gucci",
-    "image": "/vetement_homme/86/Apullover_homme_gucci.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/86/Apullover_homme_gucci.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -2802,9 +2802,9 @@ export const vetement_homme = [
     ],
     "minOrder": 9,
     "images": [
-      "/vetement_homme/86/Apullover_homme_gucci.jpg",
-      "/vetement_homme/86/photo_61_2025-11-17_22-02-41.jpg",
-      "/vetement_homme/86/photo_63_2025-11-17_22-02-41.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/86/Apullover_homme_gucci.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/86/photo_61_2025-11-17_22-02-41.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/86/photo_63_2025-11-17_22-02-41.jpg"
     ]
   },
   {
@@ -2814,7 +2814,7 @@ export const vetement_homme = [
     "originalPrice": 3748,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/87/Asweatshirt_homme_casa_blanca.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/87/Asweatshirt_homme_casa_blanca.jpg",
     "taxType": "ttc",
     "colors": [
       "Blanc"
@@ -2828,9 +2828,9 @@ export const vetement_homme = [
     ],
     "minOrder": 13,
     "images": [
-      "/vetement_homme/87/Asweatshirt_homme_casa_blanca.jpg",
-      "/vetement_homme/87/photo_44_2025-11-17_22-02-41.jpg",
-      "/vetement_homme/87/photo_47_2025-11-17_22-02-41.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/87/Asweatshirt_homme_casa_blanca.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/87/photo_44_2025-11-17_22-02-41.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/87/photo_47_2025-11-17_22-02-41.jpg"
     ]
   },
   {
@@ -2840,7 +2840,7 @@ export const vetement_homme = [
     "originalPrice": 6600,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/88/Aensemble_homme_addidas.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/88/Aensemble_homme_addidas.jpg",
     "taxType": "ht",
     "colors": [
       "Marron",
@@ -2858,10 +2858,10 @@ export const vetement_homme = [
     ],
     "minOrder": 10,
     "images": [
-      "/vetement_homme/88/Aensemble_homme_addidas.jpg",
-      "/vetement_homme/88/photo_69_2025-11-17_22-01-40.jpg",
-      "/vetement_homme/88/photo_70_2025-11-17_22-01-40.jpg",
-      "/vetement_homme/88/photo_72_2025-11-17_22-01-40.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/88/Aensemble_homme_addidas.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/88/photo_69_2025-11-17_22-01-40.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/88/photo_70_2025-11-17_22-01-40.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/88/photo_72_2025-11-17_22-01-40.jpg"
     ]
   },
   {
@@ -2871,7 +2871,7 @@ export const vetement_homme = [
     "originalPrice": 6738,
     "category": "clothbrands",
     "brand": "Multiple",
-    "image": "/vetement_homme/89/Aensemble_homme_multimarque .jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/89/Aensemble_homme_multimarque .jpg",
     "taxType": "ht",
     "colors": [
       "Marron",
@@ -2889,14 +2889,14 @@ export const vetement_homme = [
     ],
     "minOrder": 9,
     "images": [
-      "/vetement_homme/89/Aensemble_homme_multimarque .jpg",
-      "/vetement_homme/89/photo_14_2025-11-17_22-01-40.jpg",
-      "/vetement_homme/89/photo_17_2025-11-17_22-01-40.jpg",
-      "/vetement_homme/89/photo_20_2025-11-17_22-01-40.jpg",
-      "/vetement_homme/89/photo_21_2025-11-17_22-01-40.jpg",
-      "/vetement_homme/89/photo_23_2025-11-17_22-01-40.jpg",
-      "/vetement_homme/89/photo_29_2025-11-17_22-01-40.jpg",
-      "/vetement_homme/89/photo_4_2025-11-17_22-01-40.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/89/Aensemble_homme_multimarque .jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/89/photo_14_2025-11-17_22-01-40.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/89/photo_17_2025-11-17_22-01-40.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/89/photo_20_2025-11-17_22-01-40.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/89/photo_21_2025-11-17_22-01-40.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/89/photo_23_2025-11-17_22-01-40.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/89/photo_29_2025-11-17_22-01-40.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/89/photo_4_2025-11-17_22-01-40.jpg"
     ],
     "clothbrands": [
       "Coach",
@@ -2920,7 +2920,7 @@ export const vetement_homme = [
     "originalPrice": 3614,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/90/Asweatshirt_homme_under_armour.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/90/Asweatshirt_homme_under_armour.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -2939,10 +2939,10 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/90/Asweatshirt_homme_under_armour.jpg",
-      "/vetement_homme/90/photo_19_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/90/photo_21_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/90/photo_23_2025-11-17_22-00-37.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/90/Asweatshirt_homme_under_armour.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/90/photo_19_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/90/photo_21_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/90/photo_23_2025-11-17_22-00-37.jpg"
     ]
   },
   {
@@ -2952,7 +2952,7 @@ export const vetement_homme = [
     "originalPrice": 2997,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/91/Asweatshirt_homme_under_armour.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/91/Asweatshirt_homme_under_armour.jpg",
     "taxType": "ttc",
     "colors": [
       "Bleu",
@@ -2969,10 +2969,10 @@ export const vetement_homme = [
     ],
     "minOrder": 7,
     "images": [
-      "/vetement_homme/91/Asweatshirt_homme_under_armour.jpg",
-      "/vetement_homme/91/photo_59_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/91/photo_61_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/91/photo_62_2025-11-17_22-11-58.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/91/Asweatshirt_homme_under_armour.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/91/photo_59_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/91/photo_61_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/91/photo_62_2025-11-17_22-11-58.jpg"
     ]
   },
   {
@@ -2982,7 +2982,7 @@ export const vetement_homme = [
     "originalPrice": 3844,
     "category": "tshirts",
     "brand": "Lacoste",
-    "image": "/vetement_homme/92/Asweatshirt_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/92/Asweatshirt_homme_lacoste.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -2999,10 +2999,10 @@ export const vetement_homme = [
     ],
     "minOrder": 5,
     "images": [
-      "/vetement_homme/92/Asweatshirt_homme_lacoste.jpg",
-      "/vetement_homme/92/photo_51_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/92/photo_55_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/92/photo_56_2025-11-17_22-11-58.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/92/Asweatshirt_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/92/photo_51_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/92/photo_55_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/92/photo_56_2025-11-17_22-11-58.jpg"
     ]
   },
   {
@@ -3012,7 +3012,7 @@ export const vetement_homme = [
     "originalPrice": 2931,
     "category": "tshirts",
     "brand": "Tommy",
-    "image": "/vetement_homme/93/Asweatshirt_homme_Tommy_hilfiger.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/93/Asweatshirt_homme_Tommy_hilfiger.jpg",
     "taxType": "ttc",
     "colors": [
       "Jaune",
@@ -3029,12 +3029,12 @@ export const vetement_homme = [
     ],
     "minOrder": 12,
     "images": [
-      "/vetement_homme/93/Asweatshirt_homme_Tommy_hilfiger.jpg",
-      "/vetement_homme/93/photo_20_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/93/photo_21_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/93/photo_22_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/93/photo_23_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/93/photo_24_2025-11-17_22-11-58.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/93/Asweatshirt_homme_Tommy_hilfiger.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/93/photo_20_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/93/photo_21_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/93/photo_22_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/93/photo_23_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/93/photo_24_2025-11-17_22-11-58.jpg"
     ]
   },
   {
@@ -3044,7 +3044,7 @@ export const vetement_homme = [
     "originalPrice": 3839,
     "category": "tshirts",
     "brand": "Tommy",
-    "image": "/vetement_homme/94/Asweatshirt_homme_Tommy_hilfiger.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/94/Asweatshirt_homme_Tommy_hilfiger.jpg",
     "taxType": "ttc",
     "colors": [
       "Jaune",
@@ -3062,10 +3062,10 @@ export const vetement_homme = [
     ],
     "minOrder": 14,
     "images": [
-      "/vetement_homme/94/Asweatshirt_homme_Tommy_hilfiger.jpg",
-      "/vetement_homme/94/photo_16_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/94/photo_17_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/94/photo_18_2025-11-17_22-11-58.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/94/Asweatshirt_homme_Tommy_hilfiger.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/94/photo_16_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/94/photo_17_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/94/photo_18_2025-11-17_22-11-58.jpg"
     ]
   },
   {
@@ -3075,7 +3075,7 @@ export const vetement_homme = [
     "originalPrice": 3705,
     "category": "tshirts",
     "brand": "Tommy",
-    "image": "/vetement_homme/95/Asweatshirt_homme_Tommy_hilfiger.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/95/Asweatshirt_homme_Tommy_hilfiger.jpg",
     "taxType": "ht",
     "colors": [
       "Gris",
@@ -3092,10 +3092,10 @@ export const vetement_homme = [
     ],
     "minOrder": 16,
     "images": [
-      "/vetement_homme/95/Asweatshirt_homme_Tommy_hilfiger.jpg",
-      "/vetement_homme/95/photo_12_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/95/photo_13_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/95/photo_14_2025-11-17_22-11-58.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/95/Asweatshirt_homme_Tommy_hilfiger.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/95/photo_12_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/95/photo_13_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/95/photo_14_2025-11-17_22-11-58.jpg"
     ]
   },
   {
@@ -3105,7 +3105,7 @@ export const vetement_homme = [
     "originalPrice": 3467,
     "category": "tshirts",
     "brand": "Tommy",
-    "image": "/vetement_homme/96/Asweatshirt_homme_Tommy_hilfiger.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/96/Asweatshirt_homme_Tommy_hilfiger.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -3123,10 +3123,10 @@ export const vetement_homme = [
     ],
     "minOrder": 8,
     "images": [
-      "/vetement_homme/96/Asweatshirt_homme_Tommy_hilfiger.jpg",
-      "/vetement_homme/96/photo_2_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/96/photo_4_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/96/photo_5_2025-11-17_22-11-58.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/96/Asweatshirt_homme_Tommy_hilfiger.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/96/photo_2_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/96/photo_4_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/96/photo_5_2025-11-17_22-11-58.jpg"
     ]
   },
   {
@@ -3136,7 +3136,7 @@ export const vetement_homme = [
     "originalPrice": 2834,
     "category": "tshirts",
     "brand": "Lacoste",
-    "image": "/vetement_homme/97/Asweatshirt_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/97/Asweatshirt_homme_lacoste.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -3153,9 +3153,9 @@ export const vetement_homme = [
     ],
     "minOrder": 10,
     "images": [
-      "/vetement_homme/97/Asweatshirt_homme_lacoste.jpg",
-      "/vetement_homme/97/photo_86_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/97/photo_87_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/97/Asweatshirt_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/97/photo_86_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/97/photo_87_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -3165,7 +3165,7 @@ export const vetement_homme = [
     "originalPrice": 2847,
     "category": "tshirts",
     "brand": "Lacoste",
-    "image": "/vetement_homme/98/Asweatshirt_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/98/Asweatshirt_homme_lacoste.jpg",
     "taxType": "ht",
     "colors": [
       "Violet",
@@ -3183,10 +3183,10 @@ export const vetement_homme = [
     ],
     "minOrder": 17,
     "images": [
-      "/vetement_homme/98/Asweatshirt_homme_lacoste.jpg",
-      "/vetement_homme/98/photo_80_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/98/photo_81_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/98/photo_82_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/98/Asweatshirt_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/98/photo_80_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/98/photo_81_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/98/photo_82_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -3196,7 +3196,7 @@ export const vetement_homme = [
     "originalPrice": 3033,
     "category": "tshirts",
     "brand": "Lacoste",
-    "image": "/vetement_homme/99/Asweatshirt_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/99/Asweatshirt_homme_lacoste.jpg",
     "taxType": "ht",
     "colors": [
       "Beige",
@@ -3215,10 +3215,10 @@ export const vetement_homme = [
     ],
     "minOrder": 16,
     "images": [
-      "/vetement_homme/99/Asweatshirt_homme_lacoste.jpg",
-      "/vetement_homme/99/photo_75_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/99/photo_76_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/99/photo_77_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/99/Asweatshirt_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/99/photo_75_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/99/photo_76_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/99/photo_77_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -3228,7 +3228,7 @@ export const vetement_homme = [
     "originalPrice": 3744,
     "category": "tshirts",
     "brand": "Lacoste",
-    "image": "/vetement_homme/100/Asweatshirt_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/100/Asweatshirt_homme_lacoste.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -3246,10 +3246,10 @@ export const vetement_homme = [
     ],
     "minOrder": 18,
     "images": [
-      "/vetement_homme/100/Asweatshirt_homme_lacoste.jpg",
-      "/vetement_homme/100/photo_70_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/100/photo_71_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/100/photo_72_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/100/Asweatshirt_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/100/photo_70_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/100/photo_71_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/100/photo_72_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -3259,7 +3259,7 @@ export const vetement_homme = [
     "originalPrice": 3475,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/101/Asweatshirt_homme_off_white.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/101/Asweatshirt_homme_off_white.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -3276,10 +3276,10 @@ export const vetement_homme = [
     ],
     "minOrder": 5,
     "images": [
-      "/vetement_homme/101/Asweatshirt_homme_off_white.jpg",
-      "/vetement_homme/101/photo_1_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/101/photo_2_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/101/photo_4_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/101/Asweatshirt_homme_off_white.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/101/photo_1_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/101/photo_2_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/101/photo_4_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -3289,7 +3289,7 @@ export const vetement_homme = [
     "originalPrice": 2848,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/102/Asweatshirt_homme_louis_vouiton.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/102/Asweatshirt_homme_louis_vouiton.jpg",
     "taxType": "ht",
     "colors": [
       "Violet",
@@ -3307,9 +3307,9 @@ export const vetement_homme = [
     ],
     "minOrder": 18,
     "images": [
-      "/vetement_homme/102/Asweatshirt_homme_louis_vouiton.jpg",
-      "/vetement_homme/102/photo_30_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/102/photo_31_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/102/Asweatshirt_homme_louis_vouiton.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/102/photo_30_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/102/photo_31_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -3319,7 +3319,7 @@ export const vetement_homme = [
     "originalPrice": 2949,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/103/Asweatshirt_homme_hugo_boss.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/103/Asweatshirt_homme_hugo_boss.jpg",
     "taxType": "ttc",
     "colors": [
       "Vert",
@@ -3336,8 +3336,8 @@ export const vetement_homme = [
     ],
     "minOrder": 9,
     "images": [
-      "/vetement_homme/103/Asweatshirt_homme_hugo_boss.jpg",
-      "/vetement_homme/103/photo_36_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/103/Asweatshirt_homme_hugo_boss.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/103/photo_36_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -3347,7 +3347,7 @@ export const vetement_homme = [
     "originalPrice": 2995,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/104/Asweatshirt_homme_hugo_boss.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/104/Asweatshirt_homme_hugo_boss.jpg",
     "taxType": "ttc",
     "colors": [
       "Violet",
@@ -3365,8 +3365,8 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/104/Asweatshirt_homme_hugo_boss.jpg",
-      "/vetement_homme/104/photo_40_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/104/Asweatshirt_homme_hugo_boss.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/104/photo_40_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -3376,7 +3376,7 @@ export const vetement_homme = [
     "originalPrice": 3392,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/105/Asweatshirt_homme_hugo_boss.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/105/Asweatshirt_homme_hugo_boss.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -3394,8 +3394,8 @@ export const vetement_homme = [
     ],
     "minOrder": 15,
     "images": [
-      "/vetement_homme/105/Asweatshirt_homme_hugo_boss.jpg",
-      "/vetement_homme/105/photo_38_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/105/Asweatshirt_homme_hugo_boss.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/105/photo_38_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -3405,7 +3405,7 @@ export const vetement_homme = [
     "originalPrice": 3366,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/106/Asweatshirt_homme.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/106/Asweatshirt_homme.jpg",
     "taxType": "ht",
     "colors": [
       "Violet",
@@ -3421,9 +3421,9 @@ export const vetement_homme = [
     ],
     "minOrder": 8,
     "images": [
-      "/vetement_homme/106/Asweatshirt_homme.jpg",
-      "/vetement_homme/106/photo_33_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/106/photo_34_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/106/Asweatshirt_homme.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/106/photo_33_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/106/photo_34_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -3433,7 +3433,7 @@ export const vetement_homme = [
     "originalPrice": 2823,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/107/Asweatshirt_homme_casa_blanca.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/107/Asweatshirt_homme_casa_blanca.jpg",
     "taxType": "ttc",
     "colors": [
       "Blanc"
@@ -3447,8 +3447,8 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/107/Asweatshirt_homme_casa_blanca.jpg",
-      "/vetement_homme/107/photo_28_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/107/Asweatshirt_homme_casa_blanca.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/107/photo_28_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -3458,7 +3458,7 @@ export const vetement_homme = [
     "originalPrice": 3563,
     "category": "tshirts",
     "brand": "Gucci",
-    "image": "/vetement_homme/108/Asweatshirt_homme_gucci.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/108/Asweatshirt_homme_gucci.jpg",
     "taxType": "ht",
     "colors": [
       "Vert",
@@ -3477,8 +3477,8 @@ export const vetement_homme = [
     ],
     "minOrder": 15,
     "images": [
-      "/vetement_homme/108/Asweatshirt_homme_gucci.jpg",
-      "/vetement_homme/108/photo_26_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/108/Asweatshirt_homme_gucci.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/108/photo_26_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -3488,7 +3488,7 @@ export const vetement_homme = [
     "originalPrice": 3641,
     "category": "tshirts",
     "brand": "Nike",
-    "image": "/vetement_homme/109/Asweatshirt_homme_Nike.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/109/Asweatshirt_homme_Nike.jpg",
     "taxType": "ttc",
     "colors": [
       "Violet",
@@ -3507,8 +3507,8 @@ export const vetement_homme = [
     ],
     "minOrder": 15,
     "images": [
-      "/vetement_homme/109/Asweatshirt_homme_Nike.jpg",
-      "/vetement_homme/109/photo_24_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/109/Asweatshirt_homme_Nike.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/109/photo_24_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -3518,7 +3518,7 @@ export const vetement_homme = [
     "originalPrice": 3289,
     "category": "tshirts",
     "brand": "Nike",
-    "image": "/vetement_homme/110/Asweatshirt_homme_Nike.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/110/Asweatshirt_homme_Nike.jpg",
     "taxType": "ttc",
     "colors": [
       "Jaune",
@@ -3535,8 +3535,8 @@ export const vetement_homme = [
     ],
     "minOrder": 9,
     "images": [
-      "/vetement_homme/110/Asweatshirt_homme_Nike.jpg",
-      "/vetement_homme/110/photo_22_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/110/Asweatshirt_homme_Nike.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/110/photo_22_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -3546,7 +3546,7 @@ export const vetement_homme = [
     "originalPrice": 2792,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/111/Asweatshirt_homme_balmain.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/111/Asweatshirt_homme_balmain.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -3564,9 +3564,9 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/111/Asweatshirt_homme_balmain.jpg",
-      "/vetement_homme/111/photo_19_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/111/photo_20_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/111/Asweatshirt_homme_balmain.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/111/photo_19_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/111/photo_20_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -3576,7 +3576,7 @@ export const vetement_homme = [
     "originalPrice": 3531,
     "category": "tshirts",
     "brand": "Lacoste",
-    "image": "/vetement_homme/112/Asweatshirt_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/112/Asweatshirt_homme_lacoste.jpg",
     "taxType": "ht",
     "colors": [
       "Violet",
@@ -3594,10 +3594,10 @@ export const vetement_homme = [
     ],
     "minOrder": 5,
     "images": [
-      "/vetement_homme/112/Asweatshirt_homme_lacoste.jpg",
-      "/vetement_homme/112/photo_23_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/112/photo_24_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/112/photo_25_2025-11-17_22-20-48.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/112/Asweatshirt_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/112/photo_23_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/112/photo_24_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/112/photo_25_2025-11-17_22-20-48.jpg"
     ]
   },
   {
@@ -3607,7 +3607,7 @@ export const vetement_homme = [
     "originalPrice": 3732,
     "category": "tshirts",
     "brand": "Lacoste",
-    "image": "/vetement_homme/113/Asweatshirt_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/113/Asweatshirt_homme_lacoste.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -3624,11 +3624,11 @@ export const vetement_homme = [
     ],
     "minOrder": 17,
     "images": [
-      "/vetement_homme/113/Asweatshirt_homme_lacoste.jpg",
-      "/vetement_homme/113/photo_37_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/113/photo_40_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/113/photo_41_2025-11-17_22-20-48.jpg",
-      "/vetement_homme/113/photo_42_2025-11-17_22-20-48.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/113/Asweatshirt_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/113/photo_37_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/113/photo_40_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/113/photo_41_2025-11-17_22-20-48.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/113/photo_42_2025-11-17_22-20-48.jpg"
     ]
   },
   {
@@ -3638,7 +3638,7 @@ export const vetement_homme = [
     "originalPrice": 3414,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/114/Asweatshirt_homme_mutlimarque.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/114/Asweatshirt_homme_mutlimarque.jpg",
     "taxType": "ht",
     "colors": [
       "Beige",
@@ -3655,10 +3655,10 @@ export const vetement_homme = [
     ],
     "minOrder": 8,
     "images": [
-      "/vetement_homme/114/Asweatshirt_homme_mutlimarque.jpg",
-      "/vetement_homme/114/photo_18_2025-11-17_22-07-20.jpg",
-      "/vetement_homme/114/photo_19_2025-11-17_22-07-20.jpg",
-      "/vetement_homme/114/photo_20_2025-11-17_22-07-20.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/114/Asweatshirt_homme_mutlimarque.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/114/photo_18_2025-11-17_22-07-20.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/114/photo_19_2025-11-17_22-07-20.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/114/photo_20_2025-11-17_22-07-20.jpg"
     ]
   },
   {
@@ -3668,7 +3668,7 @@ export const vetement_homme = [
     "originalPrice": 2870,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/115/Asweatshirt_homme_polo.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/115/Asweatshirt_homme_polo.jpg",
     "taxType": "ht",
     "colors": [
       "Bleu",
@@ -3686,10 +3686,10 @@ export const vetement_homme = [
     ],
     "minOrder": 18,
     "images": [
-      "/vetement_homme/115/Asweatshirt_homme_polo.jpg",
-      "/vetement_homme/115/photo_36_2025-11-17_22-07-20.jpg",
-      "/vetement_homme/115/photo_37_2025-11-17_22-07-20.jpg",
-      "/vetement_homme/115/photo_38_2025-11-17_22-07-20.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/115/Asweatshirt_homme_polo.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/115/photo_36_2025-11-17_22-07-20.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/115/photo_37_2025-11-17_22-07-20.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/115/photo_38_2025-11-17_22-07-20.jpg"
     ]
   },
   {
@@ -3699,7 +3699,7 @@ export const vetement_homme = [
     "originalPrice": 2787,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/116/Asweatshirt_homme_louis_vouiton.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/116/Asweatshirt_homme_louis_vouiton.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -3717,10 +3717,10 @@ export const vetement_homme = [
     ],
     "minOrder": 17,
     "images": [
-      "/vetement_homme/116/Asweatshirt_homme_louis_vouiton.jpg",
-      "/vetement_homme/116/photo_25_2025-11-17_22-07-20.jpg",
-      "/vetement_homme/116/photo_26_2025-11-17_22-07-20.jpg",
-      "/vetement_homme/116/photo_27_2025-11-17_22-07-20.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/116/Asweatshirt_homme_louis_vouiton.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/116/photo_25_2025-11-17_22-07-20.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/116/photo_26_2025-11-17_22-07-20.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/116/photo_27_2025-11-17_22-07-20.jpg"
     ]
   },
   {
@@ -3730,7 +3730,7 @@ export const vetement_homme = [
     "originalPrice": 3329,
     "category": "tshirts",
     "brand": "Gucci",
-    "image": "/vetement_homme/117/Asweatshirt_homme_gucci.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/117/Asweatshirt_homme_gucci.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -3748,8 +3748,8 @@ export const vetement_homme = [
     ],
     "minOrder": 16,
     "images": [
-      "/vetement_homme/117/Asweatshirt_homme_gucci.jpg",
-      "/vetement_homme/117/photo_2_2025-11-17_22-04-47.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/117/Asweatshirt_homme_gucci.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/117/photo_2_2025-11-17_22-04-47.jpg"
     ]
   },
   {
@@ -3759,7 +3759,7 @@ export const vetement_homme = [
     "originalPrice": 3411,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/118/Asweatshirt_homme_hugo_boss.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/118/Asweatshirt_homme_hugo_boss.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -3777,10 +3777,10 @@ export const vetement_homme = [
     ],
     "minOrder": 5,
     "images": [
-      "/vetement_homme/118/Asweatshirt_homme_hugo_boss.jpg",
-      "/vetement_homme/118/photo_35_2025-11-17_22-02-41.jpg",
-      "/vetement_homme/118/photo_36_2025-11-17_22-02-41.jpg",
-      "/vetement_homme/118/photo_38_2025-11-17_22-02-41.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/118/Asweatshirt_homme_hugo_boss.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/118/photo_35_2025-11-17_22-02-41.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/118/photo_36_2025-11-17_22-02-41.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/118/photo_38_2025-11-17_22-02-41.jpg"
     ]
   },
   {
@@ -3790,7 +3790,7 @@ export const vetement_homme = [
     "originalPrice": 3356,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/119/Asweatshirt_homme_hugo_boss.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/119/Asweatshirt_homme_hugo_boss.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -3807,10 +3807,10 @@ export const vetement_homme = [
     ],
     "minOrder": 13,
     "images": [
-      "/vetement_homme/119/Asweatshirt_homme_hugo_boss.jpg",
-      "/vetement_homme/119/photo_22_2025-11-17_22-02-41.jpg",
-      "/vetement_homme/119/photo_25_2025-11-17_22-02-41.jpg",
-      "/vetement_homme/119/photo_27_2025-11-17_22-02-41.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/119/Asweatshirt_homme_hugo_boss.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/119/photo_22_2025-11-17_22-02-41.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/119/photo_25_2025-11-17_22-02-41.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/119/photo_27_2025-11-17_22-02-41.jpg"
     ]
   },
   {
@@ -3820,7 +3820,7 @@ export const vetement_homme = [
     "originalPrice": 2819,
     "category": "tshirts",
     "brand": "Tommy",
-    "image": "/vetement_homme/120/Asweatshirt_homme_Tommy_hilfiger.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/120/Asweatshirt_homme_Tommy_hilfiger.jpg",
     "taxType": "ttc",
     "colors": [
       "Beige",
@@ -3837,10 +3837,10 @@ export const vetement_homme = [
     ],
     "minOrder": 10,
     "images": [
-      "/vetement_homme/120/Asweatshirt_homme_Tommy_hilfiger.jpg",
-      "/vetement_homme/120/photo_13_2025-11-17_22-02-41.jpg",
-      "/vetement_homme/120/photo_15_2025-11-17_22-02-41.jpg",
-      "/vetement_homme/120/photo_19_2025-11-17_22-02-41.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/120/Asweatshirt_homme_Tommy_hilfiger.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/120/photo_13_2025-11-17_22-02-41.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/120/photo_15_2025-11-17_22-02-41.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/120/photo_19_2025-11-17_22-02-41.jpg"
     ]
   },
   {
@@ -3850,7 +3850,7 @@ export const vetement_homme = [
     "originalPrice": 5933,
     "category": "clothbrands",
     "brand": "Multiple",
-    "image": "/vetement_homme/121/Aensemble_homme_multimarque .jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/121/Aensemble_homme_multimarque .jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -3868,10 +3868,10 @@ export const vetement_homme = [
     ],
     "minOrder": 9,
     "images": [
-      "/vetement_homme/121/Aensemble_homme_multimarque .jpg",
-      "/vetement_homme/121/IMG-20251117-WA0253.jpg",
-      "/vetement_homme/121/IMG-20251117-WA0254.jpg",
-      "/vetement_homme/121/IMG-20251117-WA0255.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/121/Aensemble_homme_multimarque .jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/121/IMG-20251117-WA0253.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/121/IMG-20251117-WA0254.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/121/IMG-20251117-WA0255.jpg"
     ],
     "clothbrands": [
       "Reebok",
@@ -3895,7 +3895,7 @@ export const vetement_homme = [
     "originalPrice": 3142,
     "category": "clothbrands",
     "brand": "Multiple",
-    "image": "/vetement_homme/122/At-shirt_homme_multimarque.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/122/At-shirt_homme_multimarque.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -3914,13 +3914,13 @@ export const vetement_homme = [
     ],
     "minOrder": 15,
     "images": [
-      "/vetement_homme/122/At-shirt_homme_multimarque.jpg",
-      "/vetement_homme/122/IMG-20251117-WA0233.jpg",
-      "/vetement_homme/122/IMG-20251117-WA0234.jpg",
-      "/vetement_homme/122/IMG-20251117-WA0235.jpg",
-      "/vetement_homme/122/IMG-20251117-WA0236.jpg",
-      "/vetement_homme/122/IMG-20251117-WA0237.jpg",
-      "/vetement_homme/122/IMG-20251117-WA0238.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/122/At-shirt_homme_multimarque.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/122/IMG-20251117-WA0233.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/122/IMG-20251117-WA0234.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/122/IMG-20251117-WA0235.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/122/IMG-20251117-WA0236.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/122/IMG-20251117-WA0237.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/122/IMG-20251117-WA0238.jpg"
     ],
     "clothbrands": [
       "Ralph Lauren",
@@ -3944,7 +3944,7 @@ export const vetement_homme = [
     "originalPrice": 5553,
     "category": "clothbrands",
     "brand": "Multiple",
-    "image": "/vetement_homme/123/Aensemble_homme_multimarque .jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/123/Aensemble_homme_multimarque .jpg",
     "taxType": "ht",
     "colors": [
       "Gris",
@@ -3963,16 +3963,16 @@ export const vetement_homme = [
     ],
     "minOrder": 8,
     "images": [
-      "/vetement_homme/123/Aensemble_homme_multimarque .jpg",
-      "/vetement_homme/123/photo_53_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/123/photo_54_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/123/photo_55_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/123/photo_57_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/123/photo_58_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/123/photo_59_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/123/photo_60_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/123/photo_61_2025-11-17_22-00-37.jpg",
-      "/vetement_homme/123/photo_62_2025-11-17_22-00-37.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/123/Aensemble_homme_multimarque .jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/123/photo_53_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/123/photo_54_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/123/photo_55_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/123/photo_57_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/123/photo_58_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/123/photo_59_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/123/photo_60_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/123/photo_61_2025-11-17_22-00-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/123/photo_62_2025-11-17_22-00-37.jpg"
     ],
     "clothbrands": [
       "Nike",
@@ -3996,7 +3996,7 @@ export const vetement_homme = [
     "originalPrice": 5317,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/124/Aensemble_homme_under_armour.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/124/Aensemble_homme_under_armour.jpg",
     "taxType": "ttc",
     "colors": [
       "Vert",
@@ -4013,11 +4013,11 @@ export const vetement_homme = [
     ],
     "minOrder": 4,
     "images": [
-      "/vetement_homme/124/Aensemble_homme_under_armour.jpg",
-      "/vetement_homme/124/photo_18_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/124/photo_19_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/124/photo_21_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/124/photo_22_2025-11-17_21-57-31.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/124/Aensemble_homme_under_armour.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/124/photo_18_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/124/photo_19_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/124/photo_21_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/124/photo_22_2025-11-17_21-57-31.jpg"
     ]
   },
   {
@@ -4027,7 +4027,7 @@ export const vetement_homme = [
     "originalPrice": 7470,
     "category": "men",
     "brand": "Nike",
-    "image": "/vetement_homme/125/Aensemble_homme_Nike.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/125/Aensemble_homme_Nike.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -4044,10 +4044,10 @@ export const vetement_homme = [
     ],
     "minOrder": 11,
     "images": [
-      "/vetement_homme/125/Aensemble_homme_Nike.jpg",
-      "/vetement_homme/125/photo_11_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/125/photo_14_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/125/photo_16_2025-11-17_21-57-31.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/125/Aensemble_homme_Nike.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/125/photo_11_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/125/photo_14_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/125/photo_16_2025-11-17_21-57-31.jpg"
     ]
   },
   {
@@ -4057,7 +4057,7 @@ export const vetement_homme = [
     "originalPrice": 6821,
     "category": "men",
     "brand": "Lacoste",
-    "image": "/vetement_homme/126/Aensemble_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/126/Aensemble_homme_lacoste.jpg",
     "taxType": "ht",
     "colors": [
       "Violet",
@@ -4075,10 +4075,10 @@ export const vetement_homme = [
     ],
     "minOrder": 10,
     "images": [
-      "/vetement_homme/126/Aensemble_homme_lacoste.jpg",
-      "/vetement_homme/126/photo_2_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/126/photo_3_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/126/photo_4_2025-11-17_21-57-31.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/126/Aensemble_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/126/photo_2_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/126/photo_3_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/126/photo_4_2025-11-17_21-57-31.jpg"
     ]
   },
   {
@@ -4088,7 +4088,7 @@ export const vetement_homme = [
     "originalPrice": 5516,
     "category": "men",
     "brand": "Lacoste",
-    "image": "/vetement_homme/127/Aensemble_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/127/Aensemble_homme_lacoste.jpg",
     "taxType": "ht",
     "colors": [
       "Bleu",
@@ -4105,10 +4105,10 @@ export const vetement_homme = [
     ],
     "minOrder": 2,
     "images": [
-      "/vetement_homme/127/Aensemble_homme_lacoste.jpg",
-      "/vetement_homme/127/photo_81_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/127/photo_82_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/127/photo_83_2025-11-17_21-58-19.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/127/Aensemble_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/127/photo_81_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/127/photo_82_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/127/photo_83_2025-11-17_21-58-19.jpg"
     ]
   },
   {
@@ -4118,7 +4118,7 @@ export const vetement_homme = [
     "originalPrice": 7118,
     "category": "men",
     "brand": "Lacoste",
-    "image": "/vetement_homme/128/Aensemble_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/128/Aensemble_homme_lacoste.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -4137,11 +4137,11 @@ export const vetement_homme = [
     ],
     "minOrder": 9,
     "images": [
-      "/vetement_homme/128/Aensemble_homme_lacoste.jpg",
-      "/vetement_homme/128/photo_88_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/128/photo_89_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/128/photo_90_2025-11-17_21-58-19.jpg",
-      "/vetement_homme/128/photo_91_2025-11-17_21-58-19.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/128/Aensemble_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/128/photo_88_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/128/photo_89_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/128/photo_90_2025-11-17_21-58-19.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/128/photo_91_2025-11-17_21-58-19.jpg"
     ]
   },
   {
@@ -4151,7 +4151,7 @@ export const vetement_homme = [
     "originalPrice": 3318,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/130/Asweatshirt_homme_polo.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/130/Asweatshirt_homme_polo.jpg",
     "taxType": "ht",
     "colors": [
       "Violet",
@@ -4168,8 +4168,8 @@ export const vetement_homme = [
     ],
     "minOrder": 17,
     "images": [
-      "/vetement_homme/130/Asweatshirt_homme_polo.jpg",
-      "/vetement_homme/130/photo_86_2025-11-17_22-11-58.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/130/Asweatshirt_homme_polo.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/130/photo_86_2025-11-17_22-11-58.jpg"
     ]
   },
   {
@@ -4179,7 +4179,7 @@ export const vetement_homme = [
     "originalPrice": 3385,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/131/Asweatshirt_homme_calvinklein.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/131/Asweatshirt_homme_calvinklein.jpg",
     "taxType": "ttc",
     "colors": [
       "Beige",
@@ -4198,10 +4198,10 @@ export const vetement_homme = [
     ],
     "minOrder": 15,
     "images": [
-      "/vetement_homme/131/Asweatshirt_homme_calvinklein.jpg",
-      "/vetement_homme/131/photo_80_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/131/photo_82_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/131/photo_84_2025-11-17_22-11-58.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/131/Asweatshirt_homme_calvinklein.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/131/photo_80_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/131/photo_82_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/131/photo_84_2025-11-17_22-11-58.jpg"
     ]
   },
   {
@@ -4211,7 +4211,7 @@ export const vetement_homme = [
     "originalPrice": 3082,
     "category": "tshirts",
     "brand": "Lacoste",
-    "image": "/vetement_homme/132/Asweatshirt_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/132/Asweatshirt_homme_lacoste.jpg",
     "taxType": "ttc",
     "colors": [
       "Orange",
@@ -4229,10 +4229,10 @@ export const vetement_homme = [
     ],
     "minOrder": 17,
     "images": [
-      "/vetement_homme/132/Asweatshirt_homme_lacoste.jpg",
-      "/vetement_homme/132/photo_68_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/132/photo_70_2025-11-17_22-11-58.jpg",
-      "/vetement_homme/132/photo_72_2025-11-17_22-11-58.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/132/Asweatshirt_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/132/photo_68_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/132/photo_70_2025-11-17_22-11-58.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/132/photo_72_2025-11-17_22-11-58.jpg"
     ]
   },
   {
@@ -4242,7 +4242,7 @@ export const vetement_homme = [
     "originalPrice": 3216,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/133/Asweatshirt_homme_louis_vouiton.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/133/Asweatshirt_homme_louis_vouiton.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -4259,10 +4259,10 @@ export const vetement_homme = [
     ],
     "minOrder": 8,
     "images": [
-      "/vetement_homme/133/Asweatshirt_homme_louis_vouiton.jpg",
-      "/vetement_homme/133/photo_14_2025-11-17_22-10-02.jpg",
-      "/vetement_homme/133/photo_15_2025-11-17_22-10-02.jpg",
-      "/vetement_homme/133/photo_16_2025-11-17_22-10-02.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/133/Asweatshirt_homme_louis_vouiton.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/133/photo_14_2025-11-17_22-10-02.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/133/photo_15_2025-11-17_22-10-02.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/133/photo_16_2025-11-17_22-10-02.jpg"
     ]
   },
   {
@@ -4272,7 +4272,7 @@ export const vetement_homme = [
     "originalPrice": 3732,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/134/Asweatshirt_homme_dsquared2.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/134/Asweatshirt_homme_dsquared2.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -4290,11 +4290,11 @@ export const vetement_homme = [
     ],
     "minOrder": 5,
     "images": [
-      "/vetement_homme/134/Asweatshirt_homme_dsquared2.jpg",
-      "/vetement_homme/134/photo_37_2025-11-17_22-10-03.jpg",
-      "/vetement_homme/134/photo_38_2025-11-17_22-10-03.jpg",
-      "/vetement_homme/134/photo_39_2025-11-17_22-10-03.jpg",
-      "/vetement_homme/134/photo_40_2025-11-17_22-10-03.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/134/Asweatshirt_homme_dsquared2.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/134/photo_37_2025-11-17_22-10-03.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/134/photo_38_2025-11-17_22-10-03.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/134/photo_39_2025-11-17_22-10-03.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/134/photo_40_2025-11-17_22-10-03.jpg"
     ]
   },
   {
@@ -4304,7 +4304,7 @@ export const vetement_homme = [
     "originalPrice": 3004,
     "category": "tshirts",
     "brand": "Givenchy",
-    "image": "/vetement_homme/135/Asweatshirt_homme_givenchy.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/135/Asweatshirt_homme_givenchy.jpg",
     "taxType": "ttc",
     "colors": [
       "Vert",
@@ -4323,12 +4323,12 @@ export const vetement_homme = [
     ],
     "minOrder": 15,
     "images": [
-      "/vetement_homme/135/Asweatshirt_homme_givenchy.jpg",
-      "/vetement_homme/135/photo_42_2025-11-17_22-10-03.jpg",
-      "/vetement_homme/135/photo_43_2025-11-17_22-10-03.jpg",
-      "/vetement_homme/135/photo_47_2025-11-17_22-10-03.jpg",
-      "/vetement_homme/135/photo_48_2025-11-17_22-10-03.jpg",
-      "/vetement_homme/135/photo_49_2025-11-17_22-10-03.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/135/Asweatshirt_homme_givenchy.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/135/photo_42_2025-11-17_22-10-03.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/135/photo_43_2025-11-17_22-10-03.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/135/photo_47_2025-11-17_22-10-03.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/135/photo_48_2025-11-17_22-10-03.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/135/photo_49_2025-11-17_22-10-03.jpg"
     ]
   },
   {
@@ -4338,7 +4338,7 @@ export const vetement_homme = [
     "originalPrice": 3389,
     "category": "tshirts",
     "brand": "Prada",
-    "image": "/vetement_homme/136/Asweatshirt_homme_prada.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/136/Asweatshirt_homme_prada.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -4357,10 +4357,10 @@ export const vetement_homme = [
     ],
     "minOrder": 14,
     "images": [
-      "/vetement_homme/136/Asweatshirt_homme_prada.jpg",
-      "/vetement_homme/136/photo_56_2025-11-17_22-10-03.jpg",
-      "/vetement_homme/136/photo_57_2025-11-17_22-10-03.jpg",
-      "/vetement_homme/136/photo_58_2025-11-17_22-10-03.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/136/Asweatshirt_homme_prada.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/136/photo_56_2025-11-17_22-10-03.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/136/photo_57_2025-11-17_22-10-03.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/136/photo_58_2025-11-17_22-10-03.jpg"
     ]
   },
   {
@@ -4370,7 +4370,7 @@ export const vetement_homme = [
     "originalPrice": 3089,
     "category": "tshirts",
     "brand": "Gucci",
-    "image": "/vetement_homme/137/Asweatshirt_homme_gucci.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/137/Asweatshirt_homme_gucci.jpg",
     "taxType": "ht",
     "colors": [
       "Blanc",
@@ -4387,9 +4387,9 @@ export const vetement_homme = [
     ],
     "minOrder": 19,
     "images": [
-      "/vetement_homme/137/Asweatshirt_homme_gucci.jpg",
-      "/vetement_homme/137/photo_6_2025-11-17_22-10-02.jpg",
-      "/vetement_homme/137/photo_8_2025-11-17_22-10-02.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/137/Asweatshirt_homme_gucci.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/137/photo_6_2025-11-17_22-10-02.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/137/photo_8_2025-11-17_22-10-02.jpg"
     ]
   },
   {
@@ -4399,7 +4399,7 @@ export const vetement_homme = [
     "originalPrice": 3265,
     "category": "tshirts",
     "brand": "Burberry",
-    "image": "/vetement_homme/138/Asweatshirt_homme_burberry.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/138/Asweatshirt_homme_burberry.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -4415,9 +4415,9 @@ export const vetement_homme = [
     ],
     "minOrder": 5,
     "images": [
-      "/vetement_homme/138/Asweatshirt_homme_burberry.jpg",
-      "/vetement_homme/138/photo_95_2025-11-17_22-10-03.jpg",
-      "/vetement_homme/138/photo_96_2025-11-17_22-10-03.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/138/Asweatshirt_homme_burberry.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/138/photo_95_2025-11-17_22-10-03.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/138/photo_96_2025-11-17_22-10-03.jpg"
     ]
   },
   {
@@ -4427,7 +4427,7 @@ export const vetement_homme = [
     "originalPrice": 3517,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/139/Asweatshirt_homme_amiri.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/139/Asweatshirt_homme_amiri.jpg",
     "taxType": "ht",
     "colors": [
       "Marron",
@@ -4445,10 +4445,10 @@ export const vetement_homme = [
     ],
     "minOrder": 14,
     "images": [
-      "/vetement_homme/139/Asweatshirt_homme_amiri.jpg",
-      "/vetement_homme/139/photo_78_2025-11-17_22-10-03.jpg",
-      "/vetement_homme/139/photo_79_2025-11-17_22-10-03.jpg",
-      "/vetement_homme/139/photo_81_2025-11-17_22-10-03.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/139/Asweatshirt_homme_amiri.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/139/photo_78_2025-11-17_22-10-03.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/139/photo_79_2025-11-17_22-10-03.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/139/photo_81_2025-11-17_22-10-03.jpg"
     ]
   },
   {
@@ -4458,7 +4458,7 @@ export const vetement_homme = [
     "originalPrice": 3624,
     "category": "tshirts",
     "brand": "Fendi",
-    "image": "/vetement_homme/140/Asweatshirt_homme_fendi.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/140/Asweatshirt_homme_fendi.jpg",
     "taxType": "ttc",
     "colors": [
       "Beige",
@@ -4477,10 +4477,10 @@ export const vetement_homme = [
     ],
     "minOrder": 5,
     "images": [
-      "/vetement_homme/140/Asweatshirt_homme_fendi.jpg",
-      "/vetement_homme/140/photo_72_2025-11-17_22-10-03.jpg",
-      "/vetement_homme/140/photo_73_2025-11-17_22-10-03.jpg",
-      "/vetement_homme/140/photo_74_2025-11-17_22-10-03.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/140/Asweatshirt_homme_fendi.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/140/photo_72_2025-11-17_22-10-03.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/140/photo_73_2025-11-17_22-10-03.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/140/photo_74_2025-11-17_22-10-03.jpg"
     ]
   },
   {
@@ -4490,7 +4490,7 @@ export const vetement_homme = [
     "originalPrice": 3247,
     "category": "tshirts",
     "brand": "Dior",
-    "image": "/vetement_homme/141/Asweatshirt_homme_dior.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/141/Asweatshirt_homme_dior.jpg",
     "taxType": "ttc",
     "colors": [
       "Jaune",
@@ -4508,11 +4508,11 @@ export const vetement_homme = [
     ],
     "minOrder": 11,
     "images": [
-      "/vetement_homme/141/Asweatshirt_homme_dior.jpg",
-      "/vetement_homme/141/photo_63_2025-11-17_22-10-03.jpg",
-      "/vetement_homme/141/photo_64_2025-11-17_22-10-03.jpg",
-      "/vetement_homme/141/photo_65_2025-11-17_22-10-03.jpg",
-      "/vetement_homme/141/photo_66_2025-11-17_22-10-03.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/141/Asweatshirt_homme_dior.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/141/photo_63_2025-11-17_22-10-03.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/141/photo_64_2025-11-17_22-10-03.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/141/photo_65_2025-11-17_22-10-03.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/141/photo_66_2025-11-17_22-10-03.jpg"
     ]
   },
   {
@@ -4522,7 +4522,7 @@ export const vetement_homme = [
     "originalPrice": 3045,
     "category": "tshirts",
     "brand": "Lacoste",
-    "image": "/vetement_homme/142/Asweatshirt_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/142/Asweatshirt_homme_lacoste.jpg",
     "taxType": "ttc",
     "colors": [
       "Beige",
@@ -4540,9 +4540,9 @@ export const vetement_homme = [
     ],
     "minOrder": 18,
     "images": [
-      "/vetement_homme/142/Asweatshirt_homme_lacoste.jpg",
-      "/vetement_homme/142/photo_58_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/142/photo_59_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/142/Asweatshirt_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/142/photo_58_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/142/photo_59_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -4552,7 +4552,7 @@ export const vetement_homme = [
     "originalPrice": 2834,
     "category": "tshirts",
     "brand": "Lacoste",
-    "image": "/vetement_homme/143/Asweatshirt_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/143/Asweatshirt_homme_lacoste.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -4570,12 +4570,12 @@ export const vetement_homme = [
     ],
     "minOrder": 12,
     "images": [
-      "/vetement_homme/143/Asweatshirt_homme_lacoste.jpg",
-      "/vetement_homme/143/photo_60_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/143/photo_61_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/143/photo_62_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/143/photo_63_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/143/photo_64_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/143/Asweatshirt_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/143/photo_60_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/143/photo_61_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/143/photo_62_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/143/photo_63_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/143/photo_64_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -4585,7 +4585,7 @@ export const vetement_homme = [
     "originalPrice": 3548,
     "category": "tshirts",
     "brand": "Lacoste",
-    "image": "/vetement_homme/144/Asweatshirt_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/144/Asweatshirt_homme_lacoste.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -4602,9 +4602,9 @@ export const vetement_homme = [
     ],
     "minOrder": 14,
     "images": [
-      "/vetement_homme/144/Asweatshirt_homme_lacoste.jpg",
-      "/vetement_homme/144/photo_90_2025-11-17_22-14-37.jpg",
-      "/vetement_homme/144/photo_92_2025-11-17_22-14-37.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/144/Asweatshirt_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/144/photo_90_2025-11-17_22-14-37.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/144/photo_92_2025-11-17_22-14-37.jpg"
     ]
   },
   {
@@ -4614,7 +4614,7 @@ export const vetement_homme = [
     "originalPrice": 2949,
     "category": "tshirts",
     "brand": "Lacoste",
-    "image": "/vetement_homme/145/Asweatshirt_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/145/Asweatshirt_homme_lacoste.jpg",
     "taxType": "ht",
     "colors": [
       "Blanc",
@@ -4632,10 +4632,10 @@ export const vetement_homme = [
     ],
     "minOrder": 11,
     "images": [
-      "/vetement_homme/145/Asweatshirt_homme_lacoste.jpg",
-      "/vetement_homme/145/photo_50_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/145/photo_51_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/145/photo_52_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/145/Asweatshirt_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/145/photo_50_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/145/photo_51_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/145/photo_52_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -4645,7 +4645,7 @@ export const vetement_homme = [
     "originalPrice": 3370,
     "category": "tshirts",
     "brand": "Lacoste",
-    "image": "/vetement_homme/146/Asweatshirt_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/146/Asweatshirt_homme_lacoste.jpg",
     "taxType": "ttc",
     "colors": [
       "Blanc",
@@ -4663,10 +4663,10 @@ export const vetement_homme = [
     ],
     "minOrder": 19,
     "images": [
-      "/vetement_homme/146/Asweatshirt_homme_lacoste.jpg",
-      "/vetement_homme/146/photo_42_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/146/photo_55_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/146/photo_56_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/146/Asweatshirt_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/146/photo_42_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/146/photo_55_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/146/photo_56_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -4676,7 +4676,7 @@ export const vetement_homme = [
     "originalPrice": 3501,
     "category": "tshirts",
     "brand": "Lacoste",
-    "image": "/vetement_homme/147/Asweatshirt_homme_lacoste.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/147/Asweatshirt_homme_lacoste.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -4694,11 +4694,11 @@ export const vetement_homme = [
     ],
     "minOrder": 9,
     "images": [
-      "/vetement_homme/147/Asweatshirt_homme_lacoste.jpg",
-      "/vetement_homme/147/photo_45_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/147/photo_46_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/147/photo_47_2025-11-17_22-14-36.jpg",
-      "/vetement_homme/147/photo_48_2025-11-17_22-14-36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/147/Asweatshirt_homme_lacoste.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/147/photo_45_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/147/photo_46_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/147/photo_47_2025-11-17_22-14-36.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/147/photo_48_2025-11-17_22-14-36.jpg"
     ]
   },
   {
@@ -4708,7 +4708,7 @@ export const vetement_homme = [
     "originalPrice": 3370,
     "category": "tshirts",
     "brand": "Various",
-    "image": "/vetement_homme/148/Asweatshirt_homme_dolge_et_gabana.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/148/Asweatshirt_homme_dolge_et_gabana.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -4725,12 +4725,12 @@ export const vetement_homme = [
     ],
     "minOrder": 17,
     "images": [
-      "/vetement_homme/148/Asweatshirt_homme_dolge_et_gabana.jpg",
-      "/vetement_homme/148/photo_85_2025-11-17_22-10-03.jpg",
-      "/vetement_homme/148/photo_86_2025-11-17_22-10-03.jpg",
-      "/vetement_homme/148/photo_87_2025-11-17_22-10-03.jpg",
-      "/vetement_homme/148/photo_88_2025-11-17_22-10-03.jpg",
-      "/vetement_homme/148/photo_89_2025-11-17_22-10-03.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/148/Asweatshirt_homme_dolge_et_gabana.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/148/photo_85_2025-11-17_22-10-03.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/148/photo_86_2025-11-17_22-10-03.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/148/photo_87_2025-11-17_22-10-03.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/148/photo_88_2025-11-17_22-10-03.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/148/photo_89_2025-11-17_22-10-03.jpg"
     ]
   },
   {
@@ -4740,7 +4740,7 @@ export const vetement_homme = [
     "originalPrice": 5938,
     "category": "men",
     "brand": "Nike",
-    "image": "/vetement_homme/149/Aensemble_homme_Nike.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/149/Aensemble_homme_Nike.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -4757,9 +4757,9 @@ export const vetement_homme = [
     ],
     "minOrder": 10,
     "images": [
-      "/vetement_homme/149/Aensemble_homme_Nike.jpg",
-      "/vetement_homme/149/photo_27_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/149/photo_28_2025-11-17_21-57-31.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/149/Aensemble_homme_Nike.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/149/photo_27_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/149/photo_28_2025-11-17_21-57-31.jpg"
     ]
   },
   {
@@ -4769,7 +4769,7 @@ export const vetement_homme = [
     "originalPrice": 5335,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/150/ensemble_homme.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/150/ensemble_homme.jpg",
     "taxType": "ttc",
     "colors": [
       "Gris",
@@ -4786,10 +4786,10 @@ export const vetement_homme = [
     ],
     "minOrder": 2,
     "images": [
-      "/vetement_homme/150/ensemble_homme.jpg",
-      "/vetement_homme/150/photo_32_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/150/photo_33_2025-11-17_21-57-31.jpg",
-      "/vetement_homme/150/photo_34_2025-11-17_21-57-31.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/150/ensemble_homme.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/150/photo_32_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/150/photo_33_2025-11-17_21-57-31.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/150/photo_34_2025-11-17_21-57-31.jpg"
     ]
   },
   {
@@ -4799,7 +4799,7 @@ export const vetement_homme = [
     "originalPrice": 3617,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/151/1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/151/1.jpg",
     "taxType": "ttc",
     "colors": [
       "Vert",
@@ -4816,9 +4816,9 @@ export const vetement_homme = [
     ],
     "minOrder": 17,
     "images": [
-      "/vetement_homme/151/1.jpg",
-      "/vetement_homme/151/2.jpg",
-      "/vetement_homme/151/3.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/151/1.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/151/2.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/151/3.jpg"
     ]
   },
   {
@@ -4828,7 +4828,7 @@ export const vetement_homme = [
     "originalPrice": 2955,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_homme/152/1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/152/1.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -4845,9 +4845,9 @@ export const vetement_homme = [
     ],
     "minOrder": 18,
     "images": [
-      "/vetement_homme/152/1.jpg",
-      "/vetement_homme/152/2.jpg",
-      "/vetement_homme/152/3.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/152/1.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/152/2.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/152/3.jpg"
     ]
   },
   {
@@ -4857,7 +4857,7 @@ export const vetement_homme = [
     "originalPrice": 2200,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/153/imgi_1016_Maillot-Manchester-City-Annee-du-Dragon-2024-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/153/imgi_1016_Maillot-Manchester-City-Annee-du-Dragon-2024-1.jpg",
     "taxType": "ht",
     "colors": [
       "Violet",
@@ -4875,7 +4875,7 @@ export const vetement_homme = [
     ],
     "minOrder": 19,
     "images": [
-      "/vetement_homme/153/imgi_1016_Maillot-Manchester-City-Annee-du-Dragon-2024-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/153/imgi_1016_Maillot-Manchester-City-Annee-du-Dragon-2024-1.jpg"
     ]
   },
   {
@@ -4885,7 +4885,7 @@ export const vetement_homme = [
     "originalPrice": 2609,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/154/imgi_1017_MAILLOT-ENFANT-LIVERPOOL-FC-EXTERIEUR-2023-2024-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/154/imgi_1017_MAILLOT-ENFANT-LIVERPOOL-FC-EXTERIEUR-2023-2024-1.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -4901,7 +4901,7 @@ export const vetement_homme = [
     ],
     "minOrder": 18,
     "images": [
-      "/vetement_homme/154/imgi_1017_MAILLOT-ENFANT-LIVERPOOL-FC-EXTERIEUR-2023-2024-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/154/imgi_1017_MAILLOT-ENFANT-LIVERPOOL-FC-EXTERIEUR-2023-2024-1.jpg"
     ]
   },
   {
@@ -4911,7 +4911,7 @@ export const vetement_homme = [
     "originalPrice": 2543,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/155/imgi_1020_Maillot-Real-Madrid-Pre-Match-2024-2025-Blanc-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/155/imgi_1020_Maillot-Real-Madrid-Pre-Match-2024-2025-Blanc-1.jpg",
     "taxType": "ttc",
     "colors": [
       "Blanc"
@@ -4925,7 +4925,7 @@ export const vetement_homme = [
     ],
     "minOrder": 15,
     "images": [
-      "/vetement_homme/155/imgi_1020_Maillot-Real-Madrid-Pre-Match-2024-2025-Blanc-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/155/imgi_1020_Maillot-Real-Madrid-Pre-Match-2024-2025-Blanc-1.jpg"
     ]
   },
   {
@@ -4935,7 +4935,7 @@ export const vetement_homme = [
     "originalPrice": 2854,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/156/imgi_1024_Maillot-Manchester-City-Domicile-2025-2026-Gardien-Vert-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/156/imgi_1024_Maillot-Manchester-City-Domicile-2025-2026-Gardien-Vert-1.jpg",
     "taxType": "ttc",
     "colors": [
       "Vert"
@@ -4949,7 +4949,7 @@ export const vetement_homme = [
     ],
     "minOrder": 20,
     "images": [
-      "/vetement_homme/156/imgi_1024_Maillot-Manchester-City-Domicile-2025-2026-Gardien-Vert-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/156/imgi_1024_Maillot-Manchester-City-Domicile-2025-2026-Gardien-Vert-1.jpg"
     ]
   },
   {
@@ -4959,7 +4959,7 @@ export const vetement_homme = [
     "originalPrice": 2381,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/157/imgi_1028_Maillot-Real-Madrid-Pre-Match-2024-2025-Violet-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/157/imgi_1028_Maillot-Real-Madrid-Pre-Match-2024-2025-Violet-1.jpg",
     "taxType": "ht",
     "colors": [
       "Violet"
@@ -4973,7 +4973,7 @@ export const vetement_homme = [
     ],
     "minOrder": 13,
     "images": [
-      "/vetement_homme/157/imgi_1028_Maillot-Real-Madrid-Pre-Match-2024-2025-Violet-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/157/imgi_1028_Maillot-Real-Madrid-Pre-Match-2024-2025-Violet-1.jpg"
     ]
   },
   {
@@ -4983,7 +4983,7 @@ export const vetement_homme = [
     "originalPrice": 2603,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/158/imgi_1036_Maillot-Real-Madrid-Pre-Match-2024-2025-Trio-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/158/imgi_1036_Maillot-Real-Madrid-Pre-Match-2024-2025-Trio-1.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -5002,7 +5002,7 @@ export const vetement_homme = [
     ],
     "minOrder": 9,
     "images": [
-      "/vetement_homme/158/imgi_1036_Maillot-Real-Madrid-Pre-Match-2024-2025-Trio-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/158/imgi_1036_Maillot-Real-Madrid-Pre-Match-2024-2025-Trio-1.jpg"
     ]
   },
   {
@@ -5012,7 +5012,7 @@ export const vetement_homme = [
     "originalPrice": 2543,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/159/imgi_1039_Maillot-Match-Liverpool-Third-2023-2024-3.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/159/imgi_1039_Maillot-Match-Liverpool-Third-2023-2024-3.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -5029,7 +5029,7 @@ export const vetement_homme = [
     ],
     "minOrder": 12,
     "images": [
-      "/vetement_homme/159/imgi_1039_Maillot-Match-Liverpool-Third-2023-2024-3.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/159/imgi_1039_Maillot-Match-Liverpool-Third-2023-2024-3.jpg"
     ]
   },
   {
@@ -5039,7 +5039,7 @@ export const vetement_homme = [
     "originalPrice": 2760,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/160/imgi_1042_Maillot-Manchester-City-Domicile-2025-2026-Gardien-Rose-1-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/160/imgi_1042_Maillot-Manchester-City-Domicile-2025-2026-Gardien-Rose-1-1.jpg",
     "taxType": "ht",
     "colors": [
       "Rose"
@@ -5053,7 +5053,7 @@ export const vetement_homme = [
     ],
     "minOrder": 13,
     "images": [
-      "/vetement_homme/160/imgi_1042_Maillot-Manchester-City-Domicile-2025-2026-Gardien-Rose-1-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/160/imgi_1042_Maillot-Manchester-City-Domicile-2025-2026-Gardien-Rose-1-1.jpg"
     ]
   },
   {
@@ -5063,7 +5063,7 @@ export const vetement_homme = [
     "originalPrice": 2406,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/161/imgi_1045_Maillot-Match-PSG-Third-2024-2025-600x600.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/161/imgi_1045_Maillot-Match-PSG-Third-2024-2025-600x600.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -5081,7 +5081,7 @@ export const vetement_homme = [
     ],
     "minOrder": 5,
     "images": [
-      "/vetement_homme/161/imgi_1045_Maillot-Match-PSG-Third-2024-2025-600x600.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/161/imgi_1045_Maillot-Match-PSG-Third-2024-2025-600x600.jpg"
     ]
   },
   {
@@ -5091,7 +5091,7 @@ export const vetement_homme = [
     "originalPrice": 2461,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/162/imgi_1054_Maillot-Manchester-City-Domicile-2025-2026-Gardien-Jaune-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/162/imgi_1054_Maillot-Manchester-City-Domicile-2025-2026-Gardien-Jaune-1.jpg",
     "taxType": "ht",
     "colors": [
       "Jaune"
@@ -5105,7 +5105,7 @@ export const vetement_homme = [
     ],
     "minOrder": 15,
     "images": [
-      "/vetement_homme/162/imgi_1054_Maillot-Manchester-City-Domicile-2025-2026-Gardien-Jaune-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/162/imgi_1054_Maillot-Manchester-City-Domicile-2025-2026-Gardien-Jaune-1.jpg"
     ]
   },
   {
@@ -5115,7 +5115,7 @@ export const vetement_homme = [
     "originalPrice": 2775,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/163/imgi_1067_MAILLOT-LIVERPOOL-DOMICILE-2023-2024-M.SALAH-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/163/imgi_1067_MAILLOT-LIVERPOOL-DOMICILE-2023-2024-M.SALAH-1.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -5132,7 +5132,7 @@ export const vetement_homme = [
     ],
     "minOrder": 17,
     "images": [
-      "/vetement_homme/163/imgi_1067_MAILLOT-LIVERPOOL-DOMICILE-2023-2024-M.SALAH-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/163/imgi_1067_MAILLOT-LIVERPOOL-DOMICILE-2023-2024-M.SALAH-1.jpg"
     ]
   },
   {
@@ -5142,7 +5142,7 @@ export const vetement_homme = [
     "originalPrice": 2349,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/164/imgi_1069_Maillot-PSG-Fourth-2024-2025-600x600.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/164/imgi_1069_Maillot-PSG-Fourth-2024-2025-600x600.jpg",
     "taxType": "ttc",
     "colors": [
       "Vert",
@@ -5160,7 +5160,7 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/164/imgi_1069_Maillot-PSG-Fourth-2024-2025-600x600.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/164/imgi_1069_Maillot-PSG-Fourth-2024-2025-600x600.jpg"
     ]
   },
   {
@@ -5170,7 +5170,7 @@ export const vetement_homme = [
     "originalPrice": 2658,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/165/imgi_1105_Maillot-PSG-Heritage-Domicile-2001-2002-600x600.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/165/imgi_1105_Maillot-PSG-Heritage-Domicile-2001-2002-600x600.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -5187,7 +5187,7 @@ export const vetement_homme = [
     ],
     "minOrder": 5,
     "images": [
-      "/vetement_homme/165/imgi_1105_Maillot-PSG-Heritage-Domicile-2001-2002-600x600.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/165/imgi_1105_Maillot-PSG-Heritage-Domicile-2001-2002-600x600.jpg"
     ]
   },
   {
@@ -5197,7 +5197,7 @@ export const vetement_homme = [
     "originalPrice": 2581,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/166/imgi_1174_Maillot-Barca-2024-2025-Third-Lamine-Yamal-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/166/imgi_1174_Maillot-Barca-2024-2025-Third-Lamine-Yamal-1.jpg",
     "taxType": "ttc",
     "colors": [
       "Blanc",
@@ -5214,7 +5214,7 @@ export const vetement_homme = [
     ],
     "minOrder": 19,
     "images": [
-      "/vetement_homme/166/imgi_1174_Maillot-Barca-2024-2025-Third-Lamine-Yamal-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/166/imgi_1174_Maillot-Barca-2024-2025-Third-Lamine-Yamal-1.jpg"
     ]
   },
   {
@@ -5224,7 +5224,7 @@ export const vetement_homme = [
     "originalPrice": 2415,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/167/imgi_1400_Maillot-PSG-Pre-Match-2025-2026-Noir-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/167/imgi_1400_Maillot-PSG-Pre-Match-2025-2026-Noir-1.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir"
@@ -5238,7 +5238,7 @@ export const vetement_homme = [
     ],
     "minOrder": 20,
     "images": [
-      "/vetement_homme/167/imgi_1400_Maillot-PSG-Pre-Match-2025-2026-Noir-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/167/imgi_1400_Maillot-PSG-Pre-Match-2025-2026-Noir-1.jpg"
     ]
   },
   {
@@ -5248,7 +5248,7 @@ export const vetement_homme = [
     "originalPrice": 2431,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/168/imgi_1408_Maillot-PSG-Pre-Match-2024-2025-Bleu-3.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/168/imgi_1408_Maillot-PSG-Pre-Match-2024-2025-Bleu-3.jpg",
     "taxType": "ht",
     "colors": [
       "Bleu"
@@ -5262,7 +5262,7 @@ export const vetement_homme = [
     ],
     "minOrder": 14,
     "images": [
-      "/vetement_homme/168/imgi_1408_Maillot-PSG-Pre-Match-2024-2025-Bleu-3.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/168/imgi_1408_Maillot-PSG-Pre-Match-2024-2025-Bleu-3.jpg"
     ]
   },
   {
@@ -5272,7 +5272,7 @@ export const vetement_homme = [
     "originalPrice": 2802,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/169/imgi_178_Maillot-Cameroun-Third-2025-2026.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/169/imgi_178_Maillot-Cameroun-Third-2025-2026.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -5290,7 +5290,7 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/169/imgi_178_Maillot-Cameroun-Third-2025-2026.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/169/imgi_178_Maillot-Cameroun-Third-2025-2026.jpg"
     ]
   },
   {
@@ -5300,7 +5300,7 @@ export const vetement_homme = [
     "originalPrice": 2580,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/170/imgi_185_Maillot-Cameroun-Exterieur-2025-2026.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/170/imgi_185_Maillot-Cameroun-Exterieur-2025-2026.jpg",
     "taxType": "ttc",
     "colors": [
       "Jaune",
@@ -5318,7 +5318,7 @@ export const vetement_homme = [
     ],
     "minOrder": 20,
     "images": [
-      "/vetement_homme/170/imgi_185_Maillot-Cameroun-Exterieur-2025-2026.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/170/imgi_185_Maillot-Cameroun-Exterieur-2025-2026.jpg"
     ]
   },
   {
@@ -5328,7 +5328,7 @@ export const vetement_homme = [
     "originalPrice": 2673,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/171/imgi_187_Maillot-Cameroun-Domicile-2025-2026-768x768.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/171/imgi_187_Maillot-Cameroun-Domicile-2025-2026-768x768.jpg",
     "taxType": "ttc",
     "colors": [
       "Violet",
@@ -5346,7 +5346,7 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/171/imgi_187_Maillot-Cameroun-Domicile-2025-2026-768x768.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/171/imgi_187_Maillot-Cameroun-Domicile-2025-2026-768x768.jpg"
     ]
   },
   {
@@ -5356,7 +5356,7 @@ export const vetement_homme = [
     "originalPrice": 2669,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/172/imgi_192_Maillot-Cameroun-Domicile-2025-2026.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/172/imgi_192_Maillot-Cameroun-Domicile-2025-2026.jpg",
     "taxType": "ht",
     "colors": [
       "Jaune",
@@ -5375,7 +5375,7 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/172/imgi_192_Maillot-Cameroun-Domicile-2025-2026.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/172/imgi_192_Maillot-Cameroun-Domicile-2025-2026.jpg"
     ]
   },
   {
@@ -5385,7 +5385,7 @@ export const vetement_homme = [
     "originalPrice": 3096,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/173/imgi_199_Maillot-Kit-Enfant-Cameroun-Third-2025-2026.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/173/imgi_199_Maillot-Kit-Enfant-Cameroun-Third-2025-2026.jpg",
     "taxType": "ttc",
     "colors": [
       "Bleu",
@@ -5403,7 +5403,7 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/173/imgi_199_Maillot-Kit-Enfant-Cameroun-Third-2025-2026.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/173/imgi_199_Maillot-Kit-Enfant-Cameroun-Third-2025-2026.jpg"
     ]
   },
   {
@@ -5413,7 +5413,7 @@ export const vetement_homme = [
     "originalPrice": 2413,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/174/imgi_206_Maillot-Kit-Enfant-Cameroun-Exterieur-2025-2026.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/174/imgi_206_Maillot-Kit-Enfant-Cameroun-Exterieur-2025-2026.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -5431,7 +5431,7 @@ export const vetement_homme = [
     ],
     "minOrder": 9,
     "images": [
-      "/vetement_homme/174/imgi_206_Maillot-Kit-Enfant-Cameroun-Exterieur-2025-2026.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/174/imgi_206_Maillot-Kit-Enfant-Cameroun-Exterieur-2025-2026.jpg"
     ]
   },
   {
@@ -5441,7 +5441,7 @@ export const vetement_homme = [
     "originalPrice": 2365,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/175/imgi_213_Maillot-Kit-Enfant-Cameroun-Domicile-2025-2026.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/175/imgi_213_Maillot-Kit-Enfant-Cameroun-Domicile-2025-2026.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -5460,7 +5460,7 @@ export const vetement_homme = [
     ],
     "minOrder": 19,
     "images": [
-      "/vetement_homme/175/imgi_213_Maillot-Kit-Enfant-Cameroun-Domicile-2025-2026.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/175/imgi_213_Maillot-Kit-Enfant-Cameroun-Domicile-2025-2026.jpg"
     ]
   },
   {
@@ -5470,7 +5470,7 @@ export const vetement_homme = [
     "originalPrice": 2535,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/176/imgi_277_Maillot-Arsenal-Third-2025-2026-Saliba-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/176/imgi_277_Maillot-Arsenal-Third-2025-2026-Saliba-1.jpg",
     "taxType": "ttc",
     "colors": [
       "Orange",
@@ -5488,7 +5488,7 @@ export const vetement_homme = [
     ],
     "minOrder": 13,
     "images": [
-      "/vetement_homme/176/imgi_277_Maillot-Arsenal-Third-2025-2026-Saliba-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/176/imgi_277_Maillot-Arsenal-Third-2025-2026-Saliba-1.jpg"
     ]
   },
   {
@@ -5498,7 +5498,7 @@ export const vetement_homme = [
     "originalPrice": 2345,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/177/imgi_296_Maillot-Manchester-United-Third-2025-2026-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/177/imgi_296_Maillot-Manchester-United-Third-2025-2026-1.jpg",
     "taxType": "ht",
     "colors": [
       "Gris",
@@ -5516,7 +5516,7 @@ export const vetement_homme = [
     ],
     "minOrder": 18,
     "images": [
-      "/vetement_homme/177/imgi_296_Maillot-Manchester-United-Third-2025-2026-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/177/imgi_296_Maillot-Manchester-United-Third-2025-2026-1.jpg"
     ]
   },
   {
@@ -5526,7 +5526,7 @@ export const vetement_homme = [
     "originalPrice": 2618,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/178/imgi_302_Maillot-Liverpool-Third-2025-2026-Manches-Longues-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/178/imgi_302_Maillot-Liverpool-Third-2025-2026-Manches-Longues-1.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -5545,7 +5545,7 @@ export const vetement_homme = [
     ],
     "minOrder": 14,
     "images": [
-      "/vetement_homme/178/imgi_302_Maillot-Liverpool-Third-2025-2026-Manches-Longues-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/178/imgi_302_Maillot-Liverpool-Third-2025-2026-Manches-Longues-1.jpg"
     ]
   },
   {
@@ -5555,7 +5555,7 @@ export const vetement_homme = [
     "originalPrice": 2900,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/179/imgi_322_Maillot-Manchester-United-Domicile-2025-2026-Manches-Longues-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/179/imgi_322_Maillot-Manchester-United-Domicile-2025-2026-Manches-Longues-1.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -5573,7 +5573,7 @@ export const vetement_homme = [
     ],
     "minOrder": 20,
     "images": [
-      "/vetement_homme/179/imgi_322_Maillot-Manchester-United-Domicile-2025-2026-Manches-Longues-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/179/imgi_322_Maillot-Manchester-United-Domicile-2025-2026-Manches-Longues-1.jpg"
     ]
   },
   {
@@ -5583,7 +5583,7 @@ export const vetement_homme = [
     "originalPrice": 2712,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/180/imgi_328_Maillot-Manchester-United-Exterieur-2025-2026-Manches-Longues-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/180/imgi_328_Maillot-Manchester-United-Exterieur-2025-2026-Manches-Longues-1.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -5601,7 +5601,7 @@ export const vetement_homme = [
     ],
     "minOrder": 10,
     "images": [
-      "/vetement_homme/180/imgi_328_Maillot-Manchester-United-Exterieur-2025-2026-Manches-Longues-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/180/imgi_328_Maillot-Manchester-United-Exterieur-2025-2026-Manches-Longues-1.jpg"
     ]
   },
   {
@@ -5611,7 +5611,7 @@ export const vetement_homme = [
     "originalPrice": 2419,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/181/imgi_328_Maillot-Match-Manchester-City-Domicile-2025-2026-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/181/imgi_328_Maillot-Match-Manchester-City-Domicile-2025-2026-1.jpg",
     "taxType": "ht",
     "colors": [
       "Vert",
@@ -5628,7 +5628,7 @@ export const vetement_homme = [
     ],
     "minOrder": 10,
     "images": [
-      "/vetement_homme/181/imgi_328_Maillot-Match-Manchester-City-Domicile-2025-2026-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/181/imgi_328_Maillot-Match-Manchester-City-Domicile-2025-2026-1.jpg"
     ]
   },
   {
@@ -5638,7 +5638,7 @@ export const vetement_homme = [
     "originalPrice": 2738,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/182/imgi_334_Maillot-Manchester-United-Third-2025-2026-Manches-Longues-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/182/imgi_334_Maillot-Manchester-United-Third-2025-2026-Manches-Longues-1.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -5655,7 +5655,7 @@ export const vetement_homme = [
     ],
     "minOrder": 19,
     "images": [
-      "/vetement_homme/182/imgi_334_Maillot-Manchester-United-Third-2025-2026-Manches-Longues-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/182/imgi_334_Maillot-Manchester-United-Third-2025-2026-Manches-Longues-1.jpg"
     ]
   },
   {
@@ -5665,7 +5665,7 @@ export const vetement_homme = [
     "originalPrice": 2827,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/183/imgi_340_Maillot-Pre-Match-Manchester-United-2025-2026-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/183/imgi_340_Maillot-Pre-Match-Manchester-United-2025-2026-1.jpg",
     "taxType": "ttc",
     "colors": [
       "Jaune",
@@ -5684,7 +5684,7 @@ export const vetement_homme = [
     ],
     "minOrder": 20,
     "images": [
-      "/vetement_homme/183/imgi_340_Maillot-Pre-Match-Manchester-United-2025-2026-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/183/imgi_340_Maillot-Pre-Match-Manchester-United-2025-2026-1.jpg"
     ]
   },
   {
@@ -5694,7 +5694,7 @@ export const vetement_homme = [
     "originalPrice": 2820,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/184/imgi_348_Maillot-Manchester-United-Domicile-2024-2025.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/184/imgi_348_Maillot-Manchester-United-Domicile-2024-2025.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -5711,7 +5711,7 @@ export const vetement_homme = [
     ],
     "minOrder": 8,
     "images": [
-      "/vetement_homme/184/imgi_348_Maillot-Manchester-United-Domicile-2024-2025.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/184/imgi_348_Maillot-Manchester-United-Domicile-2024-2025.jpg"
     ]
   },
   {
@@ -5721,7 +5721,7 @@ export const vetement_homme = [
     "originalPrice": 2683,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/185/imgi_364_Maillot-Enfant-Real-Madrid-Exterieur-2025-2026-2-600x600.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/185/imgi_364_Maillot-Enfant-Real-Madrid-Exterieur-2025-2026-2-600x600.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -5739,7 +5739,7 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/185/imgi_364_Maillot-Enfant-Real-Madrid-Exterieur-2025-2026-2-600x600.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/185/imgi_364_Maillot-Enfant-Real-Madrid-Exterieur-2025-2026-2-600x600.jpg"
     ]
   },
   {
@@ -5749,7 +5749,7 @@ export const vetement_homme = [
     "originalPrice": 2517,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/186/imgi_369_Maillot-Enfant-Manchester-City-Exterieur-2025-2026-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/186/imgi_369_Maillot-Enfant-Manchester-City-Exterieur-2025-2026-1.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -5767,7 +5767,7 @@ export const vetement_homme = [
     ],
     "minOrder": 11,
     "images": [
-      "/vetement_homme/186/imgi_369_Maillot-Enfant-Manchester-City-Exterieur-2025-2026-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/186/imgi_369_Maillot-Enfant-Manchester-City-Exterieur-2025-2026-1.jpg"
     ]
   },
   {
@@ -5777,7 +5777,7 @@ export const vetement_homme = [
     "originalPrice": 2903,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/187/imgi_372_Maillot-Arsenal-Exterieur-2025-2026-Femme-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/187/imgi_372_Maillot-Arsenal-Exterieur-2025-2026-Femme-1.jpg",
     "taxType": "ht",
     "colors": [
       "Jaune",
@@ -5794,7 +5794,7 @@ export const vetement_homme = [
     ],
     "minOrder": 11,
     "images": [
-      "/vetement_homme/187/imgi_372_Maillot-Arsenal-Exterieur-2025-2026-Femme-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/187/imgi_372_Maillot-Arsenal-Exterieur-2025-2026-Femme-1.jpg"
     ]
   },
   {
@@ -5804,7 +5804,7 @@ export const vetement_homme = [
     "originalPrice": 2430,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/188/imgi_372_Maillot-Enfant-Manchester-United-Domicile-2024-2025.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/188/imgi_372_Maillot-Enfant-Manchester-United-Domicile-2024-2025.jpg",
     "taxType": "ttc",
     "colors": [
       "Blanc",
@@ -5822,7 +5822,7 @@ export const vetement_homme = [
     ],
     "minOrder": 15,
     "images": [
-      "/vetement_homme/188/imgi_372_Maillot-Enfant-Manchester-United-Domicile-2024-2025.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/188/imgi_372_Maillot-Enfant-Manchester-United-Domicile-2024-2025.jpg"
     ]
   },
   {
@@ -5832,7 +5832,7 @@ export const vetement_homme = [
     "originalPrice": 2601,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/189/imgi_379_Maillot-Barca-2025-2026-Exterieur-1-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/189/imgi_379_Maillot-Barca-2025-2026-Exterieur-1-1.jpg",
     "taxType": "ttc",
     "colors": [
       "Jaune",
@@ -5850,7 +5850,7 @@ export const vetement_homme = [
     ],
     "minOrder": 12,
     "images": [
-      "/vetement_homme/189/imgi_379_Maillot-Barca-2025-2026-Exterieur-1-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/189/imgi_379_Maillot-Barca-2025-2026-Exterieur-1-1.jpg"
     ]
   },
   {
@@ -5860,7 +5860,7 @@ export const vetement_homme = [
     "originalPrice": 2457,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/190/imgi_381_Maillot-Bayern-Munich-Exterieur-2025-2026-Femme-600x600.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/190/imgi_381_Maillot-Bayern-Munich-Exterieur-2025-2026-Femme-600x600.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -5877,7 +5877,7 @@ export const vetement_homme = [
     ],
     "minOrder": 15,
     "images": [
-      "/vetement_homme/190/imgi_381_Maillot-Bayern-Munich-Exterieur-2025-2026-Femme-600x600.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/190/imgi_381_Maillot-Bayern-Munich-Exterieur-2025-2026-Femme-600x600.jpg"
     ]
   },
   {
@@ -5887,7 +5887,7 @@ export const vetement_homme = [
     "originalPrice": 2483,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/191/imgi_394_Maillot-Enfant-Real-Madrid-2025-2026-Third-1-600x600.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/191/imgi_394_Maillot-Enfant-Real-Madrid-2025-2026-Third-1-600x600.jpg",
     "taxType": "ht",
     "colors": [
       "Beige",
@@ -5906,7 +5906,7 @@ export const vetement_homme = [
     ],
     "minOrder": 11,
     "images": [
-      "/vetement_homme/191/imgi_394_Maillot-Enfant-Real-Madrid-2025-2026-Third-1-600x600.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/191/imgi_394_Maillot-Enfant-Real-Madrid-2025-2026-Third-1-600x600.jpg"
     ]
   },
   {
@@ -5916,7 +5916,7 @@ export const vetement_homme = [
     "originalPrice": 2549,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/192/imgi_396_Maillot-Enfant-Manchester-City-Third-2025-2026-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/192/imgi_396_Maillot-Enfant-Manchester-City-Third-2025-2026-1.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -5933,7 +5933,7 @@ export const vetement_homme = [
     ],
     "minOrder": 12,
     "images": [
-      "/vetement_homme/192/imgi_396_Maillot-Enfant-Manchester-City-Third-2025-2026-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/192/imgi_396_Maillot-Enfant-Manchester-City-Third-2025-2026-1.jpg"
     ]
   },
   {
@@ -5943,7 +5943,7 @@ export const vetement_homme = [
     "originalPrice": 2905,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/193/imgi_396_Maillot-Match-Manchester-United-Exterieur-2024-2025-2.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/193/imgi_396_Maillot-Match-Manchester-United-Exterieur-2024-2025-2.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -5961,7 +5961,7 @@ export const vetement_homme = [
     ],
     "minOrder": 14,
     "images": [
-      "/vetement_homme/193/imgi_396_Maillot-Match-Manchester-United-Exterieur-2024-2025-2.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/193/imgi_396_Maillot-Match-Manchester-United-Exterieur-2024-2025-2.jpg"
     ]
   },
   {
@@ -5971,7 +5971,7 @@ export const vetement_homme = [
     "originalPrice": 2740,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/194/imgi_398_Maillot-Liverpool-Exterieur-2025-2026-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/194/imgi_398_Maillot-Liverpool-Exterieur-2025-2026-1.jpg",
     "taxType": "ttc",
     "colors": [
       "Violet",
@@ -5990,7 +5990,7 @@ export const vetement_homme = [
     ],
     "minOrder": 7,
     "images": [
-      "/vetement_homme/194/imgi_398_Maillot-Liverpool-Exterieur-2025-2026-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/194/imgi_398_Maillot-Liverpool-Exterieur-2025-2026-1.jpg"
     ]
   },
   {
@@ -6000,7 +6000,7 @@ export const vetement_homme = [
     "originalPrice": 2429,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/195/imgi_408_Maillot-Enfant-Arsenal-Third-2025-2026-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/195/imgi_408_Maillot-Enfant-Arsenal-Third-2025-2026-1.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -6017,7 +6017,7 @@ export const vetement_homme = [
     ],
     "minOrder": 19,
     "images": [
-      "/vetement_homme/195/imgi_408_Maillot-Enfant-Arsenal-Third-2025-2026-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/195/imgi_408_Maillot-Enfant-Arsenal-Third-2025-2026-1.jpg"
     ]
   },
   {
@@ -6027,7 +6027,7 @@ export const vetement_homme = [
     "originalPrice": 2890,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/196/imgi_412_Maillot-Enfant-Manchester-United-Exterieur-2024-2025-2.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/196/imgi_412_Maillot-Enfant-Manchester-United-Exterieur-2024-2025-2.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -6045,7 +6045,7 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/196/imgi_412_Maillot-Enfant-Manchester-United-Exterieur-2024-2025-2.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/196/imgi_412_Maillot-Enfant-Manchester-United-Exterieur-2024-2025-2.jpg"
     ]
   },
   {
@@ -6055,7 +6055,7 @@ export const vetement_homme = [
     "originalPrice": 3013,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/197/imgi_418_Maillot-Enfant-Manchester-City-Fourth-2025-2026-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/197/imgi_418_Maillot-Enfant-Manchester-City-Fourth-2025-2026-1.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -6074,7 +6074,7 @@ export const vetement_homme = [
     ],
     "minOrder": 7,
     "images": [
-      "/vetement_homme/197/imgi_418_Maillot-Enfant-Manchester-City-Fourth-2025-2026-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/197/imgi_418_Maillot-Enfant-Manchester-City-Fourth-2025-2026-1.jpg"
     ]
   },
   {
@@ -6084,7 +6084,7 @@ export const vetement_homme = [
     "originalPrice": 2415,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/198/imgi_422_Maillot-Real-Madrid-Third-2025-2026-Manches-Longues-1-600x600.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/198/imgi_422_Maillot-Real-Madrid-Third-2025-2026-Manches-Longues-1-600x600.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -6101,7 +6101,7 @@ export const vetement_homme = [
     ],
     "minOrder": 14,
     "images": [
-      "/vetement_homme/198/imgi_422_Maillot-Real-Madrid-Third-2025-2026-Manches-Longues-1-600x600.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/198/imgi_422_Maillot-Real-Madrid-Third-2025-2026-Manches-Longues-1-600x600.jpg"
     ]
   },
   {
@@ -6111,7 +6111,7 @@ export const vetement_homme = [
     "originalPrice": 2643,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/199/imgi_426_Maillot-Liverpool-Third-2025-2026-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/199/imgi_426_Maillot-Liverpool-Third-2025-2026-1.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -6128,7 +6128,7 @@ export const vetement_homme = [
     ],
     "minOrder": 19,
     "images": [
-      "/vetement_homme/199/imgi_426_Maillot-Liverpool-Third-2025-2026-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/199/imgi_426_Maillot-Liverpool-Third-2025-2026-1.jpg"
     ]
   },
   {
@@ -6138,7 +6138,7 @@ export const vetement_homme = [
     "originalPrice": 2637,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/200/imgi_444_Maillot-Enfant-Liverpool-Third-2025-2026-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/200/imgi_444_Maillot-Enfant-Liverpool-Third-2025-2026-1.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -6156,7 +6156,7 @@ export const vetement_homme = [
     ],
     "minOrder": 15,
     "images": [
-      "/vetement_homme/200/imgi_444_Maillot-Enfant-Liverpool-Third-2025-2026-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/200/imgi_444_Maillot-Enfant-Liverpool-Third-2025-2026-1.jpg"
     ]
   },
   {
@@ -6166,7 +6166,7 @@ export const vetement_homme = [
     "originalPrice": 2672,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/201/imgi_452_Maillot-Enfant-Manchester-United-Third-2024-2025.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/201/imgi_452_Maillot-Enfant-Manchester-United-Third-2024-2025.jpg",
     "taxType": "ttc",
     "colors": [
       "Jaune",
@@ -6184,7 +6184,7 @@ export const vetement_homme = [
     ],
     "minOrder": 20,
     "images": [
-      "/vetement_homme/201/imgi_452_Maillot-Enfant-Manchester-United-Third-2024-2025.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/201/imgi_452_Maillot-Enfant-Manchester-United-Third-2024-2025.jpg"
     ]
   },
   {
@@ -6194,7 +6194,7 @@ export const vetement_homme = [
     "originalPrice": 2807,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/202/imgi_520_Maillot-Match-Real-Madrid-2025-2026-Third-Manches-longues-Bellingham-2-600x600.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/202/imgi_520_Maillot-Match-Real-Madrid-2025-2026-Third-Manches-longues-Bellingham-2-600x600.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -6212,7 +6212,7 @@ export const vetement_homme = [
     ],
     "minOrder": 18,
     "images": [
-      "/vetement_homme/202/imgi_520_Maillot-Match-Real-Madrid-2025-2026-Third-Manches-longues-Bellingham-2-600x600.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/202/imgi_520_Maillot-Match-Real-Madrid-2025-2026-Third-Manches-longues-Bellingham-2-600x600.jpg"
     ]
   },
   {
@@ -6222,7 +6222,7 @@ export const vetement_homme = [
     "originalPrice": 2552,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/203/imgi_526_Maillot-Real-Madrid-Third-2025-2026-Vini-Jr.-1-600x600.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/203/imgi_526_Maillot-Real-Madrid-Third-2025-2026-Vini-Jr.-1-600x600.jpg",
     "taxType": "ht",
     "colors": [
       "Bleu",
@@ -6239,7 +6239,7 @@ export const vetement_homme = [
     ],
     "minOrder": 7,
     "images": [
-      "/vetement_homme/203/imgi_526_Maillot-Real-Madrid-Third-2025-2026-Vini-Jr.-1-600x600.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/203/imgi_526_Maillot-Real-Madrid-Third-2025-2026-Vini-Jr.-1-600x600.jpg"
     ]
   },
   {
@@ -6249,7 +6249,7 @@ export const vetement_homme = [
     "originalPrice": 2723,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/204/imgi_537_Maillot-PSG-Third-2025-2026-Champions-Intercontinental-1-600x600.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/204/imgi_537_Maillot-PSG-Third-2025-2026-Champions-Intercontinental-1-600x600.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -6266,7 +6266,7 @@ export const vetement_homme = [
     ],
     "minOrder": 12,
     "images": [
-      "/vetement_homme/204/imgi_537_Maillot-PSG-Third-2025-2026-Champions-Intercontinental-1-600x600.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/204/imgi_537_Maillot-PSG-Third-2025-2026-Champions-Intercontinental-1-600x600.jpg"
     ]
   },
   {
@@ -6276,7 +6276,7 @@ export const vetement_homme = [
     "originalPrice": 2522,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/205/imgi_570_Maillot-Enfant-Real-Madrid-2025-2026-Gardien-1-600x600.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/205/imgi_570_Maillot-Enfant-Real-Madrid-2025-2026-Gardien-1-600x600.jpg",
     "taxType": "ttc",
     "colors": [
       "Gris",
@@ -6293,7 +6293,7 @@ export const vetement_homme = [
     ],
     "minOrder": 13,
     "images": [
-      "/vetement_homme/205/imgi_570_Maillot-Enfant-Real-Madrid-2025-2026-Gardien-1-600x600.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/205/imgi_570_Maillot-Enfant-Real-Madrid-2025-2026-Gardien-1-600x600.jpg"
     ]
   },
   {
@@ -6303,7 +6303,7 @@ export const vetement_homme = [
     "originalPrice": 2826,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/206/imgi_600_Maillot-Match-Bayern-Munich-Domicile-2024-2025-2-600x600.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/206/imgi_600_Maillot-Match-Bayern-Munich-Domicile-2024-2025-2-600x600.jpg",
     "taxType": "ttc",
     "colors": [
       "Beige",
@@ -6320,7 +6320,7 @@ export const vetement_homme = [
     ],
     "minOrder": 13,
     "images": [
-      "/vetement_homme/206/imgi_600_Maillot-Match-Bayern-Munich-Domicile-2024-2025-2-600x600.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/206/imgi_600_Maillot-Match-Bayern-Munich-Domicile-2024-2025-2-600x600.jpg"
     ]
   },
   {
@@ -6330,7 +6330,7 @@ export const vetement_homme = [
     "originalPrice": 2896,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/207/imgi_606_Maillot-Match-Arsenal-Domicile-2024-2025-2.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/207/imgi_606_Maillot-Match-Arsenal-Domicile-2024-2025-2.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -6346,7 +6346,7 @@ export const vetement_homme = [
     ],
     "minOrder": 13,
     "images": [
-      "/vetement_homme/207/imgi_606_Maillot-Match-Arsenal-Domicile-2024-2025-2.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/207/imgi_606_Maillot-Match-Arsenal-Domicile-2024-2025-2.jpg"
     ]
   },
   {
@@ -6356,7 +6356,7 @@ export const vetement_homme = [
     "originalPrice": 2321,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/208/imgi_606_Maillot-Match-Real-Madrid-Domicile-2024-2025-2-600x600.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/208/imgi_606_Maillot-Match-Real-Madrid-Domicile-2024-2025-2-600x600.jpg",
     "taxType": "ttc",
     "colors": [
       "Beige",
@@ -6374,7 +6374,7 @@ export const vetement_homme = [
     ],
     "minOrder": 19,
     "images": [
-      "/vetement_homme/208/imgi_606_Maillot-Match-Real-Madrid-Domicile-2024-2025-2-600x600.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/208/imgi_606_Maillot-Match-Real-Madrid-Domicile-2024-2025-2-600x600.jpg"
     ]
   },
   {
@@ -6384,7 +6384,7 @@ export const vetement_homme = [
     "originalPrice": 2748,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/209/imgi_638_Maillot-Enfant-Manchester-City-Domicile-2024-2025-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/209/imgi_638_Maillot-Enfant-Manchester-City-Domicile-2024-2025-1.jpg",
     "taxType": "ht",
     "colors": [
       "Jaune",
@@ -6400,7 +6400,7 @@ export const vetement_homme = [
     ],
     "minOrder": 12,
     "images": [
-      "/vetement_homme/209/imgi_638_Maillot-Enfant-Manchester-City-Domicile-2024-2025-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/209/imgi_638_Maillot-Enfant-Manchester-City-Domicile-2024-2025-1.jpg"
     ]
   },
   {
@@ -6410,7 +6410,7 @@ export const vetement_homme = [
     "originalPrice": 2303,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/210/imgi_645_Maillot-PSG-Exterieur-2024-2025-Vitinha-600x600.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/210/imgi_645_Maillot-PSG-Exterieur-2024-2025-Vitinha-600x600.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -6428,7 +6428,7 @@ export const vetement_homme = [
     ],
     "minOrder": 15,
     "images": [
-      "/vetement_homme/210/imgi_645_Maillot-PSG-Exterieur-2024-2025-Vitinha-600x600.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/210/imgi_645_Maillot-PSG-Exterieur-2024-2025-Vitinha-600x600.jpg"
     ]
   },
   {
@@ -6438,7 +6438,7 @@ export const vetement_homme = [
     "originalPrice": 2882,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/211/imgi_662_Maillot-Enfant-Arsenal-Exterieur-2024-2025.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/211/imgi_662_Maillot-Enfant-Arsenal-Exterieur-2024-2025.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -6455,7 +6455,7 @@ export const vetement_homme = [
     ],
     "minOrder": 15,
     "images": [
-      "/vetement_homme/211/imgi_662_Maillot-Enfant-Arsenal-Exterieur-2024-2025.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/211/imgi_662_Maillot-Enfant-Arsenal-Exterieur-2024-2025.jpg"
     ]
   },
   {
@@ -6465,7 +6465,7 @@ export const vetement_homme = [
     "originalPrice": 2295,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/212/imgi_662_Maillot-Enfant-Real-Madrid-2024-2025-Exterieur-600x600.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/212/imgi_662_Maillot-Enfant-Real-Madrid-2024-2025-Exterieur-600x600.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -6481,7 +6481,7 @@ export const vetement_homme = [
     ],
     "minOrder": 17,
     "images": [
-      "/vetement_homme/212/imgi_662_Maillot-Enfant-Real-Madrid-2024-2025-Exterieur-600x600.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/212/imgi_662_Maillot-Enfant-Real-Madrid-2024-2025-Exterieur-600x600.jpg"
     ]
   },
   {
@@ -6491,7 +6491,7 @@ export const vetement_homme = [
     "originalPrice": 2576,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/213/imgi_666_Maillot-Match-Bayern-Munich-Third-2024-2025-768x768.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/213/imgi_666_Maillot-Match-Bayern-Munich-Third-2024-2025-768x768.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -6510,7 +6510,7 @@ export const vetement_homme = [
     ],
     "minOrder": 19,
     "images": [
-      "/vetement_homme/213/imgi_666_Maillot-Match-Bayern-Munich-Third-2024-2025-768x768.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/213/imgi_666_Maillot-Match-Bayern-Munich-Third-2024-2025-768x768.jpg"
     ]
   },
   {
@@ -6520,7 +6520,7 @@ export const vetement_homme = [
     "originalPrice": 2441,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/214/imgi_671_Maillot-Liverpool-Exterieur-2024-2025.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/214/imgi_671_Maillot-Liverpool-Exterieur-2024-2025.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -6537,7 +6537,7 @@ export const vetement_homme = [
     ],
     "minOrder": 17,
     "images": [
-      "/vetement_homme/214/imgi_671_Maillot-Liverpool-Exterieur-2024-2025.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/214/imgi_671_Maillot-Liverpool-Exterieur-2024-2025.jpg"
     ]
   },
   {
@@ -6547,7 +6547,7 @@ export const vetement_homme = [
     "originalPrice": 2554,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/215/imgi_686_Maillot-Manchester-City-Third-2024-2025-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/215/imgi_686_Maillot-Manchester-City-Third-2024-2025-1.jpg",
     "taxType": "ht",
     "colors": [
       "Blanc",
@@ -6565,7 +6565,7 @@ export const vetement_homme = [
     ],
     "minOrder": 14,
     "images": [
-      "/vetement_homme/215/imgi_686_Maillot-Manchester-City-Third-2024-2025-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/215/imgi_686_Maillot-Manchester-City-Third-2024-2025-1.jpg"
     ]
   },
   {
@@ -6575,7 +6575,7 @@ export const vetement_homme = [
     "originalPrice": 2688,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/216/imgi_690_Maillot-Kit-Enfant-Bayern-Munich-Third-2024-2025-768x768.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/216/imgi_690_Maillot-Kit-Enfant-Bayern-Munich-Third-2024-2025-768x768.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -6592,7 +6592,7 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/216/imgi_690_Maillot-Kit-Enfant-Bayern-Munich-Third-2024-2025-768x768.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/216/imgi_690_Maillot-Kit-Enfant-Bayern-Munich-Third-2024-2025-768x768.jpg"
     ]
   },
   {
@@ -6602,7 +6602,7 @@ export const vetement_homme = [
     "originalPrice": 2571,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/217/imgi_702_Maillot-Enfant-Arsenal-Third-2024-2025.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/217/imgi_702_Maillot-Enfant-Arsenal-Third-2024-2025.jpg",
     "taxType": "ttc",
     "colors": [
       "Violet",
@@ -6619,7 +6619,7 @@ export const vetement_homme = [
     ],
     "minOrder": 7,
     "images": [
-      "/vetement_homme/217/imgi_702_Maillot-Enfant-Arsenal-Third-2024-2025.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/217/imgi_702_Maillot-Enfant-Arsenal-Third-2024-2025.jpg"
     ]
   },
   {
@@ -6629,7 +6629,7 @@ export const vetement_homme = [
     "originalPrice": 2928,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/218/imgi_708_Maillot-Barca-X-ED-SHEERAN-2025-2026-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/218/imgi_708_Maillot-Barca-X-ED-SHEERAN-2025-2026-1.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -6647,7 +6647,7 @@ export const vetement_homme = [
     ],
     "minOrder": 5,
     "images": [
-      "/vetement_homme/218/imgi_708_Maillot-Barca-X-ED-SHEERAN-2025-2026-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/218/imgi_708_Maillot-Barca-X-ED-SHEERAN-2025-2026-1.jpg"
     ]
   },
   {
@@ -6657,7 +6657,7 @@ export const vetement_homme = [
     "originalPrice": 2730,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/219/imgi_726_Maillot-Enfant-Manchester-City-Fourth-2024-2025.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/219/imgi_726_Maillot-Enfant-Manchester-City-Fourth-2024-2025.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -6675,7 +6675,7 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/219/imgi_726_Maillot-Enfant-Manchester-City-Fourth-2024-2025.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/219/imgi_726_Maillot-Enfant-Manchester-City-Fourth-2024-2025.jpg"
     ]
   },
   {
@@ -6685,7 +6685,7 @@ export const vetement_homme = [
     "originalPrice": 2280,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/220/imgi_743_Maillot-Real-Madrid-Exterieur-Bring-Back-1999-2000-600x600.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/220/imgi_743_Maillot-Real-Madrid-Exterieur-Bring-Back-1999-2000-600x600.jpg",
     "taxType": "ht",
     "colors": [
       "Violet",
@@ -6704,7 +6704,7 @@ export const vetement_homme = [
     ],
     "minOrder": 11,
     "images": [
-      "/vetement_homme/220/imgi_743_Maillot-Real-Madrid-Exterieur-Bring-Back-1999-2000-600x600.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/220/imgi_743_Maillot-Real-Madrid-Exterieur-Bring-Back-1999-2000-600x600.jpg"
     ]
   },
   {
@@ -6714,7 +6714,7 @@ export const vetement_homme = [
     "originalPrice": 2560,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/221/imgi_746_Maillot-Bayern-Munich-Exterieur-2024-2025-Kane-768x768.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/221/imgi_746_Maillot-Bayern-Munich-Exterieur-2024-2025-Kane-768x768.jpg",
     "taxType": "ht",
     "colors": [
       "Jaune",
@@ -6731,7 +6731,7 @@ export const vetement_homme = [
     ],
     "minOrder": 5,
     "images": [
-      "/vetement_homme/221/imgi_746_Maillot-Bayern-Munich-Exterieur-2024-2025-Kane-768x768.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/221/imgi_746_Maillot-Bayern-Munich-Exterieur-2024-2025-Kane-768x768.jpg"
     ]
   },
   {
@@ -6741,7 +6741,7 @@ export const vetement_homme = [
     "originalPrice": 2769,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/222/imgi_776_Maillot-Bayern-Munich-Third-2024-2025-Kane.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/222/imgi_776_Maillot-Bayern-Munich-Third-2024-2025-Kane.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -6759,7 +6759,7 @@ export const vetement_homme = [
     ],
     "minOrder": 18,
     "images": [
-      "/vetement_homme/222/imgi_776_Maillot-Bayern-Munich-Third-2024-2025-Kane.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/222/imgi_776_Maillot-Bayern-Munich-Third-2024-2025-Kane.jpg"
     ]
   },
   {
@@ -6769,7 +6769,7 @@ export const vetement_homme = [
     "originalPrice": 2829,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/223/imgi_797_Maillot-Barca-2024-2025-Exterieur.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/223/imgi_797_Maillot-Barca-2024-2025-Exterieur.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -6787,7 +6787,7 @@ export const vetement_homme = [
     ],
     "minOrder": 8,
     "images": [
-      "/vetement_homme/223/imgi_797_Maillot-Barca-2024-2025-Exterieur.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/223/imgi_797_Maillot-Barca-2024-2025-Exterieur.jpg"
     ]
   },
   {
@@ -6797,7 +6797,7 @@ export const vetement_homme = [
     "originalPrice": 2472,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/224/imgi_821_Maillot-Barca-2024-2025-Third-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/224/imgi_821_Maillot-Barca-2024-2025-Third-1.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -6815,7 +6815,7 @@ export const vetement_homme = [
     ],
     "minOrder": 13,
     "images": [
-      "/vetement_homme/224/imgi_821_Maillot-Barca-2024-2025-Third-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/224/imgi_821_Maillot-Barca-2024-2025-Third-1.jpg"
     ]
   },
   {
@@ -6825,7 +6825,7 @@ export const vetement_homme = [
     "originalPrice": 2599,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/225/imgi_837_Maillot-Match-Barca-2024-2025-X-Travis-Scott.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/225/imgi_837_Maillot-Match-Barca-2024-2025-X-Travis-Scott.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -6842,7 +6842,7 @@ export const vetement_homme = [
     ],
     "minOrder": 13,
     "images": [
-      "/vetement_homme/225/imgi_837_Maillot-Match-Barca-2024-2025-X-Travis-Scott.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/225/imgi_837_Maillot-Match-Barca-2024-2025-X-Travis-Scott.jpg"
     ]
   },
   {
@@ -6852,7 +6852,7 @@ export const vetement_homme = [
     "originalPrice": 2577,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/226/imgi_853_Maillot-Match-Barca-Exterieur-2024-2025-X-Travis-Scott-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/226/imgi_853_Maillot-Match-Barca-Exterieur-2024-2025-X-Travis-Scott-1.jpg",
     "taxType": "ht",
     "colors": [
       "Gris",
@@ -6869,7 +6869,7 @@ export const vetement_homme = [
     ],
     "minOrder": 20,
     "images": [
-      "/vetement_homme/226/imgi_853_Maillot-Match-Barca-Exterieur-2024-2025-X-Travis-Scott-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/226/imgi_853_Maillot-Match-Barca-Exterieur-2024-2025-X-Travis-Scott-1.jpg"
     ]
   },
   {
@@ -6879,7 +6879,7 @@ export const vetement_homme = [
     "originalPrice": 2450,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/227/imgi_861_Maillot-PSG-Pre-Match-2025-26-Third-1-600x600.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/227/imgi_861_Maillot-PSG-Pre-Match-2025-26-Third-1-600x600.jpg",
     "taxType": "ttc",
     "colors": [
       "Beige",
@@ -6897,7 +6897,7 @@ export const vetement_homme = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_homme/227/imgi_861_Maillot-PSG-Pre-Match-2025-26-Third-1-600x600.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/227/imgi_861_Maillot-PSG-Pre-Match-2025-26-Third-1-600x600.jpg"
     ]
   },
   {
@@ -6907,7 +6907,7 @@ export const vetement_homme = [
     "originalPrice": 2622,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/228/imgi_869_Maillot-Barca-Domicile-125-Ans-1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/228/imgi_869_Maillot-Barca-Domicile-125-Ans-1.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -6926,7 +6926,7 @@ export const vetement_homme = [
     ],
     "minOrder": 12,
     "images": [
-      "/vetement_homme/228/imgi_869_Maillot-Barca-Domicile-125-Ans-1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/228/imgi_869_Maillot-Barca-Domicile-125-Ans-1.jpg"
     ]
   },
   {
@@ -6936,7 +6936,7 @@ export const vetement_homme = [
     "originalPrice": 2332,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/229/imgi_870_Maillot-Enfant-Arsenal-Pre-Match-2024-2025-Rouge.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/229/imgi_870_Maillot-Enfant-Arsenal-Pre-Match-2024-2025-Rouge.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge"
@@ -6950,7 +6950,7 @@ export const vetement_homme = [
     ],
     "minOrder": 13,
     "images": [
-      "/vetement_homme/229/imgi_870_Maillot-Enfant-Arsenal-Pre-Match-2024-2025-Rouge.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/229/imgi_870_Maillot-Enfant-Arsenal-Pre-Match-2024-2025-Rouge.jpg"
     ]
   },
   {
@@ -6960,7 +6960,7 @@ export const vetement_homme = [
     "originalPrice": 2534,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/230/imgi_878_Maillot-Arsenal-Domicile-2024-2025-Manches-Longues.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/230/imgi_878_Maillot-Arsenal-Domicile-2024-2025-Manches-Longues.jpg",
     "taxType": "ttc",
     "colors": [
       "Beige",
@@ -6977,7 +6977,7 @@ export const vetement_homme = [
     ],
     "minOrder": 12,
     "images": [
-      "/vetement_homme/230/imgi_878_Maillot-Arsenal-Domicile-2024-2025-Manches-Longues.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/230/imgi_878_Maillot-Arsenal-Domicile-2024-2025-Manches-Longues.jpg"
     ]
   },
   {
@@ -6987,7 +6987,7 @@ export const vetement_homme = [
     "originalPrice": 2612,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/231/imgi_879_Maillot-Liverpool-Exterieur-2024-2025-Virgil.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/231/imgi_879_Maillot-Liverpool-Exterieur-2024-2025-Virgil.jpg",
     "taxType": "ttc",
     "colors": [
       "Blanc",
@@ -7006,7 +7006,7 @@ export const vetement_homme = [
     ],
     "minOrder": 12,
     "images": [
-      "/vetement_homme/231/imgi_879_Maillot-Liverpool-Exterieur-2024-2025-Virgil.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/231/imgi_879_Maillot-Liverpool-Exterieur-2024-2025-Virgil.jpg"
     ]
   },
   {
@@ -7016,7 +7016,7 @@ export const vetement_homme = [
     "originalPrice": 2817,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/232/imgi_894_Maillot-Arsenal-2024-2025-Gardien-2.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/232/imgi_894_Maillot-Arsenal-2024-2025-Gardien-2.jpg",
     "taxType": "ht",
     "colors": [
       "Beige",
@@ -7034,7 +7034,7 @@ export const vetement_homme = [
     ],
     "minOrder": 14,
     "images": [
-      "/vetement_homme/232/imgi_894_Maillot-Arsenal-2024-2025-Gardien-2.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/232/imgi_894_Maillot-Arsenal-2024-2025-Gardien-2.jpg"
     ]
   },
   {
@@ -7044,7 +7044,7 @@ export const vetement_homme = [
     "originalPrice": 2309,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/233/imgi_903_Maillot-Enfant-Real-Madrid-Exterieur-2024-2025-Mbappe-600x600.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/233/imgi_903_Maillot-Enfant-Real-Madrid-Exterieur-2024-2025-Mbappe-600x600.jpg",
     "taxType": "ttc",
     "colors": [
       "Marron",
@@ -7061,7 +7061,7 @@ export const vetement_homme = [
     ],
     "minOrder": 19,
     "images": [
-      "/vetement_homme/233/imgi_903_Maillot-Enfant-Real-Madrid-Exterieur-2024-2025-Mbappe-600x600.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/233/imgi_903_Maillot-Enfant-Real-Madrid-Exterieur-2024-2025-Mbappe-600x600.jpg"
     ]
   },
   {
@@ -7071,7 +7071,7 @@ export const vetement_homme = [
     "originalPrice": 2470,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/234/imgi_910_Maillot-Arsenal-Pre-Match-2024-2025-2.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/234/imgi_910_Maillot-Arsenal-Pre-Match-2024-2025-2.jpg",
     "taxType": "ttc",
     "colors": [
       "Gris",
@@ -7089,7 +7089,7 @@ export const vetement_homme = [
     ],
     "minOrder": 7,
     "images": [
-      "/vetement_homme/234/imgi_910_Maillot-Arsenal-Pre-Match-2024-2025-2.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/234/imgi_910_Maillot-Arsenal-Pre-Match-2024-2025-2.jpg"
     ]
   },
   {
@@ -7099,7 +7099,7 @@ export const vetement_homme = [
     "originalPrice": 2863,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/235/imgi_917_Maillot-OM-Third-2024-2025-Match-1024x1024.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/235/imgi_917_Maillot-OM-Third-2024-2025-Match-1024x1024.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -7116,7 +7116,7 @@ export const vetement_homme = [
     ],
     "minOrder": 7,
     "images": [
-      "/vetement_homme/235/imgi_917_Maillot-OM-Third-2024-2025-Match-1024x1024.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/235/imgi_917_Maillot-OM-Third-2024-2025-Match-1024x1024.jpg"
     ]
   },
   {
@@ -7126,7 +7126,7 @@ export const vetement_homme = [
     "originalPrice": 2479,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/236/imgi_957_Maillot-OM-2025-2026-Gardien-Rouge-1-768x768.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/236/imgi_957_Maillot-OM-2025-2026-Gardien-Rouge-1-768x768.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge"
@@ -7140,7 +7140,7 @@ export const vetement_homme = [
     ],
     "minOrder": 17,
     "images": [
-      "/vetement_homme/236/imgi_957_Maillot-OM-2025-2026-Gardien-Rouge-1-768x768.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/236/imgi_957_Maillot-OM-2025-2026-Gardien-Rouge-1-768x768.jpg"
     ]
   },
   {
@@ -7150,7 +7150,7 @@ export const vetement_homme = [
     "originalPrice": 3195,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/237/imgi_981_Maillots-PSG-Domicile-Finale-UCL-Munich-2025-1-600x600.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/237/imgi_981_Maillots-PSG-Domicile-Finale-UCL-Munich-2025-1-600x600.jpg",
     "taxType": "ttc",
     "colors": [
       "Gris",
@@ -7167,7 +7167,7 @@ export const vetement_homme = [
     ],
     "minOrder": 18,
     "images": [
-      "/vetement_homme/237/imgi_981_Maillots-PSG-Domicile-Finale-UCL-Munich-2025-1-600x600.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/237/imgi_981_Maillots-PSG-Domicile-Finale-UCL-Munich-2025-1-600x600.jpg"
     ]
   },
   {
@@ -7177,7 +7177,7 @@ export const vetement_homme = [
     "originalPrice": 2361,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/238/imgi_988_Maillot-Kit-Enfant-Real-Madrid-Third-2024-2025-Mbappe.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/238/imgi_988_Maillot-Kit-Enfant-Real-Madrid-Third-2024-2025-Mbappe.jpg",
     "taxType": "ttc",
     "colors": [
       "Vert",
@@ -7193,7 +7193,7 @@ export const vetement_homme = [
     ],
     "minOrder": 10,
     "images": [
-      "/vetement_homme/238/imgi_988_Maillot-Kit-Enfant-Real-Madrid-Third-2024-2025-Mbappe.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/238/imgi_988_Maillot-Kit-Enfant-Real-Madrid-Third-2024-2025-Mbappe.jpg"
     ]
   },
   {
@@ -7203,7 +7203,7 @@ export const vetement_homme = [
     "originalPrice": 2748,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/239/imgi_998_Maillot-Kit-Enfant-Real-Madrid-Gardien-2024-2025-01-768x768.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/239/imgi_998_Maillot-Kit-Enfant-Real-Madrid-Gardien-2024-2025-01-768x768.jpg",
     "taxType": "ht",
     "colors": [
       "Bleu",
@@ -7221,7 +7221,7 @@ export const vetement_homme = [
     ],
     "minOrder": 14,
     "images": [
-      "/vetement_homme/239/imgi_998_Maillot-Kit-Enfant-Real-Madrid-Gardien-2024-2025-01-768x768.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/239/imgi_998_Maillot-Kit-Enfant-Real-Madrid-Gardien-2024-2025-01-768x768.jpg"
     ]
   },
   {
@@ -7231,7 +7231,7 @@ export const vetement_homme = [
     "originalPrice": 2927,
     "category": "maillot",
     "brand": "Various",
-    "image": "/vetement_homme/240/imgi_382_Maillot-Match-Real-Madrid-2025-2026-Third-1-600x600.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/240/imgi_382_Maillot-Match-Real-Madrid-2025-2026-Third-1-600x600.webp",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -7249,7 +7249,7 @@ export const vetement_homme = [
     ],
     "minOrder": 9,
     "images": [
-      "/vetement_homme/240/imgi_382_Maillot-Match-Real-Madrid-2025-2026-Third-1-600x600.webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_homme/240/imgi_382_Maillot-Match-Real-Madrid-2025-2026-Third-1-600x600.webp"
     ]
   }
 ]

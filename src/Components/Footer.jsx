@@ -102,14 +102,14 @@ const Footer = () => {
   ];
 
   const paymentMethods = [
-    { name: 'Visa', image: '/payement/visa.png' },
-    { name: 'Mastercard', image: '/payement/mastercard.png' },
-    { name: 'PayPal', image: '/payement/paypal.png' },
-    { name: 'American Express', image: '/payement/amex.png' },
-    { name: 'Apple Pay', image: '/payement/applepay.png' },
-    { name: 'Orange Money', image: '/payement/orangemoney.png' },
-    { name: 'Mobile Money', image: '/payement/MobileMoney.jpg' },
-    { name: 'Wave', image: '/payement/logowave.png' },
+    { name: 'Visa', image: 'https://res.cloudinary.com/deuttziac/payement/visa.png' },
+    { name: 'Mastercard', image: 'https://res.cloudinary.com/deuttziac/payement/mastercard.png' },
+    { name: 'PayPal', image: 'https://res.cloudinary.com/deuttziac/payement/paypal.png' },
+    { name: 'American Express', image: 'https://res.cloudinary.com/deuttziac/payement/amex.png' },
+    { name: 'Apple Pay', image: 'https://res.cloudinary.com/deuttziac/payement/applepay.png' },
+    { name: 'Orange Money', image: 'https://res.cloudinary.com/deuttziac/payement/orangemoney.png' },
+    { name: 'Mobile Money', image: 'https://res.cloudinary.com/deuttziac/payement/MobileMoney.jpg' },
+    { name: 'Wave', image: 'https://res.cloudinary.com/deuttziac/payement/logowave.png' },
   ];
 
   const features = [
@@ -127,7 +127,7 @@ const Footer = () => {
           <div className="lg:col-span-2">
             <div className="mb-6">
               <div className="flex items-center space-x-2 mb-4">
-                <img src="/logo/logochine.png" alt="SinoTrade" className="h-20 w-auto" />
+                <img src="https://res.cloudinary.com/deuttziac/logo/logochine.png" alt="SinoTrade" className="h-20 w-auto" />
               </div>
               <p className="text-gray-400 mb-4 leading-relaxed">
                 {t.footer.aboutDescription}

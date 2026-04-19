@@ -31,13 +31,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/1/Vivid Eden Robe de plage à taille haute avec manches bouffantes et épaules dénudées pour femmes, été.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/1/Vivid Eden Robe de plage à taille haute avec manches bouffantes et épaules dénudées pour femmes, été.webp",
     "images": [
-      "/vetement_femme/1/Vivid Eden Robe de plage à taille haute avec manches bouffantes et épaules dénudées pour femmes, été.webp",
-      "/vetement_femme/1/Vivid Eden Robe de plage à taille haute avec manches bouffantes et épaules dénudées pour femmes, été (1).webp",
-      "/vetement_femme/1/Vivid Eden Robe de plage à taille haute avec manches bouffantes et épaules dénudées pour femmes, été (2).webp",
-      "/vetement_femme/1/Vivid Eden Robe de plage à taille haute avec manches bouffantes et épaules dénudées pour femmes, été (3).webp",
-      "/vetement_femme/1/Vivid Eden Robe de plage à taille haute avec manches bouffantes et épaules dénudées pour femmes, été (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/1/Vivid Eden Robe de plage à taille haute avec manches bouffantes et épaules dénudées pour femmes, été.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/1/Vivid Eden Robe de plage à taille haute avec manches bouffantes et épaules dénudées pour femmes, été (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/1/Vivid Eden Robe de plage à taille haute avec manches bouffantes et épaules dénudées pour femmes, été (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/1/Vivid Eden Robe de plage à taille haute avec manches bouffantes et épaules dénudées pour femmes, été (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/1/Vivid Eden Robe de plage à taille haute avec manches bouffantes et épaules dénudées pour femmes, été (4).webp"
     ]
   },
   {
@@ -72,14 +72,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/2/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/2/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été.webp",
     "images": [
-      "/vetement_femme/2/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été.webp",
-      "/vetement_femme/2/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été (1).webp",
-      "/vetement_femme/2/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été (2).webp",
-      "/vetement_femme/2/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été (3).webp",
-      "/vetement_femme/2/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été (4).webp",
-      "/vetement_femme/2/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/2/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/2/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/2/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/2/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/2/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/2/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été (5).webp"
     ]
   },
   {
@@ -114,13 +114,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/3/Rafferiza Robe mini ajustée avec volants et imprimé floral élégant pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/3/Rafferiza Robe mini ajustée avec volants et imprimé floral élégant pour femmes.webp",
     "images": [
-      "/vetement_femme/3/Rafferiza Robe mini ajustée avec volants et imprimé floral élégant pour femmes.webp",
-      "/vetement_femme/3/Rafferiza Robe mini ajustée avec volants et imprimé floral élégant pour femmes (1).webp",
-      "/vetement_femme/3/Rafferiza Robe mini ajustée avec volants et imprimé floral élégant pour femmes (2).webp",
-      "/vetement_femme/3/Rafferiza Robe mini ajustée avec volants et imprimé floral élégant pour femmes (3).webp",
-      "/vetement_femme/3/Rafferiza Robe mini ajustée avec volants et imprimé floral élégant pour femmes (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/3/Rafferiza Robe mini ajustée avec volants et imprimé floral élégant pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/3/Rafferiza Robe mini ajustée avec volants et imprimé floral élégant pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/3/Rafferiza Robe mini ajustée avec volants et imprimé floral élégant pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/3/Rafferiza Robe mini ajustée avec volants et imprimé floral élégant pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/3/Rafferiza Robe mini ajustée avec volants et imprimé floral élégant pour femmes (4).webp"
     ]
   },
   {
@@ -155,14 +155,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/4/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/4/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme.webp",
     "images": [
-      "/vetement_femme/4/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme.webp",
-      "/vetement_femme/4/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme (1).webp",
-      "/vetement_femme/4/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme (2).webp",
-      "/vetement_femme/4/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme (3).webp",
-      "/vetement_femme/4/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme (4).webp",
-      "/vetement_femme/4/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/4/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/4/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/4/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/4/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/4/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/4/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme (5).webp"
     ]
   },
   {
@@ -197,15 +197,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/5/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/5/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme.webp",
     "images": [
-      "/vetement_femme/5/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme.webp",
-      "/vetement_femme/5/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme (1).webp",
-      "/vetement_femme/5/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme (2).webp",
-      "/vetement_femme/5/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme (3).webp",
-      "/vetement_femme/5/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme (4).webp",
-      "/vetement_femme/5/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme (5).webp",
-      "/vetement_femme/5/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/5/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/5/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/5/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/5/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/5/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/5/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/5/Breezaya Robe d'été à fines bretelles avec imprimé floral et liens sur les épaules, mini robe courte pour femme (6).webp"
     ]
   },
   {
@@ -243,13 +243,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/6/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/6/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes.webp",
     "images": [
-      "/vetement_femme/6/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes.webp",
-      "/vetement_femme/6/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (1).webp",
-      "/vetement_femme/6/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (2).webp",
-      "/vetement_femme/6/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (3).webp",
-      "/vetement_femme/6/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/6/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/6/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/6/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/6/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/6/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (4).webp"
     ]
   },
   {
@@ -287,13 +287,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 2,
-    "image": "/vetement_femme/7/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/7/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes.webp",
     "images": [
-      "/vetement_femme/7/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes.webp",
-      "/vetement_femme/7/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (1).webp",
-      "/vetement_femme/7/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (2).webp",
-      "/vetement_femme/7/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (3).webp",
-      "/vetement_femme/7/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/7/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/7/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/7/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/7/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/7/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (4).webp"
     ]
   },
   {
@@ -331,15 +331,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/8/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/8/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes.webp",
     "images": [
-      "/vetement_femme/8/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes.webp",
-      "/vetement_femme/8/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (1).webp",
-      "/vetement_femme/8/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (2).webp",
-      "/vetement_femme/8/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (3).webp",
-      "/vetement_femme/8/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (4).webp",
-      "/vetement_femme/8/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (5).webp",
-      "/vetement_femme/8/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/8/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/8/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/8/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/8/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/8/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/8/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/8/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (6).webp"
     ]
   },
   {
@@ -377,15 +377,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/9/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/9/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes.webp",
     "images": [
-      "/vetement_femme/9/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes.webp",
-      "/vetement_femme/9/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (1).webp",
-      "/vetement_femme/9/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (2).webp",
-      "/vetement_femme/9/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (3).webp",
-      "/vetement_femme/9/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (4).webp",
-      "/vetement_femme/9/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (5).webp",
-      "/vetement_femme/9/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/9/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/9/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/9/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/9/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/9/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/9/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/9/Chiquease Robe à encolure carrée, corsage froncé, manches à volants, ourlet à volants, couleur bordeaux, tenue pour femmes, vêtement d'automne pour femmes (6).webp"
     ]
   },
   {
@@ -420,16 +420,16 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/10/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/10/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme.webp",
     "images": [
-      "/vetement_femme/10/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme.webp",
-      "/vetement_femme/10/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (1).webp",
-      "/vetement_femme/10/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (2).webp",
-      "/vetement_femme/10/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (3).webp",
-      "/vetement_femme/10/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (4).webp",
-      "/vetement_femme/10/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (5).webp",
-      "/vetement_femme/10/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (6).webp",
-      "/vetement_femme/10/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/10/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/10/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/10/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/10/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/10/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/10/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/10/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/10/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (7).webp"
     ]
   },
   {
@@ -464,16 +464,16 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/11/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/11/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme.webp",
     "images": [
-      "/vetement_femme/11/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme.webp",
-      "/vetement_femme/11/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (1).webp",
-      "/vetement_femme/11/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (2).webp",
-      "/vetement_femme/11/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (3).webp",
-      "/vetement_femme/11/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (4).webp",
-      "/vetement_femme/11/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (5).webp",
-      "/vetement_femme/11/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (6).webp",
-      "/vetement_femme/11/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/11/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/11/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/11/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/11/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/11/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/11/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/11/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/11/Mistrie Robe à épaules dénudées avec imprimé floral rétro et ourlet froncé pour femme (7).webp"
     ]
   },
   {
@@ -508,14 +508,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/12/Vionelle Robe froufrous à manches bouffantes en mousseline avec encolure en V, grande taille.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/12/Vionelle Robe froufrous à manches bouffantes en mousseline avec encolure en V, grande taille.webp",
     "images": [
-      "/vetement_femme/12/Vionelle Robe froufrous à manches bouffantes en mousseline avec encolure en V, grande taille.webp",
-      "/vetement_femme/12/Vionelle Robe froufrous à manches bouffantes en mousseline avec encolure en V, grande taille (1).webp",
-      "/vetement_femme/12/Vionelle Robe froufrous à manches bouffantes en mousseline avec encolure en V, grande taille (2).webp",
-      "/vetement_femme/12/Vionelle Robe froufrous à manches bouffantes en mousseline avec encolure en V, grande taille (3).webp",
-      "/vetement_femme/12/Vionelle Robe froufrous à manches bouffantes en mousseline avec encolure en V, grande taille (4).webp",
-      "/vetement_femme/12/Vionelle Robe froufrous à manches bouffantes en mousseline avec encolure en V, grande taille (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/12/Vionelle Robe froufrous à manches bouffantes en mousseline avec encolure en V, grande taille.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/12/Vionelle Robe froufrous à manches bouffantes en mousseline avec encolure en V, grande taille (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/12/Vionelle Robe froufrous à manches bouffantes en mousseline avec encolure en V, grande taille (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/12/Vionelle Robe froufrous à manches bouffantes en mousseline avec encolure en V, grande taille (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/12/Vionelle Robe froufrous à manches bouffantes en mousseline avec encolure en V, grande taille (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/12/Vionelle Robe froufrous à manches bouffantes en mousseline avec encolure en V, grande taille (5).webp"
     ]
   },
   {
@@ -550,14 +550,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/13/Elenzga Robe de vacances à la plage avec volant à pois suisses pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/13/Elenzga Robe de vacances à la plage avec volant à pois suisses pour femmes.webp",
     "images": [
-      "/vetement_femme/13/Elenzga Robe de vacances à la plage avec volant à pois suisses pour femmes.webp",
-      "/vetement_femme/13/Elenzga Robe de vacances à la plage avec volant à pois suisses pour femmes (1).webp",
-      "/vetement_femme/13/Elenzga Robe de vacances à la plage avec volant à pois suisses pour femmes (2).webp",
-      "/vetement_femme/13/Elenzga Robe de vacances à la plage avec volant à pois suisses pour femmes (3).webp",
-      "/vetement_femme/13/Elenzga Robe de vacances à la plage avec volant à pois suisses pour femmes (4).webp",
-      "/vetement_femme/13/Elenzga Robe de vacances à la plage avec volant à pois suisses pour femmes (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/13/Elenzga Robe de vacances à la plage avec volant à pois suisses pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/13/Elenzga Robe de vacances à la plage avec volant à pois suisses pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/13/Elenzga Robe de vacances à la plage avec volant à pois suisses pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/13/Elenzga Robe de vacances à la plage avec volant à pois suisses pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/13/Elenzga Robe de vacances à la plage avec volant à pois suisses pour femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/13/Elenzga Robe de vacances à la plage avec volant à pois suisses pour femmes (5).webp"
     ]
   },
   {
@@ -594,13 +594,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 2,
-    "image": "/vetement_femme/14/Elenzga Robe à fines bretelles avec volant à pois suisses, tenue de vacances à la plage pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/14/Elenzga Robe à fines bretelles avec volant à pois suisses, tenue de vacances à la plage pour femmes.webp",
     "images": [
-      "/vetement_femme/14/Elenzga Robe à fines bretelles avec volant à pois suisses, tenue de vacances à la plage pour femmes.webp",
-      "/vetement_femme/14/Elenzga Robe à fines bretelles avec volant à pois suisses, tenue de vacances à la plage pour femmes (1).webp",
-      "/vetement_femme/14/Elenzga Robe à fines bretelles avec volant à pois suisses, tenue de vacances à la plage pour femmes (2).webp",
-      "/vetement_femme/14/Elenzga Robe à fines bretelles avec volant à pois suisses, tenue de vacances à la plage pour femmes (3).webp",
-      "/vetement_femme/14/Elenzga Robe à fines bretelles avec volant à pois suisses, tenue de vacances à la plage pour femmes (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/14/Elenzga Robe à fines bretelles avec volant à pois suisses, tenue de vacances à la plage pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/14/Elenzga Robe à fines bretelles avec volant à pois suisses, tenue de vacances à la plage pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/14/Elenzga Robe à fines bretelles avec volant à pois suisses, tenue de vacances à la plage pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/14/Elenzga Robe à fines bretelles avec volant à pois suisses, tenue de vacances à la plage pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/14/Elenzga Robe à fines bretelles avec volant à pois suisses, tenue de vacances à la plage pour femmes (4).webp"
     ]
   },
   {
@@ -635,13 +635,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/15/laydiva Robe courte d'été pour femmes à col carré minimaliste, décontractée, de base, sports, douce, avec fronces, double couche, coupe évasée.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/15/laydiva Robe courte d'été pour femmes à col carré minimaliste, décontractée, de base, sports, douce, avec fronces, double couche, coupe évasée.webp",
     "images": [
-      "/vetement_femme/15/laydiva Robe courte d'été pour femmes à col carré minimaliste, décontractée, de base, sports, douce, avec fronces, double couche, coupe évasée.webp",
-      "/vetement_femme/15/laydiva Robe courte d'été pour femmes à col carré minimaliste, décontractée, de base, sports, douce, avec fronces, double couche, coupe évasée (1).webp",
-      "/vetement_femme/15/laydiva Robe courte d'été pour femmes à col carré minimaliste, décontractée, de base, sports, douce, avec fronces, double couche, coupe évasée (2).webp",
-      "/vetement_femme/15/laydiva Robe courte d'été pour femmes à col carré minimaliste, décontractée, de base, sports, douce, avec fronces, double couche, coupe évasée (3).webp",
-      "/vetement_femme/15/laydiva Robe courte d'été pour femmes à col carré minimaliste, décontractée, de base, sports, douce, avec fronces, double couche, coupe évasée (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/15/laydiva Robe courte d'été pour femmes à col carré minimaliste, décontractée, de base, sports, douce, avec fronces, double couche, coupe évasée.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/15/laydiva Robe courte d'été pour femmes à col carré minimaliste, décontractée, de base, sports, douce, avec fronces, double couche, coupe évasée (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/15/laydiva Robe courte d'été pour femmes à col carré minimaliste, décontractée, de base, sports, douce, avec fronces, double couche, coupe évasée (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/15/laydiva Robe courte d'été pour femmes à col carré minimaliste, décontractée, de base, sports, douce, avec fronces, double couche, coupe évasée (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/15/laydiva Robe courte d'été pour femmes à col carré minimaliste, décontractée, de base, sports, douce, avec fronces, double couche, coupe évasée (4).webp"
     ]
   },
   {
@@ -676,12 +676,12 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/16/laydiva Robe courte d'été pour femmes à col carré minimaliste, décontractée, de base, sports, douce, avec fronces, double couche, coupe évasée.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/16/laydiva Robe courte d'été pour femmes à col carré minimaliste, décontractée, de base, sports, douce, avec fronces, double couche, coupe évasée.webp",
     "images": [
-      "/vetement_femme/16/laydiva Robe courte d'été pour femmes à col carré minimaliste, décontractée, de base, sports, douce, avec fronces, double couche, coupe évasée.webp",
-      "/vetement_femme/16/laydiva Robe courte d'été pour femmes à col carré minimaliste, décontractée, de base, sports, douce, avec fronces, double couche, coupe évasée (1).webp",
-      "/vetement_femme/16/laydiva Robe courte d'été pour femmes à col carré minimaliste, décontractée, de base, sports, douce, avec fronces, double couche, coupe évasée (2).webp",
-      "/vetement_femme/16/laydiva Robe courte d'été pour femmes à col carré minimaliste, décontractée, de base, sports, douce, avec fronces, double couche, coupe évasée (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/16/laydiva Robe courte d'été pour femmes à col carré minimaliste, décontractée, de base, sports, douce, avec fronces, double couche, coupe évasée.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/16/laydiva Robe courte d'été pour femmes à col carré minimaliste, décontractée, de base, sports, douce, avec fronces, double couche, coupe évasée (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/16/laydiva Robe courte d'été pour femmes à col carré minimaliste, décontractée, de base, sports, douce, avec fronces, double couche, coupe évasée (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/16/laydiva Robe courte d'été pour femmes à col carré minimaliste, décontractée, de base, sports, douce, avec fronces, double couche, coupe évasée (3).webp"
     ]
   },
   {
@@ -718,14 +718,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/17/SOLERSUN Ensemble femme vacances romantique élégant en lin-like épaules dénudées avec petites manches volantes Top court et jupe longue fendue devant, tenue deux pièces femme, port casual quotidien.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/17/SOLERSUN Ensemble femme vacances romantique élégant en lin-like épaules dénudées avec petites manches volantes Top court et jupe longue fendue devant, tenue deux pièces femme, port casual quotidien.webp",
     "images": [
-      "/vetement_femme/17/SOLERSUN Ensemble femme vacances romantique élégant en lin-like épaules dénudées avec petites manches volantes Top court et jupe longue fendue devant, tenue deux pièces femme, port casual quotidien.webp",
-      "/vetement_femme/17/SOLERSUN Ensemble femme vacances romantique élégant en lin-like épaules dénudées avec petites manches volantes Top court et jupe longue fendue devant, tenue deux pièces femme, port casual quotidien (1).webp",
-      "/vetement_femme/17/SOLERSUN Ensemble femme vacances romantique élégant en lin-like épaules dénudées avec petites manches volantes Top court et jupe longue fendue devant, tenue deux pièces femme, port casual quotidien (2).webp",
-      "/vetement_femme/17/SOLERSUN Ensemble femme vacances romantique élégant en lin-like épaules dénudées avec petites manches volantes Top court et jupe longue fendue devant, tenue deux pièces femme, port casual quotidien (3).webp",
-      "/vetement_femme/17/SOLERSUN Ensemble femme vacances romantique élégant en lin-like épaules dénudées avec petites manches volantes Top court et jupe longue fendue devant, tenue deux pièces femme, port casual quotidien (4).webp",
-      "/vetement_femme/17/SOLERSUN Ensemble femme vacances romantique élégant en lin-like épaules dénudées avec petites manches volantes Top court et jupe longue fendue devant, tenue deux pièces femme, port casual quotidien (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/17/SOLERSUN Ensemble femme vacances romantique élégant en lin-like épaules dénudées avec petites manches volantes Top court et jupe longue fendue devant, tenue deux pièces femme, port casual quotidien.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/17/SOLERSUN Ensemble femme vacances romantique élégant en lin-like épaules dénudées avec petites manches volantes Top court et jupe longue fendue devant, tenue deux pièces femme, port casual quotidien (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/17/SOLERSUN Ensemble femme vacances romantique élégant en lin-like épaules dénudées avec petites manches volantes Top court et jupe longue fendue devant, tenue deux pièces femme, port casual quotidien (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/17/SOLERSUN Ensemble femme vacances romantique élégant en lin-like épaules dénudées avec petites manches volantes Top court et jupe longue fendue devant, tenue deux pièces femme, port casual quotidien (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/17/SOLERSUN Ensemble femme vacances romantique élégant en lin-like épaules dénudées avec petites manches volantes Top court et jupe longue fendue devant, tenue deux pièces femme, port casual quotidien (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/17/SOLERSUN Ensemble femme vacances romantique élégant en lin-like épaules dénudées avec petites manches volantes Top court et jupe longue fendue devant, tenue deux pièces femme, port casual quotidien (5).webp"
     ]
   },
   {
@@ -761,13 +761,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/18/Firerie Robe longue évasée à la taille froncée avec cordon de serrage en jaune pour femme. Convient pour le bureau, élégante, sexy, vacances, plage, Hawaï, romantique, rendez-vous, Saint-Valentin, concerts, saison.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/18/Firerie Robe longue évasée à la taille froncée avec cordon de serrage en jaune pour femme. Convient pour le bureau, élégante, sexy, vacances, plage, Hawaï, romantique, rendez-vous, Saint-Valentin, concerts, saison.webp",
     "images": [
-      "/vetement_femme/18/Firerie Robe longue évasée à la taille froncée avec cordon de serrage en jaune pour femme. Convient pour le bureau, élégante, sexy, vacances, plage, Hawaï, romantique, rendez-vous, Saint-Valentin, concerts, saison.webp",
-      "/vetement_femme/18/Firerie Robe longue évasée à la taille froncée avec cordon de serrage en jaune pour femme. Convient pour le bureau, élégante, sexy, vacances, plage, Hawaï, romantique, rendez-vous, Saint-Valentin, concerts, sa (1).webp",
-      "/vetement_femme/18/Firerie Robe longue évasée à la taille froncée avec cordon de serrage en jaune pour femme. Convient pour le bureau, élégante, sexy, vacances, plage, Hawaï, romantique, rendez-vous, Saint-Valentin, concerts, sa (2).webp",
-      "/vetement_femme/18/Firerie Robe longue évasée à la taille froncée avec cordon de serrage en jaune pour femme. Convient pour le bureau, élégante, sexy, vacances, plage, Hawaï, romantique, rendez-vous, Saint-Valentin, concerts, sa (3).webp",
-      "/vetement_femme/18/Firerie Robe longue évasée à la taille froncée avec cordon de serrage en jaune pour femme. Convient pour le bureau, élégante, sexy, vacances, plage, Hawaï, romantique, rendez-vous, Saint-Valentin, concerts, sa (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/18/Firerie Robe longue évasée à la taille froncée avec cordon de serrage en jaune pour femme. Convient pour le bureau, élégante, sexy, vacances, plage, Hawaï, romantique, rendez-vous, Saint-Valentin, concerts, saison.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/18/Firerie Robe longue évasée à la taille froncée avec cordon de serrage en jaune pour femme. Convient pour le bureau, élégante, sexy, vacances, plage, Hawaï, romantique, rendez-vous, Saint-Valentin, concerts, sa (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/18/Firerie Robe longue évasée à la taille froncée avec cordon de serrage en jaune pour femme. Convient pour le bureau, élégante, sexy, vacances, plage, Hawaï, romantique, rendez-vous, Saint-Valentin, concerts, sa (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/18/Firerie Robe longue évasée à la taille froncée avec cordon de serrage en jaune pour femme. Convient pour le bureau, élégante, sexy, vacances, plage, Hawaï, romantique, rendez-vous, Saint-Valentin, concerts, sa (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/18/Firerie Robe longue évasée à la taille froncée avec cordon de serrage en jaune pour femme. Convient pour le bureau, élégante, sexy, vacances, plage, Hawaï, romantique, rendez-vous, Saint-Valentin, concerts, sa (4).webp"
     ]
   },
   {
@@ -802,15 +802,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/19/Breezaya Robe longue dos nu, style décontracté de villégiature, avec bretelles spaghetti et ourlet asymétrique plissé. Nouvelle arrivée printemps_été, couleur noire.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/19/Breezaya Robe longue dos nu, style décontracté de villégiature, avec bretelles spaghetti et ourlet asymétrique plissé. Nouvelle arrivée printemps_été, couleur noire.webp",
     "images": [
-      "/vetement_femme/19/Breezaya Robe longue dos nu, style décontracté de villégiature, avec bretelles spaghetti et ourlet asymétrique plissé. Nouvelle arrivée printemps_été, couleur noire.webp",
-      "/vetement_femme/19/Breezaya Robe longue dos nu, style décontracté de villégiature, avec bretelles spaghetti et ourlet asymétrique plissé. Nouvelle arrivée printemps_été, couleur noire (1).webp",
-      "/vetement_femme/19/Breezaya Robe longue dos nu, style décontracté de villégiature, avec bretelles spaghetti et ourlet asymétrique plissé. Nouvelle arrivée printemps_été, couleur noire (2).webp",
-      "/vetement_femme/19/Breezaya Robe longue dos nu, style décontracté de villégiature, avec bretelles spaghetti et ourlet asymétrique plissé. Nouvelle arrivée printemps_été, couleur noire (3).webp",
-      "/vetement_femme/19/Breezaya Robe longue dos nu, style décontracté de villégiature, avec bretelles spaghetti et ourlet asymétrique plissé. Nouvelle arrivée printemps_été, couleur noire (4).webp",
-      "/vetement_femme/19/Breezaya Robe longue dos nu, style décontracté de villégiature, avec bretelles spaghetti et ourlet asymétrique plissé. Nouvelle arrivée printemps_été, couleur noire (5).webp",
-      "/vetement_femme/19/Breezaya Robe longue dos nu, style décontracté de villégiature, avec bretelles spaghetti et ourlet asymétrique plissé. Nouvelle arrivée printemps_été, couleur noire (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/19/Breezaya Robe longue dos nu, style décontracté de villégiature, avec bretelles spaghetti et ourlet asymétrique plissé. Nouvelle arrivée printemps_été, couleur noire.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/19/Breezaya Robe longue dos nu, style décontracté de villégiature, avec bretelles spaghetti et ourlet asymétrique plissé. Nouvelle arrivée printemps_été, couleur noire (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/19/Breezaya Robe longue dos nu, style décontracté de villégiature, avec bretelles spaghetti et ourlet asymétrique plissé. Nouvelle arrivée printemps_été, couleur noire (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/19/Breezaya Robe longue dos nu, style décontracté de villégiature, avec bretelles spaghetti et ourlet asymétrique plissé. Nouvelle arrivée printemps_été, couleur noire (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/19/Breezaya Robe longue dos nu, style décontracté de villégiature, avec bretelles spaghetti et ourlet asymétrique plissé. Nouvelle arrivée printemps_été, couleur noire (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/19/Breezaya Robe longue dos nu, style décontracté de villégiature, avec bretelles spaghetti et ourlet asymétrique plissé. Nouvelle arrivée printemps_été, couleur noire (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/19/Breezaya Robe longue dos nu, style décontracté de villégiature, avec bretelles spaghetti et ourlet asymétrique plissé. Nouvelle arrivée printemps_été, couleur noire (6).webp"
     ]
   },
   {
@@ -849,15 +849,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/20/Slaydiva Ensemble de vacances pour femmes comprenant un top bandeau à nouer devant en rose rouge et un pantalon pattes d'éléphant.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/20/Slaydiva Ensemble de vacances pour femmes comprenant un top bandeau à nouer devant en rose rouge et un pantalon pattes d'éléphant.webp",
     "images": [
-      "/vetement_femme/20/Slaydiva Ensemble de vacances pour femmes comprenant un top bandeau à nouer devant en rose rouge et un pantalon pattes d'éléphant.webp",
-      "/vetement_femme/20/Slaydiva Ensemble de vacances pour femmes comprenant un top bandeau à nouer devant en rose rouge et un pantalon pattes d'éléphant (1).webp",
-      "/vetement_femme/20/Slaydiva Ensemble de vacances pour femmes comprenant un top bandeau à nouer devant en rose rouge et un pantalon pattes d'éléphant (2).webp",
-      "/vetement_femme/20/Slaydiva Ensemble de vacances pour femmes comprenant un top bandeau à nouer devant en rose rouge et un pantalon pattes d'éléphant (3).webp",
-      "/vetement_femme/20/Slaydiva Ensemble de vacances pour femmes comprenant un top bandeau à nouer devant en rose rouge et un pantalon pattes d'éléphant (4).webp",
-      "/vetement_femme/20/Slaydiva Ensemble de vacances pour femmes comprenant un top bandeau à nouer devant en rose rouge et un pantalon pattes d'éléphant (5).webp",
-      "/vetement_femme/20/Slaydiva Ensemble de vacances pour femmes comprenant un top bandeau à nouer devant en rose rouge et un pantalon pattes d'éléphant (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/20/Slaydiva Ensemble de vacances pour femmes comprenant un top bandeau à nouer devant en rose rouge et un pantalon pattes d'éléphant.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/20/Slaydiva Ensemble de vacances pour femmes comprenant un top bandeau à nouer devant en rose rouge et un pantalon pattes d'éléphant (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/20/Slaydiva Ensemble de vacances pour femmes comprenant un top bandeau à nouer devant en rose rouge et un pantalon pattes d'éléphant (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/20/Slaydiva Ensemble de vacances pour femmes comprenant un top bandeau à nouer devant en rose rouge et un pantalon pattes d'éléphant (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/20/Slaydiva Ensemble de vacances pour femmes comprenant un top bandeau à nouer devant en rose rouge et un pantalon pattes d'éléphant (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/20/Slaydiva Ensemble de vacances pour femmes comprenant un top bandeau à nouer devant en rose rouge et un pantalon pattes d'éléphant (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/20/Slaydiva Ensemble de vacances pour femmes comprenant un top bandeau à nouer devant en rose rouge et un pantalon pattes d'éléphant (6).webp"
     ]
   },
   {
@@ -894,16 +894,16 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 2,
-    "image": "/vetement_femme/21/Firerie Ensemble 2 pièces Top et pantalon en lin-like métallique élégant et minimaliste pour femme, idéal pour les sorties et les déplacements.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/21/Firerie Ensemble 2 pièces Top et pantalon en lin-like métallique élégant et minimaliste pour femme, idéal pour les sorties et les déplacements.webp",
     "images": [
-      "/vetement_femme/21/Firerie Ensemble 2 pièces Top et pantalon en lin-like métallique élégant et minimaliste pour femme, idéal pour les sorties et les déplacements.webp",
-      "/vetement_femme/21/Firerie Ensemble 2 pièces Top et pantalon en lin-like métallique élégant et minimaliste pour femme, idéal pour les sorties et les déplacements (1).webp",
-      "/vetement_femme/21/Firerie Ensemble 2 pièces Top et pantalon en lin-like métallique élégant et minimaliste pour femme, idéal pour les sorties et les déplacements (2).webp",
-      "/vetement_femme/21/Firerie Ensemble 2 pièces Top et pantalon en lin-like métallique élégant et minimaliste pour femme, idéal pour les sorties et les déplacements (3).webp",
-      "/vetement_femme/21/Firerie Ensemble 2 pièces Top et pantalon en lin-like métallique élégant et minimaliste pour femme, idéal pour les sorties et les déplacements (4).webp",
-      "/vetement_femme/21/Firerie Ensemble 2 pièces Top et pantalon en lin-like métallique élégant et minimaliste pour femme, idéal pour les sorties et les déplacements (5).webp",
-      "/vetement_femme/21/Firerie Ensemble 2 pièces Top et pantalon en lin-like métallique élégant et minimaliste pour femme, idéal pour les sorties et les déplacements (6).webp",
-      "/vetement_femme/21/Firerie Ensemble 2 pièces Top et pantalon en lin-like métallique élégant et minimaliste pour femme, idéal pour les sorties et les déplacements (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/21/Firerie Ensemble 2 pièces Top et pantalon en lin-like métallique élégant et minimaliste pour femme, idéal pour les sorties et les déplacements.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/21/Firerie Ensemble 2 pièces Top et pantalon en lin-like métallique élégant et minimaliste pour femme, idéal pour les sorties et les déplacements (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/21/Firerie Ensemble 2 pièces Top et pantalon en lin-like métallique élégant et minimaliste pour femme, idéal pour les sorties et les déplacements (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/21/Firerie Ensemble 2 pièces Top et pantalon en lin-like métallique élégant et minimaliste pour femme, idéal pour les sorties et les déplacements (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/21/Firerie Ensemble 2 pièces Top et pantalon en lin-like métallique élégant et minimaliste pour femme, idéal pour les sorties et les déplacements (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/21/Firerie Ensemble 2 pièces Top et pantalon en lin-like métallique élégant et minimaliste pour femme, idéal pour les sorties et les déplacements (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/21/Firerie Ensemble 2 pièces Top et pantalon en lin-like métallique élégant et minimaliste pour femme, idéal pour les sorties et les déplacements (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/21/Firerie Ensemble 2 pièces Top et pantalon en lin-like métallique élégant et minimaliste pour femme, idéal pour les sorties et les déplacements (7).webp"
     ]
   },
   {
@@ -940,12 +940,12 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 2,
-    "image": "/vetement_femme/22/Pariaura Ensemble 2 pièces Costume d'été gilet sans manches & short unicolore à bouton unique.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/22/Pariaura Ensemble 2 pièces Costume d'été gilet sans manches & short unicolore à bouton unique.webp",
     "images": [
-      "/vetement_femme/22/Pariaura Ensemble 2 pièces Costume d'été gilet sans manches & short unicolore à bouton unique.webp",
-      "/vetement_femme/22/Pariaura Ensemble 2 pièces Costume d'été gilet sans manches & short unicolore à bouton unique (1).webp",
-      "/vetement_femme/22/Pariaura Ensemble 2 pièces Costume d'été gilet sans manches & short unicolore à bouton unique (2).webp",
-      "/vetement_femme/22/Pariaura Ensemble 2 pièces Costume d'été gilet sans manches & short unicolore à bouton unique (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/22/Pariaura Ensemble 2 pièces Costume d'été gilet sans manches & short unicolore à bouton unique.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/22/Pariaura Ensemble 2 pièces Costume d'été gilet sans manches & short unicolore à bouton unique (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/22/Pariaura Ensemble 2 pièces Costume d'été gilet sans manches & short unicolore à bouton unique (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/22/Pariaura Ensemble 2 pièces Costume d'été gilet sans manches & short unicolore à bouton unique (3).webp"
     ]
   },
   {
@@ -980,13 +980,13 @@ export const vetement_femme = [
       "44"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/23/Ellegaria. à bouton Blazer sans manches & Short.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/23/Ellegaria. à bouton Blazer sans manches & Short.webp",
     "images": [
-      "/vetement_femme/23/Ellegaria. à bouton Blazer sans manches & Short.webp",
-      "/vetement_femme/23/Ellegaria. à bouton Blazer sans manches & Short (1).webp",
-      "/vetement_femme/23/Ellegaria. à bouton Blazer sans manches & Short (2).webp",
-      "/vetement_femme/23/Ellegaria. à bouton Blazer sans manches & Short (3).webp",
-      "/vetement_femme/23/Ellegaria. à bouton Blazer sans manches & Short (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/23/Ellegaria. à bouton Blazer sans manches & Short.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/23/Ellegaria. à bouton Blazer sans manches & Short (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/23/Ellegaria. à bouton Blazer sans manches & Short (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/23/Ellegaria. à bouton Blazer sans manches & Short (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/23/Ellegaria. à bouton Blazer sans manches & Short (4).webp"
     ]
   },
   {
@@ -1022,14 +1022,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/24/SHEIN LUNE Blazer décontracté sans manches de couleur unie avec ceinture à la taille, été .webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/24/SHEIN LUNE Blazer décontracté sans manches de couleur unie avec ceinture à la taille, été .webp",
     "images": [
-      "/vetement_femme/24/SHEIN LUNE Blazer décontracté sans manches de couleur unie avec ceinture à la taille, été .webp",
-      "/vetement_femme/24/SHEIN LUNE Blazer décontracté sans manches de couleur unie avec ceinture à la taille, été (1).webp",
-      "/vetement_femme/24/SHEIN LUNE Blazer décontracté sans manches de couleur unie avec ceinture à la taille, été (2).webp",
-      "/vetement_femme/24/SHEIN LUNE Blazer décontracté sans manches de couleur unie avec ceinture à la taille, été (3).webp",
-      "/vetement_femme/24/SHEIN LUNE Blazer décontracté sans manches de couleur unie avec ceinture à la taille, été (4).webp",
-      "/vetement_femme/24/SHEIN LUNE Blazer décontracté sans manches de couleur unie avec ceinture à la taille, été (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/24/SHEIN LUNE Blazer décontracté sans manches de couleur unie avec ceinture à la taille, été .webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/24/SHEIN LUNE Blazer décontracté sans manches de couleur unie avec ceinture à la taille, été (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/24/SHEIN LUNE Blazer décontracté sans manches de couleur unie avec ceinture à la taille, été (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/24/SHEIN LUNE Blazer décontracté sans manches de couleur unie avec ceinture à la taille, été (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/24/SHEIN LUNE Blazer décontracté sans manches de couleur unie avec ceinture à la taille, été (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/24/SHEIN LUNE Blazer décontracté sans manches de couleur unie avec ceinture à la taille, été (5).webp"
     ]
   },
   {
@@ -1067,13 +1067,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/25/SOLERSUN Robe longue élégante et romantique avec décolleté en V, plissée, sans manches et dos nu. Coupe évasée. Couleur orange, idéale pour les vacances à la plage au printemps et en été à Hawaii. Tenue pour femme.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/25/SOLERSUN Robe longue élégante et romantique avec décolleté en V, plissée, sans manches et dos nu. Coupe évasée. Couleur orange, idéale pour les vacances à la plage au printemps et en été à Hawaii. Tenue pour femme.webp",
     "images": [
-      "/vetement_femme/25/SOLERSUN Robe longue élégante et romantique avec décolleté en V, plissée, sans manches et dos nu. Coupe évasée. Couleur orange, idéale pour les vacances à la plage au printemps et en été à Hawaii. Tenue pour femme.webp",
-      "/vetement_femme/25/SOLERSUN Robe longue élégante et romantique avec décolleté en V, plissée, sans manches et dos nu. Coupe évasée. Couleur orange, idéale pour les vacances à la plage au printemps et en été à Hawaii. Tenue pour f (1).webp",
-      "/vetement_femme/25/SOLERSUN Robe longue élégante et romantique avec décolleté en V, plissée, sans manches et dos nu. Coupe évasée. Couleur orange, idéale pour les vacances à la plage au printemps et en été à Hawaii. Tenue pour f (2).webp",
-      "/vetement_femme/25/SOLERSUN Robe longue élégante et romantique avec décolleté en V, plissée, sans manches et dos nu. Coupe évasée. Couleur orange, idéale pour les vacances à la plage au printemps et en été à Hawaii. Tenue pour f (3).webp",
-      "/vetement_femme/25/SOLERSUN Robe longue élégante et romantique avec décolleté en V, plissée, sans manches et dos nu. Coupe évasée. Couleur orange, idéale pour les vacances à la plage au printemps et en été à Hawaii. Tenue pour f (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/25/SOLERSUN Robe longue élégante et romantique avec décolleté en V, plissée, sans manches et dos nu. Coupe évasée. Couleur orange, idéale pour les vacances à la plage au printemps et en été à Hawaii. Tenue pour femme.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/25/SOLERSUN Robe longue élégante et romantique avec décolleté en V, plissée, sans manches et dos nu. Coupe évasée. Couleur orange, idéale pour les vacances à la plage au printemps et en été à Hawaii. Tenue pour f (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/25/SOLERSUN Robe longue élégante et romantique avec décolleté en V, plissée, sans manches et dos nu. Coupe évasée. Couleur orange, idéale pour les vacances à la plage au printemps et en été à Hawaii. Tenue pour f (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/25/SOLERSUN Robe longue élégante et romantique avec décolleté en V, plissée, sans manches et dos nu. Coupe évasée. Couleur orange, idéale pour les vacances à la plage au printemps et en été à Hawaii. Tenue pour f (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/25/SOLERSUN Robe longue élégante et romantique avec décolleté en V, plissée, sans manches et dos nu. Coupe évasée. Couleur orange, idéale pour les vacances à la plage au printemps et en été à Hawaii. Tenue pour f (4).webp"
     ]
   },
   {
@@ -1108,13 +1108,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/26/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/26/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration.webp",
     "images": [
-      "/vetement_femme/26/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration.webp",
-      "/vetement_femme/26/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration (1).webp",
-      "/vetement_femme/26/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration (2).webp",
-      "/vetement_femme/26/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration (3).webp",
-      "/vetement_femme/26/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/26/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/26/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/26/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/26/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/26/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration (4).webp"
     ]
   },
   {
@@ -1149,14 +1149,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/27/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/27/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration.webp",
     "images": [
-      "/vetement_femme/27/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration.webp",
-      "/vetement_femme/27/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration (1).webp",
-      "/vetement_femme/27/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration (2).webp",
-      "/vetement_femme/27/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration (3).webp",
-      "/vetement_femme/27/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration (4).webp",
-      "/vetement_femme/27/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/27/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/27/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/27/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/27/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/27/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/27/SOLERSUN Robe de plage dos nu à imprimé tropical sexy avec fente haute et décoration (5).webp"
     ]
   },
   {
@@ -1191,15 +1191,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/28/SOLERSUN Chemise à épaules tombantes et Top brassière dos nu avec short.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/28/SOLERSUN Chemise à épaules tombantes et Top brassière dos nu avec short.webp",
     "images": [
-      "/vetement_femme/28/SOLERSUN Chemise à épaules tombantes et Top brassière dos nu avec short.webp",
-      "/vetement_femme/28/SOLERSUN Chemise à épaules tombantes et Top brassière dos nu avec short (1).webp",
-      "/vetement_femme/28/SOLERSUN Chemise à épaules tombantes et Top brassière dos nu avec short (2).webp",
-      "/vetement_femme/28/SOLERSUN Chemise à épaules tombantes et Top brassière dos nu avec short (3).webp",
-      "/vetement_femme/28/SOLERSUN Chemise à épaules tombantes et Top brassière dos nu avec short (4).webp",
-      "/vetement_femme/28/SOLERSUN Chemise à épaules tombantes et Top brassière dos nu avec short (5).webp",
-      "/vetement_femme/28/SOLERSUN Chemise à épaules tombantes et Top brassière dos nu avec short (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/28/SOLERSUN Chemise à épaules tombantes et Top brassière dos nu avec short.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/28/SOLERSUN Chemise à épaules tombantes et Top brassière dos nu avec short (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/28/SOLERSUN Chemise à épaules tombantes et Top brassière dos nu avec short (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/28/SOLERSUN Chemise à épaules tombantes et Top brassière dos nu avec short (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/28/SOLERSUN Chemise à épaules tombantes et Top brassière dos nu avec short (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/28/SOLERSUN Chemise à épaules tombantes et Top brassière dos nu avec short (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/28/SOLERSUN Chemise à épaules tombantes et Top brassière dos nu avec short (6).webp"
     ]
   },
   {
@@ -1234,14 +1234,14 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/29/Breezaya Top à fines brides à ruchés & Jupe ceinturé.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/29/Breezaya Top à fines brides à ruchés & Jupe ceinturé.webp",
     "images": [
-      "/vetement_femme/29/Breezaya Top à fines brides à ruchés & Jupe ceinturé.webp",
-      "/vetement_femme/29/Breezaya Top à fines brides à ruchés & Jupe ceinturé (1).webp",
-      "/vetement_femme/29/Breezaya Top à fines brides à ruchés & Jupe ceinturé (2).webp",
-      "/vetement_femme/29/Breezaya Top à fines brides à ruchés & Jupe ceinturé (3).webp",
-      "/vetement_femme/29/Breezaya Top à fines brides à ruchés & Jupe ceinturé (4).webp",
-      "/vetement_femme/29/Breezaya Top à fines brides à ruchés & Jupe ceinturé (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/29/Breezaya Top à fines brides à ruchés & Jupe ceinturé.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/29/Breezaya Top à fines brides à ruchés & Jupe ceinturé (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/29/Breezaya Top à fines brides à ruchés & Jupe ceinturé (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/29/Breezaya Top à fines brides à ruchés & Jupe ceinturé (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/29/Breezaya Top à fines brides à ruchés & Jupe ceinturé (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/29/Breezaya Top à fines brides à ruchés & Jupe ceinturé (5).webp"
     ]
   },
   {
@@ -1279,16 +1279,16 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/30/Radiana Ensemble d'été boho en coton beige pour femme_ débardeur dos nu col ras-du-cou + longue jupe longue fluide 2 pièces, tenues pour vacances_voyages, tenues de plage_île.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/30/Radiana Ensemble d'été boho en coton beige pour femme_ débardeur dos nu col ras-du-cou + longue jupe longue fluide 2 pièces, tenues pour vacances_voyages, tenues de plage_île.webp",
     "images": [
-      "/vetement_femme/30/Radiana Ensemble d'été boho en coton beige pour femme_ débardeur dos nu col ras-du-cou + longue jupe longue fluide 2 pièces, tenues pour vacances_voyages, tenues de plage_île.webp",
-      "/vetement_femme/30/Radiana Ensemble d'été boho en coton beige pour femme_ débardeur dos nu col ras-du-cou + longue jupe longue fluide 2 pièces, tenues pour vacances_voyages, tenues de plage_île (1).webp",
-      "/vetement_femme/30/Radiana Ensemble d'été boho en coton beige pour femme_ débardeur dos nu col ras-du-cou + longue jupe longue fluide 2 pièces, tenues pour vacances_voyages, tenues de plage_île (2).webp",
-      "/vetement_femme/30/Radiana Ensemble d'été boho en coton beige pour femme_ débardeur dos nu col ras-du-cou + longue jupe longue fluide 2 pièces, tenues pour vacances_voyages, tenues de plage_île (3).webp",
-      "/vetement_femme/30/Radiana Ensemble d'été boho en coton beige pour femme_ débardeur dos nu col ras-du-cou + longue jupe longue fluide 2 pièces, tenues pour vacances_voyages, tenues de plage_île (4).webp",
-      "/vetement_femme/30/Radiana Ensemble d'été boho en coton beige pour femme_ débardeur dos nu col ras-du-cou + longue jupe longue fluide 2 pièces, tenues pour vacances_voyages, tenues de plage_île (5).webp",
-      "/vetement_femme/30/Radiana Ensemble d'été boho en coton beige pour femme_ débardeur dos nu col ras-du-cou + longue jupe longue fluide 2 pièces, tenues pour vacances_voyages, tenues de plage_île (6).webp",
-      "/vetement_femme/30/Radiana Ensemble d'été boho en coton beige pour femme_ débardeur dos nu col ras-du-cou + longue jupe longue fluide 2 pièces, tenues pour vacances_voyages, tenues de plage_île (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/30/Radiana Ensemble d'été boho en coton beige pour femme_ débardeur dos nu col ras-du-cou + longue jupe longue fluide 2 pièces, tenues pour vacances_voyages, tenues de plage_île.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/30/Radiana Ensemble d'été boho en coton beige pour femme_ débardeur dos nu col ras-du-cou + longue jupe longue fluide 2 pièces, tenues pour vacances_voyages, tenues de plage_île (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/30/Radiana Ensemble d'été boho en coton beige pour femme_ débardeur dos nu col ras-du-cou + longue jupe longue fluide 2 pièces, tenues pour vacances_voyages, tenues de plage_île (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/30/Radiana Ensemble d'été boho en coton beige pour femme_ débardeur dos nu col ras-du-cou + longue jupe longue fluide 2 pièces, tenues pour vacances_voyages, tenues de plage_île (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/30/Radiana Ensemble d'été boho en coton beige pour femme_ débardeur dos nu col ras-du-cou + longue jupe longue fluide 2 pièces, tenues pour vacances_voyages, tenues de plage_île (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/30/Radiana Ensemble d'été boho en coton beige pour femme_ débardeur dos nu col ras-du-cou + longue jupe longue fluide 2 pièces, tenues pour vacances_voyages, tenues de plage_île (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/30/Radiana Ensemble d'été boho en coton beige pour femme_ débardeur dos nu col ras-du-cou + longue jupe longue fluide 2 pièces, tenues pour vacances_voyages, tenues de plage_île (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/30/Radiana Ensemble d'été boho en coton beige pour femme_ débardeur dos nu col ras-du-cou + longue jupe longue fluide 2 pièces, tenues pour vacances_voyages, tenues de plage_île (7).webp"
     ]
   },
   {
@@ -1325,14 +1325,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 2,
-    "image": "/vetement_femme/31/Radiana Ensemble d'été boho pour femmes en coton fuchsia - Débardeur dos nu à encolure ras-du-cou + Jupe longue fluide 2 pièces, tenue de vacances sur l'île et de plage.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/31/Radiana Ensemble d'été boho pour femmes en coton fuchsia - Débardeur dos nu à encolure ras-du-cou + Jupe longue fluide 2 pièces, tenue de vacances sur l'île et de plage.webp",
     "images": [
-      "/vetement_femme/31/Radiana Ensemble d'été boho pour femmes en coton fuchsia - Débardeur dos nu à encolure ras-du-cou + Jupe longue fluide 2 pièces, tenue de vacances sur l'île et de plage.webp",
-      "/vetement_femme/31/Radiana Ensemble d'été boho pour femmes en coton fuchsia - Débardeur dos nu à encolure ras-du-cou + Jupe longue fluide 2 pièces, tenue de vacances sur l'île et de plage (1).webp",
-      "/vetement_femme/31/Radiana Ensemble d'été boho pour femmes en coton fuchsia - Débardeur dos nu à encolure ras-du-cou + Jupe longue fluide 2 pièces, tenue de vacances sur l'île et de plage (2).webp",
-      "/vetement_femme/31/Radiana Ensemble d'été boho pour femmes en coton fuchsia - Débardeur dos nu à encolure ras-du-cou + Jupe longue fluide 2 pièces, tenue de vacances sur l'île et de plage (3).webp",
-      "/vetement_femme/31/Radiana Ensemble d'été boho pour femmes en coton fuchsia - Débardeur dos nu à encolure ras-du-cou + Jupe longue fluide 2 pièces, tenue de vacances sur l'île et de plage (4).webp",
-      "/vetement_femme/31/Radiana Ensemble d'été boho pour femmes en coton fuchsia - Débardeur dos nu à encolure ras-du-cou + Jupe longue fluide 2 pièces, tenue de vacances sur l'île et de plage (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/31/Radiana Ensemble d'été boho pour femmes en coton fuchsia - Débardeur dos nu à encolure ras-du-cou + Jupe longue fluide 2 pièces, tenue de vacances sur l'île et de plage.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/31/Radiana Ensemble d'été boho pour femmes en coton fuchsia - Débardeur dos nu à encolure ras-du-cou + Jupe longue fluide 2 pièces, tenue de vacances sur l'île et de plage (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/31/Radiana Ensemble d'été boho pour femmes en coton fuchsia - Débardeur dos nu à encolure ras-du-cou + Jupe longue fluide 2 pièces, tenue de vacances sur l'île et de plage (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/31/Radiana Ensemble d'été boho pour femmes en coton fuchsia - Débardeur dos nu à encolure ras-du-cou + Jupe longue fluide 2 pièces, tenue de vacances sur l'île et de plage (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/31/Radiana Ensemble d'été boho pour femmes en coton fuchsia - Débardeur dos nu à encolure ras-du-cou + Jupe longue fluide 2 pièces, tenue de vacances sur l'île et de plage (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/31/Radiana Ensemble d'été boho pour femmes en coton fuchsia - Débardeur dos nu à encolure ras-du-cou + Jupe longue fluide 2 pièces, tenue de vacances sur l'île et de plage (5).webp"
     ]
   },
   {
@@ -1370,14 +1370,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/32/Alexandranx Ensemble 2 pièces de femmes composé d'un débardeur moulant à col en V col ras-du-cou et d'une mini-jupe évasée à double couche en tissu texturé beige. Tenue de resort.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/32/Alexandranx Ensemble 2 pièces de femmes composé d'un débardeur moulant à col en V col ras-du-cou et d'une mini-jupe évasée à double couche en tissu texturé beige. Tenue de resort.webp",
     "images": [
-      "/vetement_femme/32/Alexandranx Ensemble 2 pièces de femmes composé d'un débardeur moulant à col en V col ras-du-cou et d'une mini-jupe évasée à double couche en tissu texturé beige. Tenue de resort.webp",
-      "/vetement_femme/32/Alexandranx Ensemble 2 pièces de femmes composé d'un débardeur moulant à col en V col ras-du-cou et d'une mini-jupe évasée à double couche en tissu texturé beige. Tenue de resort (1).webp",
-      "/vetement_femme/32/Alexandranx Ensemble 2 pièces de femmes composé d'un débardeur moulant à col en V col ras-du-cou et d'une mini-jupe évasée à double couche en tissu texturé beige. Tenue de resort (2).webp",
-      "/vetement_femme/32/Alexandranx Ensemble 2 pièces de femmes composé d'un débardeur moulant à col en V col ras-du-cou et d'une mini-jupe évasée à double couche en tissu texturé beige. Tenue de resort (3).webp",
-      "/vetement_femme/32/Alexandranx Ensemble 2 pièces de femmes composé d'un débardeur moulant à col en V col ras-du-cou et d'une mini-jupe évasée à double couche en tissu texturé beige. Tenue de resort (4).webp",
-      "/vetement_femme/32/Alexandranx Ensemble 2 pièces de femmes composé d'un débardeur moulant à col en V col ras-du-cou et d'une mini-jupe évasée à double couche en tissu texturé beige. Tenue de resort (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/32/Alexandranx Ensemble 2 pièces de femmes composé d'un débardeur moulant à col en V col ras-du-cou et d'une mini-jupe évasée à double couche en tissu texturé beige. Tenue de resort.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/32/Alexandranx Ensemble 2 pièces de femmes composé d'un débardeur moulant à col en V col ras-du-cou et d'une mini-jupe évasée à double couche en tissu texturé beige. Tenue de resort (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/32/Alexandranx Ensemble 2 pièces de femmes composé d'un débardeur moulant à col en V col ras-du-cou et d'une mini-jupe évasée à double couche en tissu texturé beige. Tenue de resort (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/32/Alexandranx Ensemble 2 pièces de femmes composé d'un débardeur moulant à col en V col ras-du-cou et d'une mini-jupe évasée à double couche en tissu texturé beige. Tenue de resort (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/32/Alexandranx Ensemble 2 pièces de femmes composé d'un débardeur moulant à col en V col ras-du-cou et d'une mini-jupe évasée à double couche en tissu texturé beige. Tenue de resort (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/32/Alexandranx Ensemble 2 pièces de femmes composé d'un débardeur moulant à col en V col ras-du-cou et d'une mini-jupe évasée à double couche en tissu texturé beige. Tenue de resort (5).webp"
     ]
   },
   {
@@ -1416,13 +1416,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/33/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/33/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine.webp",
     "images": [
-      "/vetement_femme/33/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine.webp",
-      "/vetement_femme/33/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine (1).webp",
-      "/vetement_femme/33/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine (2).webp",
-      "/vetement_femme/33/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine (3).webp",
-      "/vetement_femme/33/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/33/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/33/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/33/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/33/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/33/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine (4).webp"
     ]
   },
   {
@@ -1461,13 +1461,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/34/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/34/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine.webp",
     "images": [
-      "/vetement_femme/34/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine.webp",
-      "/vetement_femme/34/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine (1).webp",
-      "/vetement_femme/34/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine (2).webp",
-      "/vetement_femme/34/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine (3).webp",
-      "/vetement_femme/34/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/34/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/34/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/34/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/34/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/34/Slaydiva Nouvelle robe pull pour femme style casual élégant, col châle, sans manches, col en V profond, rayures marron, jaune, rouge et verte, mini jupe en laine (4).webp"
     ]
   },
   {
@@ -1502,13 +1502,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/35/SHEIN SXY Nouvelle arrivée Robe pull ajustée noire élégante et sexy de style français pour femmes, été.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/35/SHEIN SXY Nouvelle arrivée Robe pull ajustée noire élégante et sexy de style français pour femmes, été.webp",
     "images": [
-      "/vetement_femme/35/SHEIN SXY Nouvelle arrivée Robe pull ajustée noire élégante et sexy de style français pour femmes, été.webp",
-      "/vetement_femme/35/SHEIN SXY Nouvelle arrivée Robe pull ajustée noire élégante et sexy de style français pour femmes, été (1).webp",
-      "/vetement_femme/35/SHEIN SXY Nouvelle arrivée Robe pull ajustée noire élégante et sexy de style français pour femmes, été (2).webp",
-      "/vetement_femme/35/SHEIN SXY Nouvelle arrivée Robe pull ajustée noire élégante et sexy de style français pour femmes, été (3).webp",
-      "/vetement_femme/35/SHEIN SXY Nouvelle arrivée Robe pull ajustée noire élégante et sexy de style français pour femmes, été (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/35/SHEIN SXY Nouvelle arrivée Robe pull ajustée noire élégante et sexy de style français pour femmes, été.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/35/SHEIN SXY Nouvelle arrivée Robe pull ajustée noire élégante et sexy de style français pour femmes, été (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/35/SHEIN SXY Nouvelle arrivée Robe pull ajustée noire élégante et sexy de style français pour femmes, été (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/35/SHEIN SXY Nouvelle arrivée Robe pull ajustée noire élégante et sexy de style français pour femmes, été (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/35/SHEIN SXY Nouvelle arrivée Robe pull ajustée noire élégante et sexy de style français pour femmes, été (4).webp"
     ]
   },
   {
@@ -1543,17 +1543,17 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/36/BamGleam Robe pull pour femme avec taille cintrée noire et blanche. Robe pull courte en tricot avec cols contrastés. Vêtement décontracté et sexy pour femme pour le printemps et l'été répondant aux besoins de base.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/36/BamGleam Robe pull pour femme avec taille cintrée noire et blanche. Robe pull courte en tricot avec cols contrastés. Vêtement décontracté et sexy pour femme pour le printemps et l'été répondant aux besoins de base.webp",
     "images": [
-      "/vetement_femme/36/BamGleam Robe pull pour femme avec taille cintrée noire et blanche. Robe pull courte en tricot avec cols contrastés. Vêtement décontracté et sexy pour femme pour le printemps et l'été répondant aux besoins de base.webp",
-      "/vetement_femme/36/Robe pull mini d'été sexy à bord ondulé, décontractée noire.webp",
-      "/vetement_femme/36/BamGleam Robe pull pour femme avec taille cintrée noire et blanche. Robe pull courte en tricot avec cols contrastés. Vêtement décontracté et sexy pour femme pour le printemps et l'été répondant aux besoins de  (1).webp",
-      "/vetement_femme/36/BamGleam Robe pull pour femme avec taille cintrée noire et blanche. Robe pull courte en tricot avec cols contrastés. Vêtement décontracté et sexy pour femme pour le printemps et l'été répondant aux besoins de  (2).webp",
-      "/vetement_femme/36/BamGleam Robe pull pour femme avec taille cintrée noire et blanche. Robe pull courte en tricot avec cols contrastés. Vêtement décontracté et sexy pour femme pour le printemps et l'été répondant aux besoins de  (3).webp",
-      "/vetement_femme/36/Robe pull mini d'été sexy à bord ondulé, décontractée noire (1).webp",
-      "/vetement_femme/36/Robe pull mini d'été sexy à bord ondulé, décontractée noire (2).webp",
-      "/vetement_femme/36/Robe pull mini d'été sexy à bord ondulé, décontractée noire (3).webp",
-      "/vetement_femme/36/Robe pull mini d'été sexy à bord ondulé, décontractée noire (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/36/BamGleam Robe pull pour femme avec taille cintrée noire et blanche. Robe pull courte en tricot avec cols contrastés. Vêtement décontracté et sexy pour femme pour le printemps et l'été répondant aux besoins de base.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/36/Robe pull mini d'été sexy à bord ondulé, décontractée noire.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/36/BamGleam Robe pull pour femme avec taille cintrée noire et blanche. Robe pull courte en tricot avec cols contrastés. Vêtement décontracté et sexy pour femme pour le printemps et l'été répondant aux besoins de  (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/36/BamGleam Robe pull pour femme avec taille cintrée noire et blanche. Robe pull courte en tricot avec cols contrastés. Vêtement décontracté et sexy pour femme pour le printemps et l'été répondant aux besoins de  (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/36/BamGleam Robe pull pour femme avec taille cintrée noire et blanche. Robe pull courte en tricot avec cols contrastés. Vêtement décontracté et sexy pour femme pour le printemps et l'été répondant aux besoins de  (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/36/Robe pull mini d'été sexy à bord ondulé, décontractée noire (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/36/Robe pull mini d'été sexy à bord ondulé, décontractée noire (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/36/Robe pull mini d'été sexy à bord ondulé, décontractée noire (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/36/Robe pull mini d'été sexy à bord ondulé, décontractée noire (4).webp"
     ]
   },
   {
@@ -1591,15 +1591,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 2,
-    "image": "/vetement_femme/37/BamGleam Ensemble deux pièces pull pour femme, cardigan tricoté à manches longues rose avec boutons, jupe courte rose ajustée, sexy, idéal pour les vacances, les voyages, les sorties casual et les fêtes. Vêtements.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/37/BamGleam Ensemble deux pièces pull pour femme, cardigan tricoté à manches longues rose avec boutons, jupe courte rose ajustée, sexy, idéal pour les vacances, les voyages, les sorties casual et les fêtes. Vêtements.webp",
     "images": [
-      "/vetement_femme/37/BamGleam Ensemble deux pièces pull pour femme, cardigan tricoté à manches longues rose avec boutons, jupe courte rose ajustée, sexy, idéal pour les vacances, les voyages, les sorties casual et les fêtes. Vêtements.webp",
-      "/vetement_femme/37/BamGleam Ensemble deux pièces pull pour femme, cardigan tricoté à manches longues rose avec boutons, jupe courte rose ajustée, sexy, idéal pour les vacances, les voyages, les sorties casual et les fêtes. Vêtem (1).webp",
-      "/vetement_femme/37/BamGleam Ensemble deux pièces pull pour femme, cardigan tricoté à manches longues rose avec boutons, jupe courte rose ajustée, sexy, idéal pour les vacances, les voyages, les sorties casual et les fêtes. Vêtem (2).webp",
-      "/vetement_femme/37/BamGleam Ensemble deux pièces pull pour femme, cardigan tricoté à manches longues rose avec boutons, jupe courte rose ajustée, sexy, idéal pour les vacances, les voyages, les sorties casual et les fêtes. Vêtem (3).webp",
-      "/vetement_femme/37/BamGleam Ensemble deux pièces pull pour femme, cardigan tricoté à manches longues rose avec boutons, jupe courte rose ajustée, sexy, idéal pour les vacances, les voyages, les sorties casual et les fêtes. Vêtem (4).webp",
-      "/vetement_femme/37/BamGleam Ensemble deux pièces pull pour femme, cardigan tricoté à manches longues rose avec boutons, jupe courte rose ajustée, sexy, idéal pour les vacances, les voyages, les sorties casual et les fêtes. Vêtem (5).webp",
-      "/vetement_femme/37/BamGleam Ensemble deux pièces pull pour femme, cardigan tricoté à manches longues rose avec boutons, jupe courte rose ajustée, sexy, idéal pour les vacances, les voyages, les sorties casual et les fêtes. Vêtem (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/37/BamGleam Ensemble deux pièces pull pour femme, cardigan tricoté à manches longues rose avec boutons, jupe courte rose ajustée, sexy, idéal pour les vacances, les voyages, les sorties casual et les fêtes. Vêtements.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/37/BamGleam Ensemble deux pièces pull pour femme, cardigan tricoté à manches longues rose avec boutons, jupe courte rose ajustée, sexy, idéal pour les vacances, les voyages, les sorties casual et les fêtes. Vêtem (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/37/BamGleam Ensemble deux pièces pull pour femme, cardigan tricoté à manches longues rose avec boutons, jupe courte rose ajustée, sexy, idéal pour les vacances, les voyages, les sorties casual et les fêtes. Vêtem (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/37/BamGleam Ensemble deux pièces pull pour femme, cardigan tricoté à manches longues rose avec boutons, jupe courte rose ajustée, sexy, idéal pour les vacances, les voyages, les sorties casual et les fêtes. Vêtem (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/37/BamGleam Ensemble deux pièces pull pour femme, cardigan tricoté à manches longues rose avec boutons, jupe courte rose ajustée, sexy, idéal pour les vacances, les voyages, les sorties casual et les fêtes. Vêtem (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/37/BamGleam Ensemble deux pièces pull pour femme, cardigan tricoté à manches longues rose avec boutons, jupe courte rose ajustée, sexy, idéal pour les vacances, les voyages, les sorties casual et les fêtes. Vêtem (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/37/BamGleam Ensemble deux pièces pull pour femme, cardigan tricoté à manches longues rose avec boutons, jupe courte rose ajustée, sexy, idéal pour les vacances, les voyages, les sorties casual et les fêtes. Vêtem (6).webp"
     ]
   },
   {
@@ -1634,13 +1634,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/38/SHEIN SXY Robe tricotée à bretelles spaghetti en crochet à carreaux colorés, cache-maillot de plage pour les vacances d'été.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/38/SHEIN SXY Robe tricotée à bretelles spaghetti en crochet à carreaux colorés, cache-maillot de plage pour les vacances d'été.webp",
     "images": [
-      "/vetement_femme/38/SHEIN SXY Robe tricotée à bretelles spaghetti en crochet à carreaux colorés, cache-maillot de plage pour les vacances d'été.webp",
-      "/vetement_femme/38/SHEIN SXY Robe tricotée à bretelles spaghetti en crochet à carreaux colorés, cache-maillot de plage pour les vacances d'été (1).webp",
-      "/vetement_femme/38/SHEIN SXY Robe tricotée à bretelles spaghetti en crochet à carreaux colorés, cache-maillot de plage pour les vacances d'été (2).webp",
-      "/vetement_femme/38/SHEIN SXY Robe tricotée à bretelles spaghetti en crochet à carreaux colorés, cache-maillot de plage pour les vacances d'été (3).webp",
-      "/vetement_femme/38/SHEIN SXY Robe tricotée à bretelles spaghetti en crochet à carreaux colorés, cache-maillot de plage pour les vacances d'été (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/38/SHEIN SXY Robe tricotée à bretelles spaghetti en crochet à carreaux colorés, cache-maillot de plage pour les vacances d'été.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/38/SHEIN SXY Robe tricotée à bretelles spaghetti en crochet à carreaux colorés, cache-maillot de plage pour les vacances d'été (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/38/SHEIN SXY Robe tricotée à bretelles spaghetti en crochet à carreaux colorés, cache-maillot de plage pour les vacances d'été (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/38/SHEIN SXY Robe tricotée à bretelles spaghetti en crochet à carreaux colorés, cache-maillot de plage pour les vacances d'été (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/38/SHEIN SXY Robe tricotée à bretelles spaghetti en crochet à carreaux colorés, cache-maillot de plage pour les vacances d'été (4).webp"
     ]
   },
   {
@@ -1677,11 +1677,11 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 2,
-    "image": "/vetement_femme/39/Apperloth A Ensemble sexy bohème 2 pièces _ Top court en tricot à boutons avec rayures contrastées et jupe maxi à volants en crochet, tenue de plage, tenue de vacances noire.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/39/Apperloth A Ensemble sexy bohème 2 pièces _ Top court en tricot à boutons avec rayures contrastées et jupe maxi à volants en crochet, tenue de plage, tenue de vacances noire.webp",
     "images": [
-      "/vetement_femme/39/Apperloth A Ensemble sexy bohème 2 pièces _ Top court en tricot à boutons avec rayures contrastées et jupe maxi à volants en crochet, tenue de plage, tenue de vacances noire.webp",
-      "/vetement_femme/39/Apperloth A Ensemble sexy bohème 2 pièces _ Top court en tricot à boutons avec rayures contrastées et jupe maxi à volants en crochet, tenue de plage, tenue de vacances noire (1).webp",
-      "/vetement_femme/39/Apperloth A Ensemble sexy bohème 2 pièces _ Top court en tricot à boutons avec rayures contrastées et jupe maxi à volants en crochet, tenue de plage, tenue de vacances noire (2).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/39/Apperloth A Ensemble sexy bohème 2 pièces _ Top court en tricot à boutons avec rayures contrastées et jupe maxi à volants en crochet, tenue de plage, tenue de vacances noire.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/39/Apperloth A Ensemble sexy bohème 2 pièces _ Top court en tricot à boutons avec rayures contrastées et jupe maxi à volants en crochet, tenue de plage, tenue de vacances noire (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/39/Apperloth A Ensemble sexy bohème 2 pièces _ Top court en tricot à boutons avec rayures contrastées et jupe maxi à volants en crochet, tenue de plage, tenue de vacances noire (2).webp"
     ]
   },
   {
@@ -1716,13 +1716,13 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/40/SHEIN SXY bicolore ras-du-cou Top en tricot & Jupe en tricot.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/40/SHEIN SXY bicolore ras-du-cou Top en tricot & Jupe en tricot.webp",
     "images": [
-      "/vetement_femme/40/SHEIN SXY bicolore ras-du-cou Top en tricot & Jupe en tricot.webp",
-      "/vetement_femme/40/SHEIN SXY bicolore ras-du-cou Top en tricot & Jupe en tricot (1).webp",
-      "/vetement_femme/40/SHEIN SXY bicolore ras-du-cou Top en tricot & Jupe en tricot (2).webp",
-      "/vetement_femme/40/SHEIN SXY bicolore ras-du-cou Top en tricot & Jupe en tricot (3).webp",
-      "/vetement_femme/40/SHEIN SXY bicolore ras-du-cou Top en tricot & Jupe en tricot (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/40/SHEIN SXY bicolore ras-du-cou Top en tricot & Jupe en tricot.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/40/SHEIN SXY bicolore ras-du-cou Top en tricot & Jupe en tricot (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/40/SHEIN SXY bicolore ras-du-cou Top en tricot & Jupe en tricot (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/40/SHEIN SXY bicolore ras-du-cou Top en tricot & Jupe en tricot (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/40/SHEIN SXY bicolore ras-du-cou Top en tricot & Jupe en tricot (4).webp"
     ]
   },
   {
@@ -1757,13 +1757,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/41/SHEIN LUNE Robe débardeur en tricot à rayures décontractées printemps_été avec bloc de couleur ajustée.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/41/SHEIN LUNE Robe débardeur en tricot à rayures décontractées printemps_été avec bloc de couleur ajustée.webp",
     "images": [
-      "/vetement_femme/41/SHEIN LUNE Robe débardeur en tricot à rayures décontractées printemps_été avec bloc de couleur ajustée.webp",
-      "/vetement_femme/41/SHEIN LUNE Robe débardeur en tricot à rayures décontractées printemps_été avec bloc de couleur ajustée (1).webp",
-      "/vetement_femme/41/SHEIN LUNE Robe débardeur en tricot à rayures décontractées printemps_été avec bloc de couleur ajustée (2).webp",
-      "/vetement_femme/41/SHEIN LUNE Robe débardeur en tricot à rayures décontractées printemps_été avec bloc de couleur ajustée (3).webp",
-      "/vetement_femme/41/SHEIN LUNE Robe débardeur en tricot à rayures décontractées printemps_été avec bloc de couleur ajustée (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/41/SHEIN LUNE Robe débardeur en tricot à rayures décontractées printemps_été avec bloc de couleur ajustée.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/41/SHEIN LUNE Robe débardeur en tricot à rayures décontractées printemps_été avec bloc de couleur ajustée (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/41/SHEIN LUNE Robe débardeur en tricot à rayures décontractées printemps_été avec bloc de couleur ajustée (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/41/SHEIN LUNE Robe débardeur en tricot à rayures décontractées printemps_été avec bloc de couleur ajustée (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/41/SHEIN LUNE Robe débardeur en tricot à rayures décontractées printemps_été avec bloc de couleur ajustée (4).webp"
     ]
   },
   {
@@ -1799,15 +1799,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/42/Slaydiva Robe estivale jaune mini serrée avec bretelles halterneck, taille creuse en dentelle à franges pour les vacances à la plage.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/42/Slaydiva Robe estivale jaune mini serrée avec bretelles halterneck, taille creuse en dentelle à franges pour les vacances à la plage.webp",
     "images": [
-      "/vetement_femme/42/Slaydiva Robe estivale jaune mini serrée avec bretelles halterneck, taille creuse en dentelle à franges pour les vacances à la plage.webp",
-      "/vetement_femme/42/Slaydiva Robe estivale jaune mini serrée avec bretelles halterneck, taille creuse en dentelle à franges pour les vacances à la plage (1).webp",
-      "/vetement_femme/42/Slaydiva Robe estivale jaune mini serrée avec bretelles halterneck, taille creuse en dentelle à franges pour les vacances à la plage (2).webp",
-      "/vetement_femme/42/Slaydiva Robe estivale jaune mini serrée avec bretelles halterneck, taille creuse en dentelle à franges pour les vacances à la plage (3).webp",
-      "/vetement_femme/42/Slaydiva Robe estivale jaune mini serrée avec bretelles halterneck, taille creuse en dentelle à franges pour les vacances à la plage (4).webp",
-      "/vetement_femme/42/Slaydiva Robe estivale jaune mini serrée avec bretelles halterneck, taille creuse en dentelle à franges pour les vacances à la plage (5).webp",
-      "/vetement_femme/42/Slaydiva Robe estivale jaune mini serrée avec bretelles halterneck, taille creuse en dentelle à franges pour les vacances à la plage (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/42/Slaydiva Robe estivale jaune mini serrée avec bretelles halterneck, taille creuse en dentelle à franges pour les vacances à la plage.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/42/Slaydiva Robe estivale jaune mini serrée avec bretelles halterneck, taille creuse en dentelle à franges pour les vacances à la plage (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/42/Slaydiva Robe estivale jaune mini serrée avec bretelles halterneck, taille creuse en dentelle à franges pour les vacances à la plage (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/42/Slaydiva Robe estivale jaune mini serrée avec bretelles halterneck, taille creuse en dentelle à franges pour les vacances à la plage (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/42/Slaydiva Robe estivale jaune mini serrée avec bretelles halterneck, taille creuse en dentelle à franges pour les vacances à la plage (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/42/Slaydiva Robe estivale jaune mini serrée avec bretelles halterneck, taille creuse en dentelle à franges pour les vacances à la plage (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/42/Slaydiva Robe estivale jaune mini serrée avec bretelles halterneck, taille creuse en dentelle à franges pour les vacances à la plage (6).webp"
     ]
   },
   {
@@ -1842,13 +1842,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/43/AIJ Robe moulante froncée avec bretelles torsadées (fleurs aléatoires) Vacances d'été élégante.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/43/AIJ Robe moulante froncée avec bretelles torsadées (fleurs aléatoires) Vacances d'été élégante.webp",
     "images": [
-      "/vetement_femme/43/AIJ Robe moulante froncée avec bretelles torsadées (fleurs aléatoires) Vacances d'été élégante.webp",
-      "/vetement_femme/43/AIJ Robe moulante froncée avec bretelles torsadées (fleurs aléatoires) Vacances d'été élégante (1).webp",
-      "/vetement_femme/43/AIJ Robe moulante froncée avec bretelles torsadées (fleurs aléatoires) Vacances d'été élégante (2).webp",
-      "/vetement_femme/43/AIJ Robe moulante froncée avec bretelles torsadées (fleurs aléatoires) Vacances d'été élégante (3).webp",
-      "/vetement_femme/43/AIJ Robe moulante froncée avec bretelles torsadées (fleurs aléatoires) Vacances d'été élégante (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/43/AIJ Robe moulante froncée avec bretelles torsadées (fleurs aléatoires) Vacances d'été élégante.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/43/AIJ Robe moulante froncée avec bretelles torsadées (fleurs aléatoires) Vacances d'été élégante (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/43/AIJ Robe moulante froncée avec bretelles torsadées (fleurs aléatoires) Vacances d'été élégante (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/43/AIJ Robe moulante froncée avec bretelles torsadées (fleurs aléatoires) Vacances d'été élégante (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/43/AIJ Robe moulante froncée avec bretelles torsadées (fleurs aléatoires) Vacances d'été élégante (4).webp"
     ]
   },
   {
@@ -1885,14 +1885,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/44/Alexandranx Nouvelle robe mini femme d'été et de printemps décontractée pour vacances, à encolure halter et profond col en V, taille A, ourlet jaune, fleur rouge tissée, ras-du-cou.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/44/Alexandranx Nouvelle robe mini femme d'été et de printemps décontractée pour vacances, à encolure halter et profond col en V, taille A, ourlet jaune, fleur rouge tissée, ras-du-cou.webp",
     "images": [
-      "/vetement_femme/44/Alexandranx Nouvelle robe mini femme d'été et de printemps décontractée pour vacances, à encolure halter et profond col en V, taille A, ourlet jaune, fleur rouge tissée, ras-du-cou.webp",
-      "/vetement_femme/44/Alexandranx Nouvelle robe mini femme d'été et de printemps décontractée pour vacances, à encolure halter et profond col en V, taille A, ourlet jaune, fleur rouge tissée, ras-du-cou (1).webp",
-      "/vetement_femme/44/Alexandranx Nouvelle robe mini femme d'été et de printemps décontractée pour vacances, à encolure halter et profond col en V, taille A, ourlet jaune, fleur rouge tissée, ras-du-cou (2).webp",
-      "/vetement_femme/44/Alexandranx Nouvelle robe mini femme d'été et de printemps décontractée pour vacances, à encolure halter et profond col en V, taille A, ourlet jaune, fleur rouge tissée, ras-du-cou (3).webp",
-      "/vetement_femme/44/Alexandranx Nouvelle robe mini femme d'été et de printemps décontractée pour vacances, à encolure halter et profond col en V, taille A, ourlet jaune, fleur rouge tissée, ras-du-cou (4).webp",
-      "/vetement_femme/44/Alexandranx Nouvelle robe mini femme d'été et de printemps décontractée pour vacances, à encolure halter et profond col en V, taille A, ourlet jaune, fleur rouge tissée, ras-du-cou (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/44/Alexandranx Nouvelle robe mini femme d'été et de printemps décontractée pour vacances, à encolure halter et profond col en V, taille A, ourlet jaune, fleur rouge tissée, ras-du-cou.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/44/Alexandranx Nouvelle robe mini femme d'été et de printemps décontractée pour vacances, à encolure halter et profond col en V, taille A, ourlet jaune, fleur rouge tissée, ras-du-cou (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/44/Alexandranx Nouvelle robe mini femme d'été et de printemps décontractée pour vacances, à encolure halter et profond col en V, taille A, ourlet jaune, fleur rouge tissée, ras-du-cou (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/44/Alexandranx Nouvelle robe mini femme d'été et de printemps décontractée pour vacances, à encolure halter et profond col en V, taille A, ourlet jaune, fleur rouge tissée, ras-du-cou (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/44/Alexandranx Nouvelle robe mini femme d'été et de printemps décontractée pour vacances, à encolure halter et profond col en V, taille A, ourlet jaune, fleur rouge tissée, ras-du-cou (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/44/Alexandranx Nouvelle robe mini femme d'été et de printemps décontractée pour vacances, à encolure halter et profond col en V, taille A, ourlet jaune, fleur rouge tissée, ras-du-cou (5).webp"
     ]
   },
   {
@@ -1927,13 +1927,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/45/Eryvara Robe longue femme décontractée pour vacances et plage, à fines bretelles, col rond, imprimé tie-dye coloré, style bohème patchwork, volants à l'ourlet, convient pour toutes les saisons.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/45/Eryvara Robe longue femme décontractée pour vacances et plage, à fines bretelles, col rond, imprimé tie-dye coloré, style bohème patchwork, volants à l'ourlet, convient pour toutes les saisons.webp",
     "images": [
-      "/vetement_femme/45/Eryvara Robe longue femme décontractée pour vacances et plage, à fines bretelles, col rond, imprimé tie-dye coloré, style bohème patchwork, volants à l'ourlet, convient pour toutes les saisons.webp",
-      "/vetement_femme/45/Eryvara Robe longue femme décontractée pour vacances et plage, à fines bretelles, col rond, imprimé tie-dye coloré, style bohème patchwork, volants à l'ourlet, convient pour toutes les saisons (1).webp",
-      "/vetement_femme/45/Eryvara Robe longue femme décontractée pour vacances et plage, à fines bretelles, col rond, imprimé tie-dye coloré, style bohème patchwork, volants à l'ourlet, convient pour toutes les saisons (2).webp",
-      "/vetement_femme/45/Eryvara Robe longue femme décontractée pour vacances et plage, à fines bretelles, col rond, imprimé tie-dye coloré, style bohème patchwork, volants à l'ourlet, convient pour toutes les saisons (3).webp",
-      "/vetement_femme/45/Eryvara Robe longue femme décontractée pour vacances et plage, à fines bretelles, col rond, imprimé tie-dye coloré, style bohème patchwork, volants à l'ourlet, convient pour toutes les saisons (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/45/Eryvara Robe longue femme décontractée pour vacances et plage, à fines bretelles, col rond, imprimé tie-dye coloré, style bohème patchwork, volants à l'ourlet, convient pour toutes les saisons.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/45/Eryvara Robe longue femme décontractée pour vacances et plage, à fines bretelles, col rond, imprimé tie-dye coloré, style bohème patchwork, volants à l'ourlet, convient pour toutes les saisons (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/45/Eryvara Robe longue femme décontractée pour vacances et plage, à fines bretelles, col rond, imprimé tie-dye coloré, style bohème patchwork, volants à l'ourlet, convient pour toutes les saisons (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/45/Eryvara Robe longue femme décontractée pour vacances et plage, à fines bretelles, col rond, imprimé tie-dye coloré, style bohème patchwork, volants à l'ourlet, convient pour toutes les saisons (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/45/Eryvara Robe longue femme décontractée pour vacances et plage, à fines bretelles, col rond, imprimé tie-dye coloré, style bohème patchwork, volants à l'ourlet, convient pour toutes les saisons (4).webp"
     ]
   },
   {
@@ -1969,13 +1969,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/46/Slaydiva Robe d'été croisée au dos avec lien, décolleté plongeant, dos nu, orange unicolore, pour femmes, style resort.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/46/Slaydiva Robe d'été croisée au dos avec lien, décolleté plongeant, dos nu, orange unicolore, pour femmes, style resort.webp",
     "images": [
-      "/vetement_femme/46/Slaydiva Robe d'été croisée au dos avec lien, décolleté plongeant, dos nu, orange unicolore, pour femmes, style resort.webp",
-      "/vetement_femme/46/Slaydiva Robe d'été croisée au dos avec lien, décolleté plongeant, dos nu, orange unicolore, pour femmes, style resort (1).webp",
-      "/vetement_femme/46/Slaydiva Robe d'été croisée au dos avec lien, décolleté plongeant, dos nu, orange unicolore, pour femmes, style resort (2).webp",
-      "/vetement_femme/46/Slaydiva Robe d'été croisée au dos avec lien, décolleté plongeant, dos nu, orange unicolore, pour femmes, style resort (3).webp",
-      "/vetement_femme/46/Slaydiva Robe d'été croisée au dos avec lien, décolleté plongeant, dos nu, orange unicolore, pour femmes, style resort (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/46/Slaydiva Robe d'été croisée au dos avec lien, décolleté plongeant, dos nu, orange unicolore, pour femmes, style resort.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/46/Slaydiva Robe d'été croisée au dos avec lien, décolleté plongeant, dos nu, orange unicolore, pour femmes, style resort (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/46/Slaydiva Robe d'été croisée au dos avec lien, décolleté plongeant, dos nu, orange unicolore, pour femmes, style resort (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/46/Slaydiva Robe d'été croisée au dos avec lien, décolleté plongeant, dos nu, orange unicolore, pour femmes, style resort (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/46/Slaydiva Robe d'été croisée au dos avec lien, décolleté plongeant, dos nu, orange unicolore, pour femmes, style resort (4).webp"
     ]
   },
   {
@@ -2010,13 +2010,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/47/SOLERSUN Robe longue décontractée d'été avec col en V profond, dos nu, drapé et fente sur la cuisse, imprimé botanique.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/47/SOLERSUN Robe longue décontractée d'été avec col en V profond, dos nu, drapé et fente sur la cuisse, imprimé botanique.webp",
     "images": [
-      "/vetement_femme/47/SOLERSUN Robe longue décontractée d'été avec col en V profond, dos nu, drapé et fente sur la cuisse, imprimé botanique.webp",
-      "/vetement_femme/47/SOLERSUN Robe longue décontractée d'été avec col en V profond, dos nu, drapé et fente sur la cuisse, imprimé botanique (1).webp",
-      "/vetement_femme/47/SOLERSUN Robe longue décontractée d'été avec col en V profond, dos nu, drapé et fente sur la cuisse, imprimé botanique (2).webp",
-      "/vetement_femme/47/SOLERSUN Robe longue décontractée d'été avec col en V profond, dos nu, drapé et fente sur la cuisse, imprimé botanique (3).webp",
-      "/vetement_femme/47/SOLERSUN Robe longue décontractée d'été avec col en V profond, dos nu, drapé et fente sur la cuisse, imprimé botanique (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/47/SOLERSUN Robe longue décontractée d'été avec col en V profond, dos nu, drapé et fente sur la cuisse, imprimé botanique.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/47/SOLERSUN Robe longue décontractée d'été avec col en V profond, dos nu, drapé et fente sur la cuisse, imprimé botanique (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/47/SOLERSUN Robe longue décontractée d'été avec col en V profond, dos nu, drapé et fente sur la cuisse, imprimé botanique (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/47/SOLERSUN Robe longue décontractée d'été avec col en V profond, dos nu, drapé et fente sur la cuisse, imprimé botanique (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/47/SOLERSUN Robe longue décontractée d'été avec col en V profond, dos nu, drapé et fente sur la cuisse, imprimé botanique (4).webp"
     ]
   },
   {
@@ -2051,13 +2051,13 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/48/Rafferiza Jupe élégante à fente haute et taille élastique en maille imprimée léopard pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/48/Rafferiza Jupe élégante à fente haute et taille élastique en maille imprimée léopard pour femmes.webp",
     "images": [
-      "/vetement_femme/48/Rafferiza Jupe élégante à fente haute et taille élastique en maille imprimée léopard pour femmes.webp",
-      "/vetement_femme/48/Rafferiza Jupe élégante à fente haute et taille élastique en maille imprimée léopard pour femmes (1).webp",
-      "/vetement_femme/48/Rafferiza Jupe élégante à fente haute et taille élastique en maille imprimée léopard pour femmes (2).webp",
-      "/vetement_femme/48/Rafferiza Jupe élégante à fente haute et taille élastique en maille imprimée léopard pour femmes (3).webp",
-      "/vetement_femme/48/Rafferiza Jupe élégante à fente haute et taille élastique en maille imprimée léopard pour femmes (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/48/Rafferiza Jupe élégante à fente haute et taille élastique en maille imprimée léopard pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/48/Rafferiza Jupe élégante à fente haute et taille élastique en maille imprimée léopard pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/48/Rafferiza Jupe élégante à fente haute et taille élastique en maille imprimée léopard pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/48/Rafferiza Jupe élégante à fente haute et taille élastique en maille imprimée léopard pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/48/Rafferiza Jupe élégante à fente haute et taille élastique en maille imprimée léopard pour femmes (4).webp"
     ]
   },
   {
@@ -2092,14 +2092,14 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/49/SHEIN SXY Jupe crayon à imprimé taille haute.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/49/SHEIN SXY Jupe crayon à imprimé taille haute.webp",
     "images": [
-      "/vetement_femme/49/SHEIN SXY Jupe crayon à imprimé taille haute.webp",
-      "/vetement_femme/49/SHEIN SXY Jupe crayon à imprimé taille haute (1).webp",
-      "/vetement_femme/49/SHEIN SXY Jupe crayon à imprimé taille haute (2).webp",
-      "/vetement_femme/49/SHEIN SXY Jupe crayon à imprimé taille haute (3).webp",
-      "/vetement_femme/49/SHEIN SXY Jupe crayon à imprimé taille haute (4).webp",
-      "/vetement_femme/49/SHEIN SXY Jupe crayon à imprimé taille haute (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/49/SHEIN SXY Jupe crayon à imprimé taille haute.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/49/SHEIN SXY Jupe crayon à imprimé taille haute (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/49/SHEIN SXY Jupe crayon à imprimé taille haute (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/49/SHEIN SXY Jupe crayon à imprimé taille haute (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/49/SHEIN SXY Jupe crayon à imprimé taille haute (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/49/SHEIN SXY Jupe crayon à imprimé taille haute (5).webp"
     ]
   },
   {
@@ -2134,15 +2134,15 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/50/SHEIN SXY Jupe crayon à imprimé taille haute.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/50/SHEIN SXY Jupe crayon à imprimé taille haute.webp",
     "images": [
-      "/vetement_femme/50/SHEIN SXY Jupe crayon à imprimé taille haute.webp",
-      "/vetement_femme/50/SHEIN SXY Jupe crayon à imprimé taille haute (1).webp",
-      "/vetement_femme/50/SHEIN SXY Jupe crayon à imprimé taille haute (2).webp",
-      "/vetement_femme/50/SHEIN SXY Jupe crayon à imprimé taille haute (3).webp",
-      "/vetement_femme/50/SHEIN SXY Jupe crayon à imprimé taille haute (4).webp",
-      "/vetement_femme/50/SHEIN SXY Jupe crayon à imprimé taille haute (5).webp",
-      "/vetement_femme/50/SHEIN SXY Jupe crayon à imprimé taille haute (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/50/SHEIN SXY Jupe crayon à imprimé taille haute.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/50/SHEIN SXY Jupe crayon à imprimé taille haute (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/50/SHEIN SXY Jupe crayon à imprimé taille haute (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/50/SHEIN SXY Jupe crayon à imprimé taille haute (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/50/SHEIN SXY Jupe crayon à imprimé taille haute (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/50/SHEIN SXY Jupe crayon à imprimé taille haute (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/50/SHEIN SXY Jupe crayon à imprimé taille haute (6).webp"
     ]
   },
   {
@@ -2179,14 +2179,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/51/Selianne Ensemble élégant et romantique de blazer et nœud papillon pour les vacances et le bureau pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/51/Selianne Ensemble élégant et romantique de blazer et nœud papillon pour les vacances et le bureau pour femmes.webp",
     "images": [
-      "/vetement_femme/51/Selianne Ensemble élégant et romantique de blazer et nœud papillon pour les vacances et le bureau pour femmes.webp",
-      "/vetement_femme/51/Selianne Ensemble élégant et romantique de blazer et nœud papillon pour les vacances et le bureau pour femmes (1).webp",
-      "/vetement_femme/51/Selianne Ensemble élégant et romantique de blazer et nœud papillon pour les vacances et le bureau pour femmes (2).webp",
-      "/vetement_femme/51/Selianne Ensemble élégant et romantique de blazer et nœud papillon pour les vacances et le bureau pour femmes (3).webp",
-      "/vetement_femme/51/Selianne Ensemble élégant et romantique de blazer et nœud papillon pour les vacances et le bureau pour femmes (4).webp",
-      "/vetement_femme/51/Selianne Ensemble élégant et romantique de blazer et nœud papillon pour les vacances et le bureau pour femmes (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/51/Selianne Ensemble élégant et romantique de blazer et nœud papillon pour les vacances et le bureau pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/51/Selianne Ensemble élégant et romantique de blazer et nœud papillon pour les vacances et le bureau pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/51/Selianne Ensemble élégant et romantique de blazer et nœud papillon pour les vacances et le bureau pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/51/Selianne Ensemble élégant et romantique de blazer et nœud papillon pour les vacances et le bureau pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/51/Selianne Ensemble élégant et romantique de blazer et nœud papillon pour les vacances et le bureau pour femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/51/Selianne Ensemble élégant et romantique de blazer et nœud papillon pour les vacances et le bureau pour femmes (5).webp"
     ]
   },
   {
@@ -2223,14 +2223,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/53/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/53/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine.webp",
     "images": [
-      "/vetement_femme/53/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine.webp",
-      "/vetement_femme/53/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine (1).webp",
-      "/vetement_femme/53/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine (2).webp",
-      "/vetement_femme/53/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine (3).webp",
-      "/vetement_femme/53/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine (4).webp",
-      "/vetement_femme/53/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/53/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/53/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/53/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/53/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/53/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/53/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine (5).webp"
     ]
   },
   {
@@ -2267,14 +2267,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/54/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/54/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine.webp",
     "images": [
-      "/vetement_femme/54/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine.webp",
-      "/vetement_femme/54/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine (1).webp",
-      "/vetement_femme/54/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine (2).webp",
-      "/vetement_femme/54/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine (3).webp",
-      "/vetement_femme/54/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine (4).webp",
-      "/vetement_femme/54/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/54/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/54/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/54/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/54/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/54/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/54/Elenzga Ensemble blazer sans manches, costume d'affaires élégant et romantique pour femmes avec taille fine (5).webp"
     ]
   },
   {
@@ -2311,14 +2311,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/55/AIJ Ensemble 2 pièces Amarilo pour femmes, pantalon et Top à manches longues, couleur unie, style minimaliste, pour un port quotidien, printemps.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/55/AIJ Ensemble 2 pièces Amarilo pour femmes, pantalon et Top à manches longues, couleur unie, style minimaliste, pour un port quotidien, printemps.webp",
     "images": [
-      "/vetement_femme/55/AIJ Ensemble 2 pièces Amarilo pour femmes, pantalon et Top à manches longues, couleur unie, style minimaliste, pour un port quotidien, printemps.webp",
-      "/vetement_femme/55/AIJ Ensemble 2 pièces Amarilo pour femmes, pantalon et Top à manches longues, couleur unie, style minimaliste, pour un port quotidien, printemps (1).webp",
-      "/vetement_femme/55/AIJ Ensemble 2 pièces Amarilo pour femmes, pantalon et Top à manches longues, couleur unie, style minimaliste, pour un port quotidien, printemps (2).webp",
-      "/vetement_femme/55/AIJ Ensemble 2 pièces Amarilo pour femmes, pantalon et Top à manches longues, couleur unie, style minimaliste, pour un port quotidien, printemps (3).webp",
-      "/vetement_femme/55/AIJ Ensemble 2 pièces Amarilo pour femmes, pantalon et Top à manches longues, couleur unie, style minimaliste, pour un port quotidien, printemps (4).webp",
-      "/vetement_femme/55/AIJ Ensemble 2 pièces Amarilo pour femmes, pantalon et Top à manches longues, couleur unie, style minimaliste, pour un port quotidien, printemps (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/55/AIJ Ensemble 2 pièces Amarilo pour femmes, pantalon et Top à manches longues, couleur unie, style minimaliste, pour un port quotidien, printemps.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/55/AIJ Ensemble 2 pièces Amarilo pour femmes, pantalon et Top à manches longues, couleur unie, style minimaliste, pour un port quotidien, printemps (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/55/AIJ Ensemble 2 pièces Amarilo pour femmes, pantalon et Top à manches longues, couleur unie, style minimaliste, pour un port quotidien, printemps (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/55/AIJ Ensemble 2 pièces Amarilo pour femmes, pantalon et Top à manches longues, couleur unie, style minimaliste, pour un port quotidien, printemps (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/55/AIJ Ensemble 2 pièces Amarilo pour femmes, pantalon et Top à manches longues, couleur unie, style minimaliste, pour un port quotidien, printemps (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/55/AIJ Ensemble 2 pièces Amarilo pour femmes, pantalon et Top à manches longues, couleur unie, style minimaliste, pour un port quotidien, printemps (5).webp"
     ]
   },
   {
@@ -2355,12 +2355,12 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 2,
-    "image": "/vetement_femme/56/EURMUSE Ensemble de pantalon et de blazer à col châle élégant pour dames pour la navette quotidienne avec manches trois-quarts.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/56/EURMUSE Ensemble de pantalon et de blazer à col châle élégant pour dames pour la navette quotidienne avec manches trois-quarts.webp",
     "images": [
-      "/vetement_femme/56/EURMUSE Ensemble de pantalon et de blazer à col châle élégant pour dames pour la navette quotidienne avec manches trois-quarts.webp",
-      "/vetement_femme/56/EURMUSE Ensemble de pantalon et de blazer à col châle élégant pour dames pour la navette quotidienne avec manches trois-quarts (1).webp",
-      "/vetement_femme/56/EURMUSE Ensemble de pantalon et de blazer à col châle élégant pour dames pour la navette quotidienne avec manches trois-quarts (2).webp",
-      "/vetement_femme/56/EURMUSE Ensemble de pantalon et de blazer à col châle élégant pour dames pour la navette quotidienne avec manches trois-quarts (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/56/EURMUSE Ensemble de pantalon et de blazer à col châle élégant pour dames pour la navette quotidienne avec manches trois-quarts.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/56/EURMUSE Ensemble de pantalon et de blazer à col châle élégant pour dames pour la navette quotidienne avec manches trois-quarts (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/56/EURMUSE Ensemble de pantalon et de blazer à col châle élégant pour dames pour la navette quotidienne avec manches trois-quarts (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/56/EURMUSE Ensemble de pantalon et de blazer à col châle élégant pour dames pour la navette quotidienne avec manches trois-quarts (3).webp"
     ]
   },
   {
@@ -2397,13 +2397,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/57/Xyvia 2 pièces_Ensemble femmes, ensemble 2 pièces avec boutons et bordure en dentelle à la taille.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/57/Xyvia 2 pièces_Ensemble femmes, ensemble 2 pièces avec boutons et bordure en dentelle à la taille.webp",
     "images": [
-      "/vetement_femme/57/Xyvia 2 pièces_Ensemble femmes, ensemble 2 pièces avec boutons et bordure en dentelle à la taille.webp",
-      "/vetement_femme/57/Xyvia 2 pièces_Ensemble femmes, ensemble 2 pièces avec boutons et bordure en dentelle à la taille (1).webp",
-      "/vetement_femme/57/Xyvia 2 pièces_Ensemble femmes, ensemble 2 pièces avec boutons et bordure en dentelle à la taille (2).webp",
-      "/vetement_femme/57/Xyvia 2 pièces_Ensemble femmes, ensemble 2 pièces avec boutons et bordure en dentelle à la taille (3).webp",
-      "/vetement_femme/57/Xyvia 2 pièces_Ensemble femmes, ensemble 2 pièces avec boutons et bordure en dentelle à la taille (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/57/Xyvia 2 pièces_Ensemble femmes, ensemble 2 pièces avec boutons et bordure en dentelle à la taille.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/57/Xyvia 2 pièces_Ensemble femmes, ensemble 2 pièces avec boutons et bordure en dentelle à la taille (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/57/Xyvia 2 pièces_Ensemble femmes, ensemble 2 pièces avec boutons et bordure en dentelle à la taille (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/57/Xyvia 2 pièces_Ensemble femmes, ensemble 2 pièces avec boutons et bordure en dentelle à la taille (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/57/Xyvia 2 pièces_Ensemble femmes, ensemble 2 pièces avec boutons et bordure en dentelle à la taille (4).webp"
     ]
   },
   {
@@ -2440,14 +2440,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/58/SHEIN Elenzya Ensemble veste et pantalon vintage royal pour femmes, 2 pièces, avec dentelle et boutons de perle, manches longues. Convient pour les sorties, Halloween, la rentrée, Y2K, le grunge, le style rétro pr.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/58/SHEIN Elenzya Ensemble veste et pantalon vintage royal pour femmes, 2 pièces, avec dentelle et boutons de perle, manches longues. Convient pour les sorties, Halloween, la rentrée, Y2K, le grunge, le style rétro pr.webp",
     "images": [
-      "/vetement_femme/58/SHEIN Elenzya Ensemble veste et pantalon vintage royal pour femmes, 2 pièces, avec dentelle et boutons de perle, manches longues. Convient pour les sorties, Halloween, la rentrée, Y2K, le grunge, le style rétro pr.webp",
-      "/vetement_femme/58/SHEIN Elenzya Ensemble veste et pantalon vintage royal pour femmes, 2 pièces, avec dentelle et boutons de perle, manches longues. Convient pour les sorties, Halloween, la rentrée, Y2K, le grunge, le style rétr (1).webp",
-      "/vetement_femme/58/SHEIN Elenzya Ensemble veste et pantalon vintage royal pour femmes, 2 pièces, avec dentelle et boutons de perle, manches longues. Convient pour les sorties, Halloween, la rentrée, Y2K, le grunge, le style rétr (2).webp",
-      "/vetement_femme/58/SHEIN Elenzya Ensemble veste et pantalon vintage royal pour femmes, 2 pièces, avec dentelle et boutons de perle, manches longues. Convient pour les sorties, Halloween, la rentrée, Y2K, le grunge, le style rétr (3).webp",
-      "/vetement_femme/58/SHEIN Elenzya Ensemble veste et pantalon vintage royal pour femmes, 2 pièces, avec dentelle et boutons de perle, manches longues. Convient pour les sorties, Halloween, la rentrée, Y2K, le grunge, le style rétr (4).webp",
-      "/vetement_femme/58/SHEIN Elenzya Ensemble veste et pantalon vintage royal pour femmes, 2 pièces, avec dentelle et boutons de perle, manches longues. Convient pour les sorties, Halloween, la rentrée, Y2K, le grunge, le style rétr (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/58/SHEIN Elenzya Ensemble veste et pantalon vintage royal pour femmes, 2 pièces, avec dentelle et boutons de perle, manches longues. Convient pour les sorties, Halloween, la rentrée, Y2K, le grunge, le style rétro pr.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/58/SHEIN Elenzya Ensemble veste et pantalon vintage royal pour femmes, 2 pièces, avec dentelle et boutons de perle, manches longues. Convient pour les sorties, Halloween, la rentrée, Y2K, le grunge, le style rétr (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/58/SHEIN Elenzya Ensemble veste et pantalon vintage royal pour femmes, 2 pièces, avec dentelle et boutons de perle, manches longues. Convient pour les sorties, Halloween, la rentrée, Y2K, le grunge, le style rétr (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/58/SHEIN Elenzya Ensemble veste et pantalon vintage royal pour femmes, 2 pièces, avec dentelle et boutons de perle, manches longues. Convient pour les sorties, Halloween, la rentrée, Y2K, le grunge, le style rétr (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/58/SHEIN Elenzya Ensemble veste et pantalon vintage royal pour femmes, 2 pièces, avec dentelle et boutons de perle, manches longues. Convient pour les sorties, Halloween, la rentrée, Y2K, le grunge, le style rétr (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/58/SHEIN Elenzya Ensemble veste et pantalon vintage royal pour femmes, 2 pièces, avec dentelle et boutons de perle, manches longues. Convient pour les sorties, Halloween, la rentrée, Y2K, le grunge, le style rétr (5).webp"
     ]
   },
   {
@@ -2484,14 +2484,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/59/SHEIN Elenzya Ensemble de tailleur de luxe élégant pour femme, couleur abricot. Comprend une veste blazer avec col à volants en organza pailleté et ceinture à la taille, ainsi qu'un pantalon droit. Convient pour H.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/59/SHEIN Elenzya Ensemble de tailleur de luxe élégant pour femme, couleur abricot. Comprend une veste blazer avec col à volants en organza pailleté et ceinture à la taille, ainsi qu'un pantalon droit. Convient pour H.webp",
     "images": [
-      "/vetement_femme/59/SHEIN Elenzya Ensemble de tailleur de luxe élégant pour femme, couleur abricot. Comprend une veste blazer avec col à volants en organza pailleté et ceinture à la taille, ainsi qu'un pantalon droit. Convient pour H.webp",
-      "/vetement_femme/59/SHEIN Elenzya Ensemble de tailleur de luxe élégant pour femme, couleur abricot. Comprend une veste blazer avec col à volants en organza pailleté et ceinture à la taille, ainsi qu'un pantalon droit. Convient po (1).webp",
-      "/vetement_femme/59/SHEIN Elenzya Ensemble de tailleur de luxe élégant pour femme, couleur abricot. Comprend une veste blazer avec col à volants en organza pailleté et ceinture à la taille, ainsi qu'un pantalon droit. Convient po (2).webp",
-      "/vetement_femme/59/SHEIN Elenzya Ensemble de tailleur de luxe élégant pour femme, couleur abricot. Comprend une veste blazer avec col à volants en organza pailleté et ceinture à la taille, ainsi qu'un pantalon droit. Convient po (3).webp",
-      "/vetement_femme/59/SHEIN Elenzya Ensemble de tailleur de luxe élégant pour femme, couleur abricot. Comprend une veste blazer avec col à volants en organza pailleté et ceinture à la taille, ainsi qu'un pantalon droit. Convient po (4).webp",
-      "/vetement_femme/59/SHEIN Elenzya Ensemble de tailleur de luxe élégant pour femme, couleur abricot. Comprend une veste blazer avec col à volants en organza pailleté et ceinture à la taille, ainsi qu'un pantalon droit. Convient po (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/59/SHEIN Elenzya Ensemble de tailleur de luxe élégant pour femme, couleur abricot. Comprend une veste blazer avec col à volants en organza pailleté et ceinture à la taille, ainsi qu'un pantalon droit. Convient pour H.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/59/SHEIN Elenzya Ensemble de tailleur de luxe élégant pour femme, couleur abricot. Comprend une veste blazer avec col à volants en organza pailleté et ceinture à la taille, ainsi qu'un pantalon droit. Convient po (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/59/SHEIN Elenzya Ensemble de tailleur de luxe élégant pour femme, couleur abricot. Comprend une veste blazer avec col à volants en organza pailleté et ceinture à la taille, ainsi qu'un pantalon droit. Convient po (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/59/SHEIN Elenzya Ensemble de tailleur de luxe élégant pour femme, couleur abricot. Comprend une veste blazer avec col à volants en organza pailleté et ceinture à la taille, ainsi qu'un pantalon droit. Convient po (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/59/SHEIN Elenzya Ensemble de tailleur de luxe élégant pour femme, couleur abricot. Comprend une veste blazer avec col à volants en organza pailleté et ceinture à la taille, ainsi qu'un pantalon droit. Convient po (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/59/SHEIN Elenzya Ensemble de tailleur de luxe élégant pour femme, couleur abricot. Comprend une veste blazer avec col à volants en organza pailleté et ceinture à la taille, ainsi qu'un pantalon droit. Convient po (5).webp"
     ]
   },
   {
@@ -2528,14 +2528,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/60/Elenzga Ensemble tailleur élégant pour femmes avec col châle, manches longues, décoration perlée, Top à ourlet droit et pantalon à jambe droite.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/60/Elenzga Ensemble tailleur élégant pour femmes avec col châle, manches longues, décoration perlée, Top à ourlet droit et pantalon à jambe droite.webp",
     "images": [
-      "/vetement_femme/60/Elenzga Ensemble tailleur élégant pour femmes avec col châle, manches longues, décoration perlée, Top à ourlet droit et pantalon à jambe droite.webp",
-      "/vetement_femme/60/Elenzga Ensemble tailleur élégant pour femmes avec col châle, manches longues, décoration perlée, Top à ourlet droit et pantalon à jambe droite (1).webp",
-      "/vetement_femme/60/Elenzga Ensemble tailleur élégant pour femmes avec col châle, manches longues, décoration perlée, Top à ourlet droit et pantalon à jambe droite (2).webp",
-      "/vetement_femme/60/Elenzga Ensemble tailleur élégant pour femmes avec col châle, manches longues, décoration perlée, Top à ourlet droit et pantalon à jambe droite (3).webp",
-      "/vetement_femme/60/Elenzga Ensemble tailleur élégant pour femmes avec col châle, manches longues, décoration perlée, Top à ourlet droit et pantalon à jambe droite (4).webp",
-      "/vetement_femme/60/Elenzga Ensemble tailleur élégant pour femmes avec col châle, manches longues, décoration perlée, Top à ourlet droit et pantalon à jambe droite (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/60/Elenzga Ensemble tailleur élégant pour femmes avec col châle, manches longues, décoration perlée, Top à ourlet droit et pantalon à jambe droite.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/60/Elenzga Ensemble tailleur élégant pour femmes avec col châle, manches longues, décoration perlée, Top à ourlet droit et pantalon à jambe droite (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/60/Elenzga Ensemble tailleur élégant pour femmes avec col châle, manches longues, décoration perlée, Top à ourlet droit et pantalon à jambe droite (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/60/Elenzga Ensemble tailleur élégant pour femmes avec col châle, manches longues, décoration perlée, Top à ourlet droit et pantalon à jambe droite (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/60/Elenzga Ensemble tailleur élégant pour femmes avec col châle, manches longues, décoration perlée, Top à ourlet droit et pantalon à jambe droite (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/60/Elenzga Ensemble tailleur élégant pour femmes avec col châle, manches longues, décoration perlée, Top à ourlet droit et pantalon à jambe droite (5).webp"
     ]
   },
   {
@@ -2569,14 +2569,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/61/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie .webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/61/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie .webp",
     "images": [
-      "/vetement_femme/61/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie .webp",
-      "/vetement_femme/61/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie (1).webp",
-      "/vetement_femme/61/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie (2).webp",
-      "/vetement_femme/61/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie (3).webp",
-      "/vetement_femme/61/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie (4).webp",
-      "/vetement_femme/61/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/61/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie .webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/61/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/61/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/61/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/61/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/61/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie (5).webp"
     ]
   },
   {
@@ -2613,14 +2613,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/62/Elenzga Ensemble tailleur femme 2 pièces, nouvelle veste blazer élégante blocs de couleurs Top de gamme et pantalon évasé. Convient pour le travail, les déplacements et le port au bureau au quotidien.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/62/Elenzga Ensemble tailleur femme 2 pièces, nouvelle veste blazer élégante blocs de couleurs Top de gamme et pantalon évasé. Convient pour le travail, les déplacements et le port au bureau au quotidien.webp",
     "images": [
-      "/vetement_femme/62/Elenzga Ensemble tailleur femme 2 pièces, nouvelle veste blazer élégante blocs de couleurs Top de gamme et pantalon évasé. Convient pour le travail, les déplacements et le port au bureau au quotidien.webp",
-      "/vetement_femme/62/Elenzga Ensemble tailleur femme 2 pièces, nouvelle veste blazer élégante blocs de couleurs Top de gamme et pantalon évasé. Convient pour le travail, les déplacements et le port au bureau au quotidien (1).webp",
-      "/vetement_femme/62/Elenzga Ensemble tailleur femme 2 pièces, nouvelle veste blazer élégante blocs de couleurs Top de gamme et pantalon évasé. Convient pour le travail, les déplacements et le port au bureau au quotidien (2).webp",
-      "/vetement_femme/62/Elenzga Ensemble tailleur femme 2 pièces, nouvelle veste blazer élégante blocs de couleurs Top de gamme et pantalon évasé. Convient pour le travail, les déplacements et le port au bureau au quotidien (3).webp",
-      "/vetement_femme/62/Elenzga Ensemble tailleur femme 2 pièces, nouvelle veste blazer élégante blocs de couleurs Top de gamme et pantalon évasé. Convient pour le travail, les déplacements et le port au bureau au quotidien (4).webp",
-      "/vetement_femme/62/Elenzga Ensemble tailleur femme 2 pièces, nouvelle veste blazer élégante blocs de couleurs Top de gamme et pantalon évasé. Convient pour le travail, les déplacements et le port au bureau au quotidien (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/62/Elenzga Ensemble tailleur femme 2 pièces, nouvelle veste blazer élégante blocs de couleurs Top de gamme et pantalon évasé. Convient pour le travail, les déplacements et le port au bureau au quotidien.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/62/Elenzga Ensemble tailleur femme 2 pièces, nouvelle veste blazer élégante blocs de couleurs Top de gamme et pantalon évasé. Convient pour le travail, les déplacements et le port au bureau au quotidien (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/62/Elenzga Ensemble tailleur femme 2 pièces, nouvelle veste blazer élégante blocs de couleurs Top de gamme et pantalon évasé. Convient pour le travail, les déplacements et le port au bureau au quotidien (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/62/Elenzga Ensemble tailleur femme 2 pièces, nouvelle veste blazer élégante blocs de couleurs Top de gamme et pantalon évasé. Convient pour le travail, les déplacements et le port au bureau au quotidien (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/62/Elenzga Ensemble tailleur femme 2 pièces, nouvelle veste blazer élégante blocs de couleurs Top de gamme et pantalon évasé. Convient pour le travail, les déplacements et le port au bureau au quotidien (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/62/Elenzga Ensemble tailleur femme 2 pièces, nouvelle veste blazer élégante blocs de couleurs Top de gamme et pantalon évasé. Convient pour le travail, les déplacements et le port au bureau au quotidien (5).webp"
     ]
   },
   {
@@ -2657,14 +2657,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/63/Elenzga Ensemble décontracté pour femmes composé d'une robe avec décoration de boutons de perle et d'une veste à simple boutonnage à manches longues pour soirée, affaires ou sortie.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/63/Elenzga Ensemble décontracté pour femmes composé d'une robe avec décoration de boutons de perle et d'une veste à simple boutonnage à manches longues pour soirée, affaires ou sortie.webp",
     "images": [
-      "/vetement_femme/63/Elenzga Ensemble décontracté pour femmes composé d'une robe avec décoration de boutons de perle et d'une veste à simple boutonnage à manches longues pour soirée, affaires ou sortie.webp",
-      "/vetement_femme/63/Elenzga Ensemble décontracté pour femmes composé d'une robe avec décoration de boutons de perle et d'une veste à simple boutonnage à manches longues pour soirée, affaires ou sortie (1).webp",
-      "/vetement_femme/63/Elenzga Ensemble décontracté pour femmes composé d'une robe avec décoration de boutons de perle et d'une veste à simple boutonnage à manches longues pour soirée, affaires ou sortie (2).webp",
-      "/vetement_femme/63/Elenzga Ensemble décontracté pour femmes composé d'une robe avec décoration de boutons de perle et d'une veste à simple boutonnage à manches longues pour soirée, affaires ou sortie (3).webp",
-      "/vetement_femme/63/Elenzga Ensemble décontracté pour femmes composé d'une robe avec décoration de boutons de perle et d'une veste à simple boutonnage à manches longues pour soirée, affaires ou sortie (4).webp",
-      "/vetement_femme/63/Elenzga Ensemble décontracté pour femmes composé d'une robe avec décoration de boutons de perle et d'une veste à simple boutonnage à manches longues pour soirée, affaires ou sortie(5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/63/Elenzga Ensemble décontracté pour femmes composé d'une robe avec décoration de boutons de perle et d'une veste à simple boutonnage à manches longues pour soirée, affaires ou sortie.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/63/Elenzga Ensemble décontracté pour femmes composé d'une robe avec décoration de boutons de perle et d'une veste à simple boutonnage à manches longues pour soirée, affaires ou sortie (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/63/Elenzga Ensemble décontracté pour femmes composé d'une robe avec décoration de boutons de perle et d'une veste à simple boutonnage à manches longues pour soirée, affaires ou sortie (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/63/Elenzga Ensemble décontracté pour femmes composé d'une robe avec décoration de boutons de perle et d'une veste à simple boutonnage à manches longues pour soirée, affaires ou sortie (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/63/Elenzga Ensemble décontracté pour femmes composé d'une robe avec décoration de boutons de perle et d'une veste à simple boutonnage à manches longues pour soirée, affaires ou sortie (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/63/Elenzga Ensemble décontracté pour femmes composé d'une robe avec décoration de boutons de perle et d'une veste à simple boutonnage à manches longues pour soirée, affaires ou sortie(5).webp"
     ]
   },
   {
@@ -2701,13 +2701,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/64/Firerie Ensembles de costumes pour femmes, tenues de remise de diplôme, tenues d'enseignante pour femmes, rentrée scolaire.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/64/Firerie Ensembles de costumes pour femmes, tenues de remise de diplôme, tenues d'enseignante pour femmes, rentrée scolaire.webp",
     "images": [
-      "/vetement_femme/64/Firerie Ensembles de costumes pour femmes, tenues de remise de diplôme, tenues d'enseignante pour femmes, rentrée scolaire.webp",
-      "/vetement_femme/64/Firerie Ensembles de costumes pour femmes, tenues de remise de diplôme, tenues d'enseignante pour femmes, rentrée scolaire (1).webp",
-      "/vetement_femme/64/Firerie Ensembles de costumes pour femmes, tenues de remise de diplôme, tenues d'enseignante pour femmes, rentrée scolaire (2).webp",
-      "/vetement_femme/64/Firerie Ensembles de costumes pour femmes, tenues de remise de diplôme, tenues d'enseignante pour femmes, rentrée scolaire (3).webp",
-      "/vetement_femme/64/Firerie Ensembles de costumes pour femmes, tenues de remise de diplôme, tenues d'enseignante pour femmes, rentrée scolaire (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/64/Firerie Ensembles de costumes pour femmes, tenues de remise de diplôme, tenues d'enseignante pour femmes, rentrée scolaire.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/64/Firerie Ensembles de costumes pour femmes, tenues de remise de diplôme, tenues d'enseignante pour femmes, rentrée scolaire (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/64/Firerie Ensembles de costumes pour femmes, tenues de remise de diplôme, tenues d'enseignante pour femmes, rentrée scolaire (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/64/Firerie Ensembles de costumes pour femmes, tenues de remise de diplôme, tenues d'enseignante pour femmes, rentrée scolaire (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/64/Firerie Ensembles de costumes pour femmes, tenues de remise de diplôme, tenues d'enseignante pour femmes, rentrée scolaire (4).webp"
     ]
   },
   {
@@ -2745,14 +2745,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/65/Hindelle 2 pièces Ensemble top sans manches gris et jupe longue pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/65/Hindelle 2 pièces Ensemble top sans manches gris et jupe longue pour femmes.webp",
     "images": [
-      "/vetement_femme/65/Hindelle 2 pièces Ensemble top sans manches gris et jupe longue pour femmes.webp",
-      "/vetement_femme/65/Hindelle 2 pièces Ensemble top sans manches gris et jupe longue pour femmes (1).webp",
-      "/vetement_femme/65/Hindelle 2 pièces Ensemble top sans manches gris et jupe longue pour femmes (2).webp",
-      "/vetement_femme/65/Hindelle 2 pièces Ensemble top sans manches gris et jupe longue pour femmes (3).webp",
-      "/vetement_femme/65/Hindelle 2 pièces Ensemble top sans manches gris et jupe longue pour femmes (4).webp",
-      "/vetement_femme/65/Hindelle 2 pièces Ensemble top sans manches gris et jupe longue pour femmes (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/65/Hindelle 2 pièces Ensemble top sans manches gris et jupe longue pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/65/Hindelle 2 pièces Ensemble top sans manches gris et jupe longue pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/65/Hindelle 2 pièces Ensemble top sans manches gris et jupe longue pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/65/Hindelle 2 pièces Ensemble top sans manches gris et jupe longue pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/65/Hindelle 2 pièces Ensemble top sans manches gris et jupe longue pour femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/65/Hindelle 2 pièces Ensemble top sans manches gris et jupe longue pour femmes (5).webp"
     ]
   },
   {
@@ -2789,19 +2789,19 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/66/Elenzga 2 pièces Tailleur en tweed _ Veste blazer élégante en + Robe fourreau ajustée sans manches, Tenue chic et féminine pour le printemps_l'automne.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/66/Elenzga 2 pièces Tailleur en tweed _ Veste blazer élégante en + Robe fourreau ajustée sans manches, Tenue chic et féminine pour le printemps_l'automne.webp",
     "images": [
-      "/vetement_femme/66/Elenzga 2 pièces Tailleur en tweed _ Veste blazer élégante en + Robe fourreau ajustée sans manches, Tenue chic et féminine pour le printemps_l'automne.webp",
-      "/vetement_femme/66/imageye___-_ pièces_Set Tenue de costume d'affaires élégante avec blazer + jupe fendue pour le printemps.webp",
-      "/vetement_femme/66/Elenzga 2 pièces Tailleur en tweed _ Veste blazer élégante en + Robe fourreau ajustée sans manches, Tenue chic et féminine pour le printemps_l'automne (1).webp",
-      "/vetement_femme/66/Elenzga 2 pièces Tailleur en tweed _ Veste blazer élégante en + Robe fourreau ajustée sans manches, Tenue chic et féminine pour le printemps_l'automne (2).webp",
-      "/vetement_femme/66/Elenzga 2 pièces Tailleur en tweed _ Veste blazer élégante en + Robe fourreau ajustée sans manches, Tenue chic et féminine pour le printemps_l'automne (3).webp",
-      "/vetement_femme/66/Elenzga 2 pièces Tailleur en tweed _ Veste blazer élégante en + Robe fourreau ajustée sans manches, Tenue chic et féminine pour le printemps_l'automne (4).webp",
-      "/vetement_femme/66/Elenzga 2 pièces Tailleur en tweed _ Veste blazer élégante en + Robe fourreau ajustée sans manches, Tenue chic et féminine pour le printemps_l'automne (5).webp",
-      "/vetement_femme/66/Elenzga 2 pièces Tailleur en tweed _ Veste blazer élégante en + Robe fourreau ajustée sans manches, Tenue chic et féminine pour le printemps_l'automne (6).webp",
-      "/vetement_femme/66/imageye___-_ pièces_Set Tenue de costume d'affaires élégante avec blazer + jupe fendue pour le printemps (1).webp",
-      "/vetement_femme/66/imageye___-_ pièces_Set Tenue de costume d'affaires élégante avec blazer + jupe fendue pour le printemps (2).webp",
-      "/vetement_femme/66/imageye___-_ pièces_Set Tenue de costume d'affaires élégante avec blazer + jupe fendue pour le printemps (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/66/Elenzga 2 pièces Tailleur en tweed _ Veste blazer élégante en + Robe fourreau ajustée sans manches, Tenue chic et féminine pour le printemps_l'automne.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/66/imageye___-_ pièces_Set Tenue de costume d'affaires élégante avec blazer + jupe fendue pour le printemps.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/66/Elenzga 2 pièces Tailleur en tweed _ Veste blazer élégante en + Robe fourreau ajustée sans manches, Tenue chic et féminine pour le printemps_l'automne (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/66/Elenzga 2 pièces Tailleur en tweed _ Veste blazer élégante en + Robe fourreau ajustée sans manches, Tenue chic et féminine pour le printemps_l'automne (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/66/Elenzga 2 pièces Tailleur en tweed _ Veste blazer élégante en + Robe fourreau ajustée sans manches, Tenue chic et féminine pour le printemps_l'automne (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/66/Elenzga 2 pièces Tailleur en tweed _ Veste blazer élégante en + Robe fourreau ajustée sans manches, Tenue chic et féminine pour le printemps_l'automne (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/66/Elenzga 2 pièces Tailleur en tweed _ Veste blazer élégante en + Robe fourreau ajustée sans manches, Tenue chic et féminine pour le printemps_l'automne (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/66/Elenzga 2 pièces Tailleur en tweed _ Veste blazer élégante en + Robe fourreau ajustée sans manches, Tenue chic et féminine pour le printemps_l'automne (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/66/imageye___-_ pièces_Set Tenue de costume d'affaires élégante avec blazer + jupe fendue pour le printemps (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/66/imageye___-_ pièces_Set Tenue de costume d'affaires élégante avec blazer + jupe fendue pour le printemps (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/66/imageye___-_ pièces_Set Tenue de costume d'affaires élégante avec blazer + jupe fendue pour le printemps (3).webp"
     ]
   },
   {
@@ -2838,12 +2838,12 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/67/Ellegaria. Ensemble veste et pantalon de couleur unie élégant pour le travail.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/67/Ellegaria. Ensemble veste et pantalon de couleur unie élégant pour le travail.webp",
     "images": [
-      "/vetement_femme/67/Ellegaria. Ensemble veste et pantalon de couleur unie élégant pour le travail.webp",
-      "/vetement_femme/67/Ellegaria. Ensemble veste et pantalon de couleur unie élégant pour le travail (1).webp",
-      "/vetement_femme/67/Ellegaria. Ensemble veste et pantalon de couleur unie élégant pour le travail (2).webp",
-      "/vetement_femme/67/Ellegaria. Ensemble veste et pantalon de couleur unie élégant pour le travail (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/67/Ellegaria. Ensemble veste et pantalon de couleur unie élégant pour le travail.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/67/Ellegaria. Ensemble veste et pantalon de couleur unie élégant pour le travail (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/67/Ellegaria. Ensemble veste et pantalon de couleur unie élégant pour le travail (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/67/Ellegaria. Ensemble veste et pantalon de couleur unie élégant pour le travail (3).webp"
     ]
   },
   {
@@ -2877,13 +2877,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 10,
-    "image": "/vetement_femme/68/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/68/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie.webp",
     "images": [
-      "/vetement_femme/68/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie.webp",
-      "/vetement_femme/68/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie (1).webp",
-      "/vetement_femme/68/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie (2).webp",
-      "/vetement_femme/68/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie (3).webp",
-      "/vetement_femme/68/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/68/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/68/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/68/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/68/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/68/Rafferiza Costume d'affaires ajusté pour femmes avec boucle asymétrique de style français minimaliste et couleur unie (5).webp"
     ]
   },
   {
@@ -2920,13 +2920,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 2,
-    "image": "/vetement_femme/69/HEIN Elenzya Blazer à taille cintrée en patchwork de tissu à manches courtes et pantalon droit élégant et romantique. Ensemble tailleur femme d'affaires.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/69/HEIN Elenzya Blazer à taille cintrée en patchwork de tissu à manches courtes et pantalon droit élégant et romantique. Ensemble tailleur femme d'affaires.webp",
     "images": [
-      "/vetement_femme/69/HEIN Elenzya Blazer à taille cintrée en patchwork de tissu à manches courtes et pantalon droit élégant et romantique. Ensemble tailleur femme d'affaires.webp",
-      "/vetement_femme/69/HEIN Elenzya Blazer à taille cintrée en patchwork de tissu à manches courtes et pantalon droit élégant et romantique. Ensemble tailleur femme d'affaires (1).webp",
-      "/vetement_femme/69/HEIN Elenzya Blazer à taille cintrée en patchwork de tissu à manches courtes et pantalon droit élégant et romantique. Ensemble tailleur femme d'affaires (2).webp",
-      "/vetement_femme/69/HEIN Elenzya Blazer à taille cintrée en patchwork de tissu à manches courtes et pantalon droit élégant et romantique. Ensemble tailleur femme d'affaires (3).webp",
-      "/vetement_femme/69/HEIN Elenzya Blazer à taille cintrée en patchwork de tissu à manches courtes et pantalon droit élégant et romantique. Ensemble tailleur femme d'affaires (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/69/HEIN Elenzya Blazer à taille cintrée en patchwork de tissu à manches courtes et pantalon droit élégant et romantique. Ensemble tailleur femme d'affaires.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/69/HEIN Elenzya Blazer à taille cintrée en patchwork de tissu à manches courtes et pantalon droit élégant et romantique. Ensemble tailleur femme d'affaires (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/69/HEIN Elenzya Blazer à taille cintrée en patchwork de tissu à manches courtes et pantalon droit élégant et romantique. Ensemble tailleur femme d'affaires (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/69/HEIN Elenzya Blazer à taille cintrée en patchwork de tissu à manches courtes et pantalon droit élégant et romantique. Ensemble tailleur femme d'affaires (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/69/HEIN Elenzya Blazer à taille cintrée en patchwork de tissu à manches courtes et pantalon droit élégant et romantique. Ensemble tailleur femme d'affaires (4).webp"
     ]
   },
   {
@@ -2963,12 +2963,12 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/70/2 pièces Ensemble de costume de fête sexy Elenzga _ robe bustier + veste courte. Design élégant Top de gamme pour femme.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/70/2 pièces Ensemble de costume de fête sexy Elenzga _ robe bustier + veste courte. Design élégant Top de gamme pour femme.webp",
     "images": [
-      "/vetement_femme/70/2 pièces Ensemble de costume de fête sexy Elenzga _ robe bustier + veste courte. Design élégant Top de gamme pour femme.webp",
-      "/vetement_femme/70/2 pièces Ensemble de costume de fête sexy Elenzga _ robe bustier + veste courte. Design élégant Top de gamme pour femme (1).webp",
-      "/vetement_femme/70/2 pièces Ensemble de costume de fête sexy Elenzga _ robe bustier + veste courte. Design élégant Top de gamme pour femme (2).webp",
-      "/vetement_femme/70/2 pièces Ensemble de costume de fête sexy Elenzga _ robe bustier + veste courte. Design élégant Top de gamme pour femme (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/70/2 pièces Ensemble de costume de fête sexy Elenzga _ robe bustier + veste courte. Design élégant Top de gamme pour femme.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/70/2 pièces Ensemble de costume de fête sexy Elenzga _ robe bustier + veste courte. Design élégant Top de gamme pour femme (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/70/2 pièces Ensemble de costume de fête sexy Elenzga _ robe bustier + veste courte. Design élégant Top de gamme pour femme (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/70/2 pièces Ensemble de costume de fête sexy Elenzga _ robe bustier + veste courte. Design élégant Top de gamme pour femme (3).webp"
     ]
   },
   {
@@ -3005,12 +3005,12 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/71/EURMUSE Ensemble élégant de blazer à col irrégulier et de pantalon avec dentelle contrastante et manches longues pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/71/EURMUSE Ensemble élégant de blazer à col irrégulier et de pantalon avec dentelle contrastante et manches longues pour femmes.webp",
     "images": [
-      "/vetement_femme/71/EURMUSE Ensemble élégant de blazer à col irrégulier et de pantalon avec dentelle contrastante et manches longues pour femmes.webp",
-      "/vetement_femme/71/EURMUSE Ensemble élégant de blazer à col irrégulier et de pantalon avec dentelle contrastante et manches longues pour femmes (1).webp",
-      "/vetement_femme/71/EURMUSE Ensemble élégant de blazer à col irrégulier et de pantalon avec dentelle contrastante et manches longues pour femmes (2).webp",
-      "/vetement_femme/71/EURMUSE Ensemble élégant de blazer à col irrégulier et de pantalon avec dentelle contrastante et manches longues pour femmes (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/71/EURMUSE Ensemble élégant de blazer à col irrégulier et de pantalon avec dentelle contrastante et manches longues pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/71/EURMUSE Ensemble élégant de blazer à col irrégulier et de pantalon avec dentelle contrastante et manches longues pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/71/EURMUSE Ensemble élégant de blazer à col irrégulier et de pantalon avec dentelle contrastante et manches longues pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/71/EURMUSE Ensemble élégant de blazer à col irrégulier et de pantalon avec dentelle contrastante et manches longues pour femmes (3).webp"
     ]
   },
   {
@@ -3047,12 +3047,12 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/72/SHEIN x Lina SHEIN SXY Ensemble tailleur simple, élégant et sexy en noir unicolore - Gilet ajusté asymétrique sans manches et jupe plissée mini 2 pièces, convient pour les rendez-vous, les réunions, les anniversai.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/72/SHEIN x Lina SHEIN SXY Ensemble tailleur simple, élégant et sexy en noir unicolore - Gilet ajusté asymétrique sans manches et jupe plissée mini 2 pièces, convient pour les rendez-vous, les réunions, les anniversai.webp",
     "images": [
-      "/vetement_femme/72/SHEIN x Lina SHEIN SXY Ensemble tailleur simple, élégant et sexy en noir unicolore - Gilet ajusté asymétrique sans manches et jupe plissée mini 2 pièces, convient pour les rendez-vous, les réunions, les anniversai.webp",
-      "/vetement_femme/72/SHEIN x Lina SHEIN SXY Ensemble tailleur simple, élégant et sexy en noir unicolore - Gilet ajusté asymétrique sans manches et jupe plissée mini 2 pièces, convient pour les rendez-vous, les réunions, les annive (1).webp",
-      "/vetement_femme/72/SHEIN x Lina SHEIN SXY Ensemble tailleur simple, élégant et sexy en noir unicolore - Gilet ajusté asymétrique sans manches et jupe plissée mini 2 pièces, convient pour les rendez-vous, les réunions, les annive (2).webp",
-      "/vetement_femme/72/SHEIN x Lina SHEIN SXY Ensemble tailleur simple, élégant et sexy en noir unicolore - Gilet ajusté asymétrique sans manches et jupe plissée mini 2 pièces, convient pour les rendez-vous, les réunions, les annive (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/72/SHEIN x Lina SHEIN SXY Ensemble tailleur simple, élégant et sexy en noir unicolore - Gilet ajusté asymétrique sans manches et jupe plissée mini 2 pièces, convient pour les rendez-vous, les réunions, les anniversai.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/72/SHEIN x Lina SHEIN SXY Ensemble tailleur simple, élégant et sexy en noir unicolore - Gilet ajusté asymétrique sans manches et jupe plissée mini 2 pièces, convient pour les rendez-vous, les réunions, les annive (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/72/SHEIN x Lina SHEIN SXY Ensemble tailleur simple, élégant et sexy en noir unicolore - Gilet ajusté asymétrique sans manches et jupe plissée mini 2 pièces, convient pour les rendez-vous, les réunions, les annive (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/72/SHEIN x Lina SHEIN SXY Ensemble tailleur simple, élégant et sexy en noir unicolore - Gilet ajusté asymétrique sans manches et jupe plissée mini 2 pièces, convient pour les rendez-vous, les réunions, les annive (3).webp"
     ]
   },
   {
@@ -3087,14 +3087,14 @@ export const vetement_femme = [
       "44"
     ],
     "minOrder": 15,
-    "image": "/vetement_femme/73/Alexandranx Gilet blazer boutonné unicolore à l'avant et shorts.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/73/Alexandranx Gilet blazer boutonné unicolore à l'avant et shorts.webp",
     "images": [
-      "/vetement_femme/73/Alexandranx Gilet blazer boutonné unicolore à l'avant et shorts.webp",
-      "/vetement_femme/73/Alexandranx Gilet blazer boutonné unicolore à l'avant et shorts (1).webp",
-      "/vetement_femme/73/Alexandranx Gilet blazer boutonné unicolore à l'avant et shorts (2).webp",
-      "/vetement_femme/73/Alexandranx Gilet blazer boutonné unicolore à l'avant et shorts (3).webp",
-      "/vetement_femme/73/Alexandranx Gilet blazer boutonné unicolore à l'avant et shorts (4).webp",
-      "/vetement_femme/73/Alexandranx Gilet blazer boutonné unicolore à l'avant et shorts (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/73/Alexandranx Gilet blazer boutonné unicolore à l'avant et shorts.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/73/Alexandranx Gilet blazer boutonné unicolore à l'avant et shorts (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/73/Alexandranx Gilet blazer boutonné unicolore à l'avant et shorts (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/73/Alexandranx Gilet blazer boutonné unicolore à l'avant et shorts (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/73/Alexandranx Gilet blazer boutonné unicolore à l'avant et shorts (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/73/Alexandranx Gilet blazer boutonné unicolore à l'avant et shorts (5).webp"
     ]
   },
   {
@@ -3132,12 +3132,12 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/74/SHEIN Lady Ensemble femme comprenant un blazer rose à manches volantées et un pantalon stretch à taille élastique.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/74/SHEIN Lady Ensemble femme comprenant un blazer rose à manches volantées et un pantalon stretch à taille élastique.webp",
     "images": [
-      "/vetement_femme/74/SHEIN Lady Ensemble femme comprenant un blazer rose à manches volantées et un pantalon stretch à taille élastique.webp",
-      "/vetement_femme/74/SHEIN Lady Ensemble femme comprenant un blazer rose à manches volantées et un pantalon stretch à taille élastique (1).webp",
-      "/vetement_femme/74/SHEIN Lady Ensemble femme comprenant un blazer rose à manches volantées et un pantalon stretch à taille élastique (2).webp",
-      "/vetement_femme/74/SHEIN Lady Ensemble femme comprenant un blazer rose à manches volantées et un pantalon stretch à taille élastique (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/74/SHEIN Lady Ensemble femme comprenant un blazer rose à manches volantées et un pantalon stretch à taille élastique.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/74/SHEIN Lady Ensemble femme comprenant un blazer rose à manches volantées et un pantalon stretch à taille élastique (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/74/SHEIN Lady Ensemble femme comprenant un blazer rose à manches volantées et un pantalon stretch à taille élastique (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/74/SHEIN Lady Ensemble femme comprenant un blazer rose à manches volantées et un pantalon stretch à taille élastique (3).webp"
     ]
   },
   {
@@ -3174,15 +3174,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/75/SHEIN Lady Ensemble deux pièces pour femme, costume blanc, tenue de bureau décontractée, tenue de mariage en tant qu'invité, pour les saisons automne_hiver.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/75/SHEIN Lady Ensemble deux pièces pour femme, costume blanc, tenue de bureau décontractée, tenue de mariage en tant qu'invité, pour les saisons automne_hiver.webp",
     "images": [
-      "/vetement_femme/75/SHEIN Lady Ensemble deux pièces pour femme, costume blanc, tenue de bureau décontractée, tenue de mariage en tant qu'invité, pour les saisons automne_hiver.webp",
-      "/vetement_femme/75/SHEIN Lady Ensemble deux pièces pour femme, costume blanc, tenue de bureau décontractée, tenue de mariage en tant qu'invité, pour les saisons automne_hiver (1).webp",
-      "/vetement_femme/75/SHEIN Lady Ensemble deux pièces pour femme, costume blanc, tenue de bureau décontractée, tenue de mariage en tant qu'invité, pour les saisons automne_hiver (2).webp",
-      "/vetement_femme/75/SHEIN Lady Ensemble deux pièces pour femme, costume blanc, tenue de bureau décontractée, tenue de mariage en tant qu'invité, pour les saisons automne_hiver (3).webp",
-      "/vetement_femme/75/SHEIN Lady Ensemble deux pièces pour femme, costume blanc, tenue de bureau décontractée, tenue de mariage en tant qu'invité, pour les saisons automne_hiver (4).webp",
-      "/vetement_femme/75/SHEIN Lady Ensemble deux pièces pour femme, costume blanc, tenue de bureau décontractée, tenue de mariage en tant qu'invité, pour les saisons automne_hiver (5).webp",
-      "/vetement_femme/75/SHEIN Lady Ensemble deux pièces pour femme, costume blanc, tenue de bureau décontractée, tenue de mariage en tant qu'invité, pour les saisons automne_hiver (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/75/SHEIN Lady Ensemble deux pièces pour femme, costume blanc, tenue de bureau décontractée, tenue de mariage en tant qu'invité, pour les saisons automne_hiver.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/75/SHEIN Lady Ensemble deux pièces pour femme, costume blanc, tenue de bureau décontractée, tenue de mariage en tant qu'invité, pour les saisons automne_hiver (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/75/SHEIN Lady Ensemble deux pièces pour femme, costume blanc, tenue de bureau décontractée, tenue de mariage en tant qu'invité, pour les saisons automne_hiver (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/75/SHEIN Lady Ensemble deux pièces pour femme, costume blanc, tenue de bureau décontractée, tenue de mariage en tant qu'invité, pour les saisons automne_hiver (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/75/SHEIN Lady Ensemble deux pièces pour femme, costume blanc, tenue de bureau décontractée, tenue de mariage en tant qu'invité, pour les saisons automne_hiver (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/75/SHEIN Lady Ensemble deux pièces pour femme, costume blanc, tenue de bureau décontractée, tenue de mariage en tant qu'invité, pour les saisons automne_hiver (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/75/SHEIN Lady Ensemble deux pièces pour femme, costume blanc, tenue de bureau décontractée, tenue de mariage en tant qu'invité, pour les saisons automne_hiver (6).webp"
     ]
   },
   {
@@ -3219,14 +3219,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/76/GlowEve Ensemble élégant pour femmes composé d'un blazer avec taille cintrée abricot et d'une jupe maxi en maille.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/76/GlowEve Ensemble élégant pour femmes composé d'un blazer avec taille cintrée abricot et d'une jupe maxi en maille.webp",
     "images": [
-      "/vetement_femme/76/GlowEve Ensemble élégant pour femmes composé d'un blazer avec taille cintrée abricot et d'une jupe maxi en maille.webp",
-      "/vetement_femme/76/GlowEve Ensemble élégant pour femmes composé d'un blazer avec taille cintrée abricot et d'une jupe maxi en maille (1).webp",
-      "/vetement_femme/76/GlowEve Ensemble élégant pour femmes composé d'un blazer avec taille cintrée abricot et d'une jupe maxi en maille (2).webp",
-      "/vetement_femme/76/GlowEve Ensemble élégant pour femmes composé d'un blazer avec taille cintrée abricot et d'une jupe maxi en maille (3).webp",
-      "/vetement_femme/76/GlowEve Ensemble élégant pour femmes composé d'un blazer avec taille cintrée abricot et d'une jupe maxi en maille (4).webp",
-      "/vetement_femme/76/GlowEve Ensemble élégant pour femmes composé d'un blazer avec taille cintrée abricot et d'une jupe maxi en maille (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/76/GlowEve Ensemble élégant pour femmes composé d'un blazer avec taille cintrée abricot et d'une jupe maxi en maille.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/76/GlowEve Ensemble élégant pour femmes composé d'un blazer avec taille cintrée abricot et d'une jupe maxi en maille (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/76/GlowEve Ensemble élégant pour femmes composé d'un blazer avec taille cintrée abricot et d'une jupe maxi en maille (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/76/GlowEve Ensemble élégant pour femmes composé d'un blazer avec taille cintrée abricot et d'une jupe maxi en maille (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/76/GlowEve Ensemble élégant pour femmes composé d'un blazer avec taille cintrée abricot et d'une jupe maxi en maille (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/76/GlowEve Ensemble élégant pour femmes composé d'un blazer avec taille cintrée abricot et d'une jupe maxi en maille (5).webp"
     ]
   },
   {
@@ -3263,14 +3263,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/77/SHEIN SXY Ensemble costume avec blazer rembourré à bordure de couleur contrastée et pantalon.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/77/SHEIN SXY Ensemble costume avec blazer rembourré à bordure de couleur contrastée et pantalon.webp",
     "images": [
-      "/vetement_femme/77/SHEIN SXY Ensemble costume avec blazer rembourré à bordure de couleur contrastée et pantalon.webp",
-      "/vetement_femme/77/SHEIN SXY Ensemble costume avec blazer rembourré à bordure de couleur contrastée et pantalon (1).webp",
-      "/vetement_femme/77/SHEIN SXY Ensemble costume avec blazer rembourré à bordure de couleur contrastée et pantalon (2).webp",
-      "/vetement_femme/77/SHEIN SXY Ensemble costume avec blazer rembourré à bordure de couleur contrastée et pantalon (3).webp",
-      "/vetement_femme/77/SHEIN SXY Ensemble costume avec blazer rembourré à bordure de couleur contrastée et pantalon (4).webp",
-      "/vetement_femme/77/SHEIN SXY Ensemble costume avec blazer rembourré à bordure de couleur contrastée et pantalon (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/77/SHEIN SXY Ensemble costume avec blazer rembourré à bordure de couleur contrastée et pantalon.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/77/SHEIN SXY Ensemble costume avec blazer rembourré à bordure de couleur contrastée et pantalon (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/77/SHEIN SXY Ensemble costume avec blazer rembourré à bordure de couleur contrastée et pantalon (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/77/SHEIN SXY Ensemble costume avec blazer rembourré à bordure de couleur contrastée et pantalon (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/77/SHEIN SXY Ensemble costume avec blazer rembourré à bordure de couleur contrastée et pantalon (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/77/SHEIN SXY Ensemble costume avec blazer rembourré à bordure de couleur contrastée et pantalon (5).webp"
     ]
   },
   {
@@ -3307,11 +3307,11 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 2,
-    "image": "/vetement_femme/78/Ensemble tailleur élégant pour femmes avec col châle à boutons devant, couleur unie. Convient pour le trajet, les affaires et le port quotidien décontracté au printempsEnsemble tailleur élégant pour femmes avec co.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/78/Ensemble tailleur élégant pour femmes avec col châle à boutons devant, couleur unie. Convient pour le trajet, les affaires et le port quotidien décontracté au printempsEnsemble tailleur élégant pour femmes avec co.webp",
     "images": [
-      "/vetement_femme/78/Ensemble tailleur élégant pour femmes avec col châle à boutons devant, couleur unie. Convient pour le trajet, les affaires et le port quotidien décontracté au printempsEnsemble tailleur élégant pour femmes avec co.webp",
-      "/vetement_femme/78/Ensemble tailleur élégant pour femmes avec col châle à boutons devant, couleur unie. Convient pour le trajet, les affaires et le port quotidien décontracté au printempsEnsemble tailleur élégant pour femmes ave (1).webp",
-      "/vetement_femme/78/Ensemble tailleur élégant pour femmes avec col châle à boutons devant, couleur unie. Convient pour le trajet, les affaires et le port quotidien décontracté au printempsEnsemble tailleur élégant pour femmes ave (2).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/78/Ensemble tailleur élégant pour femmes avec col châle à boutons devant, couleur unie. Convient pour le trajet, les affaires et le port quotidien décontracté au printempsEnsemble tailleur élégant pour femmes avec co.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/78/Ensemble tailleur élégant pour femmes avec col châle à boutons devant, couleur unie. Convient pour le trajet, les affaires et le port quotidien décontracté au printempsEnsemble tailleur élégant pour femmes ave (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/78/Ensemble tailleur élégant pour femmes avec col châle à boutons devant, couleur unie. Convient pour le trajet, les affaires et le port quotidien décontracté au printempsEnsemble tailleur élégant pour femmes ave (2).webp"
     ]
   },
   {
@@ -3347,15 +3347,15 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/79/MOTF PREMIUM Pantalon de costume à jambes larges avec couture frontale en tweed unicolore.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/79/MOTF PREMIUM Pantalon de costume à jambes larges avec couture frontale en tweed unicolore.webp",
     "images": [
-      "/vetement_femme/79/MOTF PREMIUM Pantalon de costume à jambes larges avec couture frontale en tweed unicolore.webp",
-      "/vetement_femme/79/MOTF PREMIUM Pantalon de costume à jambes larges avec couture frontale en tweed unicolore (1).webp",
-      "/vetement_femme/79/MOTF PREMIUM Pantalon de costume à jambes larges avec couture frontale en tweed unicolore (2).webp",
-      "/vetement_femme/79/MOTF PREMIUM Pantalon de costume à jambes larges avec couture frontale en tweed unicolore (3).webp",
-      "/vetement_femme/79/MOTF PREMIUM Pantalon de costume à jambes larges avec couture frontale en tweed unicolore (4).webp",
-      "/vetement_femme/79/MOTF PREMIUM Pantalon de costume à jambes larges avec couture frontale en tweed unicolore (5).webp",
-      "/vetement_femme/79/MOTF PREMIUM Pantalon de costume à jambes larges avec couture frontale en tweed unicolore (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/79/MOTF PREMIUM Pantalon de costume à jambes larges avec couture frontale en tweed unicolore.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/79/MOTF PREMIUM Pantalon de costume à jambes larges avec couture frontale en tweed unicolore (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/79/MOTF PREMIUM Pantalon de costume à jambes larges avec couture frontale en tweed unicolore (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/79/MOTF PREMIUM Pantalon de costume à jambes larges avec couture frontale en tweed unicolore (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/79/MOTF PREMIUM Pantalon de costume à jambes larges avec couture frontale en tweed unicolore (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/79/MOTF PREMIUM Pantalon de costume à jambes larges avec couture frontale en tweed unicolore (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/79/MOTF PREMIUM Pantalon de costume à jambes larges avec couture frontale en tweed unicolore (6).webp"
     ]
   },
   {
@@ -3392,15 +3392,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/80/CLARA VERO Ensemble tailleur femme avec blazer à taille cintrée à manches longues_.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/80/CLARA VERO Ensemble tailleur femme avec blazer à taille cintrée à manches longues_.webp",
     "images": [
-      "/vetement_femme/80/CLARA VERO Ensemble tailleur femme avec blazer à taille cintrée à manches longues_.webp",
-      "/vetement_femme/80/CLARA VERO Ensemble tailleur femme avec blazer à taille cintrée à manches longues_ (1).webp",
-      "/vetement_femme/80/CLARA VERO Ensemble tailleur femme avec blazer à taille cintrée à manches longues_ (2).webp",
-      "/vetement_femme/80/CLARA VERO Ensemble tailleur femme avec blazer à taille cintrée à manches longues_ (3).webp",
-      "/vetement_femme/80/CLARA VERO Ensemble tailleur femme avec blazer à taille cintrée à manches longues_ (4).webp",
-      "/vetement_femme/80/CLARA VERO Ensemble tailleur femme avec blazer à taille cintrée à manches longues_ (5).webp",
-      "/vetement_femme/80/CLARA VERO Ensemble tailleur femme avec blazer à taille cintrée à manches longues_ (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/80/CLARA VERO Ensemble tailleur femme avec blazer à taille cintrée à manches longues_.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/80/CLARA VERO Ensemble tailleur femme avec blazer à taille cintrée à manches longues_ (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/80/CLARA VERO Ensemble tailleur femme avec blazer à taille cintrée à manches longues_ (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/80/CLARA VERO Ensemble tailleur femme avec blazer à taille cintrée à manches longues_ (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/80/CLARA VERO Ensemble tailleur femme avec blazer à taille cintrée à manches longues_ (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/80/CLARA VERO Ensemble tailleur femme avec blazer à taille cintrée à manches longues_ (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/80/CLARA VERO Ensemble tailleur femme avec blazer à taille cintrée à manches longues_ (6).webp"
     ]
   },
   {
@@ -3437,11 +3437,11 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/81/Jeta Ari Ensemble de costume d'affaires de base pour le travail quotidien, avec veste à col cranté et pantalon, pour l'automne_l'hiver pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/81/Jeta Ari Ensemble de costume d'affaires de base pour le travail quotidien, avec veste à col cranté et pantalon, pour l'automne_l'hiver pour femmes.webp",
     "images": [
-      "/vetement_femme/81/Jeta Ari Ensemble de costume d'affaires de base pour le travail quotidien, avec veste à col cranté et pantalon, pour l'automne_l'hiver pour femmes.webp",
-      "/vetement_femme/81/Jeta Ari Ensemble de costume d'affaires de base pour le travail quotidien, avec veste à col cranté et pantalon, pour l'automne_l'hiver pour femmes (1).webp",
-      "/vetement_femme/81/Jeta Ari Ensemble de costume d'affaires de base pour le travail quotidien, avec veste à col cranté et pantalon, pour l'automne_l'hiver pour femmes (2).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/81/Jeta Ari Ensemble de costume d'affaires de base pour le travail quotidien, avec veste à col cranté et pantalon, pour l'automne_l'hiver pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/81/Jeta Ari Ensemble de costume d'affaires de base pour le travail quotidien, avec veste à col cranté et pantalon, pour l'automne_l'hiver pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/81/Jeta Ari Ensemble de costume d'affaires de base pour le travail quotidien, avec veste à col cranté et pantalon, pour l'automne_l'hiver pour femmes (2).webp"
     ]
   },
   {
@@ -3476,11 +3476,11 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/82/Robe longue élégante en tricot à dos nu et coupe évasée pour femmes, décorée de bretelles spaghetti et d'un ourlet évasé, design décolleté bateau sans manches pour soirée, mariage, printemps.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/82/Robe longue élégante en tricot à dos nu et coupe évasée pour femmes, décorée de bretelles spaghetti et d'un ourlet évasé, design décolleté bateau sans manches pour soirée, mariage, printemps.webp",
     "images": [
-      "/vetement_femme/82/Robe longue élégante en tricot à dos nu et coupe évasée pour femmes, décorée de bretelles spaghetti et d'un ourlet évasé, design décolleté bateau sans manches pour soirée, mariage, printemps.webp",
-      "/vetement_femme/82/Robe longue élégante en tricot à dos nu et coupe évasée pour femmes, décorée de bretelles spaghetti et d'un ourlet évasé, design décolleté bateau sans manches pour soirée, mariage, printemps (1).webp",
-      "/vetement_femme/82/Robe longue élégante en tricot à dos nu et coupe évasée pour femmes, décorée de bretelles spaghetti et d'un ourlet évasé, design décolleté bateau sans manches pour soirée, mariage, printemps (2).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/82/Robe longue élégante en tricot à dos nu et coupe évasée pour femmes, décorée de bretelles spaghetti et d'un ourlet évasé, design décolleté bateau sans manches pour soirée, mariage, printemps.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/82/Robe longue élégante en tricot à dos nu et coupe évasée pour femmes, décorée de bretelles spaghetti et d'un ourlet évasé, design décolleté bateau sans manches pour soirée, mariage, printemps (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/82/Robe longue élégante en tricot à dos nu et coupe évasée pour femmes, décorée de bretelles spaghetti et d'un ourlet évasé, design décolleté bateau sans manches pour soirée, mariage, printemps (2).webp"
     ]
   },
   {
@@ -3515,11 +3515,11 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/83/Robe de soirée longue à volants et épaules dénudées pour femmes, jupe taille haute style A-line, convient pour les rendez-vous, les fêtes, les mariages, les demoiselles d'honneur, les remises de diplômes, les invi.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/83/Robe de soirée longue à volants et épaules dénudées pour femmes, jupe taille haute style A-line, convient pour les rendez-vous, les fêtes, les mariages, les demoiselles d'honneur, les remises de diplômes, les invi.webp",
     "images": [
-      "/vetement_femme/83/Robe de soirée longue à volants et épaules dénudées pour femmes, jupe taille haute style A-line, convient pour les rendez-vous, les fêtes, les mariages, les demoiselles d'honneur, les remises de diplômes, les invi.webp",
-      "/vetement_femme/83/Robe de soirée longue à volants et épaules dénudées pour femmes, jupe taille haute style A-line, convient pour les rendez-vous, les fêtes, les mariages, les demoiselles d'honneur, les remises de diplômes, les  (1).webp",
-      "/vetement_femme/83/Robe de soirée longue à volants et épaules dénudées pour femmes, jupe taille haute style A-line, convient pour les rendez-vous, les fêtes, les mariages, les demoiselles d'honneur, les remises de diplômes, les  (2).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/83/Robe de soirée longue à volants et épaules dénudées pour femmes, jupe taille haute style A-line, convient pour les rendez-vous, les fêtes, les mariages, les demoiselles d'honneur, les remises de diplômes, les invi.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/83/Robe de soirée longue à volants et épaules dénudées pour femmes, jupe taille haute style A-line, convient pour les rendez-vous, les fêtes, les mariages, les demoiselles d'honneur, les remises de diplômes, les  (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/83/Robe de soirée longue à volants et épaules dénudées pour femmes, jupe taille haute style A-line, convient pour les rendez-vous, les fêtes, les mariages, les demoiselles d'honneur, les remises de diplômes, les  (2).webp"
     ]
   },
   {
@@ -3555,14 +3555,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/84/SHEIN Belle Robe de demoiselle d'honneur avec épaules dénudées, froncée et fendue à la cuisse, de couleur bordeaux. Robe de soirée pour invité de mariage, robe cocktail.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/84/SHEIN Belle Robe de demoiselle d'honneur avec épaules dénudées, froncée et fendue à la cuisse, de couleur bordeaux. Robe de soirée pour invité de mariage, robe cocktail.webp",
     "images": [
-      "/vetement_femme/84/SHEIN Belle Robe de demoiselle d'honneur avec épaules dénudées, froncée et fendue à la cuisse, de couleur bordeaux. Robe de soirée pour invité de mariage, robe cocktail.webp",
-      "/vetement_femme/84/SHEIN Belle Robe de demoiselle d'honneur avec épaules dénudées, froncée et fendue à la cuisse, de couleur bordeaux. Robe de soirée pour invité de mariage, robe cocktail (1).webp",
-      "/vetement_femme/84/SHEIN Belle Robe de demoiselle d'honneur avec épaules dénudées, froncée et fendue à la cuisse, de couleur bordeaux. Robe de soirée pour invité de mariage, robe cocktail (2).webp",
-      "/vetement_femme/84/SHEIN Belle Robe de demoiselle d'honneur avec épaules dénudées, froncée et fendue à la cuisse, de couleur bordeaux. Robe de soirée pour invité de mariage, robe cocktail (3).webp",
-      "/vetement_femme/84/SHEIN Belle Robe de demoiselle d'honneur avec épaules dénudées, froncée et fendue à la cuisse, de couleur bordeaux. Robe de soirée pour invité de mariage, robe cocktail (4).webp",
-      "/vetement_femme/84/SHEIN Belle Robe de demoiselle d'honneur avec épaules dénudées, froncée et fendue à la cuisse, de couleur bordeaux. Robe de soirée pour invité de mariage, robe cocktail (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/84/SHEIN Belle Robe de demoiselle d'honneur avec épaules dénudées, froncée et fendue à la cuisse, de couleur bordeaux. Robe de soirée pour invité de mariage, robe cocktail.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/84/SHEIN Belle Robe de demoiselle d'honneur avec épaules dénudées, froncée et fendue à la cuisse, de couleur bordeaux. Robe de soirée pour invité de mariage, robe cocktail (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/84/SHEIN Belle Robe de demoiselle d'honneur avec épaules dénudées, froncée et fendue à la cuisse, de couleur bordeaux. Robe de soirée pour invité de mariage, robe cocktail (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/84/SHEIN Belle Robe de demoiselle d'honneur avec épaules dénudées, froncée et fendue à la cuisse, de couleur bordeaux. Robe de soirée pour invité de mariage, robe cocktail (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/84/SHEIN Belle Robe de demoiselle d'honneur avec épaules dénudées, froncée et fendue à la cuisse, de couleur bordeaux. Robe de soirée pour invité de mariage, robe cocktail (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/84/SHEIN Belle Robe de demoiselle d'honneur avec épaules dénudées, froncée et fendue à la cuisse, de couleur bordeaux. Robe de soirée pour invité de mariage, robe cocktail (5).webp"
     ]
   },
   {
@@ -3597,12 +3597,12 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/85/ADYCE Robe de cocktail mi-longue élégante avec épaules dénudées, croisée dans le dos et nouée devant.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/85/ADYCE Robe de cocktail mi-longue élégante avec épaules dénudées, croisée dans le dos et nouée devant.webp",
     "images": [
-      "/vetement_femme/85/ADYCE Robe de cocktail mi-longue élégante avec épaules dénudées, croisée dans le dos et nouée devant.webp",
-      "/vetement_femme/85/ADYCE Robe de cocktail mi-longue élégante avec épaules dénudées, croisée dans le dos et nouée devant (1).webp",
-      "/vetement_femme/85/ADYCE Robe de cocktail mi-longue élégante avec épaules dénudées, croisée dans le dos et nouée devant (2).webp",
-      "/vetement_femme/85/ADYCE Robe de cocktail mi-longue élégante avec épaules dénudées, croisée dans le dos et nouée devant (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/85/ADYCE Robe de cocktail mi-longue élégante avec épaules dénudées, croisée dans le dos et nouée devant.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/85/ADYCE Robe de cocktail mi-longue élégante avec épaules dénudées, croisée dans le dos et nouée devant (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/85/ADYCE Robe de cocktail mi-longue élégante avec épaules dénudées, croisée dans le dos et nouée devant (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/85/ADYCE Robe de cocktail mi-longue élégante avec épaules dénudées, croisée dans le dos et nouée devant (3).webp"
     ]
   },
   {
@@ -3637,14 +3637,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/86/ADYCE Robe maxi élégante pour femmes avec patchwork de sequins, bretelles épaisses, taille haute plissée, fente haute dans le dos, convenant pour le bal de promo, les invités de mariage, le retour au lycée, les so.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/86/ADYCE Robe maxi élégante pour femmes avec patchwork de sequins, bretelles épaisses, taille haute plissée, fente haute dans le dos, convenant pour le bal de promo, les invités de mariage, le retour au lycée, les so.webp",
     "images": [
-      "/vetement_femme/86/ADYCE Robe maxi élégante pour femmes avec patchwork de sequins, bretelles épaisses, taille haute plissée, fente haute dans le dos, convenant pour le bal de promo, les invités de mariage, le retour au lycée, les so.webp",
-      "/vetement_femme/86/ADYCE Robe maxi élégante pour femmes avec patchwork de sequins, bretelles épaisses, taille haute plissée, fente haute dans le dos, convenant pour le bal de promo, les invités de mariage, le retour au lycée, le (1).webp",
-      "/vetement_femme/86/ADYCE Robe maxi élégante pour femmes avec patchwork de sequins, bretelles épaisses, taille haute plissée, fente haute dans le dos, convenant pour le bal de promo, les invités de mariage, le retour au lycée, le (2).webp",
-      "/vetement_femme/86/ADYCE Robe maxi élégante pour femmes avec patchwork de sequins, bretelles épaisses, taille haute plissée, fente haute dans le dos, convenant pour le bal de promo, les invités de mariage, le retour au lycée, le (3).webp",
-      "/vetement_femme/86/ADYCE Robe maxi élégante pour femmes avec patchwork de sequins, bretelles épaisses, taille haute plissée, fente haute dans le dos, convenant pour le bal de promo, les invités de mariage, le retour au lycée, le (4).webp",
-      "/vetement_femme/86/ADYCE Robe maxi élégante pour femmes avec patchwork de sequins, bretelles épaisses, taille haute plissée, fente haute dans le dos, convenant pour le bal de promo, les invités de mariage, le retour au lycée, le (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/86/ADYCE Robe maxi élégante pour femmes avec patchwork de sequins, bretelles épaisses, taille haute plissée, fente haute dans le dos, convenant pour le bal de promo, les invités de mariage, le retour au lycée, les so.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/86/ADYCE Robe maxi élégante pour femmes avec patchwork de sequins, bretelles épaisses, taille haute plissée, fente haute dans le dos, convenant pour le bal de promo, les invités de mariage, le retour au lycée, le (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/86/ADYCE Robe maxi élégante pour femmes avec patchwork de sequins, bretelles épaisses, taille haute plissée, fente haute dans le dos, convenant pour le bal de promo, les invités de mariage, le retour au lycée, le (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/86/ADYCE Robe maxi élégante pour femmes avec patchwork de sequins, bretelles épaisses, taille haute plissée, fente haute dans le dos, convenant pour le bal de promo, les invités de mariage, le retour au lycée, le (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/86/ADYCE Robe maxi élégante pour femmes avec patchwork de sequins, bretelles épaisses, taille haute plissée, fente haute dans le dos, convenant pour le bal de promo, les invités de mariage, le retour au lycée, le (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/86/ADYCE Robe maxi élégante pour femmes avec patchwork de sequins, bretelles épaisses, taille haute plissée, fente haute dans le dos, convenant pour le bal de promo, les invités de mariage, le retour au lycée, le (5).webp"
     ]
   },
   {
@@ -3679,11 +3679,11 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/87/Faeriesty Robe pailletée glamour, jupe en mousseline à plusieurs couches, design à fente haute _ Robe de soirée de luxe convenant pour les galas formels, les mariages et les fêtes de Cannes. Élégante soirée de pri.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/87/Faeriesty Robe pailletée glamour, jupe en mousseline à plusieurs couches, design à fente haute _ Robe de soirée de luxe convenant pour les galas formels, les mariages et les fêtes de Cannes. Élégante soirée de pri.webp",
     "images": [
-      "/vetement_femme/87/Faeriesty Robe pailletée glamour, jupe en mousseline à plusieurs couches, design à fente haute _ Robe de soirée de luxe convenant pour les galas formels, les mariages et les fêtes de Cannes. Élégante soirée de pri.webp",
-      "/vetement_femme/87/Faeriesty Robe pailletée glamour, jupe en mousseline à plusieurs couches, design à fente haute _ Robe de soirée de luxe convenant pour les galas formels, les mariages et les fêtes de Cannes. Élégante soirée de (1).webp",
-      "/vetement_femme/87/Faeriesty Robe pailletée glamour, jupe en mousseline à plusieurs couches, design à fente haute _ Robe de soirée de luxe convenant pour les galas formels, les mariages et les fêtes de Cannes. Élégante soirée de (2).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/87/Faeriesty Robe pailletée glamour, jupe en mousseline à plusieurs couches, design à fente haute _ Robe de soirée de luxe convenant pour les galas formels, les mariages et les fêtes de Cannes. Élégante soirée de pri.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/87/Faeriesty Robe pailletée glamour, jupe en mousseline à plusieurs couches, design à fente haute _ Robe de soirée de luxe convenant pour les galas formels, les mariages et les fêtes de Cannes. Élégante soirée de (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/87/Faeriesty Robe pailletée glamour, jupe en mousseline à plusieurs couches, design à fente haute _ Robe de soirée de luxe convenant pour les galas formels, les mariages et les fêtes de Cannes. Élégante soirée de (2).webp"
     ]
   },
   {
@@ -3719,15 +3719,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/88/Glamrae Robe de mariée sirène à l'épaule dégagée avec maille florale 3D élégante et dramatique de couleur bordeaux (poids lourd), robe de bal de promo semi-formelle, pour anniversaire, invité de mariage, robe de r.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/88/Glamrae Robe de mariée sirène à l'épaule dégagée avec maille florale 3D élégante et dramatique de couleur bordeaux (poids lourd), robe de bal de promo semi-formelle, pour anniversaire, invité de mariage, robe de r.webp",
     "images": [
-      "/vetement_femme/88/Glamrae Robe de mariée sirène à l'épaule dégagée avec maille florale 3D élégante et dramatique de couleur bordeaux (poids lourd), robe de bal de promo semi-formelle, pour anniversaire, invité de mariage, robe de r.webp",
-      "/vetement_femme/88/Glamrae Robe de mariée sirène à l'épaule dégagée avec maille florale 3D élégante et dramatique de couleur bordeaux (poids lourd), robe de bal de promo semi-formelle, pour anniversaire, invité de mariage, robe  (1).webp",
-      "/vetement_femme/88/Glamrae Robe de mariée sirène à l'épaule dégagée avec maille florale 3D élégante et dramatique de couleur bordeaux (poids lourd), robe de bal de promo semi-formelle, pour anniversaire, invité de mariage, robe  (2).webp",
-      "/vetement_femme/88/Glamrae Robe de mariée sirène à l'épaule dégagée avec maille florale 3D élégante et dramatique de couleur bordeaux (poids lourd), robe de bal de promo semi-formelle, pour anniversaire, invité de mariage, robe  (3).webp",
-      "/vetement_femme/88/Glamrae Robe de mariée sirène à l'épaule dégagée avec maille florale 3D élégante et dramatique de couleur bordeaux (poids lourd), robe de bal de promo semi-formelle, pour anniversaire, invité de mariage, robe  (4).webp",
-      "/vetement_femme/88/Glamrae Robe de mariée sirène à l'épaule dégagée avec maille florale 3D élégante et dramatique de couleur bordeaux (poids lourd), robe de bal de promo semi-formelle, pour anniversaire, invité de mariage, robe  (5).webp",
-      "/vetement_femme/88/Glamrae Robe de mariée sirène à l'épaule dégagée avec maille florale 3D élégante et dramatique de couleur bordeaux (poids lourd), robe de bal de promo semi-formelle, pour anniversaire, invité de mariage, robe  (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/88/Glamrae Robe de mariée sirène à l'épaule dégagée avec maille florale 3D élégante et dramatique de couleur bordeaux (poids lourd), robe de bal de promo semi-formelle, pour anniversaire, invité de mariage, robe de r.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/88/Glamrae Robe de mariée sirène à l'épaule dégagée avec maille florale 3D élégante et dramatique de couleur bordeaux (poids lourd), robe de bal de promo semi-formelle, pour anniversaire, invité de mariage, robe  (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/88/Glamrae Robe de mariée sirène à l'épaule dégagée avec maille florale 3D élégante et dramatique de couleur bordeaux (poids lourd), robe de bal de promo semi-formelle, pour anniversaire, invité de mariage, robe  (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/88/Glamrae Robe de mariée sirène à l'épaule dégagée avec maille florale 3D élégante et dramatique de couleur bordeaux (poids lourd), robe de bal de promo semi-formelle, pour anniversaire, invité de mariage, robe  (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/88/Glamrae Robe de mariée sirène à l'épaule dégagée avec maille florale 3D élégante et dramatique de couleur bordeaux (poids lourd), robe de bal de promo semi-formelle, pour anniversaire, invité de mariage, robe  (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/88/Glamrae Robe de mariée sirène à l'épaule dégagée avec maille florale 3D élégante et dramatique de couleur bordeaux (poids lourd), robe de bal de promo semi-formelle, pour anniversaire, invité de mariage, robe  (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/88/Glamrae Robe de mariée sirène à l'épaule dégagée avec maille florale 3D élégante et dramatique de couleur bordeaux (poids lourd), robe de bal de promo semi-formelle, pour anniversaire, invité de mariage, robe  (6).webp"
     ]
   },
   {
@@ -3762,13 +3762,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/89/Glamrae Robe élégante et douce sans bretelles, romantique, transparente, brodée de dentelle perlée, taille haute affinante, nœud détachable réglable, ourlet évasé extra large. Convient pour les rendez-vous, les va.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/89/Glamrae Robe élégante et douce sans bretelles, romantique, transparente, brodée de dentelle perlée, taille haute affinante, nœud détachable réglable, ourlet évasé extra large. Convient pour les rendez-vous, les va.webp",
     "images": [
-      "/vetement_femme/89/Glamrae Robe élégante et douce sans bretelles, romantique, transparente, brodée de dentelle perlée, taille haute affinante, nœud détachable réglable, ourlet évasé extra large. Convient pour les rendez-vous, les va.webp",
-      "/vetement_femme/89/Glamrae Robe élégante et douce sans bretelles, romantique, transparente, brodée de dentelle perlée, taille haute affinante, nœud détachable réglable, ourlet évasé extra large. Convient pour les rendez-vous, le (1).webp",
-      "/vetement_femme/89/Glamrae Robe élégante et douce sans bretelles, romantique, transparente, brodée de dentelle perlée, taille haute affinante, nœud détachable réglable, ourlet évasé extra large. Convient pour les rendez-vous, le (2).webp",
-      "/vetement_femme/89/Glamrae Robe élégante et douce sans bretelles, romantique, transparente, brodée de dentelle perlée, taille haute affinante, nœud détachable réglable, ourlet évasé extra large. Convient pour les rendez-vous, le (3).webp",
-      "/vetement_femme/89/Glamrae Robe élégante et douce sans bretelles, romantique, transparente, brodée de dentelle perlée, taille haute affinante, nœud détachable réglable, ourlet évasé extra large. Convient pour les rendez-vous, le (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/89/Glamrae Robe élégante et douce sans bretelles, romantique, transparente, brodée de dentelle perlée, taille haute affinante, nœud détachable réglable, ourlet évasé extra large. Convient pour les rendez-vous, les va.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/89/Glamrae Robe élégante et douce sans bretelles, romantique, transparente, brodée de dentelle perlée, taille haute affinante, nœud détachable réglable, ourlet évasé extra large. Convient pour les rendez-vous, le (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/89/Glamrae Robe élégante et douce sans bretelles, romantique, transparente, brodée de dentelle perlée, taille haute affinante, nœud détachable réglable, ourlet évasé extra large. Convient pour les rendez-vous, le (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/89/Glamrae Robe élégante et douce sans bretelles, romantique, transparente, brodée de dentelle perlée, taille haute affinante, nœud détachable réglable, ourlet évasé extra large. Convient pour les rendez-vous, le (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/89/Glamrae Robe élégante et douce sans bretelles, romantique, transparente, brodée de dentelle perlée, taille haute affinante, nœud détachable réglable, ourlet évasé extra large. Convient pour les rendez-vous, le (4).webp"
     ]
   },
   {
@@ -3803,15 +3803,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/90/Elisanya Robe de mariée élégante sans bretelles avec des accents de dentelle florale à l'avant et un détail de laçage dans le dos - Corsage ajusté, jupe volumineuse en tulle et couches de tissu transparent pour de.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/90/Elisanya Robe de mariée élégante sans bretelles avec des accents de dentelle florale à l'avant et un détail de laçage dans le dos - Corsage ajusté, jupe volumineuse en tulle et couches de tissu transparent pour de.webp",
     "images": [
-      "/vetement_femme/90/Elisanya Robe de mariée élégante sans bretelles avec des accents de dentelle florale à l'avant et un détail de laçage dans le dos - Corsage ajusté, jupe volumineuse en tulle et couches de tissu transparent pour de.webp",
-      "/vetement_femme/90/Elisanya Robe de mariée élégante sans bretelles avec des accents de dentelle florale à l'avant et un détail de laçage dans le dos - Corsage ajusté, jupe volumineuse en tulle et couches de tissu transparent pou (1).webp",
-      "/vetement_femme/90/Elisanya Robe de mariée élégante sans bretelles avec des accents de dentelle florale à l'avant et un détail de laçage dans le dos - Corsage ajusté, jupe volumineuse en tulle et couches de tissu transparent pou (2).webp",
-      "/vetement_femme/90/Elisanya Robe de mariée élégante sans bretelles avec des accents de dentelle florale à l'avant et un détail de laçage dans le dos - Corsage ajusté, jupe volumineuse en tulle et couches de tissu transparent pou (3).webp",
-      "/vetement_femme/90/Elisanya Robe de mariée élégante sans bretelles avec des accents de dentelle florale à l'avant et un détail de laçage dans le dos - Corsage ajusté, jupe volumineuse en tulle et couches de tissu transparent pou (4).webp",
-      "/vetement_femme/90/Elisanya Robe de mariée élégante sans bretelles avec des accents de dentelle florale à l'avant et un détail de laçage dans le dos - Corsage ajusté, jupe volumineuse en tulle et couches de tissu transparent pou (5).webp",
-      "/vetement_femme/90/Elisanya Robe de mariée élégante sans bretelles avec des accents de dentelle florale à l'avant et un détail de laçage dans le dos - Corsage ajusté, jupe volumineuse en tulle et couches de tissu transparent pou (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/90/Elisanya Robe de mariée élégante sans bretelles avec des accents de dentelle florale à l'avant et un détail de laçage dans le dos - Corsage ajusté, jupe volumineuse en tulle et couches de tissu transparent pour de.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/90/Elisanya Robe de mariée élégante sans bretelles avec des accents de dentelle florale à l'avant et un détail de laçage dans le dos - Corsage ajusté, jupe volumineuse en tulle et couches de tissu transparent pou (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/90/Elisanya Robe de mariée élégante sans bretelles avec des accents de dentelle florale à l'avant et un détail de laçage dans le dos - Corsage ajusté, jupe volumineuse en tulle et couches de tissu transparent pou (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/90/Elisanya Robe de mariée élégante sans bretelles avec des accents de dentelle florale à l'avant et un détail de laçage dans le dos - Corsage ajusté, jupe volumineuse en tulle et couches de tissu transparent pou (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/90/Elisanya Robe de mariée élégante sans bretelles avec des accents de dentelle florale à l'avant et un détail de laçage dans le dos - Corsage ajusté, jupe volumineuse en tulle et couches de tissu transparent pou (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/90/Elisanya Robe de mariée élégante sans bretelles avec des accents de dentelle florale à l'avant et un détail de laçage dans le dos - Corsage ajusté, jupe volumineuse en tulle et couches de tissu transparent pou (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/90/Elisanya Robe de mariée élégante sans bretelles avec des accents de dentelle florale à l'avant et un détail de laçage dans le dos - Corsage ajusté, jupe volumineuse en tulle et couches de tissu transparent pou (6).webp"
     ]
   },
   {
@@ -3846,21 +3846,21 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/91/ADYCE Robe de cocktail bandeau à volants épaules dénudées, robe de soirée élégante pour invités de mariage, convient pour anniversaire, remise de diplôme, gala, bal de promo et autres occasions festives printanièr.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/91/ADYCE Robe de cocktail bandeau à volants épaules dénudées, robe de soirée élégante pour invités de mariage, convient pour anniversaire, remise de diplôme, gala, bal de promo et autres occasions festives printanièr.webp",
     "images": [
-      "/vetement_femme/91/ADYCE Robe de cocktail bandeau à volants épaules dénudées, robe de soirée élégante pour invités de mariage, convient pour anniversaire, remise de diplôme, gala, bal de promo et autres occasions festives printanièr.webp",
-      "/vetement_femme/91/Lovelzi Robe maxi élégante et luxueuse à volants en dentelle transparente et satin noir avec épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, les robes de demoiselle d'honneur, les .webp",
-      "/vetement_femme/91/ADYCE Robe de cocktail bandeau à volants épaules dénudées, robe de soirée élégante pour invités de mariage, convient pour anniversaire, remise de diplôme, gala, bal de promo et autres occasions festives printa (1).webp",
-      "/vetement_femme/91/ADYCE Robe de cocktail bandeau à volants épaules dénudées, robe de soirée élégante pour invités de mariage, convient pour anniversaire, remise de diplôme, gala, bal de promo et autres occasions festives printa (2).webp",
-      "/vetement_femme/91/ADYCE Robe de cocktail bandeau à volants épaules dénudées, robe de soirée élégante pour invités de mariage, convient pour anniversaire, remise de diplôme, gala, bal de promo et autres occasions festives printa (3).webp",
-      "/vetement_femme/91/ADYCE Robe de cocktail bandeau à volants épaules dénudées, robe de soirée élégante pour invités de mariage, convient pour anniversaire, remise de diplôme, gala, bal de promo et autres occasions festives printa (4).webp",
-      "/vetement_femme/91/ADYCE Robe de cocktail bandeau à volants épaules dénudées, robe de soirée élégante pour invités de mariage, convient pour anniversaire, remise de diplôme, gala, bal de promo et autres occasions festives printa (5).webp",
-      "/vetement_femme/91/Lovelzi Robe maxi élégante et luxueuse à volants en dentelle transparente et satin noir avec épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, les robes de demoiselle d'honneur,  (1).webp",
-      "/vetement_femme/91/Lovelzi Robe maxi élégante et luxueuse à volants en dentelle transparente et satin noir avec épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, les robes de demoiselle d'honneur,  (2).webp",
-      "/vetement_femme/91/Lovelzi Robe maxi élégante et luxueuse à volants en dentelle transparente et satin noir avec épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, les robes de demoiselle d'honneur,  (3).webp",
-      "/vetement_femme/91/Lovelzi Robe maxi élégante et luxueuse à volants en dentelle transparente et satin noir avec épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, les robes de demoiselle d'honneur,  (4).webp",
-      "/vetement_femme/91/Lovelzi Robe maxi élégante et luxueuse à volants en dentelle transparente et satin noir avec épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, les robes de demoiselle d'honneur,  (5).webp",
-      "/vetement_femme/91/Lovelzi Robe maxi élégante et luxueuse à volants en dentelle transparente et satin noir avec épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, les robes de demoiselle d'honneur,  (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/91/ADYCE Robe de cocktail bandeau à volants épaules dénudées, robe de soirée élégante pour invités de mariage, convient pour anniversaire, remise de diplôme, gala, bal de promo et autres occasions festives printanièr.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/91/Lovelzi Robe maxi élégante et luxueuse à volants en dentelle transparente et satin noir avec épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, les robes de demoiselle d'honneur, les .webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/91/ADYCE Robe de cocktail bandeau à volants épaules dénudées, robe de soirée élégante pour invités de mariage, convient pour anniversaire, remise de diplôme, gala, bal de promo et autres occasions festives printa (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/91/ADYCE Robe de cocktail bandeau à volants épaules dénudées, robe de soirée élégante pour invités de mariage, convient pour anniversaire, remise de diplôme, gala, bal de promo et autres occasions festives printa (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/91/ADYCE Robe de cocktail bandeau à volants épaules dénudées, robe de soirée élégante pour invités de mariage, convient pour anniversaire, remise de diplôme, gala, bal de promo et autres occasions festives printa (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/91/ADYCE Robe de cocktail bandeau à volants épaules dénudées, robe de soirée élégante pour invités de mariage, convient pour anniversaire, remise de diplôme, gala, bal de promo et autres occasions festives printa (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/91/ADYCE Robe de cocktail bandeau à volants épaules dénudées, robe de soirée élégante pour invités de mariage, convient pour anniversaire, remise de diplôme, gala, bal de promo et autres occasions festives printa (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/91/Lovelzi Robe maxi élégante et luxueuse à volants en dentelle transparente et satin noir avec épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, les robes de demoiselle d'honneur,  (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/91/Lovelzi Robe maxi élégante et luxueuse à volants en dentelle transparente et satin noir avec épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, les robes de demoiselle d'honneur,  (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/91/Lovelzi Robe maxi élégante et luxueuse à volants en dentelle transparente et satin noir avec épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, les robes de demoiselle d'honneur,  (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/91/Lovelzi Robe maxi élégante et luxueuse à volants en dentelle transparente et satin noir avec épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, les robes de demoiselle d'honneur,  (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/91/Lovelzi Robe maxi élégante et luxueuse à volants en dentelle transparente et satin noir avec épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, les robes de demoiselle d'honneur,  (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/91/Lovelzi Robe maxi élégante et luxueuse à volants en dentelle transparente et satin noir avec épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, les robes de demoiselle d'honneur,  (6).webp"
     ]
   },
   {
@@ -3896,15 +3896,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/92/Lovelzi Robe de bal mi-longue élégante et romantique en satin rouge avec col asymétrique plissé, fleur 3D exagérée et asymétrique. Convient pour les danses formelles, les fêtes et les événements, robe de bal semi-.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/92/Lovelzi Robe de bal mi-longue élégante et romantique en satin rouge avec col asymétrique plissé, fleur 3D exagérée et asymétrique. Convient pour les danses formelles, les fêtes et les événements, robe de bal semi-.webp",
     "images": [
-      "/vetement_femme/92/Lovelzi Robe de bal mi-longue élégante et romantique en satin rouge avec col asymétrique plissé, fleur 3D exagérée et asymétrique. Convient pour les danses formelles, les fêtes et les événements, robe de bal semi-.webp",
-      "/vetement_femme/92/Lovelzi Robe de bal mi-longue élégante et romantique en satin rouge avec col asymétrique plissé, fleur 3D exagérée et asymétrique. Convient pour les danses formelles, les fêtes et les événements, robe de bal s (1).webp",
-      "/vetement_femme/92/Lovelzi Robe de bal mi-longue élégante et romantique en satin rouge avec col asymétrique plissé, fleur 3D exagérée et asymétrique. Convient pour les danses formelles, les fêtes et les événements, robe de bal s (2).webp",
-      "/vetement_femme/92/Lovelzi Robe de bal mi-longue élégante et romantique en satin rouge avec col asymétrique plissé, fleur 3D exagérée et asymétrique. Convient pour les danses formelles, les fêtes et les événements, robe de bal s (3).webp",
-      "/vetement_femme/92/Lovelzi Robe de bal mi-longue élégante et romantique en satin rouge avec col asymétrique plissé, fleur 3D exagérée et asymétrique. Convient pour les danses formelles, les fêtes et les événements, robe de bal s (4).webp",
-      "/vetement_femme/92/Lovelzi Robe de bal mi-longue élégante et romantique en satin rouge avec col asymétrique plissé, fleur 3D exagérée et asymétrique. Convient pour les danses formelles, les fêtes et les événements, robe de bal s (5).webp",
-      "/vetement_femme/92/Lovelzi Robe de bal mi-longue élégante et romantique en satin rouge avec col asymétrique plissé, fleur 3D exagérée et asymétrique. Convient pour les danses formelles, les fêtes et les événements, robe de bal s (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/92/Lovelzi Robe de bal mi-longue élégante et romantique en satin rouge avec col asymétrique plissé, fleur 3D exagérée et asymétrique. Convient pour les danses formelles, les fêtes et les événements, robe de bal semi-.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/92/Lovelzi Robe de bal mi-longue élégante et romantique en satin rouge avec col asymétrique plissé, fleur 3D exagérée et asymétrique. Convient pour les danses formelles, les fêtes et les événements, robe de bal s (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/92/Lovelzi Robe de bal mi-longue élégante et romantique en satin rouge avec col asymétrique plissé, fleur 3D exagérée et asymétrique. Convient pour les danses formelles, les fêtes et les événements, robe de bal s (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/92/Lovelzi Robe de bal mi-longue élégante et romantique en satin rouge avec col asymétrique plissé, fleur 3D exagérée et asymétrique. Convient pour les danses formelles, les fêtes et les événements, robe de bal s (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/92/Lovelzi Robe de bal mi-longue élégante et romantique en satin rouge avec col asymétrique plissé, fleur 3D exagérée et asymétrique. Convient pour les danses formelles, les fêtes et les événements, robe de bal s (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/92/Lovelzi Robe de bal mi-longue élégante et romantique en satin rouge avec col asymétrique plissé, fleur 3D exagérée et asymétrique. Convient pour les danses formelles, les fêtes et les événements, robe de bal s (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/92/Lovelzi Robe de bal mi-longue élégante et romantique en satin rouge avec col asymétrique plissé, fleur 3D exagérée et asymétrique. Convient pour les danses formelles, les fêtes et les événements, robe de bal s (6).webp"
     ]
   },
   {
@@ -3939,14 +3939,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/93/CurvySweet Robe mi-longue élégante pour femmes avec taille cintrée, col ras-du-cou plissé et coussinets intégrés. Convient pour les sorties quotidiennes, les cocktails, les mariages et les fêtes de printemps.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/93/CurvySweet Robe mi-longue élégante pour femmes avec taille cintrée, col ras-du-cou plissé et coussinets intégrés. Convient pour les sorties quotidiennes, les cocktails, les mariages et les fêtes de printemps.webp",
     "images": [
-      "/vetement_femme/93/CurvySweet Robe mi-longue élégante pour femmes avec taille cintrée, col ras-du-cou plissé et coussinets intégrés. Convient pour les sorties quotidiennes, les cocktails, les mariages et les fêtes de printemps.webp",
-      "/vetement_femme/93/CurvySweet Robe mi-longue élégante pour femmes avec taille cintrée, col ras-du-cou plissé et coussinets intégrés. Convient pour les sorties quotidiennes, les cocktails, les mariages et les fêtes de printemps (1).webp",
-      "/vetement_femme/93/CurvySweet Robe mi-longue élégante pour femmes avec taille cintrée, col ras-du-cou plissé et coussinets intégrés. Convient pour les sorties quotidiennes, les cocktails, les mariages et les fêtes de printemps (2).webp",
-      "/vetement_femme/93/CurvySweet Robe mi-longue élégante pour femmes avec taille cintrée, col ras-du-cou plissé et coussinets intégrés. Convient pour les sorties quotidiennes, les cocktails, les mariages et les fêtes de printemps (3).webp",
-      "/vetement_femme/93/CurvySweet Robe mi-longue élégante pour femmes avec taille cintrée, col ras-du-cou plissé et coussinets intégrés. Convient pour les sorties quotidiennes, les cocktails, les mariages et les fêtes de printemps (4).webp",
-      "/vetement_femme/93/CurvySweet Robe mi-longue élégante pour femmes avec taille cintrée, col ras-du-cou plissé et coussinets intégrés. Convient pour les sorties quotidiennes, les cocktails, les mariages et les fêtes de printemps (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/93/CurvySweet Robe mi-longue élégante pour femmes avec taille cintrée, col ras-du-cou plissé et coussinets intégrés. Convient pour les sorties quotidiennes, les cocktails, les mariages et les fêtes de printemps.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/93/CurvySweet Robe mi-longue élégante pour femmes avec taille cintrée, col ras-du-cou plissé et coussinets intégrés. Convient pour les sorties quotidiennes, les cocktails, les mariages et les fêtes de printemps (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/93/CurvySweet Robe mi-longue élégante pour femmes avec taille cintrée, col ras-du-cou plissé et coussinets intégrés. Convient pour les sorties quotidiennes, les cocktails, les mariages et les fêtes de printemps (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/93/CurvySweet Robe mi-longue élégante pour femmes avec taille cintrée, col ras-du-cou plissé et coussinets intégrés. Convient pour les sorties quotidiennes, les cocktails, les mariages et les fêtes de printemps (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/93/CurvySweet Robe mi-longue élégante pour femmes avec taille cintrée, col ras-du-cou plissé et coussinets intégrés. Convient pour les sorties quotidiennes, les cocktails, les mariages et les fêtes de printemps (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/93/CurvySweet Robe mi-longue élégante pour femmes avec taille cintrée, col ras-du-cou plissé et coussinets intégrés. Convient pour les sorties quotidiennes, les cocktails, les mariages et les fêtes de printemps (5).webp"
     ]
   },
   {
@@ -3981,11 +3981,11 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/94/Robe d'été Onicee, robe de soirée élégante noire à manches longues et coupe évasée, convient pour la Saint-Valentin, les rendez-vous, les rassemblements, les fêtes, les voyages, les vacances, la plage et d'autres .webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/94/Robe d'été Onicee, robe de soirée élégante noire à manches longues et coupe évasée, convient pour la Saint-Valentin, les rendez-vous, les rassemblements, les fêtes, les voyages, les vacances, la plage et d'autres .webp",
     "images": [
-      "/vetement_femme/94/Robe d'été Onicee, robe de soirée élégante noire à manches longues et coupe évasée, convient pour la Saint-Valentin, les rendez-vous, les rassemblements, les fêtes, les voyages, les vacances, la plage et d'autres .webp",
-      "/vetement_femme/94/Robe d'été Onicee, robe de soirée élégante noire à manches longues et coupe évasée, convient pour la Saint-Valentin, les rendez-vous, les rassemblements, les fêtes, les voyages, les vacances, la plage et d'aut (1).webp",
-      "/vetement_femme/94/Robe d'été Onicee, robe de soirée élégante noire à manches longues et coupe évasée, convient pour la Saint-Valentin, les rendez-vous, les rassemblements, les fêtes, les voyages, les vacances, la plage et d'aut (2).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/94/Robe d'été Onicee, robe de soirée élégante noire à manches longues et coupe évasée, convient pour la Saint-Valentin, les rendez-vous, les rassemblements, les fêtes, les voyages, les vacances, la plage et d'autres .webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/94/Robe d'été Onicee, robe de soirée élégante noire à manches longues et coupe évasée, convient pour la Saint-Valentin, les rendez-vous, les rassemblements, les fêtes, les voyages, les vacances, la plage et d'aut (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/94/Robe d'été Onicee, robe de soirée élégante noire à manches longues et coupe évasée, convient pour la Saint-Valentin, les rendez-vous, les rassemblements, les fêtes, les voyages, les vacances, la plage et d'aut (2).webp"
     ]
   },
   {
@@ -4020,15 +4020,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/95/Faeriesty Robe de soirée élégante de luxe pour femme, avec broderie de perles et sequins. Détails plissés transparents. Broderie de perles raffinée sur le buste, jupe longue ajustée avec fente au dos et accents de.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/95/Faeriesty Robe de soirée élégante de luxe pour femme, avec broderie de perles et sequins. Détails plissés transparents. Broderie de perles raffinée sur le buste, jupe longue ajustée avec fente au dos et accents de.webp",
     "images": [
-      "/vetement_femme/95/Faeriesty Robe de soirée élégante de luxe pour femme, avec broderie de perles et sequins. Détails plissés transparents. Broderie de perles raffinée sur le buste, jupe longue ajustée avec fente au dos et accents de.webp",
-      "/vetement_femme/95/Faeriesty Robe de soirée élégante de luxe pour femme, avec broderie de perles et sequins. Détails plissés transparents. Broderie de perles raffinée sur le buste, jupe longue ajustée avec fente au dos et accent (1).webp",
-      "/vetement_femme/95/Faeriesty Robe de soirée élégante de luxe pour femme, avec broderie de perles et sequins. Détails plissés transparents. Broderie de perles raffinée sur le buste, jupe longue ajustée avec fente au dos et accent (2).webp",
-      "/vetement_femme/95/Faeriesty Robe de soirée élégante de luxe pour femme, avec broderie de perles et sequins. Détails plissés transparents. Broderie de perles raffinée sur le buste, jupe longue ajustée avec fente au dos et accent (3).webp",
-      "/vetement_femme/95/Faeriesty Robe de soirée élégante de luxe pour femme, avec broderie de perles et sequins. Détails plissés transparents. Broderie de perles raffinée sur le buste, jupe longue ajustée avec fente au dos et accent (4).webp",
-      "/vetement_femme/95/Faeriesty Robe de soirée élégante de luxe pour femme, avec broderie de perles et sequins. Détails plissés transparents. Broderie de perles raffinée sur le buste, jupe longue ajustée avec fente au dos et accent (5).webp",
-      "/vetement_femme/95/Faeriesty Robe de soirée élégante de luxe pour femme, avec broderie de perles et sequins. Détails plissés transparents. Broderie de perles raffinée sur le buste, jupe longue ajustée avec fente au dos et accent (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/95/Faeriesty Robe de soirée élégante de luxe pour femme, avec broderie de perles et sequins. Détails plissés transparents. Broderie de perles raffinée sur le buste, jupe longue ajustée avec fente au dos et accents de.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/95/Faeriesty Robe de soirée élégante de luxe pour femme, avec broderie de perles et sequins. Détails plissés transparents. Broderie de perles raffinée sur le buste, jupe longue ajustée avec fente au dos et accent (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/95/Faeriesty Robe de soirée élégante de luxe pour femme, avec broderie de perles et sequins. Détails plissés transparents. Broderie de perles raffinée sur le buste, jupe longue ajustée avec fente au dos et accent (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/95/Faeriesty Robe de soirée élégante de luxe pour femme, avec broderie de perles et sequins. Détails plissés transparents. Broderie de perles raffinée sur le buste, jupe longue ajustée avec fente au dos et accent (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/95/Faeriesty Robe de soirée élégante de luxe pour femme, avec broderie de perles et sequins. Détails plissés transparents. Broderie de perles raffinée sur le buste, jupe longue ajustée avec fente au dos et accent (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/95/Faeriesty Robe de soirée élégante de luxe pour femme, avec broderie de perles et sequins. Détails plissés transparents. Broderie de perles raffinée sur le buste, jupe longue ajustée avec fente au dos et accent (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/95/Faeriesty Robe de soirée élégante de luxe pour femme, avec broderie de perles et sequins. Détails plissés transparents. Broderie de perles raffinée sur le buste, jupe longue ajustée avec fente au dos et accent (6).webp"
     ]
   },
   {
@@ -4063,14 +4063,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/96/Glamrae Robe sirène élégante et luxueuse avec perles, broderie de sequins et épaules dénudées, convient pour les mariages, les fêtes, les vacances, les galas et les événements formels (ornementation lourde).webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/96/Glamrae Robe sirène élégante et luxueuse avec perles, broderie de sequins et épaules dénudées, convient pour les mariages, les fêtes, les vacances, les galas et les événements formels (ornementation lourde).webp",
     "images": [
-      "/vetement_femme/96/Glamrae Robe sirène élégante et luxueuse avec perles, broderie de sequins et épaules dénudées, convient pour les mariages, les fêtes, les vacances, les galas et les événements formels (ornementation lourde).webp",
-      "/vetement_femme/96/Glamrae Robe sirène élégante et luxueuse avec perles, broderie de sequins et épaules dénudées, convient pour les mariages, les fêtes, les vacances, les galas et les événements formels (ornementation lourde) (1).webp",
-      "/vetement_femme/96/Glamrae Robe sirène élégante et luxueuse avec perles, broderie de sequins et épaules dénudées, convient pour les mariages, les fêtes, les vacances, les galas et les événements formels (ornementation lourde) (2).webp",
-      "/vetement_femme/96/Glamrae Robe sirène élégante et luxueuse avec perles, broderie de sequins et épaules dénudées, convient pour les mariages, les fêtes, les vacances, les galas et les événements formels (ornementation lourde) (3).webp",
-      "/vetement_femme/96/Glamrae Robe sirène élégante et luxueuse avec perles, broderie de sequins et épaules dénudées, convient pour les mariages, les fêtes, les vacances, les galas et les événements formels (ornementation lourde) (4).webp",
-      "/vetement_femme/96/Glamrae Robe sirène élégante et luxueuse avec perles, broderie de sequins et épaules dénudées, convient pour les mariages, les fêtes, les vacances, les galas et les événements formels (ornementation lourde) (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/96/Glamrae Robe sirène élégante et luxueuse avec perles, broderie de sequins et épaules dénudées, convient pour les mariages, les fêtes, les vacances, les galas et les événements formels (ornementation lourde).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/96/Glamrae Robe sirène élégante et luxueuse avec perles, broderie de sequins et épaules dénudées, convient pour les mariages, les fêtes, les vacances, les galas et les événements formels (ornementation lourde) (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/96/Glamrae Robe sirène élégante et luxueuse avec perles, broderie de sequins et épaules dénudées, convient pour les mariages, les fêtes, les vacances, les galas et les événements formels (ornementation lourde) (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/96/Glamrae Robe sirène élégante et luxueuse avec perles, broderie de sequins et épaules dénudées, convient pour les mariages, les fêtes, les vacances, les galas et les événements formels (ornementation lourde) (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/96/Glamrae Robe sirène élégante et luxueuse avec perles, broderie de sequins et épaules dénudées, convient pour les mariages, les fêtes, les vacances, les galas et les événements formels (ornementation lourde) (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/96/Glamrae Robe sirène élégante et luxueuse avec perles, broderie de sequins et épaules dénudées, convient pour les mariages, les fêtes, les vacances, les galas et les événements formels (ornementation lourde) (5).webp"
     ]
   },
   {
@@ -4105,13 +4105,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/97/Elisanya Robe de soirée formelle de style féérique pour femmes, robe de soirée romantique pour événements de mariage, cocktail, galas de bienfaisance. Robe de bal en maille pailletée pure et sans dos.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/97/Elisanya Robe de soirée formelle de style féérique pour femmes, robe de soirée romantique pour événements de mariage, cocktail, galas de bienfaisance. Robe de bal en maille pailletée pure et sans dos.webp",
     "images": [
-      "/vetement_femme/97/Elisanya Robe de soirée formelle de style féérique pour femmes, robe de soirée romantique pour événements de mariage, cocktail, galas de bienfaisance. Robe de bal en maille pailletée pure et sans dos.webp",
-      "/vetement_femme/97/Elisanya Robe de soirée formelle de style féérique pour femmes, robe de soirée romantique pour événements de mariage, cocktail, galas de bienfaisance. Robe de bal en maille pailletée pure et sans dos (1).webp",
-      "/vetement_femme/97/Elisanya Robe de soirée formelle de style féérique pour femmes, robe de soirée romantique pour événements de mariage, cocktail, galas de bienfaisance. Robe de bal en maille pailletée pure et sans dos (2).webp",
-      "/vetement_femme/97/Elisanya Robe de soirée formelle de style féérique pour femmes, robe de soirée romantique pour événements de mariage, cocktail, galas de bienfaisance. Robe de bal en maille pailletée pure et sans dos (3).webp",
-      "/vetement_femme/97/Elisanya Robe de soirée formelle de style féérique pour femmes, robe de soirée romantique pour événements de mariage, cocktail, galas de bienfaisance. Robe de bal en maille pailletée pure et sans dos (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/97/Elisanya Robe de soirée formelle de style féérique pour femmes, robe de soirée romantique pour événements de mariage, cocktail, galas de bienfaisance. Robe de bal en maille pailletée pure et sans dos.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/97/Elisanya Robe de soirée formelle de style féérique pour femmes, robe de soirée romantique pour événements de mariage, cocktail, galas de bienfaisance. Robe de bal en maille pailletée pure et sans dos (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/97/Elisanya Robe de soirée formelle de style féérique pour femmes, robe de soirée romantique pour événements de mariage, cocktail, galas de bienfaisance. Robe de bal en maille pailletée pure et sans dos (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/97/Elisanya Robe de soirée formelle de style féérique pour femmes, robe de soirée romantique pour événements de mariage, cocktail, galas de bienfaisance. Robe de bal en maille pailletée pure et sans dos (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/97/Elisanya Robe de soirée formelle de style féérique pour femmes, robe de soirée romantique pour événements de mariage, cocktail, galas de bienfaisance. Robe de bal en maille pailletée pure et sans dos (4).webp"
     ]
   },
   {
@@ -4146,15 +4146,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/98/SUPGIR Robe maxi en mousseline de soie élégante avec imprimé aquarelle floral, col en V, manches lanternes, taille plissée et effet tie dye.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/98/SUPGIR Robe maxi en mousseline de soie élégante avec imprimé aquarelle floral, col en V, manches lanternes, taille plissée et effet tie dye.webp",
     "images": [
-      "/vetement_femme/98/SUPGIR Robe maxi en mousseline de soie élégante avec imprimé aquarelle floral, col en V, manches lanternes, taille plissée et effet tie dye.webp",
-      "/vetement_femme/98/SUPGIR Robe maxi en mousseline de soie élégante avec imprimé aquarelle floral, col en V, manches lanternes, taille plissée et effet tie dye (1).webp",
-      "/vetement_femme/98/SUPGIR Robe maxi en mousseline de soie élégante avec imprimé aquarelle floral, col en V, manches lanternes, taille plissée et effet tie dye (2).webp",
-      "/vetement_femme/98/SUPGIR Robe maxi en mousseline de soie élégante avec imprimé aquarelle floral, col en V, manches lanternes, taille plissée et effet tie dye (3).webp",
-      "/vetement_femme/98/SUPGIR Robe maxi en mousseline de soie élégante avec imprimé aquarelle floral, col en V, manches lanternes, taille plissée et effet tie dye (4).webp",
-      "/vetement_femme/98/SUPGIR Robe maxi en mousseline de soie élégante avec imprimé aquarelle floral, col en V, manches lanternes, taille plissée et effet tie dye (5).webp",
-      "/vetement_femme/98/SUPGIR Robe maxi en mousseline de soie élégante avec imprimé aquarelle floral, col en V, manches lanternes, taille plissée et effet tie dye (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/98/SUPGIR Robe maxi en mousseline de soie élégante avec imprimé aquarelle floral, col en V, manches lanternes, taille plissée et effet tie dye.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/98/SUPGIR Robe maxi en mousseline de soie élégante avec imprimé aquarelle floral, col en V, manches lanternes, taille plissée et effet tie dye (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/98/SUPGIR Robe maxi en mousseline de soie élégante avec imprimé aquarelle floral, col en V, manches lanternes, taille plissée et effet tie dye (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/98/SUPGIR Robe maxi en mousseline de soie élégante avec imprimé aquarelle floral, col en V, manches lanternes, taille plissée et effet tie dye (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/98/SUPGIR Robe maxi en mousseline de soie élégante avec imprimé aquarelle floral, col en V, manches lanternes, taille plissée et effet tie dye (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/98/SUPGIR Robe maxi en mousseline de soie élégante avec imprimé aquarelle floral, col en V, manches lanternes, taille plissée et effet tie dye (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/98/SUPGIR Robe maxi en mousseline de soie élégante avec imprimé aquarelle floral, col en V, manches lanternes, taille plissée et effet tie dye (6).webp"
     ]
   },
   {
@@ -4189,13 +4189,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/99/Glamrae Une robe de soirée en maille scuba avec épaulettes dénudées, manches bouffantes transparentes, appliques de perles et de sequins, et une jupe queue de poisson. Convient pour les mariages, enterrements de v.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/99/Glamrae Une robe de soirée en maille scuba avec épaulettes dénudées, manches bouffantes transparentes, appliques de perles et de sequins, et une jupe queue de poisson. Convient pour les mariages, enterrements de v.webp",
     "images": [
-      "/vetement_femme/99/Glamrae Une robe de soirée en maille scuba avec épaulettes dénudées, manches bouffantes transparentes, appliques de perles et de sequins, et une jupe queue de poisson. Convient pour les mariages, enterrements de v.webp",
-      "/vetement_femme/99/Glamrae Une robe de soirée en maille scuba avec épaulettes dénudées, manches bouffantes transparentes, appliques de perles et de sequins, et une jupe queue de poisson. Convient pour les mariages, enterrements  (1).webp",
-      "/vetement_femme/99/Glamrae Une robe de soirée en maille scuba avec épaulettes dénudées, manches bouffantes transparentes, appliques de perles et de sequins, et une jupe queue de poisson. Convient pour les mariages, enterrements  (2).webp",
-      "/vetement_femme/99/Glamrae Une robe de soirée en maille scuba avec épaulettes dénudées, manches bouffantes transparentes, appliques de perles et de sequins, et une jupe queue de poisson. Convient pour les mariages, enterrements  (3).webp",
-      "/vetement_femme/99/Glamrae Une robe de soirée en maille scuba avec épaulettes dénudées, manches bouffantes transparentes, appliques de perles et de sequins, et une jupe queue de poisson. Convient pour les mariages, enterrements  (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/99/Glamrae Une robe de soirée en maille scuba avec épaulettes dénudées, manches bouffantes transparentes, appliques de perles et de sequins, et une jupe queue de poisson. Convient pour les mariages, enterrements de v.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/99/Glamrae Une robe de soirée en maille scuba avec épaulettes dénudées, manches bouffantes transparentes, appliques de perles et de sequins, et une jupe queue de poisson. Convient pour les mariages, enterrements  (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/99/Glamrae Une robe de soirée en maille scuba avec épaulettes dénudées, manches bouffantes transparentes, appliques de perles et de sequins, et une jupe queue de poisson. Convient pour les mariages, enterrements  (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/99/Glamrae Une robe de soirée en maille scuba avec épaulettes dénudées, manches bouffantes transparentes, appliques de perles et de sequins, et une jupe queue de poisson. Convient pour les mariages, enterrements  (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/99/Glamrae Une robe de soirée en maille scuba avec épaulettes dénudées, manches bouffantes transparentes, appliques de perles et de sequins, et une jupe queue de poisson. Convient pour les mariages, enterrements  (4).webp"
     ]
   },
   {
@@ -4230,13 +4230,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/100/Faeriesty Robe de soirée longue élégante à manches courtes à volants, jupe plissée, silhouette ajustée - idéale pour les événements formels, les galas, le Nouvel An et la Saint-Valentin au printemps, en été et en.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/100/Faeriesty Robe de soirée longue élégante à manches courtes à volants, jupe plissée, silhouette ajustée - idéale pour les événements formels, les galas, le Nouvel An et la Saint-Valentin au printemps, en été et en.webp",
     "images": [
-      "/vetement_femme/100/Faeriesty Robe de soirée longue élégante à manches courtes à volants, jupe plissée, silhouette ajustée - idéale pour les événements formels, les galas, le Nouvel An et la Saint-Valentin au printemps, en été et en.webp",
-      "/vetement_femme/100/Faeriesty Robe de soirée longue élégante à manches courtes à volants, jupe plissée, silhouette ajustée - idéale pour les événements formels, les galas, le Nouvel An et la Saint-Valentin au printemps, en été e (1).webp",
-      "/vetement_femme/100/Faeriesty Robe de soirée longue élégante à manches courtes à volants, jupe plissée, silhouette ajustée - idéale pour les événements formels, les galas, le Nouvel An et la Saint-Valentin au printemps, en été e (2).webp",
-      "/vetement_femme/100/Faeriesty Robe de soirée longue élégante à manches courtes à volants, jupe plissée, silhouette ajustée - idéale pour les événements formels, les galas, le Nouvel An et la Saint-Valentin au printemps, en été e (3).webp",
-      "/vetement_femme/100/Faeriesty Robe de soirée longue élégante à manches courtes à volants, jupe plissée, silhouette ajustée - idéale pour les événements formels, les galas, le Nouvel An et la Saint-Valentin au printemps, en été e (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/100/Faeriesty Robe de soirée longue élégante à manches courtes à volants, jupe plissée, silhouette ajustée - idéale pour les événements formels, les galas, le Nouvel An et la Saint-Valentin au printemps, en été et en.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/100/Faeriesty Robe de soirée longue élégante à manches courtes à volants, jupe plissée, silhouette ajustée - idéale pour les événements formels, les galas, le Nouvel An et la Saint-Valentin au printemps, en été e (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/100/Faeriesty Robe de soirée longue élégante à manches courtes à volants, jupe plissée, silhouette ajustée - idéale pour les événements formels, les galas, le Nouvel An et la Saint-Valentin au printemps, en été e (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/100/Faeriesty Robe de soirée longue élégante à manches courtes à volants, jupe plissée, silhouette ajustée - idéale pour les événements formels, les galas, le Nouvel An et la Saint-Valentin au printemps, en été e (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/100/Faeriesty Robe de soirée longue élégante à manches courtes à volants, jupe plissée, silhouette ajustée - idéale pour les événements formels, les galas, le Nouvel An et la Saint-Valentin au printemps, en été e (4).webp"
     ]
   },
   {
@@ -4271,16 +4271,16 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/101/Robe de soirée formelle à épaules dénudées, froncée et blocs de couleurs noir et blanc. Convient pour les fêtes, les mariages et les dîners de gala_.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/101/Robe de soirée formelle à épaules dénudées, froncée et blocs de couleurs noir et blanc. Convient pour les fêtes, les mariages et les dîners de gala_.webp",
     "images": [
-      "/vetement_femme/101/Robe de soirée formelle à épaules dénudées, froncée et blocs de couleurs noir et blanc. Convient pour les fêtes, les mariages et les dîners de gala_.webp",
-      "/vetement_femme/101/Robe de soirée formelle à épaules dénudées, froncée et blocs de couleurs noir et blanc. Convient pour les fêtes, les mariages et les dîners de gala_ (1).webp",
-      "/vetement_femme/101/Robe de soirée formelle à épaules dénudées, froncée et blocs de couleurs noir et blanc. Convient pour les fêtes, les mariages et les dîners de gala_ (2).webp",
-      "/vetement_femme/101/Robe de soirée formelle à épaules dénudées, froncée et blocs de couleurs noir et blanc. Convient pour les fêtes, les mariages et les dîners de gala_ (3).webp",
-      "/vetement_femme/101/Robe de soirée formelle à épaules dénudées, froncée et blocs de couleurs noir et blanc. Convient pour les fêtes, les mariages et les dîners de gala_ (4).webp",
-      "/vetement_femme/101/Robe de soirée formelle à épaules dénudées, froncée et blocs de couleurs noir et blanc. Convient pour les fêtes, les mariages et les dîners de gala_ (5).webp",
-      "/vetement_femme/101/Robe de soirée formelle à épaules dénudées, froncée et blocs de couleurs noir et blanc. Convient pour les fêtes, les mariages et les dîners de gala_ (6).webp",
-      "/vetement_femme/101/Robe de soirée formelle à épaules dénudées, froncée et blocs de couleurs noir et blanc. Convient pour les fêtes, les mariages et les dîners de gala_ (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/101/Robe de soirée formelle à épaules dénudées, froncée et blocs de couleurs noir et blanc. Convient pour les fêtes, les mariages et les dîners de gala_.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/101/Robe de soirée formelle à épaules dénudées, froncée et blocs de couleurs noir et blanc. Convient pour les fêtes, les mariages et les dîners de gala_ (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/101/Robe de soirée formelle à épaules dénudées, froncée et blocs de couleurs noir et blanc. Convient pour les fêtes, les mariages et les dîners de gala_ (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/101/Robe de soirée formelle à épaules dénudées, froncée et blocs de couleurs noir et blanc. Convient pour les fêtes, les mariages et les dîners de gala_ (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/101/Robe de soirée formelle à épaules dénudées, froncée et blocs de couleurs noir et blanc. Convient pour les fêtes, les mariages et les dîners de gala_ (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/101/Robe de soirée formelle à épaules dénudées, froncée et blocs de couleurs noir et blanc. Convient pour les fêtes, les mariages et les dîners de gala_ (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/101/Robe de soirée formelle à épaules dénudées, froncée et blocs de couleurs noir et blanc. Convient pour les fêtes, les mariages et les dîners de gala_ (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/101/Robe de soirée formelle à épaules dénudées, froncée et blocs de couleurs noir et blanc. Convient pour les fêtes, les mariages et les dîners de gala_ (7).webp"
     ]
   },
   {
@@ -4315,14 +4315,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/102/Lovelzi Robe maxi élégante et luxueuse en satin noir avec empiècements en dentelle transparente aux épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, robe de soirée courte (très orn.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/102/Lovelzi Robe maxi élégante et luxueuse en satin noir avec empiècements en dentelle transparente aux épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, robe de soirée courte (très orn.webp",
     "images": [
-      "/vetement_femme/102/Lovelzi Robe maxi élégante et luxueuse en satin noir avec empiècements en dentelle transparente aux épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, robe de soirée courte (très orn.webp",
-      "/vetement_femme/102/Lovelzi Robe maxi élégante et luxueuse en satin noir avec empiècements en dentelle transparente aux épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, robe de soirée courte (très (1).webp",
-      "/vetement_femme/102/Lovelzi Robe maxi élégante et luxueuse en satin noir avec empiècements en dentelle transparente aux épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, robe de soirée courte (très (2).webp",
-      "/vetement_femme/102/Lovelzi Robe maxi élégante et luxueuse en satin noir avec empiècements en dentelle transparente aux épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, robe de soirée courte (très (3).webp",
-      "/vetement_femme/102/Lovelzi Robe maxi élégante et luxueuse en satin noir avec empiècements en dentelle transparente aux épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, robe de soirée courte (très (4).webp",
-      "/vetement_femme/102/Lovelzi Robe maxi élégante et luxueuse en satin noir avec empiècements en dentelle transparente aux épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, robe de soirée courte (très (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/102/Lovelzi Robe maxi élégante et luxueuse en satin noir avec empiècements en dentelle transparente aux épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, robe de soirée courte (très orn.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/102/Lovelzi Robe maxi élégante et luxueuse en satin noir avec empiècements en dentelle transparente aux épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, robe de soirée courte (très (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/102/Lovelzi Robe maxi élégante et luxueuse en satin noir avec empiècements en dentelle transparente aux épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, robe de soirée courte (très (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/102/Lovelzi Robe maxi élégante et luxueuse en satin noir avec empiècements en dentelle transparente aux épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, robe de soirée courte (très (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/102/Lovelzi Robe maxi élégante et luxueuse en satin noir avec empiècements en dentelle transparente aux épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, robe de soirée courte (très (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/102/Lovelzi Robe maxi élégante et luxueuse en satin noir avec empiècements en dentelle transparente aux épaules dénudées, convient pour les mariages, les fêtes, les vacances, les bals, robe de soirée courte (très (5).webp"
     ]
   },
   {
@@ -4357,13 +4357,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/103/Robe de demoiselle d'honneur en mousseline de soie romantique, convenant pour un mariage formel en extérieur. Belle robe de demoiselle d'honneur à manches volantées, col en V profond, couleur unie, pour le printe.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/103/Robe de demoiselle d'honneur en mousseline de soie romantique, convenant pour un mariage formel en extérieur. Belle robe de demoiselle d'honneur à manches volantées, col en V profond, couleur unie, pour le printe.webp",
     "images": [
-      "/vetement_femme/103/Robe de demoiselle d'honneur en mousseline de soie romantique, convenant pour un mariage formel en extérieur. Belle robe de demoiselle d'honneur à manches volantées, col en V profond, couleur unie, pour le printe.webp",
-      "/vetement_femme/103/Robe de demoiselle d'honneur en mousseline de soie romantique, convenant pour un mariage formel en extérieur. Belle robe de demoiselle d'honneur à manches volantées, col en V profond, couleur unie, pour le pr (1).webp",
-      "/vetement_femme/103/Robe de demoiselle d'honneur en mousseline de soie romantique, convenant pour un mariage formel en extérieur. Belle robe de demoiselle d'honneur à manches volantées, col en V profond, couleur unie, pour le pr (2).webp",
-      "/vetement_femme/103/Robe de demoiselle d'honneur en mousseline de soie romantique, convenant pour un mariage formel en extérieur. Belle robe de demoiselle d'honneur à manches volantées, col en V profond, couleur unie, pour le pr (3).webp",
-      "/vetement_femme/103/Robe de demoiselle d'honneur en mousseline de soie romantique, convenant pour un mariage formel en extérieur. Belle robe de demoiselle d'honneur à manches volantées, col en V profond, couleur unie, pour le pr (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/103/Robe de demoiselle d'honneur en mousseline de soie romantique, convenant pour un mariage formel en extérieur. Belle robe de demoiselle d'honneur à manches volantées, col en V profond, couleur unie, pour le printe.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/103/Robe de demoiselle d'honneur en mousseline de soie romantique, convenant pour un mariage formel en extérieur. Belle robe de demoiselle d'honneur à manches volantées, col en V profond, couleur unie, pour le pr (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/103/Robe de demoiselle d'honneur en mousseline de soie romantique, convenant pour un mariage formel en extérieur. Belle robe de demoiselle d'honneur à manches volantées, col en V profond, couleur unie, pour le pr (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/103/Robe de demoiselle d'honneur en mousseline de soie romantique, convenant pour un mariage formel en extérieur. Belle robe de demoiselle d'honneur à manches volantées, col en V profond, couleur unie, pour le pr (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/103/Robe de demoiselle d'honneur en mousseline de soie romantique, convenant pour un mariage formel en extérieur. Belle robe de demoiselle d'honneur à manches volantées, col en V profond, couleur unie, pour le pr (4).webp"
     ]
   },
   {
@@ -4399,14 +4399,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/104/Lovelzi Robe de princesse élégante et romantique en satin rose avec volants, col asymétrique et bretelles réglables dans le dos. Idéale pour les rendez-vous, les anniversaires, les mariages, les enterrements de v.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/104/Lovelzi Robe de princesse élégante et romantique en satin rose avec volants, col asymétrique et bretelles réglables dans le dos. Idéale pour les rendez-vous, les anniversaires, les mariages, les enterrements de v.webp",
     "images": [
-      "/vetement_femme/104/Lovelzi Robe de princesse élégante et romantique en satin rose avec volants, col asymétrique et bretelles réglables dans le dos. Idéale pour les rendez-vous, les anniversaires, les mariages, les enterrements de v.webp",
-      "/vetement_femme/104/Lovelzi Robe de princesse élégante et romantique en satin rose avec volants, col asymétrique et bretelles réglables dans le dos. Idéale pour les rendez-vous, les anniversaires, les mariages, les enterrements  (1).webp",
-      "/vetement_femme/104/Lovelzi Robe de princesse élégante et romantique en satin rose avec volants, col asymétrique et bretelles réglables dans le dos. Idéale pour les rendez-vous, les anniversaires, les mariages, les enterrements  (2).webp",
-      "/vetement_femme/104/Lovelzi Robe de princesse élégante et romantique en satin rose avec volants, col asymétrique et bretelles réglables dans le dos. Idéale pour les rendez-vous, les anniversaires, les mariages, les enterrements  (3).webp",
-      "/vetement_femme/104/Lovelzi Robe de princesse élégante et romantique en satin rose avec volants, col asymétrique et bretelles réglables dans le dos. Idéale pour les rendez-vous, les anniversaires, les mariages, les enterrements  (4).webp",
-      "/vetement_femme/104/Lovelzi Robe de princesse élégante et romantique en satin rose avec volants, col asymétrique et bretelles réglables dans le dos. Idéale pour les rendez-vous, les anniversaires, les mariages, les enterrements  (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/104/Lovelzi Robe de princesse élégante et romantique en satin rose avec volants, col asymétrique et bretelles réglables dans le dos. Idéale pour les rendez-vous, les anniversaires, les mariages, les enterrements de v.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/104/Lovelzi Robe de princesse élégante et romantique en satin rose avec volants, col asymétrique et bretelles réglables dans le dos. Idéale pour les rendez-vous, les anniversaires, les mariages, les enterrements  (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/104/Lovelzi Robe de princesse élégante et romantique en satin rose avec volants, col asymétrique et bretelles réglables dans le dos. Idéale pour les rendez-vous, les anniversaires, les mariages, les enterrements  (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/104/Lovelzi Robe de princesse élégante et romantique en satin rose avec volants, col asymétrique et bretelles réglables dans le dos. Idéale pour les rendez-vous, les anniversaires, les mariages, les enterrements  (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/104/Lovelzi Robe de princesse élégante et romantique en satin rose avec volants, col asymétrique et bretelles réglables dans le dos. Idéale pour les rendez-vous, les anniversaires, les mariages, les enterrements  (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/104/Lovelzi Robe de princesse élégante et romantique en satin rose avec volants, col asymétrique et bretelles réglables dans le dos. Idéale pour les rendez-vous, les anniversaires, les mariages, les enterrements  (5).webp"
     ]
   },
   {
@@ -4441,14 +4441,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/105/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/105/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été.webp",
     "images": [
-      "/vetement_femme/105/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été.webp",
-      "/vetement_femme/105/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été (1).webp",
-      "/vetement_femme/105/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été (2).webp",
-      "/vetement_femme/105/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été (3).webp",
-      "/vetement_femme/105/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été (4).webp",
-      "/vetement_femme/105/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/105/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/105/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/105/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/105/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/105/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/105/Rafferiza Robe simple à manches bouffantes et nœud à l'avant, ourlet à volants, pour l'été (5).webp"
     ]
   },
   {
@@ -4483,12 +4483,12 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/106/Nouvelle robe imprimé léopard tout-aller pour femmes BamGleam, idéale pour les festivals de musique, Pâques, Nashville, style boho, anniversaires, remises de diplômes, port quotidien, vacances, croisières, plage,.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/106/Nouvelle robe imprimé léopard tout-aller pour femmes BamGleam, idéale pour les festivals de musique, Pâques, Nashville, style boho, anniversaires, remises de diplômes, port quotidien, vacances, croisières, plage,.webp",
     "images": [
-      "/vetement_femme/106/Nouvelle robe imprimé léopard tout-aller pour femmes BamGleam, idéale pour les festivals de musique, Pâques, Nashville, style boho, anniversaires, remises de diplômes, port quotidien, vacances, croisières, plage,.webp",
-      "/vetement_femme/106/Nouvelle robe imprimé léopard tout-aller pour femmes BamGleam, idéale pour les festivals de musique, Pâques, Nashville, style boho, anniversaires, remises de diplômes, port quotidien, vacances, croisières, pl (1).webp",
-      "/vetement_femme/106/Nouvelle robe imprimé léopard tout-aller pour femmes BamGleam, idéale pour les festivals de musique, Pâques, Nashville, style boho, anniversaires, remises de diplômes, port quotidien, vacances, croisières, pl (2).webp",
-      "/vetement_femme/106/Nouvelle robe imprimé léopard tout-aller pour femmes BamGleam, idéale pour les festivals de musique, Pâques, Nashville, style boho, anniversaires, remises de diplômes, port quotidien, vacances, croisières, pl (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/106/Nouvelle robe imprimé léopard tout-aller pour femmes BamGleam, idéale pour les festivals de musique, Pâques, Nashville, style boho, anniversaires, remises de diplômes, port quotidien, vacances, croisières, plage,.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/106/Nouvelle robe imprimé léopard tout-aller pour femmes BamGleam, idéale pour les festivals de musique, Pâques, Nashville, style boho, anniversaires, remises de diplômes, port quotidien, vacances, croisières, pl (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/106/Nouvelle robe imprimé léopard tout-aller pour femmes BamGleam, idéale pour les festivals de musique, Pâques, Nashville, style boho, anniversaires, remises de diplômes, port quotidien, vacances, croisières, pl (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/106/Nouvelle robe imprimé léopard tout-aller pour femmes BamGleam, idéale pour les festivals de musique, Pâques, Nashville, style boho, anniversaires, remises de diplômes, port quotidien, vacances, croisières, pl (3).webp"
     ]
   },
   {
@@ -4524,13 +4524,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/107/Lovelzi Robe de soirée élégante, romantique et en jacquard de couleur bordeaux avec empiècement en satin. Robe longue bordeaux pour invitée de mariage, soirée célibataire ou bal.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/107/Lovelzi Robe de soirée élégante, romantique et en jacquard de couleur bordeaux avec empiècement en satin. Robe longue bordeaux pour invitée de mariage, soirée célibataire ou bal.webp",
     "images": [
-      "/vetement_femme/107/Lovelzi Robe de soirée élégante, romantique et en jacquard de couleur bordeaux avec empiècement en satin. Robe longue bordeaux pour invitée de mariage, soirée célibataire ou bal.webp",
-      "/vetement_femme/107/Lovelzi Robe de soirée élégante, romantique et en jacquard de couleur bordeaux avec empiècement en satin. Robe longue bordeaux pour invitée de mariage, soirée célibataire ou bal (1).webp",
-      "/vetement_femme/107/Lovelzi Robe de soirée élégante, romantique et en jacquard de couleur bordeaux avec empiècement en satin. Robe longue bordeaux pour invitée de mariage, soirée célibataire ou bal (2).webp",
-      "/vetement_femme/107/Lovelzi Robe de soirée élégante, romantique et en jacquard de couleur bordeaux avec empiècement en satin. Robe longue bordeaux pour invitée de mariage, soirée célibataire ou bal (3).webp",
-      "/vetement_femme/107/Lovelzi Robe de soirée élégante, romantique et en jacquard de couleur bordeaux avec empiècement en satin. Robe longue bordeaux pour invitée de mariage, soirée célibataire ou bal (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/107/Lovelzi Robe de soirée élégante, romantique et en jacquard de couleur bordeaux avec empiècement en satin. Robe longue bordeaux pour invitée de mariage, soirée célibataire ou bal.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/107/Lovelzi Robe de soirée élégante, romantique et en jacquard de couleur bordeaux avec empiècement en satin. Robe longue bordeaux pour invitée de mariage, soirée célibataire ou bal (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/107/Lovelzi Robe de soirée élégante, romantique et en jacquard de couleur bordeaux avec empiècement en satin. Robe longue bordeaux pour invitée de mariage, soirée célibataire ou bal (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/107/Lovelzi Robe de soirée élégante, romantique et en jacquard de couleur bordeaux avec empiècement en satin. Robe longue bordeaux pour invitée de mariage, soirée célibataire ou bal (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/107/Lovelzi Robe de soirée élégante, romantique et en jacquard de couleur bordeaux avec empiècement en satin. Robe longue bordeaux pour invitée de mariage, soirée célibataire ou bal (4).webp"
     ]
   },
   {
@@ -4565,14 +4565,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/108/Lovelzi Robe de soirée élégante couleur champagne, en tissu de soie brillant et romantique, avec un nœud sur l'épaule, plissée à la poitrine et à coupe évasée. Convient pour un enterrement de vie de jeune fille, .webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/108/Lovelzi Robe de soirée élégante couleur champagne, en tissu de soie brillant et romantique, avec un nœud sur l'épaule, plissée à la poitrine et à coupe évasée. Convient pour un enterrement de vie de jeune fille, .webp",
     "images": [
-      "/vetement_femme/108/Lovelzi Robe de soirée élégante couleur champagne, en tissu de soie brillant et romantique, avec un nœud sur l'épaule, plissée à la poitrine et à coupe évasée. Convient pour un enterrement de vie de jeune fille, .webp",
-      "/vetement_femme/108/Lovelzi Robe de soirée élégante couleur champagne, en tissu de soie brillant et romantique, avec un nœud sur l'épaule, plissée à la poitrine et à coupe évasée. Convient pour un enterrement de vie de jeune fil (1).webp",
-      "/vetement_femme/108/Lovelzi Robe de soirée élégante couleur champagne, en tissu de soie brillant et romantique, avec un nœud sur l'épaule, plissée à la poitrine et à coupe évasée. Convient pour un enterrement de vie de jeune fil (2).webp",
-      "/vetement_femme/108/Lovelzi Robe de soirée élégante couleur champagne, en tissu de soie brillant et romantique, avec un nœud sur l'épaule, plissée à la poitrine et à coupe évasée. Convient pour un enterrement de vie de jeune fil (3).webp",
-      "/vetement_femme/108/Lovelzi Robe de soirée élégante couleur champagne, en tissu de soie brillant et romantique, avec un nœud sur l'épaule, plissée à la poitrine et à coupe évasée. Convient pour un enterrement de vie de jeune fil (4).webp",
-      "/vetement_femme/108/Lovelzi Robe de soirée élégante couleur champagne, en tissu de soie brillant et romantique, avec un nœud sur l'épaule, plissée à la poitrine et à coupe évasée. Convient pour un enterrement de vie de jeune fil (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/108/Lovelzi Robe de soirée élégante couleur champagne, en tissu de soie brillant et romantique, avec un nœud sur l'épaule, plissée à la poitrine et à coupe évasée. Convient pour un enterrement de vie de jeune fille, .webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/108/Lovelzi Robe de soirée élégante couleur champagne, en tissu de soie brillant et romantique, avec un nœud sur l'épaule, plissée à la poitrine et à coupe évasée. Convient pour un enterrement de vie de jeune fil (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/108/Lovelzi Robe de soirée élégante couleur champagne, en tissu de soie brillant et romantique, avec un nœud sur l'épaule, plissée à la poitrine et à coupe évasée. Convient pour un enterrement de vie de jeune fil (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/108/Lovelzi Robe de soirée élégante couleur champagne, en tissu de soie brillant et romantique, avec un nœud sur l'épaule, plissée à la poitrine et à coupe évasée. Convient pour un enterrement de vie de jeune fil (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/108/Lovelzi Robe de soirée élégante couleur champagne, en tissu de soie brillant et romantique, avec un nœud sur l'épaule, plissée à la poitrine et à coupe évasée. Convient pour un enterrement de vie de jeune fil (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/108/Lovelzi Robe de soirée élégante couleur champagne, en tissu de soie brillant et romantique, avec un nœud sur l'épaule, plissée à la poitrine et à coupe évasée. Convient pour un enterrement de vie de jeune fil (5).webp"
     ]
   },
   {
@@ -4608,13 +4608,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/109/Lovelzi Robe de cocktail courte élégante et luxueuse en satin vert clair patchwork et maille, avec décoration appliquée de perles faites à la main, décolleté épaules dénudées, découpe à la taille et dos nu avec n.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/109/Lovelzi Robe de cocktail courte élégante et luxueuse en satin vert clair patchwork et maille, avec décoration appliquée de perles faites à la main, décolleté épaules dénudées, découpe à la taille et dos nu avec n.webp",
     "images": [
-      "/vetement_femme/109/Lovelzi Robe de cocktail courte élégante et luxueuse en satin vert clair patchwork et maille, avec décoration appliquée de perles faites à la main, décolleté épaules dénudées, découpe à la taille et dos nu avec n.webp",
-      "/vetement_femme/109/Lovelzi Robe de cocktail courte élégante et luxueuse en satin vert clair patchwork et maille, avec décoration appliquée de perles faites à la main, décolleté épaules dénudées, découpe à la taille et dos nu av (1).webp",
-      "/vetement_femme/109/Lovelzi Robe de cocktail courte élégante et luxueuse en satin vert clair patchwork et maille, avec décoration appliquée de perles faites à la main, décolleté épaules dénudées, découpe à la taille et dos nu av (2).webp",
-      "/vetement_femme/109/Lovelzi Robe de cocktail courte élégante et luxueuse en satin vert clair patchwork et maille, avec décoration appliquée de perles faites à la main, décolleté épaules dénudées, découpe à la taille et dos nu av (3).webp",
-      "/vetement_femme/109/Lovelzi Robe de cocktail courte élégante et luxueuse en satin vert clair patchwork et maille, avec décoration appliquée de perles faites à la main, décolleté épaules dénudées, découpe à la taille et dos nu av (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/109/Lovelzi Robe de cocktail courte élégante et luxueuse en satin vert clair patchwork et maille, avec décoration appliquée de perles faites à la main, décolleté épaules dénudées, découpe à la taille et dos nu avec n.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/109/Lovelzi Robe de cocktail courte élégante et luxueuse en satin vert clair patchwork et maille, avec décoration appliquée de perles faites à la main, décolleté épaules dénudées, découpe à la taille et dos nu av (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/109/Lovelzi Robe de cocktail courte élégante et luxueuse en satin vert clair patchwork et maille, avec décoration appliquée de perles faites à la main, décolleté épaules dénudées, découpe à la taille et dos nu av (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/109/Lovelzi Robe de cocktail courte élégante et luxueuse en satin vert clair patchwork et maille, avec décoration appliquée de perles faites à la main, décolleté épaules dénudées, découpe à la taille et dos nu av (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/109/Lovelzi Robe de cocktail courte élégante et luxueuse en satin vert clair patchwork et maille, avec décoration appliquée de perles faites à la main, décolleté épaules dénudées, découpe à la taille et dos nu av (4).webp"
     ]
   },
   {
@@ -4649,13 +4649,13 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/110/Jupe évasée à volants et encolure en cœur pour femmes, convient pour les fêtes, les remises de diplômes, la rentrée scolaire, à porter avec des manches évasées.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/110/Jupe évasée à volants et encolure en cœur pour femmes, convient pour les fêtes, les remises de diplômes, la rentrée scolaire, à porter avec des manches évasées.webp",
     "images": [
-      "/vetement_femme/110/Jupe évasée à volants et encolure en cœur pour femmes, convient pour les fêtes, les remises de diplômes, la rentrée scolaire, à porter avec des manches évasées.webp",
-      "/vetement_femme/110/Jupe évasée à volants et encolure en cœur pour femmes, convient pour les fêtes, les remises de diplômes, la rentrée scolaire, à porter avec des manches évasées (1).webp",
-      "/vetement_femme/110/Jupe évasée à volants et encolure en cœur pour femmes, convient pour les fêtes, les remises de diplômes, la rentrée scolaire, à porter avec des manches évasées (2).webp",
-      "/vetement_femme/110/Jupe évasée à volants et encolure en cœur pour femmes, convient pour les fêtes, les remises de diplômes, la rentrée scolaire, à porter avec des manches évasées (3).webp",
-      "/vetement_femme/110/Jupe évasée à volants et encolure en cœur pour femmes, convient pour les fêtes, les remises de diplômes, la rentrée scolaire, à porter avec des manches évasées (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/110/Jupe évasée à volants et encolure en cœur pour femmes, convient pour les fêtes, les remises de diplômes, la rentrée scolaire, à porter avec des manches évasées.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/110/Jupe évasée à volants et encolure en cœur pour femmes, convient pour les fêtes, les remises de diplômes, la rentrée scolaire, à porter avec des manches évasées (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/110/Jupe évasée à volants et encolure en cœur pour femmes, convient pour les fêtes, les remises de diplômes, la rentrée scolaire, à porter avec des manches évasées (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/110/Jupe évasée à volants et encolure en cœur pour femmes, convient pour les fêtes, les remises de diplômes, la rentrée scolaire, à porter avec des manches évasées (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/110/Jupe évasée à volants et encolure en cœur pour femmes, convient pour les fêtes, les remises de diplômes, la rentrée scolaire, à porter avec des manches évasées (4).webp"
     ]
   },
   {
@@ -4690,13 +4690,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/111/velzi Robe maxi élégante et romantique en satin avec plis asymétriques, sans bretelles, avec un grand nœud décoratif. Convient pour les soirées, les fêtes entre célibataires, les rendez-vous, les vacances, la ren.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/111/velzi Robe maxi élégante et romantique en satin avec plis asymétriques, sans bretelles, avec un grand nœud décoratif. Convient pour les soirées, les fêtes entre célibataires, les rendez-vous, les vacances, la ren.webp",
     "images": [
-      "/vetement_femme/111/velzi Robe maxi élégante et romantique en satin avec plis asymétriques, sans bretelles, avec un grand nœud décoratif. Convient pour les soirées, les fêtes entre célibataires, les rendez-vous, les vacances, la ren.webp",
-      "/vetement_femme/111/velzi Robe maxi élégante et romantique en satin avec plis asymétriques, sans bretelles, avec un grand nœud décoratif. Convient pour les soirées, les fêtes entre célibataires, les rendez-vous, les vacances, la (1).webp",
-      "/vetement_femme/111/velzi Robe maxi élégante et romantique en satin avec plis asymétriques, sans bretelles, avec un grand nœud décoratif. Convient pour les soirées, les fêtes entre célibataires, les rendez-vous, les vacances, la (2).webp",
-      "/vetement_femme/111/velzi Robe maxi élégante et romantique en satin avec plis asymétriques, sans bretelles, avec un grand nœud décoratif. Convient pour les soirées, les fêtes entre célibataires, les rendez-vous, les vacances, la (3).webp",
-      "/vetement_femme/111/velzi Robe maxi élégante et romantique en satin avec plis asymétriques, sans bretelles, avec un grand nœud décoratif. Convient pour les soirées, les fêtes entre célibataires, les rendez-vous, les vacances, la (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/111/velzi Robe maxi élégante et romantique en satin avec plis asymétriques, sans bretelles, avec un grand nœud décoratif. Convient pour les soirées, les fêtes entre célibataires, les rendez-vous, les vacances, la ren.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/111/velzi Robe maxi élégante et romantique en satin avec plis asymétriques, sans bretelles, avec un grand nœud décoratif. Convient pour les soirées, les fêtes entre célibataires, les rendez-vous, les vacances, la (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/111/velzi Robe maxi élégante et romantique en satin avec plis asymétriques, sans bretelles, avec un grand nœud décoratif. Convient pour les soirées, les fêtes entre célibataires, les rendez-vous, les vacances, la (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/111/velzi Robe maxi élégante et romantique en satin avec plis asymétriques, sans bretelles, avec un grand nœud décoratif. Convient pour les soirées, les fêtes entre célibataires, les rendez-vous, les vacances, la (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/111/velzi Robe maxi élégante et romantique en satin avec plis asymétriques, sans bretelles, avec un grand nœud décoratif. Convient pour les soirées, les fêtes entre célibataires, les rendez-vous, les vacances, la (4).webp"
     ]
   },
   {
@@ -4731,14 +4731,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/112/SHEIN Belle Tissu Satiné Vert Romantique Et Élégant Pour Femmes, Épaules Dénudées, Manches Suspendues, Poitrine Froncée, Détails De Conception, Épaules Dénudées, Devant Court, Dos Long, Strass Luxueux, Convient P.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/112/SHEIN Belle Tissu Satiné Vert Romantique Et Élégant Pour Femmes, Épaules Dénudées, Manches Suspendues, Poitrine Froncée, Détails De Conception, Épaules Dénudées, Devant Court, Dos Long, Strass Luxueux, Convient P.webp",
     "images": [
-      "/vetement_femme/112/SHEIN Belle Tissu Satiné Vert Romantique Et Élégant Pour Femmes, Épaules Dénudées, Manches Suspendues, Poitrine Froncée, Détails De Conception, Épaules Dénudées, Devant Court, Dos Long, Strass Luxueux, Convient P.webp",
-      "/vetement_femme/112/SHEIN Belle Tissu Satiné Vert Romantique Et Élégant Pour Femmes, Épaules Dénudées, Manches Suspendues, Poitrine Froncée, Détails De Conception, Épaules Dénudées, Devant Court, Dos Long, Strass Luxueux, Convie (1).webp",
-      "/vetement_femme/112/SHEIN Belle Tissu Satiné Vert Romantique Et Élégant Pour Femmes, Épaules Dénudées, Manches Suspendues, Poitrine Froncée, Détails De Conception, Épaules Dénudées, Devant Court, Dos Long, Strass Luxueux, Convie (2).webp",
-      "/vetement_femme/112/SHEIN Belle Tissu Satiné Vert Romantique Et Élégant Pour Femmes, Épaules Dénudées, Manches Suspendues, Poitrine Froncée, Détails De Conception, Épaules Dénudées, Devant Court, Dos Long, Strass Luxueux, Convie (3).webp",
-      "/vetement_femme/112/SHEIN Belle Tissu Satiné Vert Romantique Et Élégant Pour Femmes, Épaules Dénudées, Manches Suspendues, Poitrine Froncée, Détails De Conception, Épaules Dénudées, Devant Court, Dos Long, Strass Luxueux, Convie (4).webp",
-      "/vetement_femme/112/SHEIN Belle Tissu Satiné Vert Romantique Et Élégant Pour Femmes, Épaules Dénudées, Manches Suspendues, Poitrine Froncée, Détails De Conception, Épaules Dénudées, Devant Court, Dos Long, Strass Luxueux, Convie (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/112/SHEIN Belle Tissu Satiné Vert Romantique Et Élégant Pour Femmes, Épaules Dénudées, Manches Suspendues, Poitrine Froncée, Détails De Conception, Épaules Dénudées, Devant Court, Dos Long, Strass Luxueux, Convient P.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/112/SHEIN Belle Tissu Satiné Vert Romantique Et Élégant Pour Femmes, Épaules Dénudées, Manches Suspendues, Poitrine Froncée, Détails De Conception, Épaules Dénudées, Devant Court, Dos Long, Strass Luxueux, Convie (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/112/SHEIN Belle Tissu Satiné Vert Romantique Et Élégant Pour Femmes, Épaules Dénudées, Manches Suspendues, Poitrine Froncée, Détails De Conception, Épaules Dénudées, Devant Court, Dos Long, Strass Luxueux, Convie (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/112/SHEIN Belle Tissu Satiné Vert Romantique Et Élégant Pour Femmes, Épaules Dénudées, Manches Suspendues, Poitrine Froncée, Détails De Conception, Épaules Dénudées, Devant Court, Dos Long, Strass Luxueux, Convie (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/112/SHEIN Belle Tissu Satiné Vert Romantique Et Élégant Pour Femmes, Épaules Dénudées, Manches Suspendues, Poitrine Froncée, Détails De Conception, Épaules Dénudées, Devant Court, Dos Long, Strass Luxueux, Convie (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/112/SHEIN Belle Tissu Satiné Vert Romantique Et Élégant Pour Femmes, Épaules Dénudées, Manches Suspendues, Poitrine Froncée, Détails De Conception, Épaules Dénudées, Devant Court, Dos Long, Strass Luxueux, Convie (5).webp"
     ]
   },
   {
@@ -4773,15 +4773,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/113/SHEIN Belle Robe de style princesse style palais à ligne A en satin satiné, avec bretelles détachables, coupe _V_, épaulettes en maille transparente à pois, empiècement en dentelle romantique, convenant pour les .webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/113/SHEIN Belle Robe de style princesse style palais à ligne A en satin satiné, avec bretelles détachables, coupe _V_, épaulettes en maille transparente à pois, empiècement en dentelle romantique, convenant pour les .webp",
     "images": [
-      "/vetement_femme/113/SHEIN Belle Robe de style princesse style palais à ligne A en satin satiné, avec bretelles détachables, coupe _V_, épaulettes en maille transparente à pois, empiècement en dentelle romantique, convenant pour les .webp",
-      "/vetement_femme/113/SHEIN Belle Robe de style princesse style palais à ligne A en satin satiné, avec bretelles détachables, coupe _V_, épaulettes en maille transparente à pois, empiècement en dentelle romantique, convenant pour  (1).webp",
-      "/vetement_femme/113/SHEIN Belle Robe de style princesse style palais à ligne A en satin satiné, avec bretelles détachables, coupe _V_, épaulettes en maille transparente à pois, empiècement en dentelle romantique, convenant pour  (2).webp",
-      "/vetement_femme/113/SHEIN Belle Robe de style princesse style palais à ligne A en satin satiné, avec bretelles détachables, coupe _V_, épaulettes en maille transparente à pois, empiècement en dentelle romantique, convenant pour  (3).webp",
-      "/vetement_femme/113/SHEIN Belle Robe de style princesse style palais à ligne A en satin satiné, avec bretelles détachables, coupe _V_, épaulettes en maille transparente à pois, empiècement en dentelle romantique, convenant pour  (4).webp",
-      "/vetement_femme/113/SHEIN Belle Robe de style princesse style palais à ligne A en satin satiné, avec bretelles détachables, coupe _V_, épaulettes en maille transparente à pois, empiècement en dentelle romantique, convenant pour  (5).webp",
-      "/vetement_femme/113/SHEIN Belle Robe de style princesse style palais à ligne A en satin satiné, avec bretelles détachables, coupe _V_, épaulettes en maille transparente à pois, empiècement en dentelle romantique, convenant pour  (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/113/SHEIN Belle Robe de style princesse style palais à ligne A en satin satiné, avec bretelles détachables, coupe _V_, épaulettes en maille transparente à pois, empiècement en dentelle romantique, convenant pour les .webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/113/SHEIN Belle Robe de style princesse style palais à ligne A en satin satiné, avec bretelles détachables, coupe _V_, épaulettes en maille transparente à pois, empiècement en dentelle romantique, convenant pour  (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/113/SHEIN Belle Robe de style princesse style palais à ligne A en satin satiné, avec bretelles détachables, coupe _V_, épaulettes en maille transparente à pois, empiècement en dentelle romantique, convenant pour  (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/113/SHEIN Belle Robe de style princesse style palais à ligne A en satin satiné, avec bretelles détachables, coupe _V_, épaulettes en maille transparente à pois, empiècement en dentelle romantique, convenant pour  (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/113/SHEIN Belle Robe de style princesse style palais à ligne A en satin satiné, avec bretelles détachables, coupe _V_, épaulettes en maille transparente à pois, empiècement en dentelle romantique, convenant pour  (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/113/SHEIN Belle Robe de style princesse style palais à ligne A en satin satiné, avec bretelles détachables, coupe _V_, épaulettes en maille transparente à pois, empiècement en dentelle romantique, convenant pour  (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/113/SHEIN Belle Robe de style princesse style palais à ligne A en satin satiné, avec bretelles détachables, coupe _V_, épaulettes en maille transparente à pois, empiècement en dentelle romantique, convenant pour  (6).webp"
     ]
   },
   {
@@ -4816,16 +4816,16 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/114/Faeriesty Robe élégante à une épaule _ Robe mini asymétrique sans manches avec jupe évasée, design de corsage plissé, fermeture éclair dans le dos, silhouette romantique - Idéale pour la photographie de mariage, .webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/114/Faeriesty Robe élégante à une épaule _ Robe mini asymétrique sans manches avec jupe évasée, design de corsage plissé, fermeture éclair dans le dos, silhouette romantique - Idéale pour la photographie de mariage, .webp",
     "images": [
-      "/vetement_femme/114/Faeriesty Robe élégante à une épaule _ Robe mini asymétrique sans manches avec jupe évasée, design de corsage plissé, fermeture éclair dans le dos, silhouette romantique - Idéale pour la photographie de mariage, .webp",
-      "/vetement_femme/114/Faeriesty Robe élégante à une épaule _ Robe mini asymétrique sans manches avec jupe évasée, design de corsage plissé, fermeture éclair dans le dos, silhouette romantique - Idéale pour la photographie de maria (1).webp",
-      "/vetement_femme/114/Faeriesty Robe élégante à une épaule _ Robe mini asymétrique sans manches avec jupe évasée, design de corsage plissé, fermeture éclair dans le dos, silhouette romantique - Idéale pour la photographie de maria (2).webp",
-      "/vetement_femme/114/Faeriesty Robe élégante à une épaule _ Robe mini asymétrique sans manches avec jupe évasée, design de corsage plissé, fermeture éclair dans le dos, silhouette romantique - Idéale pour la photographie de maria (3).webp",
-      "/vetement_femme/114/Faeriesty Robe élégante à une épaule _ Robe mini asymétrique sans manches avec jupe évasée, design de corsage plissé, fermeture éclair dans le dos, silhouette romantique - Idéale pour la photographie de maria (4).webp",
-      "/vetement_femme/114/Faeriesty Robe élégante à une épaule _ Robe mini asymétrique sans manches avec jupe évasée, design de corsage plissé, fermeture éclair dans le dos, silhouette romantique - Idéale pour la photographie de maria (5).webp",
-      "/vetement_femme/114/Faeriesty Robe élégante à une épaule _ Robe mini asymétrique sans manches avec jupe évasée, design de corsage plissé, fermeture éclair dans le dos, silhouette romantique - Idéale pour la photographie de maria (6).webp",
-      "/vetement_femme/114/Faeriesty Robe élégante à une épaule _ Robe mini asymétrique sans manches avec jupe évasée, design de corsage plissé, fermeture éclair dans le dos, silhouette romantique - Idéale pour la photographie de maria (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/114/Faeriesty Robe élégante à une épaule _ Robe mini asymétrique sans manches avec jupe évasée, design de corsage plissé, fermeture éclair dans le dos, silhouette romantique - Idéale pour la photographie de mariage, .webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/114/Faeriesty Robe élégante à une épaule _ Robe mini asymétrique sans manches avec jupe évasée, design de corsage plissé, fermeture éclair dans le dos, silhouette romantique - Idéale pour la photographie de maria (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/114/Faeriesty Robe élégante à une épaule _ Robe mini asymétrique sans manches avec jupe évasée, design de corsage plissé, fermeture éclair dans le dos, silhouette romantique - Idéale pour la photographie de maria (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/114/Faeriesty Robe élégante à une épaule _ Robe mini asymétrique sans manches avec jupe évasée, design de corsage plissé, fermeture éclair dans le dos, silhouette romantique - Idéale pour la photographie de maria (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/114/Faeriesty Robe élégante à une épaule _ Robe mini asymétrique sans manches avec jupe évasée, design de corsage plissé, fermeture éclair dans le dos, silhouette romantique - Idéale pour la photographie de maria (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/114/Faeriesty Robe élégante à une épaule _ Robe mini asymétrique sans manches avec jupe évasée, design de corsage plissé, fermeture éclair dans le dos, silhouette romantique - Idéale pour la photographie de maria (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/114/Faeriesty Robe élégante à une épaule _ Robe mini asymétrique sans manches avec jupe évasée, design de corsage plissé, fermeture éclair dans le dos, silhouette romantique - Idéale pour la photographie de maria (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/114/Faeriesty Robe élégante à une épaule _ Robe mini asymétrique sans manches avec jupe évasée, design de corsage plissé, fermeture éclair dans le dos, silhouette romantique - Idéale pour la photographie de maria (7).webp"
     ]
   },
   {
@@ -4860,14 +4860,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/115/Robe de bal style féérique, robe de bal_bal de promo transparente avec décolleté dégagé, laçage dans le dos, décoration florale appliquée, pour mariage et fête de printemps.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/115/Robe de bal style féérique, robe de bal_bal de promo transparente avec décolleté dégagé, laçage dans le dos, décoration florale appliquée, pour mariage et fête de printemps.webp",
     "images": [
-      "/vetement_femme/115/Robe de bal style féérique, robe de bal_bal de promo transparente avec décolleté dégagé, laçage dans le dos, décoration florale appliquée, pour mariage et fête de printemps.webp",
-      "/vetement_femme/115/Robe de bal style féérique, robe de bal_bal de promo transparente avec décolleté dégagé, laçage dans le dos, décoration florale appliquée, pour mariage et fête de printemps (1).webp",
-      "/vetement_femme/115/Robe de bal style féérique, robe de bal_bal de promo transparente avec décolleté dégagé, laçage dans le dos, décoration florale appliquée, pour mariage et fête de printemps (2).webp",
-      "/vetement_femme/115/Robe de bal style féérique, robe de bal_bal de promo transparente avec décolleté dégagé, laçage dans le dos, décoration florale appliquée, pour mariage et fête de printemps (3).webp",
-      "/vetement_femme/115/Robe de bal style féérique, robe de bal_bal de promo transparente avec décolleté dégagé, laçage dans le dos, décoration florale appliquée, pour mariage et fête de printemps (4).webp",
-      "/vetement_femme/115/Robe de bal style féérique, robe de bal_bal de promo transparente avec décolleté dégagé, laçage dans le dos, décoration florale appliquée, pour mariage et fête de printemps (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/115/Robe de bal style féérique, robe de bal_bal de promo transparente avec décolleté dégagé, laçage dans le dos, décoration florale appliquée, pour mariage et fête de printemps.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/115/Robe de bal style féérique, robe de bal_bal de promo transparente avec décolleté dégagé, laçage dans le dos, décoration florale appliquée, pour mariage et fête de printemps (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/115/Robe de bal style féérique, robe de bal_bal de promo transparente avec décolleté dégagé, laçage dans le dos, décoration florale appliquée, pour mariage et fête de printemps (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/115/Robe de bal style féérique, robe de bal_bal de promo transparente avec décolleté dégagé, laçage dans le dos, décoration florale appliquée, pour mariage et fête de printemps (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/115/Robe de bal style féérique, robe de bal_bal de promo transparente avec décolleté dégagé, laçage dans le dos, décoration florale appliquée, pour mariage et fête de printemps (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/115/Robe de bal style féérique, robe de bal_bal de promo transparente avec décolleté dégagé, laçage dans le dos, décoration florale appliquée, pour mariage et fête de printemps (5).webp"
     ]
   },
   {
@@ -4902,16 +4902,16 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/116/SHEIN Belle Robe de soirée longue à manches longues en maille avec imprimé floral pailleté et décolleté en V de luxe (très décorée), robe de bal semi-formelle élégante, pour un anniversaire, un mariage, un bal de.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/116/SHEIN Belle Robe de soirée longue à manches longues en maille avec imprimé floral pailleté et décolleté en V de luxe (très décorée), robe de bal semi-formelle élégante, pour un anniversaire, un mariage, un bal de.webp",
     "images": [
-      "/vetement_femme/116/SHEIN Belle Robe de soirée longue à manches longues en maille avec imprimé floral pailleté et décolleté en V de luxe (très décorée), robe de bal semi-formelle élégante, pour un anniversaire, un mariage, un bal de.webp",
-      "/vetement_femme/116/SHEIN Belle Robe de soirée longue à manches longues en maille avec imprimé floral pailleté et décolleté en V de luxe (très décorée), robe de bal semi-formelle élégante, pour un anniversaire, un mariage, un ba (1).webp",
-      "/vetement_femme/116/SHEIN Belle Robe de soirée longue à manches longues en maille avec imprimé floral pailleté et décolleté en V de luxe (très décorée), robe de bal semi-formelle élégante, pour un anniversaire, un mariage, un ba (2).webp",
-      "/vetement_femme/116/SHEIN Belle Robe de soirée longue à manches longues en maille avec imprimé floral pailleté et décolleté en V de luxe (très décorée), robe de bal semi-formelle élégante, pour un anniversaire, un mariage, un ba (3).webp",
-      "/vetement_femme/116/SHEIN Belle Robe de soirée longue à manches longues en maille avec imprimé floral pailleté et décolleté en V de luxe (très décorée), robe de bal semi-formelle élégante, pour un anniversaire, un mariage, un ba (4).webp",
-      "/vetement_femme/116/SHEIN Belle Robe de soirée longue à manches longues en maille avec imprimé floral pailleté et décolleté en V de luxe (très décorée), robe de bal semi-formelle élégante, pour un anniversaire, un mariage, un ba (5).webp",
-      "/vetement_femme/116/SHEIN Belle Robe de soirée longue à manches longues en maille avec imprimé floral pailleté et décolleté en V de luxe (très décorée), robe de bal semi-formelle élégante, pour un anniversaire, un mariage, un ba (6).webp",
-      "/vetement_femme/116/SHEIN Belle Robe de soirée longue à manches longues en maille avec imprimé floral pailleté et décolleté en V de luxe (très décorée), robe de bal semi-formelle élégante, pour un anniversaire, un mariage, un ba (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/116/SHEIN Belle Robe de soirée longue à manches longues en maille avec imprimé floral pailleté et décolleté en V de luxe (très décorée), robe de bal semi-formelle élégante, pour un anniversaire, un mariage, un bal de.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/116/SHEIN Belle Robe de soirée longue à manches longues en maille avec imprimé floral pailleté et décolleté en V de luxe (très décorée), robe de bal semi-formelle élégante, pour un anniversaire, un mariage, un ba (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/116/SHEIN Belle Robe de soirée longue à manches longues en maille avec imprimé floral pailleté et décolleté en V de luxe (très décorée), robe de bal semi-formelle élégante, pour un anniversaire, un mariage, un ba (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/116/SHEIN Belle Robe de soirée longue à manches longues en maille avec imprimé floral pailleté et décolleté en V de luxe (très décorée), robe de bal semi-formelle élégante, pour un anniversaire, un mariage, un ba (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/116/SHEIN Belle Robe de soirée longue à manches longues en maille avec imprimé floral pailleté et décolleté en V de luxe (très décorée), robe de bal semi-formelle élégante, pour un anniversaire, un mariage, un ba (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/116/SHEIN Belle Robe de soirée longue à manches longues en maille avec imprimé floral pailleté et décolleté en V de luxe (très décorée), robe de bal semi-formelle élégante, pour un anniversaire, un mariage, un ba (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/116/SHEIN Belle Robe de soirée longue à manches longues en maille avec imprimé floral pailleté et décolleté en V de luxe (très décorée), robe de bal semi-formelle élégante, pour un anniversaire, un mariage, un ba (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/116/SHEIN Belle Robe de soirée longue à manches longues en maille avec imprimé floral pailleté et décolleté en V de luxe (très décorée), robe de bal semi-formelle élégante, pour un anniversaire, un mariage, un ba (7).webp"
     ]
   },
   {
@@ -4947,15 +4947,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/117/SHEIN Belle Robe parapluie élégante et vintage en satin, avec un col en V profond, des manches à volants exagérés et une ceinture à la taille. Motif jacquard bleu et doré. Convient pour les soirées, mariages, fêt.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/117/SHEIN Belle Robe parapluie élégante et vintage en satin, avec un col en V profond, des manches à volants exagérés et une ceinture à la taille. Motif jacquard bleu et doré. Convient pour les soirées, mariages, fêt.webp",
     "images": [
-      "/vetement_femme/117/SHEIN Belle Robe parapluie élégante et vintage en satin, avec un col en V profond, des manches à volants exagérés et une ceinture à la taille. Motif jacquard bleu et doré. Convient pour les soirées, mariages, fêt.webp",
-      "/vetement_femme/117/SHEIN Belle Robe parapluie élégante et vintage en satin, avec un col en V profond, des manches à volants exagérés et une ceinture à la taille. Motif jacquard bleu et doré. Convient pour les soirées, mariages, (1).webp",
-      "/vetement_femme/117/SHEIN Belle Robe parapluie élégante et vintage en satin, avec un col en V profond, des manches à volants exagérés et une ceinture à la taille. Motif jacquard bleu et doré. Convient pour les soirées, mariages, (2).webp",
-      "/vetement_femme/117/SHEIN Belle Robe parapluie élégante et vintage en satin, avec un col en V profond, des manches à volants exagérés et une ceinture à la taille. Motif jacquard bleu et doré. Convient pour les soirées, mariages, (3).webp",
-      "/vetement_femme/117/SHEIN Belle Robe parapluie élégante et vintage en satin, avec un col en V profond, des manches à volants exagérés et une ceinture à la taille. Motif jacquard bleu et doré. Convient pour les soirées, mariages, (4).webp",
-      "/vetement_femme/117/SHEIN Belle Robe parapluie élégante et vintage en satin, avec un col en V profond, des manches à volants exagérés et une ceinture à la taille. Motif jacquard bleu et doré. Convient pour les soirées, mariages, (5).webp",
-      "/vetement_femme/117/SHEIN Belle Robe parapluie élégante et vintage en satin, avec un col en V profond, des manches à volants exagérés et une ceinture à la taille. Motif jacquard bleu et doré. Convient pour les soirées, mariages, (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/117/SHEIN Belle Robe parapluie élégante et vintage en satin, avec un col en V profond, des manches à volants exagérés et une ceinture à la taille. Motif jacquard bleu et doré. Convient pour les soirées, mariages, fêt.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/117/SHEIN Belle Robe parapluie élégante et vintage en satin, avec un col en V profond, des manches à volants exagérés et une ceinture à la taille. Motif jacquard bleu et doré. Convient pour les soirées, mariages, (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/117/SHEIN Belle Robe parapluie élégante et vintage en satin, avec un col en V profond, des manches à volants exagérés et une ceinture à la taille. Motif jacquard bleu et doré. Convient pour les soirées, mariages, (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/117/SHEIN Belle Robe parapluie élégante et vintage en satin, avec un col en V profond, des manches à volants exagérés et une ceinture à la taille. Motif jacquard bleu et doré. Convient pour les soirées, mariages, (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/117/SHEIN Belle Robe parapluie élégante et vintage en satin, avec un col en V profond, des manches à volants exagérés et une ceinture à la taille. Motif jacquard bleu et doré. Convient pour les soirées, mariages, (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/117/SHEIN Belle Robe parapluie élégante et vintage en satin, avec un col en V profond, des manches à volants exagérés et une ceinture à la taille. Motif jacquard bleu et doré. Convient pour les soirées, mariages, (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/117/SHEIN Belle Robe parapluie élégante et vintage en satin, avec un col en V profond, des manches à volants exagérés et une ceinture à la taille. Motif jacquard bleu et doré. Convient pour les soirées, mariages, (6).webp"
     ]
   },
   {
@@ -4993,15 +4993,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/118/Elisanya Robe de cocktail en satin élégante avec décolleté en V et ceinture de taille amovible _ Tenue de soirée prête pour l'éditoriale pour des événements Top de gamme et des occasions sur le tapis rouge.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/118/Elisanya Robe de cocktail en satin élégante avec décolleté en V et ceinture de taille amovible _ Tenue de soirée prête pour l'éditoriale pour des événements Top de gamme et des occasions sur le tapis rouge.webp",
     "images": [
-      "/vetement_femme/118/Elisanya Robe de cocktail en satin élégante avec décolleté en V et ceinture de taille amovible _ Tenue de soirée prête pour l'éditoriale pour des événements Top de gamme et des occasions sur le tapis rouge.webp",
-      "/vetement_femme/118/Elisanya Robe de cocktail en satin élégante avec décolleté en V et ceinture de taille amovible _ Tenue de soirée prête pour l'éditoriale pour des événements Top de gamme et des occasions sur le tapis rouge (1).webp",
-      "/vetement_femme/118/Elisanya Robe de cocktail en satin élégante avec décolleté en V et ceinture de taille amovible _ Tenue de soirée prête pour l'éditoriale pour des événements Top de gamme et des occasions sur le tapis rouge (2).webp",
-      "/vetement_femme/118/Elisanya Robe de cocktail en satin élégante avec décolleté en V et ceinture de taille amovible _ Tenue de soirée prête pour l'éditoriale pour des événements Top de gamme et des occasions sur le tapis rouge (3).webp",
-      "/vetement_femme/118/Elisanya Robe de cocktail en satin élégante avec décolleté en V et ceinture de taille amovible _ Tenue de soirée prête pour l'éditoriale pour des événements Top de gamme et des occasions sur le tapis rouge (4).webp",
-      "/vetement_femme/118/Elisanya Robe de cocktail en satin élégante avec décolleté en V et ceinture de taille amovible _ Tenue de soirée prête pour l'éditoriale pour des événements Top de gamme et des occasions sur le tapis rouge (5).webp",
-      "/vetement_femme/118/Elisanya Robe de cocktail en satin élégante avec décolleté en V et ceinture de taille amovible _ Tenue de soirée prête pour l'éditoriale pour des événements Top de gamme et des occasions sur le tapis rouge (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/118/Elisanya Robe de cocktail en satin élégante avec décolleté en V et ceinture de taille amovible _ Tenue de soirée prête pour l'éditoriale pour des événements Top de gamme et des occasions sur le tapis rouge.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/118/Elisanya Robe de cocktail en satin élégante avec décolleté en V et ceinture de taille amovible _ Tenue de soirée prête pour l'éditoriale pour des événements Top de gamme et des occasions sur le tapis rouge (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/118/Elisanya Robe de cocktail en satin élégante avec décolleté en V et ceinture de taille amovible _ Tenue de soirée prête pour l'éditoriale pour des événements Top de gamme et des occasions sur le tapis rouge (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/118/Elisanya Robe de cocktail en satin élégante avec décolleté en V et ceinture de taille amovible _ Tenue de soirée prête pour l'éditoriale pour des événements Top de gamme et des occasions sur le tapis rouge (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/118/Elisanya Robe de cocktail en satin élégante avec décolleté en V et ceinture de taille amovible _ Tenue de soirée prête pour l'éditoriale pour des événements Top de gamme et des occasions sur le tapis rouge (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/118/Elisanya Robe de cocktail en satin élégante avec décolleté en V et ceinture de taille amovible _ Tenue de soirée prête pour l'éditoriale pour des événements Top de gamme et des occasions sur le tapis rouge (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/118/Elisanya Robe de cocktail en satin élégante avec décolleté en V et ceinture de taille amovible _ Tenue de soirée prête pour l'éditoriale pour des événements Top de gamme et des occasions sur le tapis rouge (6).webp"
     ]
   },
   {
@@ -5037,14 +5037,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/119/Lovelzi Robe mi-longue élégante et romantique en satin kaki à chevrons, idéale pour les vacances, un mariage, une remise de diplômes, une fête, un cocktail, une réunion sociale ou un bal_.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/119/Lovelzi Robe mi-longue élégante et romantique en satin kaki à chevrons, idéale pour les vacances, un mariage, une remise de diplômes, une fête, un cocktail, une réunion sociale ou un bal_.webp",
     "images": [
-      "/vetement_femme/119/Lovelzi Robe mi-longue élégante et romantique en satin kaki à chevrons, idéale pour les vacances, un mariage, une remise de diplômes, une fête, un cocktail, une réunion sociale ou un bal_.webp",
-      "/vetement_femme/119/Lovelzi Robe mi-longue élégante et romantique en satin kaki à chevrons, idéale pour les vacances, un mariage, une remise de diplômes, une fête, un cocktail, une réunion sociale ou un bal_ (1).webp",
-      "/vetement_femme/119/Lovelzi Robe mi-longue élégante et romantique en satin kaki à chevrons, idéale pour les vacances, un mariage, une remise de diplômes, une fête, un cocktail, une réunion sociale ou un bal_ (2).webp",
-      "/vetement_femme/119/Lovelzi Robe mi-longue élégante et romantique en satin kaki à chevrons, idéale pour les vacances, un mariage, une remise de diplômes, une fête, un cocktail, une réunion sociale ou un bal_ (3).webp",
-      "/vetement_femme/119/Lovelzi Robe mi-longue élégante et romantique en satin kaki à chevrons, idéale pour les vacances, un mariage, une remise de diplômes, une fête, un cocktail, une réunion sociale ou un bal_ (4).webp",
-      "/vetement_femme/119/Lovelzi Robe mi-longue élégante et romantique en satin kaki à chevrons, idéale pour les vacances, un mariage, une remise de diplômes, une fête, un cocktail, une réunion sociale ou un bal_ (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/119/Lovelzi Robe mi-longue élégante et romantique en satin kaki à chevrons, idéale pour les vacances, un mariage, une remise de diplômes, une fête, un cocktail, une réunion sociale ou un bal_.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/119/Lovelzi Robe mi-longue élégante et romantique en satin kaki à chevrons, idéale pour les vacances, un mariage, une remise de diplômes, une fête, un cocktail, une réunion sociale ou un bal_ (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/119/Lovelzi Robe mi-longue élégante et romantique en satin kaki à chevrons, idéale pour les vacances, un mariage, une remise de diplômes, une fête, un cocktail, une réunion sociale ou un bal_ (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/119/Lovelzi Robe mi-longue élégante et romantique en satin kaki à chevrons, idéale pour les vacances, un mariage, une remise de diplômes, une fête, un cocktail, une réunion sociale ou un bal_ (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/119/Lovelzi Robe mi-longue élégante et romantique en satin kaki à chevrons, idéale pour les vacances, un mariage, une remise de diplômes, une fête, un cocktail, une réunion sociale ou un bal_ (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/119/Lovelzi Robe mi-longue élégante et romantique en satin kaki à chevrons, idéale pour les vacances, un mariage, une remise de diplômes, une fête, un cocktail, une réunion sociale ou un bal_ (5).webp"
     ]
   },
   {
@@ -5079,15 +5079,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/120/SHEIN Belle Robe De Soirée trapèze En Tulle Étincelant Sans Épaules Pour Femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/120/SHEIN Belle Robe De Soirée trapèze En Tulle Étincelant Sans Épaules Pour Femmes.webp",
     "images": [
-      "/vetement_femme/120/SHEIN Belle Robe De Soirée trapèze En Tulle Étincelant Sans Épaules Pour Femmes.webp",
-      "/vetement_femme/120/SHEIN Belle Robe De Soirée trapèze En Tulle Étincelant Sans Épaules Pour Femmes (1).webp",
-      "/vetement_femme/120/SHEIN Belle Robe De Soirée trapèze En Tulle Étincelant Sans Épaules Pour Femmes (2).webp",
-      "/vetement_femme/120/SHEIN Belle Robe De Soirée trapèze En Tulle Étincelant Sans Épaules Pour Femmes (3).webp",
-      "/vetement_femme/120/SHEIN Belle Robe De Soirée trapèze En Tulle Étincelant Sans Épaules Pour Femmes (4).webp",
-      "/vetement_femme/120/SHEIN Belle Robe De Soirée trapèze En Tulle Étincelant Sans Épaules Pour Femmes (5).webp",
-      "/vetement_femme/120/SHEIN Belle Robe De Soirée trapèze En Tulle Étincelant Sans Épaules Pour Femmes (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/120/SHEIN Belle Robe De Soirée trapèze En Tulle Étincelant Sans Épaules Pour Femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/120/SHEIN Belle Robe De Soirée trapèze En Tulle Étincelant Sans Épaules Pour Femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/120/SHEIN Belle Robe De Soirée trapèze En Tulle Étincelant Sans Épaules Pour Femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/120/SHEIN Belle Robe De Soirée trapèze En Tulle Étincelant Sans Épaules Pour Femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/120/SHEIN Belle Robe De Soirée trapèze En Tulle Étincelant Sans Épaules Pour Femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/120/SHEIN Belle Robe De Soirée trapèze En Tulle Étincelant Sans Épaules Pour Femmes (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/120/SHEIN Belle Robe De Soirée trapèze En Tulle Étincelant Sans Épaules Pour Femmes (6).webp"
     ]
   },
   {
@@ -5122,15 +5122,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/121/Poshira Robe de bal pour femme, couleur unie, mode adaptée à l'été.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/121/Poshira Robe de bal pour femme, couleur unie, mode adaptée à l'été.webp",
     "images": [
-      "/vetement_femme/121/Poshira Robe de bal pour femme, couleur unie, mode adaptée à l'été.webp",
-      "/vetement_femme/121/Poshira Robe de bal pour femme, couleur unie, mode adaptée à l'été (1).webp",
-      "/vetement_femme/121/Poshira Robe de bal pour femme, couleur unie, mode adaptée à l'été (2).webp",
-      "/vetement_femme/121/Poshira Robe de bal pour femme, couleur unie, mode adaptée à l'été (3).webp",
-      "/vetement_femme/121/Poshira Robe de bal pour femme, couleur unie, mode adaptée à l'été (4).webp",
-      "/vetement_femme/121/Poshira Robe de bal pour femme, couleur unie, mode adaptée à l'été (5).webp",
-      "/vetement_femme/121/Poshira Robe de bal pour femme, couleur unie, mode adaptée à l'été (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/121/Poshira Robe de bal pour femme, couleur unie, mode adaptée à l'été.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/121/Poshira Robe de bal pour femme, couleur unie, mode adaptée à l'été (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/121/Poshira Robe de bal pour femme, couleur unie, mode adaptée à l'été (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/121/Poshira Robe de bal pour femme, couleur unie, mode adaptée à l'été (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/121/Poshira Robe de bal pour femme, couleur unie, mode adaptée à l'été (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/121/Poshira Robe de bal pour femme, couleur unie, mode adaptée à l'été (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/121/Poshira Robe de bal pour femme, couleur unie, mode adaptée à l'été (6).webp"
     ]
   },
   {
@@ -5167,13 +5167,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/122/MIUSOL Robe à volants en maille avec encolure ras-du-cou, ourlet en dentelle et sequins floraux pour femmes. Tenue d'été, robe pour invitée de mariage, convient pour les vacances, les anniversaires, les cérémonie.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/122/MIUSOL Robe à volants en maille avec encolure ras-du-cou, ourlet en dentelle et sequins floraux pour femmes. Tenue d'été, robe pour invitée de mariage, convient pour les vacances, les anniversaires, les cérémonie.webp",
     "images": [
-      "/vetement_femme/122/MIUSOL Robe à volants en maille avec encolure ras-du-cou, ourlet en dentelle et sequins floraux pour femmes. Tenue d'été, robe pour invitée de mariage, convient pour les vacances, les anniversaires, les cérémonie.webp",
-      "/vetement_femme/122/MIUSOL Robe à volants en maille avec encolure ras-du-cou, ourlet en dentelle et sequins floraux pour femmes. Tenue d'été, robe pour invitée de mariage, convient pour les vacances, les anniversaires, les cérém (1).webp",
-      "/vetement_femme/122/MIUSOL Robe à volants en maille avec encolure ras-du-cou, ourlet en dentelle et sequins floraux pour femmes. Tenue d'été, robe pour invitée de mariage, convient pour les vacances, les anniversaires, les cérém (2).webp",
-      "/vetement_femme/122/MIUSOL Robe à volants en maille avec encolure ras-du-cou, ourlet en dentelle et sequins floraux pour femmes. Tenue d'été, robe pour invitée de mariage, convient pour les vacances, les anniversaires, les cérém (3).webp",
-      "/vetement_femme/122/MIUSOL Robe à volants en maille avec encolure ras-du-cou, ourlet en dentelle et sequins floraux pour femmes. Tenue d'été, robe pour invitée de mariage, convient pour les vacances, les anniversaires, les cérém (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/122/MIUSOL Robe à volants en maille avec encolure ras-du-cou, ourlet en dentelle et sequins floraux pour femmes. Tenue d'été, robe pour invitée de mariage, convient pour les vacances, les anniversaires, les cérémonie.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/122/MIUSOL Robe à volants en maille avec encolure ras-du-cou, ourlet en dentelle et sequins floraux pour femmes. Tenue d'été, robe pour invitée de mariage, convient pour les vacances, les anniversaires, les cérém (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/122/MIUSOL Robe à volants en maille avec encolure ras-du-cou, ourlet en dentelle et sequins floraux pour femmes. Tenue d'été, robe pour invitée de mariage, convient pour les vacances, les anniversaires, les cérém (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/122/MIUSOL Robe à volants en maille avec encolure ras-du-cou, ourlet en dentelle et sequins floraux pour femmes. Tenue d'été, robe pour invitée de mariage, convient pour les vacances, les anniversaires, les cérém (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/122/MIUSOL Robe à volants en maille avec encolure ras-du-cou, ourlet en dentelle et sequins floraux pour femmes. Tenue d'été, robe pour invitée de mariage, convient pour les vacances, les anniversaires, les cérém (4).webp"
     ]
   },
   {
@@ -5208,13 +5208,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/123/Smilprince Robe de soirée élégante en A avec buste pailleté, robe de bal de promo sans manches élégante semi-formelle pour invitée de mariage, pour anniversaire, remise de diplôme.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/123/Smilprince Robe de soirée élégante en A avec buste pailleté, robe de bal de promo sans manches élégante semi-formelle pour invitée de mariage, pour anniversaire, remise de diplôme.webp",
     "images": [
-      "/vetement_femme/123/Smilprince Robe de soirée élégante en A avec buste pailleté, robe de bal de promo sans manches élégante semi-formelle pour invitée de mariage, pour anniversaire, remise de diplôme.webp",
-      "/vetement_femme/123/Smilprince Robe de soirée élégante en A avec buste pailleté, robe de bal de promo sans manches élégante semi-formelle pour invitée de mariage, pour anniversaire, remise de diplôme (1).webp",
-      "/vetement_femme/123/Smilprince Robe de soirée élégante en A avec buste pailleté, robe de bal de promo sans manches élégante semi-formelle pour invitée de mariage, pour anniversaire, remise de diplôme (2).webp",
-      "/vetement_femme/123/Smilprince Robe de soirée élégante en A avec buste pailleté, robe de bal de promo sans manches élégante semi-formelle pour invitée de mariage, pour anniversaire, remise de diplôme (3).webp",
-      "/vetement_femme/123/Smilprince Robe de soirée élégante en A avec buste pailleté, robe de bal de promo sans manches élégante semi-formelle pour invitée de mariage, pour anniversaire, remise de diplôme (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/123/Smilprince Robe de soirée élégante en A avec buste pailleté, robe de bal de promo sans manches élégante semi-formelle pour invitée de mariage, pour anniversaire, remise de diplôme.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/123/Smilprince Robe de soirée élégante en A avec buste pailleté, robe de bal de promo sans manches élégante semi-formelle pour invitée de mariage, pour anniversaire, remise de diplôme (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/123/Smilprince Robe de soirée élégante en A avec buste pailleté, robe de bal de promo sans manches élégante semi-formelle pour invitée de mariage, pour anniversaire, remise de diplôme (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/123/Smilprince Robe de soirée élégante en A avec buste pailleté, robe de bal de promo sans manches élégante semi-formelle pour invitée de mariage, pour anniversaire, remise de diplôme (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/123/Smilprince Robe de soirée élégante en A avec buste pailleté, robe de bal de promo sans manches élégante semi-formelle pour invitée de mariage, pour anniversaire, remise de diplôme (4).webp"
     ]
   },
   {
@@ -5249,14 +5249,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/124/Robe de soirée élégante, robe de soirée, robe de bal pour femmes, de couleur unie avec bordure en dentelle, patchwork en maille sans manches.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/124/Robe de soirée élégante, robe de soirée, robe de bal pour femmes, de couleur unie avec bordure en dentelle, patchwork en maille sans manches.webp",
     "images": [
-      "/vetement_femme/124/Robe de soirée élégante, robe de soirée, robe de bal pour femmes, de couleur unie avec bordure en dentelle, patchwork en maille sans manches.webp",
-      "/vetement_femme/124/Robe de soirée élégante, robe de soirée, robe de bal pour femmes, de couleur unie avec bordure en dentelle, patchwork en maille sans manches (1).webp",
-      "/vetement_femme/124/Robe de soirée élégante, robe de soirée, robe de bal pour femmes, de couleur unie avec bordure en dentelle, patchwork en maille sans manches (2).webp",
-      "/vetement_femme/124/Robe de soirée élégante, robe de soirée, robe de bal pour femmes, de couleur unie avec bordure en dentelle, patchwork en maille sans manches (3).webp",
-      "/vetement_femme/124/Robe de soirée élégante, robe de soirée, robe de bal pour femmes, de couleur unie avec bordure en dentelle, patchwork en maille sans manches (4).webp",
-      "/vetement_femme/124/Robe de soirée élégante, robe de soirée, robe de bal pour femmes, de couleur unie avec bordure en dentelle, patchwork en maille sans manches (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/124/Robe de soirée élégante, robe de soirée, robe de bal pour femmes, de couleur unie avec bordure en dentelle, patchwork en maille sans manches.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/124/Robe de soirée élégante, robe de soirée, robe de bal pour femmes, de couleur unie avec bordure en dentelle, patchwork en maille sans manches (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/124/Robe de soirée élégante, robe de soirée, robe de bal pour femmes, de couleur unie avec bordure en dentelle, patchwork en maille sans manches (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/124/Robe de soirée élégante, robe de soirée, robe de bal pour femmes, de couleur unie avec bordure en dentelle, patchwork en maille sans manches (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/124/Robe de soirée élégante, robe de soirée, robe de bal pour femmes, de couleur unie avec bordure en dentelle, patchwork en maille sans manches (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/124/Robe de soirée élégante, robe de soirée, robe de bal pour femmes, de couleur unie avec bordure en dentelle, patchwork en maille sans manches (5).webp"
     ]
   },
   {
@@ -5291,13 +5291,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/125/Robe de soirée longue, moulante, à col carré, sans dos, à manches longues, de couleur unie, sexy, noire, pour la Saint-Valentin, le printemps_été.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/125/Robe de soirée longue, moulante, à col carré, sans dos, à manches longues, de couleur unie, sexy, noire, pour la Saint-Valentin, le printemps_été.webp",
     "images": [
-      "/vetement_femme/125/Robe de soirée longue, moulante, à col carré, sans dos, à manches longues, de couleur unie, sexy, noire, pour la Saint-Valentin, le printemps_été.webp",
-      "/vetement_femme/125/Robe de soirée longue, moulante, à col carré, sans dos, à manches longues, de couleur unie, sexy, noire, pour la Saint-Valentin, le printemps_été (1).webp",
-      "/vetement_femme/125/Robe de soirée longue, moulante, à col carré, sans dos, à manches longues, de couleur unie, sexy, noire, pour la Saint-Valentin, le printemps_été (2).webp",
-      "/vetement_femme/125/Robe de soirée longue, moulante, à col carré, sans dos, à manches longues, de couleur unie, sexy, noire, pour la Saint-Valentin, le printemps_été (3).webp",
-      "/vetement_femme/125/Robe de soirée longue, moulante, à col carré, sans dos, à manches longues, de couleur unie, sexy, noire, pour la Saint-Valentin, le printemps_été (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/125/Robe de soirée longue, moulante, à col carré, sans dos, à manches longues, de couleur unie, sexy, noire, pour la Saint-Valentin, le printemps_été.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/125/Robe de soirée longue, moulante, à col carré, sans dos, à manches longues, de couleur unie, sexy, noire, pour la Saint-Valentin, le printemps_été (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/125/Robe de soirée longue, moulante, à col carré, sans dos, à manches longues, de couleur unie, sexy, noire, pour la Saint-Valentin, le printemps_été (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/125/Robe de soirée longue, moulante, à col carré, sans dos, à manches longues, de couleur unie, sexy, noire, pour la Saint-Valentin, le printemps_été (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/125/Robe de soirée longue, moulante, à col carré, sans dos, à manches longues, de couleur unie, sexy, noire, pour la Saint-Valentin, le printemps_été (4).webp"
     ]
   },
   {
@@ -5332,13 +5332,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/126/Coutiva Robe de soirée formelle à paillettes de sirène pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/126/Coutiva Robe de soirée formelle à paillettes de sirène pour femmes.webp",
     "images": [
-      "/vetement_femme/126/Coutiva Robe de soirée formelle à paillettes de sirène pour femmes.webp",
-      "/vetement_femme/126/Coutiva Robe de soirée formelle à paillettes de sirène pour femmes (1).webp",
-      "/vetement_femme/126/Coutiva Robe de soirée formelle à paillettes de sirène pour femmes (2).webp",
-      "/vetement_femme/126/Coutiva Robe de soirée formelle à paillettes de sirène pour femmes (3).webp",
-      "/vetement_femme/126/Coutiva Robe de soirée formelle à paillettes de sirène pour femmes (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/126/Coutiva Robe de soirée formelle à paillettes de sirène pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/126/Coutiva Robe de soirée formelle à paillettes de sirène pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/126/Coutiva Robe de soirée formelle à paillettes de sirène pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/126/Coutiva Robe de soirée formelle à paillettes de sirène pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/126/Coutiva Robe de soirée formelle à paillettes de sirène pour femmes (4).webp"
     ]
   },
   {
@@ -5374,12 +5374,12 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/127/Robe de bal verte vintage romantique avec manches bouffantes de princesse, robe de soirée bustier, robe de cocktail pour invités de mariage, robe de printemps pour vacances.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/127/Robe de bal verte vintage romantique avec manches bouffantes de princesse, robe de soirée bustier, robe de cocktail pour invités de mariage, robe de printemps pour vacances.webp",
     "images": [
-      "/vetement_femme/127/Robe de bal verte vintage romantique avec manches bouffantes de princesse, robe de soirée bustier, robe de cocktail pour invités de mariage, robe de printemps pour vacances.webp",
-      "/vetement_femme/127/Robe de bal verte vintage romantique avec manches bouffantes de princesse, robe de soirée bustier, robe de cocktail pour invités de mariage, robe de printemps pour vacances (1).webp",
-      "/vetement_femme/127/Robe de bal verte vintage romantique avec manches bouffantes de princesse, robe de soirée bustier, robe de cocktail pour invités de mariage, robe de printemps pour vacances (2).webp",
-      "/vetement_femme/127/Robe de bal verte vintage romantique avec manches bouffantes de princesse, robe de soirée bustier, robe de cocktail pour invités de mariage, robe de printemps pour vacances (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/127/Robe de bal verte vintage romantique avec manches bouffantes de princesse, robe de soirée bustier, robe de cocktail pour invités de mariage, robe de printemps pour vacances.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/127/Robe de bal verte vintage romantique avec manches bouffantes de princesse, robe de soirée bustier, robe de cocktail pour invités de mariage, robe de printemps pour vacances (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/127/Robe de bal verte vintage romantique avec manches bouffantes de princesse, robe de soirée bustier, robe de cocktail pour invités de mariage, robe de printemps pour vacances (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/127/Robe de bal verte vintage romantique avec manches bouffantes de princesse, robe de soirée bustier, robe de cocktail pour invités de mariage, robe de printemps pour vacances (3).webp"
     ]
   },
   {
@@ -5414,15 +5414,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/128/Vowa Robe élégante, noble, de style palais en tissu de dentelle blanche, sans bretelles, avec baleinage à la taille, coupe évasée (châle en tulle amovible), convient pour enterrement de vie de jeune fille, mariag.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/128/Vowa Robe élégante, noble, de style palais en tissu de dentelle blanche, sans bretelles, avec baleinage à la taille, coupe évasée (châle en tulle amovible), convient pour enterrement de vie de jeune fille, mariag.webp",
     "images": [
-      "/vetement_femme/128/Vowa Robe élégante, noble, de style palais en tissu de dentelle blanche, sans bretelles, avec baleinage à la taille, coupe évasée (châle en tulle amovible), convient pour enterrement de vie de jeune fille, mariag.webp",
-      "/vetement_femme/128/Vowa Robe élégante, noble, de style palais en tissu de dentelle blanche, sans bretelles, avec baleinage à la taille, coupe évasée (châle en tulle amovible), convient pour enterrement de vie de jeune fille, ma (1).webp",
-      "/vetement_femme/128/Vowa Robe élégante, noble, de style palais en tissu de dentelle blanche, sans bretelles, avec baleinage à la taille, coupe évasée (châle en tulle amovible), convient pour enterrement de vie de jeune fille, ma (2).webp",
-      "/vetement_femme/128/Vowa Robe élégante, noble, de style palais en tissu de dentelle blanche, sans bretelles, avec baleinage à la taille, coupe évasée (châle en tulle amovible), convient pour enterrement de vie de jeune fille, ma (3).webp",
-      "/vetement_femme/128/Vowa Robe élégante, noble, de style palais en tissu de dentelle blanche, sans bretelles, avec baleinage à la taille, coupe évasée (châle en tulle amovible), convient pour enterrement de vie de jeune fille, ma (4).webp",
-      "/vetement_femme/128/Vowa Robe élégante, noble, de style palais en tissu de dentelle blanche, sans bretelles, avec baleinage à la taille, coupe évasée (châle en tulle amovible), convient pour enterrement de vie de jeune fille, ma (5).webp",
-      "/vetement_femme/128/Vowa Robe élégante, noble, de style palais en tissu de dentelle blanche, sans bretelles, avec baleinage à la taille, coupe évasée (châle en tulle amovible), convient pour enterrement de vie de jeune fille, ma (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/128/Vowa Robe élégante, noble, de style palais en tissu de dentelle blanche, sans bretelles, avec baleinage à la taille, coupe évasée (châle en tulle amovible), convient pour enterrement de vie de jeune fille, mariag.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/128/Vowa Robe élégante, noble, de style palais en tissu de dentelle blanche, sans bretelles, avec baleinage à la taille, coupe évasée (châle en tulle amovible), convient pour enterrement de vie de jeune fille, ma (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/128/Vowa Robe élégante, noble, de style palais en tissu de dentelle blanche, sans bretelles, avec baleinage à la taille, coupe évasée (châle en tulle amovible), convient pour enterrement de vie de jeune fille, ma (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/128/Vowa Robe élégante, noble, de style palais en tissu de dentelle blanche, sans bretelles, avec baleinage à la taille, coupe évasée (châle en tulle amovible), convient pour enterrement de vie de jeune fille, ma (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/128/Vowa Robe élégante, noble, de style palais en tissu de dentelle blanche, sans bretelles, avec baleinage à la taille, coupe évasée (châle en tulle amovible), convient pour enterrement de vie de jeune fille, ma (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/128/Vowa Robe élégante, noble, de style palais en tissu de dentelle blanche, sans bretelles, avec baleinage à la taille, coupe évasée (châle en tulle amovible), convient pour enterrement de vie de jeune fille, ma (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/128/Vowa Robe élégante, noble, de style palais en tissu de dentelle blanche, sans bretelles, avec baleinage à la taille, coupe évasée (châle en tulle amovible), convient pour enterrement de vie de jeune fille, ma (6).webp"
     ]
   },
   {
@@ -5458,14 +5458,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/129/Robe de bal élégante et luxueuse Kexmon en satin rouge, sans bretelles, avec design décolleté. Parfaite pour les événements formels, les soirées, les bals, les mariages, les remises de diplômes et les dîners.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/129/Robe de bal élégante et luxueuse Kexmon en satin rouge, sans bretelles, avec design décolleté. Parfaite pour les événements formels, les soirées, les bals, les mariages, les remises de diplômes et les dîners.webp",
     "images": [
-      "/vetement_femme/129/Robe de bal élégante et luxueuse Kexmon en satin rouge, sans bretelles, avec design décolleté. Parfaite pour les événements formels, les soirées, les bals, les mariages, les remises de diplômes et les dîners.webp",
-      "/vetement_femme/129/Robe de bal élégante et luxueuse Kexmon en satin rouge, sans bretelles, avec design décolleté. Parfaite pour les événements formels, les soirées, les bals, les mariages, les remises de diplômes et les dîners (1).webp",
-      "/vetement_femme/129/Robe de bal élégante et luxueuse Kexmon en satin rouge, sans bretelles, avec design décolleté. Parfaite pour les événements formels, les soirées, les bals, les mariages, les remises de diplômes et les dîners (2).webp",
-      "/vetement_femme/129/Robe de bal élégante et luxueuse Kexmon en satin rouge, sans bretelles, avec design décolleté. Parfaite pour les événements formels, les soirées, les bals, les mariages, les remises de diplômes et les dîners (3).webp",
-      "/vetement_femme/129/Robe de bal élégante et luxueuse Kexmon en satin rouge, sans bretelles, avec design décolleté. Parfaite pour les événements formels, les soirées, les bals, les mariages, les remises de diplômes et les dîners (4).webp",
-      "/vetement_femme/129/Robe de bal élégante et luxueuse Kexmon en satin rouge, sans bretelles, avec design décolleté. Parfaite pour les événements formels, les soirées, les bals, les mariages, les remises de diplômes et les dîners (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/129/Robe de bal élégante et luxueuse Kexmon en satin rouge, sans bretelles, avec design décolleté. Parfaite pour les événements formels, les soirées, les bals, les mariages, les remises de diplômes et les dîners.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/129/Robe de bal élégante et luxueuse Kexmon en satin rouge, sans bretelles, avec design décolleté. Parfaite pour les événements formels, les soirées, les bals, les mariages, les remises de diplômes et les dîners (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/129/Robe de bal élégante et luxueuse Kexmon en satin rouge, sans bretelles, avec design décolleté. Parfaite pour les événements formels, les soirées, les bals, les mariages, les remises de diplômes et les dîners (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/129/Robe de bal élégante et luxueuse Kexmon en satin rouge, sans bretelles, avec design décolleté. Parfaite pour les événements formels, les soirées, les bals, les mariages, les remises de diplômes et les dîners (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/129/Robe de bal élégante et luxueuse Kexmon en satin rouge, sans bretelles, avec design décolleté. Parfaite pour les événements formels, les soirées, les bals, les mariages, les remises de diplômes et les dîners (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/129/Robe de bal élégante et luxueuse Kexmon en satin rouge, sans bretelles, avec design décolleté. Parfaite pour les événements formels, les soirées, les bals, les mariages, les remises de diplômes et les dîners (5).webp"
     ]
   },
   {
@@ -5501,17 +5501,17 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/130/Robe moulante asymétrique à volants rouges pour femmes AOMEI, convenant aux occasions formelles et aux cocktails.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/130/Robe moulante asymétrique à volants rouges pour femmes AOMEI, convenant aux occasions formelles et aux cocktails.webp",
     "images": [
-      "/vetement_femme/130/Robe moulante asymétrique à volants rouges pour femmes AOMEI, convenant aux occasions formelles et aux cocktails.webp",
-      "/vetement_femme/130/Robe moulante asymétrique à volants rouges pour femmes AOMEI, convenant aux occasions formelles et aux cocktails (1).webp",
-      "/vetement_femme/130/Robe moulante asymétrique à volants rouges pour femmes AOMEI, convenant aux occasions formelles et aux cocktails (2).webp",
-      "/vetement_femme/130/Robe moulante asymétrique à volants rouges pour femmes AOMEI, convenant aux occasions formelles et aux cocktails (3).webp",
-      "/vetement_femme/130/Robe moulante asymétrique à volants rouges pour femmes AOMEI, convenant aux occasions formelles et aux cocktails (4).webp",
-      "/vetement_femme/130/Robe moulante asymétrique à volants rouges pour femmes AOMEI, convenant aux occasions formelles et aux cocktails (5).webp",
-      "/vetement_femme/130/Robe moulante asymétrique à volants rouges pour femmes AOMEI, convenant aux occasions formelles et aux cocktails (6).webp",
-      "/vetement_femme/130/Robe moulante asymétrique à volants rouges pour femmes AOMEI, convenant aux occasions formelles et aux cocktails (7).webp",
-      "/vetement_femme/130/Robe moulante asymétrique à volants rouges pour femmes AOMEI, convenant aux occasions formelles et aux cocktails (8).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/130/Robe moulante asymétrique à volants rouges pour femmes AOMEI, convenant aux occasions formelles et aux cocktails.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/130/Robe moulante asymétrique à volants rouges pour femmes AOMEI, convenant aux occasions formelles et aux cocktails (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/130/Robe moulante asymétrique à volants rouges pour femmes AOMEI, convenant aux occasions formelles et aux cocktails (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/130/Robe moulante asymétrique à volants rouges pour femmes AOMEI, convenant aux occasions formelles et aux cocktails (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/130/Robe moulante asymétrique à volants rouges pour femmes AOMEI, convenant aux occasions formelles et aux cocktails (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/130/Robe moulante asymétrique à volants rouges pour femmes AOMEI, convenant aux occasions formelles et aux cocktails (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/130/Robe moulante asymétrique à volants rouges pour femmes AOMEI, convenant aux occasions formelles et aux cocktails (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/130/Robe moulante asymétrique à volants rouges pour femmes AOMEI, convenant aux occasions formelles et aux cocktails (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/130/Robe moulante asymétrique à volants rouges pour femmes AOMEI, convenant aux occasions formelles et aux cocktails (8).webp"
     ]
   },
   {
@@ -5547,15 +5547,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/131/Faeriesty Robe sirène chic et à la mode à l'épaule dénudée _ Corsage ajusté orné de paillettes scintillantes _ Jupe à volants en organza multicouche _ Convient pour les mariages, les tapis rouges, les galas de ga.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/131/Faeriesty Robe sirène chic et à la mode à l'épaule dénudée _ Corsage ajusté orné de paillettes scintillantes _ Jupe à volants en organza multicouche _ Convient pour les mariages, les tapis rouges, les galas de ga.webp",
     "images": [
-      "/vetement_femme/131/Faeriesty Robe sirène chic et à la mode à l'épaule dénudée _ Corsage ajusté orné de paillettes scintillantes _ Jupe à volants en organza multicouche _ Convient pour les mariages, les tapis rouges, les galas de ga.webp",
-      "/vetement_femme/131/Faeriesty Robe sirène chic et à la mode à l'épaule dénudée _ Corsage ajusté orné de paillettes scintillantes _ Jupe à volants en organza multicouche _ Convient pour les mariages, les tapis rouges, les galas d (1).webp",
-      "/vetement_femme/131/Faeriesty Robe sirène chic et à la mode à l'épaule dénudée _ Corsage ajusté orné de paillettes scintillantes _ Jupe à volants en organza multicouche _ Convient pour les mariages, les tapis rouges, les galas d (2).webp",
-      "/vetement_femme/131/Faeriesty Robe sirène chic et à la mode à l'épaule dénudée _ Corsage ajusté orné de paillettes scintillantes _ Jupe à volants en organza multicouche _ Convient pour les mariages, les tapis rouges, les galas d (3).webp",
-      "/vetement_femme/131/Faeriesty Robe sirène chic et à la mode à l'épaule dénudée _ Corsage ajusté orné de paillettes scintillantes _ Jupe à volants en organza multicouche _ Convient pour les mariages, les tapis rouges, les galas d (4).webp",
-      "/vetement_femme/131/Faeriesty Robe sirène chic et à la mode à l'épaule dénudée _ Corsage ajusté orné de paillettes scintillantes _ Jupe à volants en organza multicouche _ Convient pour les mariages, les tapis rouges, les galas d (5).webp",
-      "/vetement_femme/131/Faeriesty Robe sirène chic et à la mode à l'épaule dénudée _ Corsage ajusté orné de paillettes scintillantes _ Jupe à volants en organza multicouche _ Convient pour les mariages, les tapis rouges, les galas d (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/131/Faeriesty Robe sirène chic et à la mode à l'épaule dénudée _ Corsage ajusté orné de paillettes scintillantes _ Jupe à volants en organza multicouche _ Convient pour les mariages, les tapis rouges, les galas de ga.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/131/Faeriesty Robe sirène chic et à la mode à l'épaule dénudée _ Corsage ajusté orné de paillettes scintillantes _ Jupe à volants en organza multicouche _ Convient pour les mariages, les tapis rouges, les galas d (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/131/Faeriesty Robe sirène chic et à la mode à l'épaule dénudée _ Corsage ajusté orné de paillettes scintillantes _ Jupe à volants en organza multicouche _ Convient pour les mariages, les tapis rouges, les galas d (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/131/Faeriesty Robe sirène chic et à la mode à l'épaule dénudée _ Corsage ajusté orné de paillettes scintillantes _ Jupe à volants en organza multicouche _ Convient pour les mariages, les tapis rouges, les galas d (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/131/Faeriesty Robe sirène chic et à la mode à l'épaule dénudée _ Corsage ajusté orné de paillettes scintillantes _ Jupe à volants en organza multicouche _ Convient pour les mariages, les tapis rouges, les galas d (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/131/Faeriesty Robe sirène chic et à la mode à l'épaule dénudée _ Corsage ajusté orné de paillettes scintillantes _ Jupe à volants en organza multicouche _ Convient pour les mariages, les tapis rouges, les galas d (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/131/Faeriesty Robe sirène chic et à la mode à l'épaule dénudée _ Corsage ajusté orné de paillettes scintillantes _ Jupe à volants en organza multicouche _ Convient pour les mariages, les tapis rouges, les galas d (6).webp"
     ]
   },
   {
@@ -5590,14 +5590,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/132/MOTF PREMIUM ROBE DE COCKTAIL BRODÉE DE TULLE ET DE SEQUINS.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/132/MOTF PREMIUM ROBE DE COCKTAIL BRODÉE DE TULLE ET DE SEQUINS.webp",
     "images": [
-      "/vetement_femme/132/MOTF PREMIUM ROBE DE COCKTAIL BRODÉE DE TULLE ET DE SEQUINS.webp",
-      "/vetement_femme/132/MOTF PREMIUM ROBE DE COCKTAIL BRODÉE DE TULLE ET DE SEQUINS (1).webp",
-      "/vetement_femme/132/MOTF PREMIUM ROBE DE COCKTAIL BRODÉE DE TULLE ET DE SEQUINS (2).webp",
-      "/vetement_femme/132/MOTF PREMIUM ROBE DE COCKTAIL BRODÉE DE TULLE ET DE SEQUINS (3).webp",
-      "/vetement_femme/132/MOTF PREMIUM ROBE DE COCKTAIL BRODÉE DE TULLE ET DE SEQUINS (4).webp",
-      "/vetement_femme/132/MOTF PREMIUM ROBE DE COCKTAIL BRODÉE DE TULLE ET DE SEQUINS (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/132/MOTF PREMIUM ROBE DE COCKTAIL BRODÉE DE TULLE ET DE SEQUINS.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/132/MOTF PREMIUM ROBE DE COCKTAIL BRODÉE DE TULLE ET DE SEQUINS (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/132/MOTF PREMIUM ROBE DE COCKTAIL BRODÉE DE TULLE ET DE SEQUINS (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/132/MOTF PREMIUM ROBE DE COCKTAIL BRODÉE DE TULLE ET DE SEQUINS (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/132/MOTF PREMIUM ROBE DE COCKTAIL BRODÉE DE TULLE ET DE SEQUINS (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/132/MOTF PREMIUM ROBE DE COCKTAIL BRODÉE DE TULLE ET DE SEQUINS (5).webp"
     ]
   },
   {
@@ -5632,16 +5632,16 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/133/Robe de cocktail, de bal de promo, de retour au foyer, de douche de mariée, de réception de fiançailles, de dîner de répétition élégante pour femmes, avec patchwork de maille et de paillettes. Convient pour le pr.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/133/Robe de cocktail, de bal de promo, de retour au foyer, de douche de mariée, de réception de fiançailles, de dîner de répétition élégante pour femmes, avec patchwork de maille et de paillettes. Convient pour le pr.webp",
     "images": [
-      "/vetement_femme/133/Robe de cocktail, de bal de promo, de retour au foyer, de douche de mariée, de réception de fiançailles, de dîner de répétition élégante pour femmes, avec patchwork de maille et de paillettes. Convient pour le pr.webp",
-      "/vetement_femme/133/Robe de cocktail, de bal de promo, de retour au foyer, de douche de mariée, de réception de fiançailles, de dîner de répétition élégante pour femmes, avec patchwork de maille et de paillettes. Convient pour l (1).webp",
-      "/vetement_femme/133/Robe de cocktail, de bal de promo, de retour au foyer, de douche de mariée, de réception de fiançailles, de dîner de répétition élégante pour femmes, avec patchwork de maille et de paillettes. Convient pour l (2).webp",
-      "/vetement_femme/133/Robe de cocktail, de bal de promo, de retour au foyer, de douche de mariée, de réception de fiançailles, de dîner de répétition élégante pour femmes, avec patchwork de maille et de paillettes. Convient pour l (3).webp",
-      "/vetement_femme/133/Robe de cocktail, de bal de promo, de retour au foyer, de douche de mariée, de réception de fiançailles, de dîner de répétition élégante pour femmes, avec patchwork de maille et de paillettes. Convient pour l (4).webp",
-      "/vetement_femme/133/Robe de cocktail, de bal de promo, de retour au foyer, de douche de mariée, de réception de fiançailles, de dîner de répétition élégante pour femmes, avec patchwork de maille et de paillettes. Convient pour l (5).webp",
-      "/vetement_femme/133/Robe de cocktail, de bal de promo, de retour au foyer, de douche de mariée, de réception de fiançailles, de dîner de répétition élégante pour femmes, avec patchwork de maille et de paillettes. Convient pour l (6).webp",
-      "/vetement_femme/133/Robe de cocktail, de bal de promo, de retour au foyer, de douche de mariée, de réception de fiançailles, de dîner de répétition élégante pour femmes, avec patchwork de maille et de paillettes. Convient pour l (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/133/Robe de cocktail, de bal de promo, de retour au foyer, de douche de mariée, de réception de fiançailles, de dîner de répétition élégante pour femmes, avec patchwork de maille et de paillettes. Convient pour le pr.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/133/Robe de cocktail, de bal de promo, de retour au foyer, de douche de mariée, de réception de fiançailles, de dîner de répétition élégante pour femmes, avec patchwork de maille et de paillettes. Convient pour l (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/133/Robe de cocktail, de bal de promo, de retour au foyer, de douche de mariée, de réception de fiançailles, de dîner de répétition élégante pour femmes, avec patchwork de maille et de paillettes. Convient pour l (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/133/Robe de cocktail, de bal de promo, de retour au foyer, de douche de mariée, de réception de fiançailles, de dîner de répétition élégante pour femmes, avec patchwork de maille et de paillettes. Convient pour l (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/133/Robe de cocktail, de bal de promo, de retour au foyer, de douche de mariée, de réception de fiançailles, de dîner de répétition élégante pour femmes, avec patchwork de maille et de paillettes. Convient pour l (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/133/Robe de cocktail, de bal de promo, de retour au foyer, de douche de mariée, de réception de fiançailles, de dîner de répétition élégante pour femmes, avec patchwork de maille et de paillettes. Convient pour l (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/133/Robe de cocktail, de bal de promo, de retour au foyer, de douche de mariée, de réception de fiançailles, de dîner de répétition élégante pour femmes, avec patchwork de maille et de paillettes. Convient pour l (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/133/Robe de cocktail, de bal de promo, de retour au foyer, de douche de mariée, de réception de fiançailles, de dîner de répétition élégante pour femmes, avec patchwork de maille et de paillettes. Convient pour l (7).webp"
     ]
   },
   {
@@ -5678,14 +5678,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/134/SOLERSUN Ensembles deux pièces pour femmes pour porter au quotidien.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/134/SOLERSUN Ensembles deux pièces pour femmes pour porter au quotidien.webp",
     "images": [
-      "/vetement_femme/134/SOLERSUN Ensembles deux pièces pour femmes pour porter au quotidien.webp",
-      "/vetement_femme/134/SOLERSUN Ensembles deux pièces pour femmes pour porter au quotidien (1).webp",
-      "/vetement_femme/134/SOLERSUN Ensembles deux pièces pour femmes pour porter au quotidien (2).webp",
-      "/vetement_femme/134/SOLERSUN Ensembles deux pièces pour femmes pour porter au quotidien (3).webp",
-      "/vetement_femme/134/SOLERSUN Ensembles deux pièces pour femmes pour porter au quotidien (4).webp",
-      "/vetement_femme/134/SOLERSUN Ensembles deux pièces pour femmes pour porter au quotidien (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/134/SOLERSUN Ensembles deux pièces pour femmes pour porter au quotidien.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/134/SOLERSUN Ensembles deux pièces pour femmes pour porter au quotidien (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/134/SOLERSUN Ensembles deux pièces pour femmes pour porter au quotidien (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/134/SOLERSUN Ensembles deux pièces pour femmes pour porter au quotidien (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/134/SOLERSUN Ensembles deux pièces pour femmes pour porter au quotidien (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/134/SOLERSUN Ensembles deux pièces pour femmes pour porter au quotidien (5).webp"
     ]
   },
   {
@@ -5720,13 +5720,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/135/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/135/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été.webp",
     "images": [
-      "/vetement_femme/135/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été.webp",
-      "/vetement_femme/135/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été (1).webp",
-      "/vetement_femme/135/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été (2).webp",
-      "/vetement_femme/135/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été (3).webp",
-      "/vetement_femme/135/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/135/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/135/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/135/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/135/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/135/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été (4).webp"
     ]
   },
   {
@@ -5761,14 +5761,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/136/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/136/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été.webp",
     "images": [
-      "/vetement_femme/136/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été.webp",
-      "/vetement_femme/136/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été (1).webp",
-      "/vetement_femme/136/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été (2).webp",
-      "/vetement_femme/136/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été (3).webp",
-      "/vetement_femme/136/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été (4).webp",
-      "/vetement_femme/136/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/136/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/136/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/136/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/136/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/136/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/136/Viva Relle Robe mini élégante et romantique pour femmes grandes tailles, en patchwork de dentelle noire et blanche contrastée, pour le printemps_été (5).webp"
     ]
   },
   {
@@ -5803,14 +5803,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/137/ovelzi Robe de mariée de luxe, élégante, noble, romantique et digne, en blanc, avec des volants en dentelle et organza, taille fine et coupe évasée. Convient pour les enterrements de vie de jeune fille, les invit.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/137/ovelzi Robe de mariée de luxe, élégante, noble, romantique et digne, en blanc, avec des volants en dentelle et organza, taille fine et coupe évasée. Convient pour les enterrements de vie de jeune fille, les invit.webp",
     "images": [
-      "/vetement_femme/137/ovelzi Robe de mariée de luxe, élégante, noble, romantique et digne, en blanc, avec des volants en dentelle et organza, taille fine et coupe évasée. Convient pour les enterrements de vie de jeune fille, les invit.webp",
-      "/vetement_femme/137/ovelzi Robe de mariée de luxe, élégante, noble, romantique et digne, en blanc, avec des volants en dentelle et organza, taille fine et coupe évasée. Convient pour les enterrements de vie de jeune fille, les i (1).webp",
-      "/vetement_femme/137/ovelzi Robe de mariée de luxe, élégante, noble, romantique et digne, en blanc, avec des volants en dentelle et organza, taille fine et coupe évasée. Convient pour les enterrements de vie de jeune fille, les i (2).webp",
-      "/vetement_femme/137/ovelzi Robe de mariée de luxe, élégante, noble, romantique et digne, en blanc, avec des volants en dentelle et organza, taille fine et coupe évasée. Convient pour les enterrements de vie de jeune fille, les i (3).webp",
-      "/vetement_femme/137/ovelzi Robe de mariée de luxe, élégante, noble, romantique et digne, en blanc, avec des volants en dentelle et organza, taille fine et coupe évasée. Convient pour les enterrements de vie de jeune fille, les i (4).webp",
-      "/vetement_femme/137/ovelzi Robe de mariée de luxe, élégante, noble, romantique et digne, en blanc, avec des volants en dentelle et organza, taille fine et coupe évasée. Convient pour les enterrements de vie de jeune fille, les i (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/137/ovelzi Robe de mariée de luxe, élégante, noble, romantique et digne, en blanc, avec des volants en dentelle et organza, taille fine et coupe évasée. Convient pour les enterrements de vie de jeune fille, les invit.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/137/ovelzi Robe de mariée de luxe, élégante, noble, romantique et digne, en blanc, avec des volants en dentelle et organza, taille fine et coupe évasée. Convient pour les enterrements de vie de jeune fille, les i (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/137/ovelzi Robe de mariée de luxe, élégante, noble, romantique et digne, en blanc, avec des volants en dentelle et organza, taille fine et coupe évasée. Convient pour les enterrements de vie de jeune fille, les i (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/137/ovelzi Robe de mariée de luxe, élégante, noble, romantique et digne, en blanc, avec des volants en dentelle et organza, taille fine et coupe évasée. Convient pour les enterrements de vie de jeune fille, les i (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/137/ovelzi Robe de mariée de luxe, élégante, noble, romantique et digne, en blanc, avec des volants en dentelle et organza, taille fine et coupe évasée. Convient pour les enterrements de vie de jeune fille, les i (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/137/ovelzi Robe de mariée de luxe, élégante, noble, romantique et digne, en blanc, avec des volants en dentelle et organza, taille fine et coupe évasée. Convient pour les enterrements de vie de jeune fille, les i (5).webp"
     ]
   },
   {
@@ -5846,13 +5846,13 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/138/Sweetra Pantalon large plissé et godronné élégant de style rétro en jacquard pour femmes, automne_hiver.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/138/Sweetra Pantalon large plissé et godronné élégant de style rétro en jacquard pour femmes, automne_hiver.webp",
     "images": [
-      "/vetement_femme/138/Sweetra Pantalon large plissé et godronné élégant de style rétro en jacquard pour femmes, automne_hiver.webp",
-      "/vetement_femme/138/Sweetra Pantalon large plissé et godronné élégant de style rétro en jacquard pour femmes, automne_hiver (1).webp",
-      "/vetement_femme/138/Sweetra Pantalon large plissé et godronné élégant de style rétro en jacquard pour femmes, automne_hiver (2).webp",
-      "/vetement_femme/138/Sweetra Pantalon large plissé et godronné élégant de style rétro en jacquard pour femmes, automne_hiver (3).webp",
-      "/vetement_femme/138/Sweetra Pantalon large plissé et godronné élégant de style rétro en jacquard pour femmes, automne_hiver (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/138/Sweetra Pantalon large plissé et godronné élégant de style rétro en jacquard pour femmes, automne_hiver.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/138/Sweetra Pantalon large plissé et godronné élégant de style rétro en jacquard pour femmes, automne_hiver (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/138/Sweetra Pantalon large plissé et godronné élégant de style rétro en jacquard pour femmes, automne_hiver (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/138/Sweetra Pantalon large plissé et godronné élégant de style rétro en jacquard pour femmes, automne_hiver (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/138/Sweetra Pantalon large plissé et godronné élégant de style rétro en jacquard pour femmes, automne_hiver (4).webp"
     ]
   },
   {
@@ -5888,12 +5888,12 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/139/Franclia Pantalon blanc élégant à jambe droite pour femme, pour le porter au bureau.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/139/Franclia Pantalon blanc élégant à jambe droite pour femme, pour le porter au bureau.webp",
     "images": [
-      "/vetement_femme/139/Franclia Pantalon blanc élégant à jambe droite pour femme, pour le porter au bureau.webp",
-      "/vetement_femme/139/Franclia Pantalon blanc élégant à jambe droite pour femme, pour le porter au bureau (1).webp",
-      "/vetement_femme/139/Franclia Pantalon blanc élégant à jambe droite pour femme, pour le porter au bureau (2).webp",
-      "/vetement_femme/139/Franclia Pantalon blanc élégant à jambe droite pour femme, pour le porter au bureau (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/139/Franclia Pantalon blanc élégant à jambe droite pour femme, pour le porter au bureau.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/139/Franclia Pantalon blanc élégant à jambe droite pour femme, pour le porter au bureau (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/139/Franclia Pantalon blanc élégant à jambe droite pour femme, pour le porter au bureau (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/139/Franclia Pantalon blanc élégant à jambe droite pour femme, pour le porter au bureau (3).webp"
     ]
   },
   {
@@ -5929,15 +5929,15 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/140/Pantalon droit décontracté et élégant pour femmes, élément essentiel pour la rentrée scolaire. La taille asymétrique en V met en valeur les courbes. Convient pour le port quotidien, le bureau, les sorties et les .webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/140/Pantalon droit décontracté et élégant pour femmes, élément essentiel pour la rentrée scolaire. La taille asymétrique en V met en valeur les courbes. Convient pour le port quotidien, le bureau, les sorties et les .webp",
     "images": [
-      "/vetement_femme/140/Pantalon droit décontracté et élégant pour femmes, élément essentiel pour la rentrée scolaire. La taille asymétrique en V met en valeur les courbes. Convient pour le port quotidien, le bureau, les sorties et les .webp",
-      "/vetement_femme/140/Pantalon droit décontracté et élégant pour femmes, élément essentiel pour la rentrée scolaire. La taille asymétrique en V met en valeur les courbes. Convient pour le port quotidien, le bureau, les sorties et  (1).webp",
-      "/vetement_femme/140/Pantalon droit décontracté et élégant pour femmes, élément essentiel pour la rentrée scolaire. La taille asymétrique en V met en valeur les courbes. Convient pour le port quotidien, le bureau, les sorties et  (2).webp",
-      "/vetement_femme/140/Pantalon droit décontracté et élégant pour femmes, élément essentiel pour la rentrée scolaire. La taille asymétrique en V met en valeur les courbes. Convient pour le port quotidien, le bureau, les sorties et  (3).webp",
-      "/vetement_femme/140/Pantalon droit décontracté et élégant pour femmes, élément essentiel pour la rentrée scolaire. La taille asymétrique en V met en valeur les courbes. Convient pour le port quotidien, le bureau, les sorties et  (4).webp",
-      "/vetement_femme/140/Pantalon droit décontracté et élégant pour femmes, élément essentiel pour la rentrée scolaire. La taille asymétrique en V met en valeur les courbes. Convient pour le port quotidien, le bureau, les sorties et  (5).webp",
-      "/vetement_femme/140/Pantalon droit décontracté et élégant pour femmes, élément essentiel pour la rentrée scolaire. La taille asymétrique en V met en valeur les courbes. Convient pour le port quotidien, le bureau, les sorties et  (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/140/Pantalon droit décontracté et élégant pour femmes, élément essentiel pour la rentrée scolaire. La taille asymétrique en V met en valeur les courbes. Convient pour le port quotidien, le bureau, les sorties et les .webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/140/Pantalon droit décontracté et élégant pour femmes, élément essentiel pour la rentrée scolaire. La taille asymétrique en V met en valeur les courbes. Convient pour le port quotidien, le bureau, les sorties et  (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/140/Pantalon droit décontracté et élégant pour femmes, élément essentiel pour la rentrée scolaire. La taille asymétrique en V met en valeur les courbes. Convient pour le port quotidien, le bureau, les sorties et  (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/140/Pantalon droit décontracté et élégant pour femmes, élément essentiel pour la rentrée scolaire. La taille asymétrique en V met en valeur les courbes. Convient pour le port quotidien, le bureau, les sorties et  (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/140/Pantalon droit décontracté et élégant pour femmes, élément essentiel pour la rentrée scolaire. La taille asymétrique en V met en valeur les courbes. Convient pour le port quotidien, le bureau, les sorties et  (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/140/Pantalon droit décontracté et élégant pour femmes, élément essentiel pour la rentrée scolaire. La taille asymétrique en V met en valeur les courbes. Convient pour le port quotidien, le bureau, les sorties et  (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/140/Pantalon droit décontracté et élégant pour femmes, élément essentiel pour la rentrée scolaire. La taille asymétrique en V met en valeur les courbes. Convient pour le port quotidien, le bureau, les sorties et  (6).webp"
     ]
   },
   {
@@ -5971,12 +5971,12 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/141/Elenzga Nouveauté printemps_été Culottes à taille haute de couleur unie, assorties à une ceinture vintage. Style élégant convenant pour le port quotidien, le travail, la remise des diplômes, les festivals de musi.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/141/Elenzga Nouveauté printemps_été Culottes à taille haute de couleur unie, assorties à une ceinture vintage. Style élégant convenant pour le port quotidien, le travail, la remise des diplômes, les festivals de musi.webp",
     "images": [
-      "/vetement_femme/141/Elenzga Nouveauté printemps_été Culottes à taille haute de couleur unie, assorties à une ceinture vintage. Style élégant convenant pour le port quotidien, le travail, la remise des diplômes, les festivals de musi.webp",
-      "/vetement_femme/141/Elenzga Nouveauté printemps_été Culottes à taille haute de couleur unie, assorties à une ceinture vintage. Style élégant convenant pour le port quotidien, le travail, la remise des diplômes, les festivals de  (1).webp",
-      "/vetement_femme/141/Elenzga Nouveauté printemps_été Culottes à taille haute de couleur unie, assorties à une ceinture vintage. Style élégant convenant pour le port quotidien, le travail, la remise des diplômes, les festivals de  (2).webp",
-      "/vetement_femme/141/Elenzga Nouveauté printemps_été Culottes à taille haute de couleur unie, assorties à une ceinture vintage. Style élégant convenant pour le port quotidien, le travail, la remise des diplômes, les festivals de  (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/141/Elenzga Nouveauté printemps_été Culottes à taille haute de couleur unie, assorties à une ceinture vintage. Style élégant convenant pour le port quotidien, le travail, la remise des diplômes, les festivals de musi.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/141/Elenzga Nouveauté printemps_été Culottes à taille haute de couleur unie, assorties à une ceinture vintage. Style élégant convenant pour le port quotidien, le travail, la remise des diplômes, les festivals de  (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/141/Elenzga Nouveauté printemps_été Culottes à taille haute de couleur unie, assorties à une ceinture vintage. Style élégant convenant pour le port quotidien, le travail, la remise des diplômes, les festivals de  (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/141/Elenzga Nouveauté printemps_été Culottes à taille haute de couleur unie, assorties à une ceinture vintage. Style élégant convenant pour le port quotidien, le travail, la remise des diplômes, les festivals de  (3).webp"
     ]
   },
   {
@@ -6012,13 +6012,13 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/142/SHEIN EZwear Pantalon unicolore à jambe évasée droite à hauteur haute.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/142/SHEIN EZwear Pantalon unicolore à jambe évasée droite à hauteur haute.webp",
     "images": [
-      "/vetement_femme/142/SHEIN EZwear Pantalon unicolore à jambe évasée droite à hauteur haute.webp",
-      "/vetement_femme/142/SHEIN EZwear Pantalon unicolore à jambe évasée droite à hauteur haute (1).webp",
-      "/vetement_femme/142/SHEIN EZwear Pantalon unicolore à jambe évasée droite à hauteur haute (2).webp",
-      "/vetement_femme/142/SHEIN EZwear Pantalon unicolore à jambe évasée droite à hauteur haute (3).webp",
-      "/vetement_femme/142/SHEIN EZwear Pantalon unicolore à jambe évasée droite à hauteur haute (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/142/SHEIN EZwear Pantalon unicolore à jambe évasée droite à hauteur haute.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/142/SHEIN EZwear Pantalon unicolore à jambe évasée droite à hauteur haute (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/142/SHEIN EZwear Pantalon unicolore à jambe évasée droite à hauteur haute (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/142/SHEIN EZwear Pantalon unicolore à jambe évasée droite à hauteur haute (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/142/SHEIN EZwear Pantalon unicolore à jambe évasée droite à hauteur haute (4).webp"
     ]
   },
   {
@@ -6054,15 +6054,15 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/143/SHEIN Elenzya Pantalon ample asymétrique élégant et décontracté pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/143/SHEIN Elenzya Pantalon ample asymétrique élégant et décontracté pour femmes.webp",
     "images": [
-      "/vetement_femme/143/SHEIN Elenzya Pantalon ample asymétrique élégant et décontracté pour femmes.webp",
-      "/vetement_femme/143/SHEIN Elenzya Pantalon ample asymétrique élégant et décontracté pour femmes (1).webp",
-      "/vetement_femme/143/SHEIN Elenzya Pantalon ample asymétrique élégant et décontracté pour femmes (2).webp",
-      "/vetement_femme/143/SHEIN Elenzya Pantalon ample asymétrique élégant et décontracté pour femmes (3).webp",
-      "/vetement_femme/143/SHEIN Elenzya Pantalon ample asymétrique élégant et décontracté pour femmes (4).webp",
-      "/vetement_femme/143/SHEIN Elenzya Pantalon ample asymétrique élégant et décontracté pour femmes (5).webp",
-      "/vetement_femme/143/SHEIN Elenzya Pantalon ample asymétrique élégant et décontracté pour femmes (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/143/SHEIN Elenzya Pantalon ample asymétrique élégant et décontracté pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/143/SHEIN Elenzya Pantalon ample asymétrique élégant et décontracté pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/143/SHEIN Elenzya Pantalon ample asymétrique élégant et décontracté pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/143/SHEIN Elenzya Pantalon ample asymétrique élégant et décontracté pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/143/SHEIN Elenzya Pantalon ample asymétrique élégant et décontracté pour femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/143/SHEIN Elenzya Pantalon ample asymétrique élégant et décontracté pour femmes (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/143/SHEIN Elenzya Pantalon ample asymétrique élégant et décontracté pour femmes (6).webp"
     ]
   },
   {
@@ -6098,13 +6098,13 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 10,
-    "image": "/vetement_femme/144/SHEIN Unity Pantalon droit ample à fente latérale en velours côtelé pour femmes, style mode décontracté pour l'automne_hiver.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/144/SHEIN Unity Pantalon droit ample à fente latérale en velours côtelé pour femmes, style mode décontracté pour l'automne_hiver.webp",
     "images": [
-      "/vetement_femme/144/SHEIN Unity Pantalon droit ample à fente latérale en velours côtelé pour femmes, style mode décontracté pour l'automne_hiver.webp",
-      "/vetement_femme/144/SHEIN Unity Pantalon droit ample à fente latérale en velours côtelé pour femmes, style mode décontracté pour l'automne_hiver (1).webp",
-      "/vetement_femme/144/SHEIN Unity Pantalon droit ample à fente latérale en velours côtelé pour femmes, style mode décontracté pour l'automne_hiver (2).webp",
-      "/vetement_femme/144/SHEIN Unity Pantalon droit ample à fente latérale en velours côtelé pour femmes, style mode décontracté pour l'automne_hiver (3).webp",
-      "/vetement_femme/144/SHEIN Unity Pantalon droit ample à fente latérale en velours côtelé pour femmes, style mode décontracté pour l'automne_hiver (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/144/SHEIN Unity Pantalon droit ample à fente latérale en velours côtelé pour femmes, style mode décontracté pour l'automne_hiver.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/144/SHEIN Unity Pantalon droit ample à fente latérale en velours côtelé pour femmes, style mode décontracté pour l'automne_hiver (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/144/SHEIN Unity Pantalon droit ample à fente latérale en velours côtelé pour femmes, style mode décontracté pour l'automne_hiver (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/144/SHEIN Unity Pantalon droit ample à fente latérale en velours côtelé pour femmes, style mode décontracté pour l'automne_hiver (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/144/SHEIN Unity Pantalon droit ample à fente latérale en velours côtelé pour femmes, style mode décontracté pour l'automne_hiver (4).webp"
     ]
   },
   {
@@ -6140,13 +6140,13 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/145/EURMUSE Pantalon palazzo à jambes larges blanc avec détails de boutons.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/145/EURMUSE Pantalon palazzo à jambes larges blanc avec détails de boutons.webp",
     "images": [
-      "/vetement_femme/145/EURMUSE Pantalon palazzo à jambes larges blanc avec détails de boutons.webp",
-      "/vetement_femme/145/EURMUSE Pantalon palazzo à jambes larges blanc avec détails de boutons (1).webp",
-      "/vetement_femme/145/EURMUSE Pantalon palazzo à jambes larges blanc avec détails de boutons (2).webp",
-      "/vetement_femme/145/EURMUSE Pantalon palazzo à jambes larges blanc avec détails de boutons (3).webp",
-      "/vetement_femme/145/EURMUSE Pantalon palazzo à jambes larges blanc avec détails de boutons (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/145/EURMUSE Pantalon palazzo à jambes larges blanc avec détails de boutons.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/145/EURMUSE Pantalon palazzo à jambes larges blanc avec détails de boutons (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/145/EURMUSE Pantalon palazzo à jambes larges blanc avec détails de boutons (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/145/EURMUSE Pantalon palazzo à jambes larges blanc avec détails de boutons (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/145/EURMUSE Pantalon palazzo à jambes larges blanc avec détails de boutons (4).webp"
     ]
   },
   {
@@ -6183,15 +6183,15 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/146/Pantalon évasé kaki foncé style Y2K pour femmes, couleur unie taille haute à design ajusté élastique. Élégant, décontracté, streetwear. Convient pour le printemps_été, les vacances, le style bohème.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/146/Pantalon évasé kaki foncé style Y2K pour femmes, couleur unie taille haute à design ajusté élastique. Élégant, décontracté, streetwear. Convient pour le printemps_été, les vacances, le style bohème.webp",
     "images": [
-      "/vetement_femme/146/Pantalon évasé kaki foncé style Y2K pour femmes, couleur unie taille haute à design ajusté élastique. Élégant, décontracté, streetwear. Convient pour le printemps_été, les vacances, le style bohème.webp",
-      "/vetement_femme/146/Pantalon évasé kaki foncé style Y2K pour femmes, couleur unie taille haute à design ajusté élastique. Élégant, décontracté, streetwear. Convient pour le printemps_été, les vacances, le style bohème (1).webp",
-      "/vetement_femme/146/Pantalon évasé kaki foncé style Y2K pour femmes, couleur unie taille haute à design ajusté élastique. Élégant, décontracté, streetwear. Convient pour le printemps_été, les vacances, le style bohème (2).webp",
-      "/vetement_femme/146/Pantalon évasé kaki foncé style Y2K pour femmes, couleur unie taille haute à design ajusté élastique. Élégant, décontracté, streetwear. Convient pour le printemps_été, les vacances, le style bohème (3).webp",
-      "/vetement_femme/146/Pantalon évasé kaki foncé style Y2K pour femmes, couleur unie taille haute à design ajusté élastique. Élégant, décontracté, streetwear. Convient pour le printemps_été, les vacances, le style bohème (4).webp",
-      "/vetement_femme/146/Pantalon évasé kaki foncé style Y2K pour femmes, couleur unie taille haute à design ajusté élastique. Élégant, décontracté, streetwear. Convient pour le printemps_été, les vacances, le style bohème (5).webp",
-      "/vetement_femme/146/Pantalon évasé kaki foncé style Y2K pour femmes, couleur unie taille haute à design ajusté élastique. Élégant, décontracté, streetwear. Convient pour le printemps_été, les vacances, le style bohème (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/146/Pantalon évasé kaki foncé style Y2K pour femmes, couleur unie taille haute à design ajusté élastique. Élégant, décontracté, streetwear. Convient pour le printemps_été, les vacances, le style bohème.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/146/Pantalon évasé kaki foncé style Y2K pour femmes, couleur unie taille haute à design ajusté élastique. Élégant, décontracté, streetwear. Convient pour le printemps_été, les vacances, le style bohème (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/146/Pantalon évasé kaki foncé style Y2K pour femmes, couleur unie taille haute à design ajusté élastique. Élégant, décontracté, streetwear. Convient pour le printemps_été, les vacances, le style bohème (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/146/Pantalon évasé kaki foncé style Y2K pour femmes, couleur unie taille haute à design ajusté élastique. Élégant, décontracté, streetwear. Convient pour le printemps_été, les vacances, le style bohème (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/146/Pantalon évasé kaki foncé style Y2K pour femmes, couleur unie taille haute à design ajusté élastique. Élégant, décontracté, streetwear. Convient pour le printemps_été, les vacances, le style bohème (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/146/Pantalon évasé kaki foncé style Y2K pour femmes, couleur unie taille haute à design ajusté élastique. Élégant, décontracté, streetwear. Convient pour le printemps_été, les vacances, le style bohème (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/146/Pantalon évasé kaki foncé style Y2K pour femmes, couleur unie taille haute à design ajusté élastique. Élégant, décontracté, streetwear. Convient pour le printemps_été, les vacances, le style bohème (6).webp"
     ]
   },
   {
@@ -6227,13 +6227,13 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/147/SHEIN Frenchy Pantalon Droit Noir À Jambes Larges, Ceinturé Et Avec Nœud Papillon.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/147/SHEIN Frenchy Pantalon Droit Noir À Jambes Larges, Ceinturé Et Avec Nœud Papillon.webp",
     "images": [
-      "/vetement_femme/147/SHEIN Frenchy Pantalon Droit Noir À Jambes Larges, Ceinturé Et Avec Nœud Papillon.webp",
-      "/vetement_femme/147/SHEIN Frenchy Pantalon Droit Noir À Jambes Larges, Ceinturé Et Avec Nœud Papillon (1).webp",
-      "/vetement_femme/147/SHEIN Frenchy Pantalon Droit Noir À Jambes Larges, Ceinturé Et Avec Nœud Papillon (2).webp",
-      "/vetement_femme/147/SHEIN Frenchy Pantalon Droit Noir À Jambes Larges, Ceinturé Et Avec Nœud Papillon (3).webp",
-      "/vetement_femme/147/SHEIN Frenchy Pantalon Droit Noir À Jambes Larges, Ceinturé Et Avec Nœud Papillon (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/147/SHEIN Frenchy Pantalon Droit Noir À Jambes Larges, Ceinturé Et Avec Nœud Papillon.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/147/SHEIN Frenchy Pantalon Droit Noir À Jambes Larges, Ceinturé Et Avec Nœud Papillon (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/147/SHEIN Frenchy Pantalon Droit Noir À Jambes Larges, Ceinturé Et Avec Nœud Papillon (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/147/SHEIN Frenchy Pantalon Droit Noir À Jambes Larges, Ceinturé Et Avec Nœud Papillon (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/147/SHEIN Frenchy Pantalon Droit Noir À Jambes Larges, Ceinturé Et Avec Nœud Papillon (4).webp"
     ]
   },
   {
@@ -6269,14 +6269,14 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/148/Pantalon de costume vintage taille haute pour femmes, coupe ample, effet drapé, convient pour l'automne, convient pour le port au bureau au printemps.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/148/Pantalon de costume vintage taille haute pour femmes, coupe ample, effet drapé, convient pour l'automne, convient pour le port au bureau au printemps.webp",
     "images": [
-      "/vetement_femme/148/Pantalon de costume vintage taille haute pour femmes, coupe ample, effet drapé, convient pour l'automne, convient pour le port au bureau au printemps.webp",
-      "/vetement_femme/148/Pantalon de costume vintage taille haute pour femmes, coupe ample, effet drapé, convient pour l'automne, convient pour le port au bureau au printemps (1).webp",
-      "/vetement_femme/148/Pantalon de costume vintage taille haute pour femmes, coupe ample, effet drapé, convient pour l'automne, convient pour le port au bureau au printemps (2).webp",
-      "/vetement_femme/148/Pantalon de costume vintage taille haute pour femmes, coupe ample, effet drapé, convient pour l'automne, convient pour le port au bureau au printemps (3).webp",
-      "/vetement_femme/148/Pantalon de costume vintage taille haute pour femmes, coupe ample, effet drapé, convient pour l'automne, convient pour le port au bureau au printemps (4).webp",
-      "/vetement_femme/148/Pantalon de costume vintage taille haute pour femmes, coupe ample, effet drapé, convient pour l'automne, convient pour le port au bureau au printemps (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/148/Pantalon de costume vintage taille haute pour femmes, coupe ample, effet drapé, convient pour l'automne, convient pour le port au bureau au printemps.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/148/Pantalon de costume vintage taille haute pour femmes, coupe ample, effet drapé, convient pour l'automne, convient pour le port au bureau au printemps (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/148/Pantalon de costume vintage taille haute pour femmes, coupe ample, effet drapé, convient pour l'automne, convient pour le port au bureau au printemps (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/148/Pantalon de costume vintage taille haute pour femmes, coupe ample, effet drapé, convient pour l'automne, convient pour le port au bureau au printemps (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/148/Pantalon de costume vintage taille haute pour femmes, coupe ample, effet drapé, convient pour l'automne, convient pour le port au bureau au printemps (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/148/Pantalon de costume vintage taille haute pour femmes, coupe ample, effet drapé, convient pour l'automne, convient pour le port au bureau au printemps (5).webp"
     ]
   },
   {
@@ -6312,14 +6312,14 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/150/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/150/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne.webp",
     "images": [
-      "/vetement_femme/150/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne.webp",
-      "/vetement_femme/150/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne (1).webp",
-      "/vetement_femme/150/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne (2).webp",
-      "/vetement_femme/150/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne (3).webp",
-      "/vetement_femme/150/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne (4).webp",
-      "/vetement_femme/150/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/150/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/150/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/150/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/150/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/150/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/150/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne (5).webp"
     ]
   },
   {
@@ -6355,13 +6355,13 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/151/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/151/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne.webp",
     "images": [
-      "/vetement_femme/151/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne.webp",
-      "/vetement_femme/151/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne (1).webp",
-      "/vetement_femme/151/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne (2).webp",
-      "/vetement_femme/151/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne (3).webp",
-      "/vetement_femme/151/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/151/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/151/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/151/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/151/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/151/Elenzga Nouveau pantalon ample, élégant et décontracté pour femmes, avec design évasé, fermeture éclair latérale et taille en twill tressé, pour le printemps et l'automne (4).webp"
     ]
   },
   {
@@ -6397,13 +6397,13 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/152/Breezaya Pantalon décontracté à taille basse avec imprimé placé élégant pour femmes en vacances.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/152/Breezaya Pantalon décontracté à taille basse avec imprimé placé élégant pour femmes en vacances.webp",
     "images": [
-      "/vetement_femme/152/Breezaya Pantalon décontracté à taille basse avec imprimé placé élégant pour femmes en vacances.webp",
-      "/vetement_femme/152/Breezaya Pantalon décontracté à taille basse avec imprimé placé élégant pour femmes en vacances (1).webp",
-      "/vetement_femme/152/Breezaya Pantalon décontracté à taille basse avec imprimé placé élégant pour femmes en vacances (2).webp",
-      "/vetement_femme/152/Breezaya Pantalon décontracté à taille basse avec imprimé placé élégant pour femmes en vacances (3).webp",
-      "/vetement_femme/152/Breezaya Pantalon décontracté à taille basse avec imprimé placé élégant pour femmes en vacances (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/152/Breezaya Pantalon décontracté à taille basse avec imprimé placé élégant pour femmes en vacances.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/152/Breezaya Pantalon décontracté à taille basse avec imprimé placé élégant pour femmes en vacances (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/152/Breezaya Pantalon décontracté à taille basse avec imprimé placé élégant pour femmes en vacances (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/152/Breezaya Pantalon décontracté à taille basse avec imprimé placé élégant pour femmes en vacances (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/152/Breezaya Pantalon décontracté à taille basse avec imprimé placé élégant pour femmes en vacances (4).webp"
     ]
   },
   {
@@ -6440,11 +6440,11 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/153/Pantalon élégant et sexy] Pantalon droit élégant et sexy pour femmes _ Pantalon non extensible, convient pour le bureau, les fêtes, le port quotidien - Lavable en machine, tissu respirant, design simple, tenue d'.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/153/Pantalon élégant et sexy] Pantalon droit élégant et sexy pour femmes _ Pantalon non extensible, convient pour le bureau, les fêtes, le port quotidien - Lavable en machine, tissu respirant, design simple, tenue d'.webp",
     "images": [
-      "/vetement_femme/153/Pantalon élégant et sexy] Pantalon droit élégant et sexy pour femmes _ Pantalon non extensible, convient pour le bureau, les fêtes, le port quotidien - Lavable en machine, tissu respirant, design simple, tenue d'.webp",
-      "/vetement_femme/153/Pantalon élégant et sexy] Pantalon droit élégant et sexy pour femmes _ Pantalon non extensible, convient pour le bureau, les fêtes, le port quotidien - Lavable en machine, tissu respirant, design simple, tenu (1).webp",
-      "/vetement_femme/153/Pantalon élégant et sexy] Pantalon droit élégant et sexy pour femmes _ Pantalon non extensible, convient pour le bureau, les fêtes, le port quotidien - Lavable en machine, tissu respirant, design simple, tenu (2).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/153/Pantalon élégant et sexy] Pantalon droit élégant et sexy pour femmes _ Pantalon non extensible, convient pour le bureau, les fêtes, le port quotidien - Lavable en machine, tissu respirant, design simple, tenue d'.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/153/Pantalon élégant et sexy] Pantalon droit élégant et sexy pour femmes _ Pantalon non extensible, convient pour le bureau, les fêtes, le port quotidien - Lavable en machine, tissu respirant, design simple, tenu (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/153/Pantalon élégant et sexy] Pantalon droit élégant et sexy pour femmes _ Pantalon non extensible, convient pour le bureau, les fêtes, le port quotidien - Lavable en machine, tissu respirant, design simple, tenu (2).webp"
     ]
   },
   {
@@ -6480,13 +6480,13 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/154/Silquee Pantalon large décontracté et polyvalent en patchwork de dentelle pour un port quotidien pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/154/Silquee Pantalon large décontracté et polyvalent en patchwork de dentelle pour un port quotidien pour femmes.webp",
     "images": [
-      "/vetement_femme/154/Silquee Pantalon large décontracté et polyvalent en patchwork de dentelle pour un port quotidien pour femmes.webp",
-      "/vetement_femme/154/Silquee Pantalon large décontracté et polyvalent en patchwork de dentelle pour un port quotidien pour femmes (1).webp",
-      "/vetement_femme/154/Silquee Pantalon large décontracté et polyvalent en patchwork de dentelle pour un port quotidien pour femmes (2).webp",
-      "/vetement_femme/154/Silquee Pantalon large décontracté et polyvalent en patchwork de dentelle pour un port quotidien pour femmes (3).webp",
-      "/vetement_femme/154/Silquee Pantalon large décontracté et polyvalent en patchwork de dentelle pour un port quotidien pour femmes (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/154/Silquee Pantalon large décontracté et polyvalent en patchwork de dentelle pour un port quotidien pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/154/Silquee Pantalon large décontracté et polyvalent en patchwork de dentelle pour un port quotidien pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/154/Silquee Pantalon large décontracté et polyvalent en patchwork de dentelle pour un port quotidien pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/154/Silquee Pantalon large décontracté et polyvalent en patchwork de dentelle pour un port quotidien pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/154/Silquee Pantalon large décontracté et polyvalent en patchwork de dentelle pour un port quotidien pour femmes (4).webp"
     ]
   },
   {
@@ -6522,13 +6522,13 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/155/EURMUSE Pantalon taillé à taille haute et jambe évasée, détail de couture avant, design évasé jusqu'aux chevilles, collection minimaliste moderne, style sobre et professionnel, pli central repassé, pantalon pour .webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/155/EURMUSE Pantalon taillé à taille haute et jambe évasée, détail de couture avant, design évasé jusqu'aux chevilles, collection minimaliste moderne, style sobre et professionnel, pli central repassé, pantalon pour .webp",
     "images": [
-      "/vetement_femme/155/EURMUSE Pantalon taillé à taille haute et jambe évasée, détail de couture avant, design évasé jusqu'aux chevilles, collection minimaliste moderne, style sobre et professionnel, pli central repassé, pantalon pour .webp",
-      "/vetement_femme/155/EURMUSE Pantalon taillé à taille haute et jambe évasée, détail de couture avant, design évasé jusqu'aux chevilles, collection minimaliste moderne, style sobre et professionnel, pli central repassé, pantalon p (1).webp",
-      "/vetement_femme/155/EURMUSE Pantalon taillé à taille haute et jambe évasée, détail de couture avant, design évasé jusqu'aux chevilles, collection minimaliste moderne, style sobre et professionnel, pli central repassé, pantalon p (2).webp",
-      "/vetement_femme/155/EURMUSE Pantalon taillé à taille haute et jambe évasée, détail de couture avant, design évasé jusqu'aux chevilles, collection minimaliste moderne, style sobre et professionnel, pli central repassé, pantalon p (3).webp",
-      "/vetement_femme/155/EURMUSE Pantalon taillé à taille haute et jambe évasée, détail de couture avant, design évasé jusqu'aux chevilles, collection minimaliste moderne, style sobre et professionnel, pli central repassé, pantalon p (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/155/EURMUSE Pantalon taillé à taille haute et jambe évasée, détail de couture avant, design évasé jusqu'aux chevilles, collection minimaliste moderne, style sobre et professionnel, pli central repassé, pantalon pour .webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/155/EURMUSE Pantalon taillé à taille haute et jambe évasée, détail de couture avant, design évasé jusqu'aux chevilles, collection minimaliste moderne, style sobre et professionnel, pli central repassé, pantalon p (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/155/EURMUSE Pantalon taillé à taille haute et jambe évasée, détail de couture avant, design évasé jusqu'aux chevilles, collection minimaliste moderne, style sobre et professionnel, pli central repassé, pantalon p (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/155/EURMUSE Pantalon taillé à taille haute et jambe évasée, détail de couture avant, design évasé jusqu'aux chevilles, collection minimaliste moderne, style sobre et professionnel, pli central repassé, pantalon p (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/155/EURMUSE Pantalon taillé à taille haute et jambe évasée, détail de couture avant, design évasé jusqu'aux chevilles, collection minimaliste moderne, style sobre et professionnel, pli central repassé, pantalon p (4).webp"
     ]
   },
   {
@@ -6564,12 +6564,12 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/156/Pantalon cargo droit et ample de couleur unie pour femmes, printemps.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/156/Pantalon cargo droit et ample de couleur unie pour femmes, printemps.webp",
     "images": [
-      "/vetement_femme/156/Pantalon cargo droit et ample de couleur unie pour femmes, printemps.webp",
-      "/vetement_femme/156/Pantalon cargo droit et ample de couleur unie pour femmes, printemps (1).webp",
-      "/vetement_femme/156/Pantalon cargo droit et ample de couleur unie pour femmes, printemps (2).webp",
-      "/vetement_femme/156/Pantalon cargo droit et ample de couleur unie pour femmes, printemps (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/156/Pantalon cargo droit et ample de couleur unie pour femmes, printemps.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/156/Pantalon cargo droit et ample de couleur unie pour femmes, printemps (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/156/Pantalon cargo droit et ample de couleur unie pour femmes, printemps (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/156/Pantalon cargo droit et ample de couleur unie pour femmes, printemps (3).webp"
     ]
   },
   {
@@ -6605,13 +6605,13 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/157/EURMUSE Tissu Lycra Tricoté Ample Noir, Pantalon Large, Ceinture Élastique À Rayures Semi-transparentes Et Taille En V.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/157/EURMUSE Tissu Lycra Tricoté Ample Noir, Pantalon Large, Ceinture Élastique À Rayures Semi-transparentes Et Taille En V.webp",
     "images": [
-      "/vetement_femme/157/EURMUSE Tissu Lycra Tricoté Ample Noir, Pantalon Large, Ceinture Élastique À Rayures Semi-transparentes Et Taille En V.webp",
-      "/vetement_femme/157/EURMUSE Tissu Lycra Tricoté Ample Noir, Pantalon Large, Ceinture Élastique À Rayures Semi-transparentes Et Taille En V (1).webp",
-      "/vetement_femme/157/EURMUSE Tissu Lycra Tricoté Ample Noir, Pantalon Large, Ceinture Élastique À Rayures Semi-transparentes Et Taille En V (2).webp",
-      "/vetement_femme/157/EURMUSE Tissu Lycra Tricoté Ample Noir, Pantalon Large, Ceinture Élastique À Rayures Semi-transparentes Et Taille En V (3).webp",
-      "/vetement_femme/157/EURMUSE Tissu Lycra Tricoté Ample Noir, Pantalon Large, Ceinture Élastique À Rayures Semi-transparentes Et Taille En V (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/157/EURMUSE Tissu Lycra Tricoté Ample Noir, Pantalon Large, Ceinture Élastique À Rayures Semi-transparentes Et Taille En V.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/157/EURMUSE Tissu Lycra Tricoté Ample Noir, Pantalon Large, Ceinture Élastique À Rayures Semi-transparentes Et Taille En V (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/157/EURMUSE Tissu Lycra Tricoté Ample Noir, Pantalon Large, Ceinture Élastique À Rayures Semi-transparentes Et Taille En V (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/157/EURMUSE Tissu Lycra Tricoté Ample Noir, Pantalon Large, Ceinture Élastique À Rayures Semi-transparentes Et Taille En V (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/157/EURMUSE Tissu Lycra Tricoté Ample Noir, Pantalon Large, Ceinture Élastique À Rayures Semi-transparentes Et Taille En V (4).webp"
     ]
   },
   {
@@ -6647,13 +6647,13 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 10,
-    "image": "/vetement_femme/158/SHEIN SXY Pantalon Sexy À Jambes Évasées En Dentelle Contrastée.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/158/SHEIN SXY Pantalon Sexy À Jambes Évasées En Dentelle Contrastée.webp",
     "images": [
-      "/vetement_femme/158/SHEIN SXY Pantalon Sexy À Jambes Évasées En Dentelle Contrastée.webp",
-      "/vetement_femme/158/SHEIN SXY Pantalon Sexy À Jambes Évasées En Dentelle Contrastée (1).webp",
-      "/vetement_femme/158/SHEIN SXY Pantalon Sexy À Jambes Évasées En Dentelle Contrastée (2).webp",
-      "/vetement_femme/158/SHEIN SXY Pantalon Sexy À Jambes Évasées En Dentelle Contrastée (3).webp",
-      "/vetement_femme/158/SHEIN SXY Pantalon Sexy À Jambes Évasées En Dentelle Contrastée (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/158/SHEIN SXY Pantalon Sexy À Jambes Évasées En Dentelle Contrastée.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/158/SHEIN SXY Pantalon Sexy À Jambes Évasées En Dentelle Contrastée (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/158/SHEIN SXY Pantalon Sexy À Jambes Évasées En Dentelle Contrastée (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/158/SHEIN SXY Pantalon Sexy À Jambes Évasées En Dentelle Contrastée (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/158/SHEIN SXY Pantalon Sexy À Jambes Évasées En Dentelle Contrastée (4).webp"
     ]
   },
   {
@@ -6689,14 +6689,14 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/159/Elenzga Pantalon évasé en maille de couleur unie inspiré de la Sicile, élégant et décontracté, avec fente latérale, convenant pour le printemps, l'été, l'automne, les trajets, les vacances, le thé de l'après-midi.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/159/Elenzga Pantalon évasé en maille de couleur unie inspiré de la Sicile, élégant et décontracté, avec fente latérale, convenant pour le printemps, l'été, l'automne, les trajets, les vacances, le thé de l'après-midi.webp",
     "images": [
-      "/vetement_femme/159/Elenzga Pantalon évasé en maille de couleur unie inspiré de la Sicile, élégant et décontracté, avec fente latérale, convenant pour le printemps, l'été, l'automne, les trajets, les vacances, le thé de l'après-midi.webp",
-      "/vetement_femme/159/Elenzga Pantalon évasé en maille de couleur unie inspiré de la Sicile, élégant et décontracté, avec fente latérale, convenant pour le printemps, l'été, l'automne, les trajets, les vacances, le thé de l'après- (1).webp",
-      "/vetement_femme/159/Elenzga Pantalon évasé en maille de couleur unie inspiré de la Sicile, élégant et décontracté, avec fente latérale, convenant pour le printemps, l'été, l'automne, les trajets, les vacances, le thé de l'après- (2).webp",
-      "/vetement_femme/159/Elenzga Pantalon évasé en maille de couleur unie inspiré de la Sicile, élégant et décontracté, avec fente latérale, convenant pour le printemps, l'été, l'automne, les trajets, les vacances, le thé de l'après- (3).webp",
-      "/vetement_femme/159/Elenzga Pantalon évasé en maille de couleur unie inspiré de la Sicile, élégant et décontracté, avec fente latérale, convenant pour le printemps, l'été, l'automne, les trajets, les vacances, le thé de l'après- (4).webp",
-      "/vetement_femme/159/Elenzga Pantalon évasé en maille de couleur unie inspiré de la Sicile, élégant et décontracté, avec fente latérale, convenant pour le printemps, l'été, l'automne, les trajets, les vacances, le thé de l'après- (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/159/Elenzga Pantalon évasé en maille de couleur unie inspiré de la Sicile, élégant et décontracté, avec fente latérale, convenant pour le printemps, l'été, l'automne, les trajets, les vacances, le thé de l'après-midi.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/159/Elenzga Pantalon évasé en maille de couleur unie inspiré de la Sicile, élégant et décontracté, avec fente latérale, convenant pour le printemps, l'été, l'automne, les trajets, les vacances, le thé de l'après- (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/159/Elenzga Pantalon évasé en maille de couleur unie inspiré de la Sicile, élégant et décontracté, avec fente latérale, convenant pour le printemps, l'été, l'automne, les trajets, les vacances, le thé de l'après- (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/159/Elenzga Pantalon évasé en maille de couleur unie inspiré de la Sicile, élégant et décontracté, avec fente latérale, convenant pour le printemps, l'été, l'automne, les trajets, les vacances, le thé de l'après- (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/159/Elenzga Pantalon évasé en maille de couleur unie inspiré de la Sicile, élégant et décontracté, avec fente latérale, convenant pour le printemps, l'été, l'automne, les trajets, les vacances, le thé de l'après- (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/159/Elenzga Pantalon évasé en maille de couleur unie inspiré de la Sicile, élégant et décontracté, avec fente latérale, convenant pour le printemps, l'été, l'automne, les trajets, les vacances, le thé de l'après- (5).webp"
     ]
   },
   {
@@ -6732,13 +6732,13 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/160/Anewsta Pantalon évasé fin avec décoration de boucle métallique et poches pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/160/Anewsta Pantalon évasé fin avec décoration de boucle métallique et poches pour femmes.webp",
     "images": [
-      "/vetement_femme/160/Anewsta Pantalon évasé fin avec décoration de boucle métallique et poches pour femmes.webp",
-      "/vetement_femme/160/Anewsta Pantalon évasé fin avec décoration de boucle métallique et poches pour femmes (1).webp",
-      "/vetement_femme/160/Anewsta Pantalon évasé fin avec décoration de boucle métallique et poches pour femmes (2).webp",
-      "/vetement_femme/160/Anewsta Pantalon évasé fin avec décoration de boucle métallique et poches pour femmes (3).webp",
-      "/vetement_femme/160/Anewsta Pantalon évasé fin avec décoration de boucle métallique et poches pour femmes (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/160/Anewsta Pantalon évasé fin avec décoration de boucle métallique et poches pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/160/Anewsta Pantalon évasé fin avec décoration de boucle métallique et poches pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/160/Anewsta Pantalon évasé fin avec décoration de boucle métallique et poches pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/160/Anewsta Pantalon évasé fin avec décoration de boucle métallique et poches pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/160/Anewsta Pantalon évasé fin avec décoration de boucle métallique et poches pour femmes (4).webp"
     ]
   },
   {
@@ -6773,14 +6773,14 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/161/Coolane Jupe-short de yoga asymétrique à taille unique de couleur unie pour un port quotidien.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/161/Coolane Jupe-short de yoga asymétrique à taille unique de couleur unie pour un port quotidien.webp",
     "images": [
-      "/vetement_femme/161/Coolane Jupe-short de yoga asymétrique à taille unique de couleur unie pour un port quotidien.webp",
-      "/vetement_femme/161/Coolane Jupe-short de yoga asymétrique à taille unique de couleur unie pour un port quotidien (1).webp",
-      "/vetement_femme/161/Coolane Jupe-short de yoga asymétrique à taille unique de couleur unie pour un port quotidien (2).webp",
-      "/vetement_femme/161/Coolane Jupe-short de yoga asymétrique à taille unique de couleur unie pour un port quotidien (3).webp",
-      "/vetement_femme/161/Coolane Jupe-short de yoga asymétrique à taille unique de couleur unie pour un port quotidien (4).webp",
-      "/vetement_femme/161/Coolane Jupe-short de yoga asymétrique à taille unique de couleur unie pour un port quotidien (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/161/Coolane Jupe-short de yoga asymétrique à taille unique de couleur unie pour un port quotidien.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/161/Coolane Jupe-short de yoga asymétrique à taille unique de couleur unie pour un port quotidien (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/161/Coolane Jupe-short de yoga asymétrique à taille unique de couleur unie pour un port quotidien (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/161/Coolane Jupe-short de yoga asymétrique à taille unique de couleur unie pour un port quotidien (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/161/Coolane Jupe-short de yoga asymétrique à taille unique de couleur unie pour un port quotidien (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/161/Coolane Jupe-short de yoga asymétrique à taille unique de couleur unie pour un port quotidien (5).webp"
     ]
   },
   {
@@ -6817,14 +6817,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/162/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/162/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme.webp",
     "images": [
-      "/vetement_femme/162/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme.webp",
-      "/vetement_femme/162/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme (1).webp",
-      "/vetement_femme/162/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme (2).webp",
-      "/vetement_femme/162/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme (3).webp",
-      "/vetement_femme/162/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme (4).webp",
-      "/vetement_femme/162/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/162/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/162/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/162/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/162/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/162/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/162/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme (5).webp"
     ]
   },
   {
@@ -6861,13 +6861,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/163/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/163/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme.webp",
     "images": [
-      "/vetement_femme/163/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme.webp",
-      "/vetement_femme/163/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme (1).webp",
-      "/vetement_femme/163/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme (2).webp",
-      "/vetement_femme/163/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme (3).webp",
-      "/vetement_femme/163/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/163/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/163/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/163/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/163/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/163/NegzBox Jupe midi évasée élégante et polyvalente pour femme avec imprimé pois. Tenue maxi en satin pour femme (4).webp"
     ]
   },
   {
@@ -6902,13 +6902,13 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/164/Flora Isola Flora Isola Jupe florale romantique en maille pour femmes pour les vacances.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/164/Flora Isola Flora Isola Jupe florale romantique en maille pour femmes pour les vacances.webp",
     "images": [
-      "/vetement_femme/164/Flora Isola Flora Isola Jupe florale romantique en maille pour femmes pour les vacances.webp",
-      "/vetement_femme/164/Flora Isola Flora Isola Jupe florale romantique en maille pour femmes pour les vacances (1).webp",
-      "/vetement_femme/164/Flora Isola Flora Isola Jupe florale romantique en maille pour femmes pour les vacances (2).webp",
-      "/vetement_femme/164/Flora Isola Flora Isola Jupe florale romantique en maille pour femmes pour les vacances (3).webp",
-      "/vetement_femme/164/Flora Isola Flora Isola Jupe florale romantique en maille pour femmes pour les vacances (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/164/Flora Isola Flora Isola Jupe florale romantique en maille pour femmes pour les vacances.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/164/Flora Isola Flora Isola Jupe florale romantique en maille pour femmes pour les vacances (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/164/Flora Isola Flora Isola Jupe florale romantique en maille pour femmes pour les vacances (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/164/Flora Isola Flora Isola Jupe florale romantique en maille pour femmes pour les vacances (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/164/Flora Isola Flora Isola Jupe florale romantique en maille pour femmes pour les vacances (4).webp"
     ]
   },
   {
@@ -6945,15 +6945,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/165/SHEIN Tall Jupe maxi élégante et romantique en dentelle noire sexy pour le travail, jupe moulante en dentelle, jupe pour plage et vacances, tenue pour la rentrée scolaire et la remise des diplômes, jupe pour rend.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/165/SHEIN Tall Jupe maxi élégante et romantique en dentelle noire sexy pour le travail, jupe moulante en dentelle, jupe pour plage et vacances, tenue pour la rentrée scolaire et la remise des diplômes, jupe pour rend.webp",
     "images": [
-      "/vetement_femme/165/SHEIN Tall Jupe maxi élégante et romantique en dentelle noire sexy pour le travail, jupe moulante en dentelle, jupe pour plage et vacances, tenue pour la rentrée scolaire et la remise des diplômes, jupe pour rend.webp",
-      "/vetement_femme/165/SHEIN Tall Jupe maxi élégante et romantique en dentelle noire sexy pour le travail, jupe moulante en dentelle, jupe pour plage et vacances, tenue pour la rentrée scolaire et la remise des diplômes, jupe pour  (1).webp",
-      "/vetement_femme/165/SHEIN Tall Jupe maxi élégante et romantique en dentelle noire sexy pour le travail, jupe moulante en dentelle, jupe pour plage et vacances, tenue pour la rentrée scolaire et la remise des diplômes, jupe pour  (2).webp",
-      "/vetement_femme/165/SHEIN Tall Jupe maxi élégante et romantique en dentelle noire sexy pour le travail, jupe moulante en dentelle, jupe pour plage et vacances, tenue pour la rentrée scolaire et la remise des diplômes, jupe pour  (3).webp",
-      "/vetement_femme/165/SHEIN Tall Jupe maxi élégante et romantique en dentelle noire sexy pour le travail, jupe moulante en dentelle, jupe pour plage et vacances, tenue pour la rentrée scolaire et la remise des diplômes, jupe pour  (4).webp",
-      "/vetement_femme/165/SHEIN Tall Jupe maxi élégante et romantique en dentelle noire sexy pour le travail, jupe moulante en dentelle, jupe pour plage et vacances, tenue pour la rentrée scolaire et la remise des diplômes, jupe pour  (5).webp",
-      "/vetement_femme/165/SHEIN Tall Jupe maxi élégante et romantique en dentelle noire sexy pour le travail, jupe moulante en dentelle, jupe pour plage et vacances, tenue pour la rentrée scolaire et la remise des diplômes, jupe pour  (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/165/SHEIN Tall Jupe maxi élégante et romantique en dentelle noire sexy pour le travail, jupe moulante en dentelle, jupe pour plage et vacances, tenue pour la rentrée scolaire et la remise des diplômes, jupe pour rend.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/165/SHEIN Tall Jupe maxi élégante et romantique en dentelle noire sexy pour le travail, jupe moulante en dentelle, jupe pour plage et vacances, tenue pour la rentrée scolaire et la remise des diplômes, jupe pour  (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/165/SHEIN Tall Jupe maxi élégante et romantique en dentelle noire sexy pour le travail, jupe moulante en dentelle, jupe pour plage et vacances, tenue pour la rentrée scolaire et la remise des diplômes, jupe pour  (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/165/SHEIN Tall Jupe maxi élégante et romantique en dentelle noire sexy pour le travail, jupe moulante en dentelle, jupe pour plage et vacances, tenue pour la rentrée scolaire et la remise des diplômes, jupe pour  (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/165/SHEIN Tall Jupe maxi élégante et romantique en dentelle noire sexy pour le travail, jupe moulante en dentelle, jupe pour plage et vacances, tenue pour la rentrée scolaire et la remise des diplômes, jupe pour  (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/165/SHEIN Tall Jupe maxi élégante et romantique en dentelle noire sexy pour le travail, jupe moulante en dentelle, jupe pour plage et vacances, tenue pour la rentrée scolaire et la remise des diplômes, jupe pour  (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/165/SHEIN Tall Jupe maxi élégante et romantique en dentelle noire sexy pour le travail, jupe moulante en dentelle, jupe pour plage et vacances, tenue pour la rentrée scolaire et la remise des diplômes, jupe pour  (6).webp"
     ]
   },
   {
@@ -6988,12 +6988,12 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/166/SHEIN MOD Élégance bohème-western _ Jupe longue en mousseline de soie et dentelle fluide dans un ton abricot - Votre compagne sans effort pour les pique-niques à l'heure dorée et les aventures bohèmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/166/SHEIN MOD Élégance bohème-western _ Jupe longue en mousseline de soie et dentelle fluide dans un ton abricot - Votre compagne sans effort pour les pique-niques à l'heure dorée et les aventures bohèmes.webp",
     "images": [
-      "/vetement_femme/166/SHEIN MOD Élégance bohème-western _ Jupe longue en mousseline de soie et dentelle fluide dans un ton abricot - Votre compagne sans effort pour les pique-niques à l'heure dorée et les aventures bohèmes.webp",
-      "/vetement_femme/166/SHEIN MOD Élégance bohème-western _ Jupe longue en mousseline de soie et dentelle fluide dans un ton abricot - Votre compagne sans effort pour les pique-niques à l'heure dorée et les aventures bohèmes (1).webp",
-      "/vetement_femme/166/SHEIN MOD Élégance bohème-western _ Jupe longue en mousseline de soie et dentelle fluide dans un ton abricot - Votre compagne sans effort pour les pique-niques à l'heure dorée et les aventures bohèmes (2).webp",
-      "/vetement_femme/166/SHEIN MOD Élégance bohème-western _ Jupe longue en mousseline de soie et dentelle fluide dans un ton abricot - Votre compagne sans effort pour les pique-niques à l'heure dorée et les aventures bohèmes (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/166/SHEIN MOD Élégance bohème-western _ Jupe longue en mousseline de soie et dentelle fluide dans un ton abricot - Votre compagne sans effort pour les pique-niques à l'heure dorée et les aventures bohèmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/166/SHEIN MOD Élégance bohème-western _ Jupe longue en mousseline de soie et dentelle fluide dans un ton abricot - Votre compagne sans effort pour les pique-niques à l'heure dorée et les aventures bohèmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/166/SHEIN MOD Élégance bohème-western _ Jupe longue en mousseline de soie et dentelle fluide dans un ton abricot - Votre compagne sans effort pour les pique-niques à l'heure dorée et les aventures bohèmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/166/SHEIN MOD Élégance bohème-western _ Jupe longue en mousseline de soie et dentelle fluide dans un ton abricot - Votre compagne sans effort pour les pique-niques à l'heure dorée et les aventures bohèmes (3).webp"
     ]
   },
   {
@@ -7028,16 +7028,16 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/167/SOLERSUN Jupe longue plissée à imprimé léopard hawaïen pour femmes, pour l'été et les vacances à la plage. Jupe fluide à taille haute avec imprimé floral aquarelle transparent, pour les vacances à la plage.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/167/SOLERSUN Jupe longue plissée à imprimé léopard hawaïen pour femmes, pour l'été et les vacances à la plage. Jupe fluide à taille haute avec imprimé floral aquarelle transparent, pour les vacances à la plage.webp",
     "images": [
-      "/vetement_femme/167/SOLERSUN Jupe longue plissée à imprimé léopard hawaïen pour femmes, pour l'été et les vacances à la plage. Jupe fluide à taille haute avec imprimé floral aquarelle transparent, pour les vacances à la plage.webp",
-      "/vetement_femme/167/SOLERSUN Jupe longue plissée à imprimé léopard hawaïen pour femmes, pour l'été et les vacances à la plage. Jupe fluide à taille haute avec imprimé floral aquarelle transparent, pour les vacances à la plage (1).webp",
-      "/vetement_femme/167/SOLERSUN Jupe longue plissée à imprimé léopard hawaïen pour femmes, pour l'été et les vacances à la plage. Jupe fluide à taille haute avec imprimé floral aquarelle transparent, pour les vacances à la plage (2).webp",
-      "/vetement_femme/167/SOLERSUN Jupe longue plissée à imprimé léopard hawaïen pour femmes, pour l'été et les vacances à la plage. Jupe fluide à taille haute avec imprimé floral aquarelle transparent, pour les vacances à la plage (3).webp",
-      "/vetement_femme/167/SOLERSUN Jupe longue plissée à imprimé léopard hawaïen pour femmes, pour l'été et les vacances à la plage. Jupe fluide à taille haute avec imprimé floral aquarelle transparent, pour les vacances à la plage (4).webp",
-      "/vetement_femme/167/SOLERSUN Jupe longue plissée à imprimé léopard hawaïen pour femmes, pour l'été et les vacances à la plage. Jupe fluide à taille haute avec imprimé floral aquarelle transparent, pour les vacances à la plage (5).webp",
-      "/vetement_femme/167/SOLERSUN Jupe longue plissée à imprimé léopard hawaïen pour femmes, pour l'été et les vacances à la plage. Jupe fluide à taille haute avec imprimé floral aquarelle transparent, pour les vacances à la plage (6).webp",
-      "/vetement_femme/167/SOLERSUN Jupe longue plissée à imprimé léopard hawaïen pour femmes, pour l'été et les vacances à la plage. Jupe fluide à taille haute avec imprimé floral aquarelle transparent, pour les vacances à la plage (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/167/SOLERSUN Jupe longue plissée à imprimé léopard hawaïen pour femmes, pour l'été et les vacances à la plage. Jupe fluide à taille haute avec imprimé floral aquarelle transparent, pour les vacances à la plage.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/167/SOLERSUN Jupe longue plissée à imprimé léopard hawaïen pour femmes, pour l'été et les vacances à la plage. Jupe fluide à taille haute avec imprimé floral aquarelle transparent, pour les vacances à la plage (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/167/SOLERSUN Jupe longue plissée à imprimé léopard hawaïen pour femmes, pour l'été et les vacances à la plage. Jupe fluide à taille haute avec imprimé floral aquarelle transparent, pour les vacances à la plage (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/167/SOLERSUN Jupe longue plissée à imprimé léopard hawaïen pour femmes, pour l'été et les vacances à la plage. Jupe fluide à taille haute avec imprimé floral aquarelle transparent, pour les vacances à la plage (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/167/SOLERSUN Jupe longue plissée à imprimé léopard hawaïen pour femmes, pour l'été et les vacances à la plage. Jupe fluide à taille haute avec imprimé floral aquarelle transparent, pour les vacances à la plage (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/167/SOLERSUN Jupe longue plissée à imprimé léopard hawaïen pour femmes, pour l'été et les vacances à la plage. Jupe fluide à taille haute avec imprimé floral aquarelle transparent, pour les vacances à la plage (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/167/SOLERSUN Jupe longue plissée à imprimé léopard hawaïen pour femmes, pour l'été et les vacances à la plage. Jupe fluide à taille haute avec imprimé floral aquarelle transparent, pour les vacances à la plage (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/167/SOLERSUN Jupe longue plissée à imprimé léopard hawaïen pour femmes, pour l'été et les vacances à la plage. Jupe fluide à taille haute avec imprimé floral aquarelle transparent, pour les vacances à la plage (7).webp"
     ]
   },
   {
@@ -7072,11 +7072,11 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/168/Jupe mi-longue évasée en tulle maille asymétrique dégradé, printemps_été noir.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/168/Jupe mi-longue évasée en tulle maille asymétrique dégradé, printemps_été noir.webp",
     "images": [
-      "/vetement_femme/168/Jupe mi-longue évasée en tulle maille asymétrique dégradé, printemps_été noir.webp",
-      "/vetement_femme/168/Jupe mi-longue évasée en tulle maille asymétrique dégradé, printemps_été noir (1).webp",
-      "/vetement_femme/168/Jupe mi-longue évasée en tulle maille asymétrique dégradé, printemps_été noir (2).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/168/Jupe mi-longue évasée en tulle maille asymétrique dégradé, printemps_été noir.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/168/Jupe mi-longue évasée en tulle maille asymétrique dégradé, printemps_été noir (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/168/Jupe mi-longue évasée en tulle maille asymétrique dégradé, printemps_été noir (2).webp"
     ]
   },
   {
@@ -7111,14 +7111,14 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/169/Sunnyshic Jupe longue imprimée bohème à cordon de serrage à la taille pour les vacances et le port casual quotidien, printemps_été.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/169/Sunnyshic Jupe longue imprimée bohème à cordon de serrage à la taille pour les vacances et le port casual quotidien, printemps_été.webp",
     "images": [
-      "/vetement_femme/169/Sunnyshic Jupe longue imprimée bohème à cordon de serrage à la taille pour les vacances et le port casual quotidien, printemps_été.webp",
-      "/vetement_femme/169/Sunnyshic Jupe longue imprimée bohème à cordon de serrage à la taille pour les vacances et le port casual quotidien, printemps_été (1).webp",
-      "/vetement_femme/169/Sunnyshic Jupe longue imprimée bohème à cordon de serrage à la taille pour les vacances et le port casual quotidien, printemps_été (2).webp",
-      "/vetement_femme/169/Sunnyshic Jupe longue imprimée bohème à cordon de serrage à la taille pour les vacances et le port casual quotidien, printemps_été (3).webp",
-      "/vetement_femme/169/Sunnyshic Jupe longue imprimée bohème à cordon de serrage à la taille pour les vacances et le port casual quotidien, printemps_été (4).webp",
-      "/vetement_femme/169/Sunnyshic Jupe longue imprimée bohème à cordon de serrage à la taille pour les vacances et le port casual quotidien, printemps_été (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/169/Sunnyshic Jupe longue imprimée bohème à cordon de serrage à la taille pour les vacances et le port casual quotidien, printemps_été.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/169/Sunnyshic Jupe longue imprimée bohème à cordon de serrage à la taille pour les vacances et le port casual quotidien, printemps_été (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/169/Sunnyshic Jupe longue imprimée bohème à cordon de serrage à la taille pour les vacances et le port casual quotidien, printemps_été (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/169/Sunnyshic Jupe longue imprimée bohème à cordon de serrage à la taille pour les vacances et le port casual quotidien, printemps_été (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/169/Sunnyshic Jupe longue imprimée bohème à cordon de serrage à la taille pour les vacances et le port casual quotidien, printemps_été (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/169/Sunnyshic Jupe longue imprimée bohème à cordon de serrage à la taille pour les vacances et le port casual quotidien, printemps_été (5).webp"
     ]
   },
   {
@@ -7153,15 +7153,15 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 10,
-    "image": "/vetement_femme/170/SHEIN Elenzya Élégante jupe longue en mélange de laine à taille haute, fente et boutons de perle. Convient pour le décontracté, les fêtes, l'automne_hiver.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/170/SHEIN Elenzya Élégante jupe longue en mélange de laine à taille haute, fente et boutons de perle. Convient pour le décontracté, les fêtes, l'automne_hiver.webp",
     "images": [
-      "/vetement_femme/170/SHEIN Elenzya Élégante jupe longue en mélange de laine à taille haute, fente et boutons de perle. Convient pour le décontracté, les fêtes, l'automne_hiver.webp",
-      "/vetement_femme/170/SHEIN Elenzya Élégante jupe longue en mélange de laine à taille haute, fente et boutons de perle. Convient pour le décontracté, les fêtes, l'automne_hiver (1).webp",
-      "/vetement_femme/170/SHEIN Elenzya Élégante jupe longue en mélange de laine à taille haute, fente et boutons de perle. Convient pour le décontracté, les fêtes, l'automne_hiver (2).webp",
-      "/vetement_femme/170/SHEIN Elenzya Élégante jupe longue en mélange de laine à taille haute, fente et boutons de perle. Convient pour le décontracté, les fêtes, l'automne_hiver (3).webp",
-      "/vetement_femme/170/SHEIN Elenzya Élégante jupe longue en mélange de laine à taille haute, fente et boutons de perle. Convient pour le décontracté, les fêtes, l'automne_hiver (4).webp",
-      "/vetement_femme/170/SHEIN Elenzya Élégante jupe longue en mélange de laine à taille haute, fente et boutons de perle. Convient pour le décontracté, les fêtes, l'automne_hiver (5).webp",
-      "/vetement_femme/170/SHEIN Elenzya Élégante jupe longue en mélange de laine à taille haute, fente et boutons de perle. Convient pour le décontracté, les fêtes, l'automne_hiver (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/170/SHEIN Elenzya Élégante jupe longue en mélange de laine à taille haute, fente et boutons de perle. Convient pour le décontracté, les fêtes, l'automne_hiver.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/170/SHEIN Elenzya Élégante jupe longue en mélange de laine à taille haute, fente et boutons de perle. Convient pour le décontracté, les fêtes, l'automne_hiver (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/170/SHEIN Elenzya Élégante jupe longue en mélange de laine à taille haute, fente et boutons de perle. Convient pour le décontracté, les fêtes, l'automne_hiver (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/170/SHEIN Elenzya Élégante jupe longue en mélange de laine à taille haute, fente et boutons de perle. Convient pour le décontracté, les fêtes, l'automne_hiver (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/170/SHEIN Elenzya Élégante jupe longue en mélange de laine à taille haute, fente et boutons de perle. Convient pour le décontracté, les fêtes, l'automne_hiver (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/170/SHEIN Elenzya Élégante jupe longue en mélange de laine à taille haute, fente et boutons de perle. Convient pour le décontracté, les fêtes, l'automne_hiver (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/170/SHEIN Elenzya Élégante jupe longue en mélange de laine à taille haute, fente et boutons de perle. Convient pour le décontracté, les fêtes, l'automne_hiver (6).webp"
     ]
   },
   {
@@ -7197,12 +7197,12 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/171/Jupe longue évasée élégante pour femmes, en tissu polyester non extensible avec un motif imprimé 3D bleu et blanc attrayant, créant un style décontracté pour les vacances printanières.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/171/Jupe longue évasée élégante pour femmes, en tissu polyester non extensible avec un motif imprimé 3D bleu et blanc attrayant, créant un style décontracté pour les vacances printanières.webp",
     "images": [
-      "/vetement_femme/171/Jupe longue évasée élégante pour femmes, en tissu polyester non extensible avec un motif imprimé 3D bleu et blanc attrayant, créant un style décontracté pour les vacances printanières.webp",
-      "/vetement_femme/171/Jupe longue évasée élégante pour femmes, en tissu polyester non extensible avec un motif imprimé 3D bleu et blanc attrayant, créant un style décontracté pour les vacances printanières (1).webp",
-      "/vetement_femme/171/Jupe longue évasée élégante pour femmes, en tissu polyester non extensible avec un motif imprimé 3D bleu et blanc attrayant, créant un style décontracté pour les vacances printanières (2).webp",
-      "/vetement_femme/171/Jupe longue évasée élégante pour femmes, en tissu polyester non extensible avec un motif imprimé 3D bleu et blanc attrayant, créant un style décontracté pour les vacances printanières (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/171/Jupe longue évasée élégante pour femmes, en tissu polyester non extensible avec un motif imprimé 3D bleu et blanc attrayant, créant un style décontracté pour les vacances printanières.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/171/Jupe longue évasée élégante pour femmes, en tissu polyester non extensible avec un motif imprimé 3D bleu et blanc attrayant, créant un style décontracté pour les vacances printanières (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/171/Jupe longue évasée élégante pour femmes, en tissu polyester non extensible avec un motif imprimé 3D bleu et blanc attrayant, créant un style décontracté pour les vacances printanières (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/171/Jupe longue évasée élégante pour femmes, en tissu polyester non extensible avec un motif imprimé 3D bleu et blanc attrayant, créant un style décontracté pour les vacances printanières (3).webp"
     ]
   },
   {
@@ -7237,14 +7237,14 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/172/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/172/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances.webp",
     "images": [
-      "/vetement_femme/172/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances.webp",
-      "/vetement_femme/172/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances (1).webp",
-      "/vetement_femme/172/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances (2).webp",
-      "/vetement_femme/172/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances (3).webp",
-      "/vetement_femme/172/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances (4).webp",
-      "/vetement_femme/172/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/172/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/172/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/172/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/172/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/172/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/172/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances (5).webp"
     ]
   },
   {
@@ -7279,15 +7279,15 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/173/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/173/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances.webp",
     "images": [
-      "/vetement_femme/173/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances.webp",
-      "/vetement_femme/173/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances (1).webp",
-      "/vetement_femme/173/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances (2).webp",
-      "/vetement_femme/173/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances (3).webp",
-      "/vetement_femme/173/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances (4).webp",
-      "/vetement_femme/173/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances (5).webp",
-      "/vetement_femme/173/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/173/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/173/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/173/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/173/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/173/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/173/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/173/BamGleam Nouvelle jupe plissée à fleurs de grande taille, style mode décontracté de villégiature, convient pour les voyages, le port quotidien, la rentrée scolaire, les fêtes, les vacances (6).webp"
     ]
   },
   {
@@ -7322,16 +7322,16 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 10,
-    "image": "/vetement_femme/174/SHEIN Lady Jupe ajustée fendue avec ceinture élégante pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/174/SHEIN Lady Jupe ajustée fendue avec ceinture élégante pour femmes.webp",
     "images": [
-      "/vetement_femme/174/SHEIN Lady Jupe ajustée fendue avec ceinture élégante pour femmes.webp",
-      "/vetement_femme/174/SHEIN Lady Jupe ajustée fendue avec ceinture élégante pour femmes (1).webp",
-      "/vetement_femme/174/SHEIN Lady Jupe ajustée fendue avec ceinture élégante pour femmes (2).webp",
-      "/vetement_femme/174/SHEIN Lady Jupe ajustée fendue avec ceinture élégante pour femmes (3).webp",
-      "/vetement_femme/174/SHEIN Lady Jupe ajustée fendue avec ceinture élégante pour femmes (4).webp",
-      "/vetement_femme/174/SHEIN Lady Jupe ajustée fendue avec ceinture élégante pour femmes (5).webp",
-      "/vetement_femme/174/SHEIN Lady Jupe ajustée fendue avec ceinture élégante pour femmes (6).webp",
-      "/vetement_femme/174/SHEIN Lady Jupe ajustée fendue avec ceinture élégante pour femmes (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/174/SHEIN Lady Jupe ajustée fendue avec ceinture élégante pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/174/SHEIN Lady Jupe ajustée fendue avec ceinture élégante pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/174/SHEIN Lady Jupe ajustée fendue avec ceinture élégante pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/174/SHEIN Lady Jupe ajustée fendue avec ceinture élégante pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/174/SHEIN Lady Jupe ajustée fendue avec ceinture élégante pour femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/174/SHEIN Lady Jupe ajustée fendue avec ceinture élégante pour femmes (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/174/SHEIN Lady Jupe ajustée fendue avec ceinture élégante pour femmes (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/174/SHEIN Lady Jupe ajustée fendue avec ceinture élégante pour femmes (7).webp"
     ]
   },
   {
@@ -7368,13 +7368,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 2,
-    "image": "/vetement_femme/175/Coolane Tenues d'été Tenue de concert Tenue de festival Sortie Fête Jupe blanche fendue en maille et dentelle Patchwork Froncé Taille élastique Sexy Vacances tropicales.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/175/Coolane Tenues d'été Tenue de concert Tenue de festival Sortie Fête Jupe blanche fendue en maille et dentelle Patchwork Froncé Taille élastique Sexy Vacances tropicales.webp",
     "images": [
-      "/vetement_femme/175/Coolane Tenues d'été Tenue de concert Tenue de festival Sortie Fête Jupe blanche fendue en maille et dentelle Patchwork Froncé Taille élastique Sexy Vacances tropicales.webp",
-      "/vetement_femme/175/Coolane Tenues d'été Tenue de concert Tenue de festival Sortie Fête Jupe blanche fendue en maille et dentelle Patchwork Froncé Taille élastique Sexy Vacances tropicales (1).webp",
-      "/vetement_femme/175/Coolane Tenues d'été Tenue de concert Tenue de festival Sortie Fête Jupe blanche fendue en maille et dentelle Patchwork Froncé Taille élastique Sexy Vacances tropicales (2).webp",
-      "/vetement_femme/175/Coolane Tenues d'été Tenue de concert Tenue de festival Sortie Fête Jupe blanche fendue en maille et dentelle Patchwork Froncé Taille élastique Sexy Vacances tropicales (3).webp",
-      "/vetement_femme/175/Coolane Tenues d'été Tenue de concert Tenue de festival Sortie Fête Jupe blanche fendue en maille et dentelle Patchwork Froncé Taille élastique Sexy Vacances tropicales (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/175/Coolane Tenues d'été Tenue de concert Tenue de festival Sortie Fête Jupe blanche fendue en maille et dentelle Patchwork Froncé Taille élastique Sexy Vacances tropicales.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/175/Coolane Tenues d'été Tenue de concert Tenue de festival Sortie Fête Jupe blanche fendue en maille et dentelle Patchwork Froncé Taille élastique Sexy Vacances tropicales (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/175/Coolane Tenues d'été Tenue de concert Tenue de festival Sortie Fête Jupe blanche fendue en maille et dentelle Patchwork Froncé Taille élastique Sexy Vacances tropicales (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/175/Coolane Tenues d'été Tenue de concert Tenue de festival Sortie Fête Jupe blanche fendue en maille et dentelle Patchwork Froncé Taille élastique Sexy Vacances tropicales (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/175/Coolane Tenues d'été Tenue de concert Tenue de festival Sortie Fête Jupe blanche fendue en maille et dentelle Patchwork Froncé Taille élastique Sexy Vacances tropicales (4).webp"
     ]
   },
   {
@@ -7409,12 +7409,12 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/176/NostaNoir Jupe longue à cordon de serrage unie et à la mode pour femme.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/176/NostaNoir Jupe longue à cordon de serrage unie et à la mode pour femme.webp",
     "images": [
-      "/vetement_femme/176/NostaNoir Jupe longue à cordon de serrage unie et à la mode pour femme.webp",
-      "/vetement_femme/176/NostaNoir Jupe longue à cordon de serrage unie et à la mode pour femme (1).webp",
-      "/vetement_femme/176/NostaNoir Jupe longue à cordon de serrage unie et à la mode pour femme (2).webp",
-      "/vetement_femme/176/NostaNoir Jupe longue à cordon de serrage unie et à la mode pour femme (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/176/NostaNoir Jupe longue à cordon de serrage unie et à la mode pour femme.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/176/NostaNoir Jupe longue à cordon de serrage unie et à la mode pour femme (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/176/NostaNoir Jupe longue à cordon de serrage unie et à la mode pour femme (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/176/NostaNoir Jupe longue à cordon de serrage unie et à la mode pour femme (3).webp"
     ]
   },
   {
@@ -7449,11 +7449,11 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/177/GlowEve Jupe élégante et à imprimé floral plissé en forme de ligne A pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/177/GlowEve Jupe élégante et à imprimé floral plissé en forme de ligne A pour femmes.webp",
     "images": [
-      "/vetement_femme/177/GlowEve Jupe élégante et à imprimé floral plissé en forme de ligne A pour femmes.webp",
-      "/vetement_femme/177/GlowEve Jupe élégante et à imprimé floral plissé en forme de ligne A pour femmes (1).webp",
-      "/vetement_femme/177/GlowEve Jupe élégante et à imprimé floral plissé en forme de ligne A pour femmes (2).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/177/GlowEve Jupe élégante et à imprimé floral plissé en forme de ligne A pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/177/GlowEve Jupe élégante et à imprimé floral plissé en forme de ligne A pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/177/GlowEve Jupe élégante et à imprimé floral plissé en forme de ligne A pour femmes (2).webp"
     ]
   },
   {
@@ -7488,14 +7488,14 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/178/BamGlimmer Jupe femme ample et irrégulière à la taille cintrée, nouveau design pour le printemps, la Saint-Valentin et le Nouvel An. Style mode, vivant, décontracté, adapté aux voyages, à l'usage quotidien, à la .webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/178/BamGlimmer Jupe femme ample et irrégulière à la taille cintrée, nouveau design pour le printemps, la Saint-Valentin et le Nouvel An. Style mode, vivant, décontracté, adapté aux voyages, à l'usage quotidien, à la .webp",
     "images": [
-      "/vetement_femme/178/BamGlimmer Jupe femme ample et irrégulière à la taille cintrée, nouveau design pour le printemps, la Saint-Valentin et le Nouvel An. Style mode, vivant, décontracté, adapté aux voyages, à l'usage quotidien, à la .webp",
-      "/vetement_femme/178/BamGlimmer Jupe femme ample et irrégulière à la taille cintrée, nouveau design pour le printemps, la Saint-Valentin et le Nouvel An. Style mode, vivant, décontracté, adapté aux voyages, à l'usage quotidien, à (1).webp",
-      "/vetement_femme/178/BamGlimmer Jupe femme ample et irrégulière à la taille cintrée, nouveau design pour le printemps, la Saint-Valentin et le Nouvel An. Style mode, vivant, décontracté, adapté aux voyages, à l'usage quotidien, à (2).webp",
-      "/vetement_femme/178/BamGlimmer Jupe femme ample et irrégulière à la taille cintrée, nouveau design pour le printemps, la Saint-Valentin et le Nouvel An. Style mode, vivant, décontracté, adapté aux voyages, à l'usage quotidien, à (3).webp",
-      "/vetement_femme/178/BamGlimmer Jupe femme ample et irrégulière à la taille cintrée, nouveau design pour le printemps, la Saint-Valentin et le Nouvel An. Style mode, vivant, décontracté, adapté aux voyages, à l'usage quotidien, à (4).webp",
-      "/vetement_femme/178/BamGlimmer Jupe femme ample et irrégulière à la taille cintrée, nouveau design pour le printemps, la Saint-Valentin et le Nouvel An. Style mode, vivant, décontracté, adapté aux voyages, à l'usage quotidien, à (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/178/BamGlimmer Jupe femme ample et irrégulière à la taille cintrée, nouveau design pour le printemps, la Saint-Valentin et le Nouvel An. Style mode, vivant, décontracté, adapté aux voyages, à l'usage quotidien, à la .webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/178/BamGlimmer Jupe femme ample et irrégulière à la taille cintrée, nouveau design pour le printemps, la Saint-Valentin et le Nouvel An. Style mode, vivant, décontracté, adapté aux voyages, à l'usage quotidien, à (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/178/BamGlimmer Jupe femme ample et irrégulière à la taille cintrée, nouveau design pour le printemps, la Saint-Valentin et le Nouvel An. Style mode, vivant, décontracté, adapté aux voyages, à l'usage quotidien, à (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/178/BamGlimmer Jupe femme ample et irrégulière à la taille cintrée, nouveau design pour le printemps, la Saint-Valentin et le Nouvel An. Style mode, vivant, décontracté, adapté aux voyages, à l'usage quotidien, à (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/178/BamGlimmer Jupe femme ample et irrégulière à la taille cintrée, nouveau design pour le printemps, la Saint-Valentin et le Nouvel An. Style mode, vivant, décontracté, adapté aux voyages, à l'usage quotidien, à (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/178/BamGlimmer Jupe femme ample et irrégulière à la taille cintrée, nouveau design pour le printemps, la Saint-Valentin et le Nouvel An. Style mode, vivant, décontracté, adapté aux voyages, à l'usage quotidien, à (5).webp"
     ]
   },
   {
@@ -7531,11 +7531,11 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/179/Jupe élégante à imprimé rose en maille pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/179/Jupe élégante à imprimé rose en maille pour femmes.webp",
     "images": [
-      "/vetement_femme/179/Jupe élégante à imprimé rose en maille pour femmes.webp",
-      "/vetement_femme/179/Jupe élégante à imprimé rose en maille pour femmes (1).webp",
-      "/vetement_femme/179/Jupe élégante à imprimé rose en maille pour femmes (2).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/179/Jupe élégante à imprimé rose en maille pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/179/Jupe élégante à imprimé rose en maille pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/179/Jupe élégante à imprimé rose en maille pour femmes (2).webp"
     ]
   },
   {
@@ -7571,14 +7571,14 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/180/Pantalon large en jean délavé léger pour femmes, avec détails plissés, tissu sans stretch.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/180/Pantalon large en jean délavé léger pour femmes, avec détails plissés, tissu sans stretch.webp",
     "images": [
-      "/vetement_femme/180/Pantalon large en jean délavé léger pour femmes, avec détails plissés, tissu sans stretch.webp",
-      "/vetement_femme/180/Pantalon large en jean délavé léger pour femmes, avec détails plissés, tissu sans stretch (1).webp",
-      "/vetement_femme/180/Pantalon large en jean délavé léger pour femmes, avec détails plissés, tissu sans stretch (2).webp",
-      "/vetement_femme/180/Pantalon large en jean délavé léger pour femmes, avec détails plissés, tissu sans stretch (3).webp",
-      "/vetement_femme/180/Pantalon large en jean délavé léger pour femmes, avec détails plissés, tissu sans stretch (4).webp",
-      "/vetement_femme/180/Pantalon large en jean délavé léger pour femmes, avec détails plissés, tissu sans stretch (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/180/Pantalon large en jean délavé léger pour femmes, avec détails plissés, tissu sans stretch.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/180/Pantalon large en jean délavé léger pour femmes, avec détails plissés, tissu sans stretch (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/180/Pantalon large en jean délavé léger pour femmes, avec détails plissés, tissu sans stretch (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/180/Pantalon large en jean délavé léger pour femmes, avec détails plissés, tissu sans stretch (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/180/Pantalon large en jean délavé léger pour femmes, avec détails plissés, tissu sans stretch (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/180/Pantalon large en jean délavé léger pour femmes, avec détails plissés, tissu sans stretch (5).webp"
     ]
   },
   {
@@ -7614,15 +7614,15 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/181/MYOURSA Jeans évasés pour femmes, taille haute, denim stretch, pantalon élégant, décontracté, pour le travail, les sorties, le style de rue, l'école, la mode, blanc, printemps.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/181/MYOURSA Jeans évasés pour femmes, taille haute, denim stretch, pantalon élégant, décontracté, pour le travail, les sorties, le style de rue, l'école, la mode, blanc, printemps.webp",
     "images": [
-      "/vetement_femme/181/MYOURSA Jeans évasés pour femmes, taille haute, denim stretch, pantalon élégant, décontracté, pour le travail, les sorties, le style de rue, l'école, la mode, blanc, printemps.webp",
-      "/vetement_femme/181/MYOURSA Jeans évasés pour femmes, taille haute, denim stretch, pantalon élégant, décontracté, pour le travail, les sorties, le style de rue, l'école, la mode, blanc, printemps (1).webp",
-      "/vetement_femme/181/MYOURSA Jeans évasés pour femmes, taille haute, denim stretch, pantalon élégant, décontracté, pour le travail, les sorties, le style de rue, l'école, la mode, blanc, printemps (2).webp",
-      "/vetement_femme/181/MYOURSA Jeans évasés pour femmes, taille haute, denim stretch, pantalon élégant, décontracté, pour le travail, les sorties, le style de rue, l'école, la mode, blanc, printemps (3).webp",
-      "/vetement_femme/181/MYOURSA Jeans évasés pour femmes, taille haute, denim stretch, pantalon élégant, décontracté, pour le travail, les sorties, le style de rue, l'école, la mode, blanc, printemps (4).webp",
-      "/vetement_femme/181/MYOURSA Jeans évasés pour femmes, taille haute, denim stretch, pantalon élégant, décontracté, pour le travail, les sorties, le style de rue, l'école, la mode, blanc, printemps (5).webp",
-      "/vetement_femme/181/MYOURSA Jeans évasés pour femmes, taille haute, denim stretch, pantalon élégant, décontracté, pour le travail, les sorties, le style de rue, l'école, la mode, blanc, printemps (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/181/MYOURSA Jeans évasés pour femmes, taille haute, denim stretch, pantalon élégant, décontracté, pour le travail, les sorties, le style de rue, l'école, la mode, blanc, printemps.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/181/MYOURSA Jeans évasés pour femmes, taille haute, denim stretch, pantalon élégant, décontracté, pour le travail, les sorties, le style de rue, l'école, la mode, blanc, printemps (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/181/MYOURSA Jeans évasés pour femmes, taille haute, denim stretch, pantalon élégant, décontracté, pour le travail, les sorties, le style de rue, l'école, la mode, blanc, printemps (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/181/MYOURSA Jeans évasés pour femmes, taille haute, denim stretch, pantalon élégant, décontracté, pour le travail, les sorties, le style de rue, l'école, la mode, blanc, printemps (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/181/MYOURSA Jeans évasés pour femmes, taille haute, denim stretch, pantalon élégant, décontracté, pour le travail, les sorties, le style de rue, l'école, la mode, blanc, printemps (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/181/MYOURSA Jeans évasés pour femmes, taille haute, denim stretch, pantalon élégant, décontracté, pour le travail, les sorties, le style de rue, l'école, la mode, blanc, printemps (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/181/MYOURSA Jeans évasés pour femmes, taille haute, denim stretch, pantalon élégant, décontracté, pour le travail, les sorties, le style de rue, l'école, la mode, blanc, printemps (6).webp"
     ]
   },
   {
@@ -7659,14 +7659,14 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/182/Jeans droits à jambes larges, lavés vintage avec broderie florale bleue. casual pour le printemps_été.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/182/Jeans droits à jambes larges, lavés vintage avec broderie florale bleue. casual pour le printemps_été.webp",
     "images": [
-      "/vetement_femme/182/Jeans droits à jambes larges, lavés vintage avec broderie florale bleue. casual pour le printemps_été.webp",
-      "/vetement_femme/182/Jeans droits à jambes larges, lavés vintage avec broderie florale bleue. casual pour le printemps_été (1).webp",
-      "/vetement_femme/182/Jeans droits à jambes larges, lavés vintage avec broderie florale bleue. casual pour le printemps_été (2).webp",
-      "/vetement_femme/182/Jeans droits à jambes larges, lavés vintage avec broderie florale bleue. casual pour le printemps_été (3).webp",
-      "/vetement_femme/182/Jeans droits à jambes larges, lavés vintage avec broderie florale bleue. casual pour le printemps_été (4).webp",
-      "/vetement_femme/182/Jeans droits à jambes larges, lavés vintage avec broderie florale bleue. casual pour le printemps_été (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/182/Jeans droits à jambes larges, lavés vintage avec broderie florale bleue. casual pour le printemps_été.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/182/Jeans droits à jambes larges, lavés vintage avec broderie florale bleue. casual pour le printemps_été (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/182/Jeans droits à jambes larges, lavés vintage avec broderie florale bleue. casual pour le printemps_été (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/182/Jeans droits à jambes larges, lavés vintage avec broderie florale bleue. casual pour le printemps_été (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/182/Jeans droits à jambes larges, lavés vintage avec broderie florale bleue. casual pour le printemps_été (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/182/Jeans droits à jambes larges, lavés vintage avec broderie florale bleue. casual pour le printemps_été (5).webp"
     ]
   },
   {
@@ -7702,14 +7702,14 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/183/SHEIN EZwear Jeans cargo d'été pour femmes avec fermeture éclair et poches rabattantes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/183/SHEIN EZwear Jeans cargo d'été pour femmes avec fermeture éclair et poches rabattantes.webp",
     "images": [
-      "/vetement_femme/183/SHEIN EZwear Jeans cargo d'été pour femmes avec fermeture éclair et poches rabattantes.webp",
-      "/vetement_femme/183/SHEIN EZwear Jeans cargo d'été pour femmes avec fermeture éclair et poches rabattantes (1).webp",
-      "/vetement_femme/183/SHEIN EZwear Jeans cargo d'été pour femmes avec fermeture éclair et poches rabattantes (2).webp",
-      "/vetement_femme/183/SHEIN EZwear Jeans cargo d'été pour femmes avec fermeture éclair et poches rabattantes (3).webp",
-      "/vetement_femme/183/SHEIN EZwear Jeans cargo d'été pour femmes avec fermeture éclair et poches rabattantes (4).webp",
-      "/vetement_femme/183/SHEIN EZwear Jeans cargo d'été pour femmes avec fermeture éclair et poches rabattantes (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/183/SHEIN EZwear Jeans cargo d'été pour femmes avec fermeture éclair et poches rabattantes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/183/SHEIN EZwear Jeans cargo d'été pour femmes avec fermeture éclair et poches rabattantes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/183/SHEIN EZwear Jeans cargo d'été pour femmes avec fermeture éclair et poches rabattantes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/183/SHEIN EZwear Jeans cargo d'été pour femmes avec fermeture éclair et poches rabattantes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/183/SHEIN EZwear Jeans cargo d'été pour femmes avec fermeture éclair et poches rabattantes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/183/SHEIN EZwear Jeans cargo d'été pour femmes avec fermeture éclair et poches rabattantes (5).webp"
     ]
   },
   {
@@ -7745,12 +7745,12 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/184/Jeans évasés en denim pour femmes avec décorations de strass étoilés, style décontracté pour le printemps.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/184/Jeans évasés en denim pour femmes avec décorations de strass étoilés, style décontracté pour le printemps.webp",
     "images": [
-      "/vetement_femme/184/Jeans évasés en denim pour femmes avec décorations de strass étoilés, style décontracté pour le printemps.webp",
-      "/vetement_femme/184/Jeans évasés en denim pour femmes avec décorations de strass étoilés, style décontracté pour le printemps (1).webp",
-      "/vetement_femme/184/Jeans évasés en denim pour femmes avec décorations de strass étoilés, style décontracté pour le printemps (2).webp",
-      "/vetement_femme/184/Jeans évasés en denim pour femmes avec décorations de strass étoilés, style décontracté pour le printemps (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/184/Jeans évasés en denim pour femmes avec décorations de strass étoilés, style décontracté pour le printemps.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/184/Jeans évasés en denim pour femmes avec décorations de strass étoilés, style décontracté pour le printemps (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/184/Jeans évasés en denim pour femmes avec décorations de strass étoilés, style décontracté pour le printemps (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/184/Jeans évasés en denim pour femmes avec décorations de strass étoilés, style décontracté pour le printemps (3).webp"
     ]
   },
   {
@@ -7786,14 +7786,14 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/185/SHEIN Tall Jeans casual skinny avec poches pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/185/SHEIN Tall Jeans casual skinny avec poches pour femmes.webp",
     "images": [
-      "/vetement_femme/185/SHEIN Tall Jeans casual skinny avec poches pour femmes.webp",
-      "/vetement_femme/185/SHEIN Tall Jeans casual skinny avec poches pour femmes (1).webp",
-      "/vetement_femme/185/SHEIN Tall Jeans casual skinny avec poches pour femmes (2).webp",
-      "/vetement_femme/185/SHEIN Tall Jeans casual skinny avec poches pour femmes (3).webp",
-      "/vetement_femme/185/SHEIN Tall Jeans casual skinny avec poches pour femmes (4).webp",
-      "/vetement_femme/185/SHEIN Tall Jeans casual skinny avec poches pour femmes (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/185/SHEIN Tall Jeans casual skinny avec poches pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/185/SHEIN Tall Jeans casual skinny avec poches pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/185/SHEIN Tall Jeans casual skinny avec poches pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/185/SHEIN Tall Jeans casual skinny avec poches pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/185/SHEIN Tall Jeans casual skinny avec poches pour femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/185/SHEIN Tall Jeans casual skinny avec poches pour femmes (5).webp"
     ]
   },
   {
@@ -7829,13 +7829,13 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/186/NVFelix 2026 Nouveaux jeans droits sexy à taille haute pour femmes, tissu extensible, lavage délavé, style élégant Y2K streetwear, convient pour le printemps et l'été décontracté.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/186/NVFelix 2026 Nouveaux jeans droits sexy à taille haute pour femmes, tissu extensible, lavage délavé, style élégant Y2K streetwear, convient pour le printemps et l'été décontracté.webp",
     "images": [
-      "/vetement_femme/186/NVFelix 2026 Nouveaux jeans droits sexy à taille haute pour femmes, tissu extensible, lavage délavé, style élégant Y2K streetwear, convient pour le printemps et l'été décontracté.webp",
-      "/vetement_femme/186/NVFelix 2026 Nouveaux jeans droits sexy à taille haute pour femmes, tissu extensible, lavage délavé, style élégant Y2K streetwear, convient pour le printemps et l'été décontracté (1).webp",
-      "/vetement_femme/186/NVFelix 2026 Nouveaux jeans droits sexy à taille haute pour femmes, tissu extensible, lavage délavé, style élégant Y2K streetwear, convient pour le printemps et l'été décontracté (2).webp",
-      "/vetement_femme/186/NVFelix 2026 Nouveaux jeans droits sexy à taille haute pour femmes, tissu extensible, lavage délavé, style élégant Y2K streetwear, convient pour le printemps et l'été décontracté (3).webp",
-      "/vetement_femme/186/NVFelix 2026 Nouveaux jeans droits sexy à taille haute pour femmes, tissu extensible, lavage délavé, style élégant Y2K streetwear, convient pour le printemps et l'été décontracté (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/186/NVFelix 2026 Nouveaux jeans droits sexy à taille haute pour femmes, tissu extensible, lavage délavé, style élégant Y2K streetwear, convient pour le printemps et l'été décontracté.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/186/NVFelix 2026 Nouveaux jeans droits sexy à taille haute pour femmes, tissu extensible, lavage délavé, style élégant Y2K streetwear, convient pour le printemps et l'été décontracté (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/186/NVFelix 2026 Nouveaux jeans droits sexy à taille haute pour femmes, tissu extensible, lavage délavé, style élégant Y2K streetwear, convient pour le printemps et l'été décontracté (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/186/NVFelix 2026 Nouveaux jeans droits sexy à taille haute pour femmes, tissu extensible, lavage délavé, style élégant Y2K streetwear, convient pour le printemps et l'été décontracté (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/186/NVFelix 2026 Nouveaux jeans droits sexy à taille haute pour femmes, tissu extensible, lavage délavé, style élégant Y2K streetwear, convient pour le printemps et l'été décontracté (4).webp"
     ]
   },
   {
@@ -7871,14 +7871,14 @@ export const vetement_femme = [
       "46"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/187/EURMUSE Jeans évasés taille haute 98%25 coton.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/187/EURMUSE Jeans évasés taille haute 98%25 coton.webp",
     "images": [
-      "/vetement_femme/187/EURMUSE Jeans évasés taille haute 98%25 coton.webp",
-      "/vetement_femme/187/EURMUSE Jeans évasés taille haute 98%25 coton (1).webp",
-      "/vetement_femme/187/EURMUSE Jeans évasés taille haute 98%25 coton (2).webp",
-      "/vetement_femme/187/EURMUSE Jeans évasés taille haute 98%25 coton (3).webp",
-      "/vetement_femme/187/EURMUSE Jeans évasés taille haute 98%25 coton (4).webp",
-      "/vetement_femme/187/EURMUSE Jeans évasés taille haute 98%25 coton (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/187/EURMUSE Jeans évasés taille haute 98%25 coton.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/187/EURMUSE Jeans évasés taille haute 98%25 coton (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/187/EURMUSE Jeans évasés taille haute 98%25 coton (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/187/EURMUSE Jeans évasés taille haute 98%25 coton (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/187/EURMUSE Jeans évasés taille haute 98%25 coton (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/187/EURMUSE Jeans évasés taille haute 98%25 coton (5).webp"
     ]
   },
   {
@@ -7913,14 +7913,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 10,
-    "image": "/vetement_femme/188/Elenzga Blouse rayée élégante de style français chic décontractée de vacances pour femmes avec décor de bouton et ourlet fendu, manches sans manche, col en V.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/188/Elenzga Blouse rayée élégante de style français chic décontractée de vacances pour femmes avec décor de bouton et ourlet fendu, manches sans manche, col en V.webp",
     "images": [
-      "/vetement_femme/188/Elenzga Blouse rayée élégante de style français chic décontractée de vacances pour femmes avec décor de bouton et ourlet fendu, manches sans manche, col en V.webp",
-      "/vetement_femme/188/Elenzga Blouse rayée élégante de style français chic décontractée de vacances pour femmes avec décor de bouton et ourlet fendu, manches sans manche, col en V (1).webp",
-      "/vetement_femme/188/Elenzga Blouse rayée élégante de style français chic décontractée de vacances pour femmes avec décor de bouton et ourlet fendu, manches sans manche, col en V (2).webp",
-      "/vetement_femme/188/Elenzga Blouse rayée élégante de style français chic décontractée de vacances pour femmes avec décor de bouton et ourlet fendu, manches sans manche, col en V (3).webp",
-      "/vetement_femme/188/Elenzga Blouse rayée élégante de style français chic décontractée de vacances pour femmes avec décor de bouton et ourlet fendu, manches sans manche, col en V (4).webp",
-      "/vetement_femme/188/Elenzga Blouse rayée élégante de style français chic décontractée de vacances pour femmes avec décor de bouton et ourlet fendu, manches sans manche, col en V (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/188/Elenzga Blouse rayée élégante de style français chic décontractée de vacances pour femmes avec décor de bouton et ourlet fendu, manches sans manche, col en V.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/188/Elenzga Blouse rayée élégante de style français chic décontractée de vacances pour femmes avec décor de bouton et ourlet fendu, manches sans manche, col en V (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/188/Elenzga Blouse rayée élégante de style français chic décontractée de vacances pour femmes avec décor de bouton et ourlet fendu, manches sans manche, col en V (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/188/Elenzga Blouse rayée élégante de style français chic décontractée de vacances pour femmes avec décor de bouton et ourlet fendu, manches sans manche, col en V (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/188/Elenzga Blouse rayée élégante de style français chic décontractée de vacances pour femmes avec décor de bouton et ourlet fendu, manches sans manche, col en V (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/188/Elenzga Blouse rayée élégante de style français chic décontractée de vacances pour femmes avec décor de bouton et ourlet fendu, manches sans manche, col en V (5).webp"
     ]
   },
   {
@@ -7956,13 +7956,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/189/Elenzga Tee-shirt à manches courtes pour femmes avec col asymétrique élégant, décoré de boutons dorés 3D en forme de rose.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/189/Elenzga Tee-shirt à manches courtes pour femmes avec col asymétrique élégant, décoré de boutons dorés 3D en forme de rose.webp",
     "images": [
-      "/vetement_femme/189/Elenzga Tee-shirt à manches courtes pour femmes avec col asymétrique élégant, décoré de boutons dorés 3D en forme de rose.webp",
-      "/vetement_femme/189/Elenzga Tee-shirt à manches courtes pour femmes avec col asymétrique élégant, décoré de boutons dorés 3D en forme de rose (1).webp",
-      "/vetement_femme/189/Elenzga Tee-shirt à manches courtes pour femmes avec col asymétrique élégant, décoré de boutons dorés 3D en forme de rose (2).webp",
-      "/vetement_femme/189/Elenzga Tee-shirt à manches courtes pour femmes avec col asymétrique élégant, décoré de boutons dorés 3D en forme de rose (3).webp",
-      "/vetement_femme/189/Elenzga Tee-shirt à manches courtes pour femmes avec col asymétrique élégant, décoré de boutons dorés 3D en forme de rose (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/189/Elenzga Tee-shirt à manches courtes pour femmes avec col asymétrique élégant, décoré de boutons dorés 3D en forme de rose.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/189/Elenzga Tee-shirt à manches courtes pour femmes avec col asymétrique élégant, décoré de boutons dorés 3D en forme de rose (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/189/Elenzga Tee-shirt à manches courtes pour femmes avec col asymétrique élégant, décoré de boutons dorés 3D en forme de rose (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/189/Elenzga Tee-shirt à manches courtes pour femmes avec col asymétrique élégant, décoré de boutons dorés 3D en forme de rose (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/189/Elenzga Tee-shirt à manches courtes pour femmes avec col asymétrique élégant, décoré de boutons dorés 3D en forme de rose (4).webp"
     ]
   },
   {
@@ -7997,13 +7997,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/190/Chiquease T-shirt à manches courtes plissées avec encolure droite.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/190/Chiquease T-shirt à manches courtes plissées avec encolure droite.webp",
     "images": [
-      "/vetement_femme/190/Chiquease T-shirt à manches courtes plissées avec encolure droite.webp",
-      "/vetement_femme/190/Chiquease T-shirt à manches courtes plissées avec encolure droite (1).webp",
-      "/vetement_femme/190/Chiquease T-shirt à manches courtes plissées avec encolure droite (2).webp",
-      "/vetement_femme/190/Chiquease T-shirt à manches courtes plissées avec encolure droite (3).webp",
-      "/vetement_femme/190/Chiquease T-shirt à manches courtes plissées avec encolure droite (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/190/Chiquease T-shirt à manches courtes plissées avec encolure droite.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/190/Chiquease T-shirt à manches courtes plissées avec encolure droite (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/190/Chiquease T-shirt à manches courtes plissées avec encolure droite (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/190/Chiquease T-shirt à manches courtes plissées avec encolure droite (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/190/Chiquease T-shirt à manches courtes plissées avec encolure droite (4).webp"
     ]
   },
   {
@@ -8037,14 +8037,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/191/Elenzga Débardeur femme à encolure drapée, froncé et dos nu, nouvelle arrivée printemps_été 2026.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/191/Elenzga Débardeur femme à encolure drapée, froncé et dos nu, nouvelle arrivée printemps_été 2026.webp",
     "images": [
-      "/vetement_femme/191/Elenzga Débardeur femme à encolure drapée, froncé et dos nu, nouvelle arrivée printemps_été 2026.webp",
-      "/vetement_femme/191/Elenzga Débardeur femme à encolure drapée, froncé et dos nu, nouvelle arrivée printemps_été 2026 (1).webp",
-      "/vetement_femme/191/Elenzga Débardeur femme à encolure drapée, froncé et dos nu, nouvelle arrivée printemps_été 2026 (2).webp",
-      "/vetement_femme/191/Elenzga Débardeur femme à encolure drapée, froncé et dos nu, nouvelle arrivée printemps_été 2026 (3).webp",
-      "/vetement_femme/191/Elenzga Débardeur femme à encolure drapée, froncé et dos nu, nouvelle arrivée printemps_été 2026 (4).webp",
-      "/vetement_femme/191/Elenzga Débardeur femme à encolure drapée, froncé et dos nu, nouvelle arrivée printemps_été 2026 (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/191/Elenzga Débardeur femme à encolure drapée, froncé et dos nu, nouvelle arrivée printemps_été 2026.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/191/Elenzga Débardeur femme à encolure drapée, froncé et dos nu, nouvelle arrivée printemps_été 2026 (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/191/Elenzga Débardeur femme à encolure drapée, froncé et dos nu, nouvelle arrivée printemps_été 2026 (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/191/Elenzga Débardeur femme à encolure drapée, froncé et dos nu, nouvelle arrivée printemps_été 2026 (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/191/Elenzga Débardeur femme à encolure drapée, froncé et dos nu, nouvelle arrivée printemps_été 2026 (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/191/Elenzga Débardeur femme à encolure drapée, froncé et dos nu, nouvelle arrivée printemps_été 2026 (5).webp"
     ]
   },
   {
@@ -8078,13 +8078,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/192/SHEIN Frenchy Top casual sans manches à rayures et col en V pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/192/SHEIN Frenchy Top casual sans manches à rayures et col en V pour femmes.webp",
     "images": [
-      "/vetement_femme/192/SHEIN Frenchy Top casual sans manches à rayures et col en V pour femmes.webp",
-      "/vetement_femme/192/SHEIN Frenchy Top casual sans manches à rayures et col en V pour femmes (1).webp",
-      "/vetement_femme/192/SHEIN Frenchy Top casual sans manches à rayures et col en V pour femmes (2).webp",
-      "/vetement_femme/192/SHEIN Frenchy Top casual sans manches à rayures et col en V pour femmes (3).webp",
-      "/vetement_femme/192/SHEIN Frenchy Top casual sans manches à rayures et col en V pour femmes (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/192/SHEIN Frenchy Top casual sans manches à rayures et col en V pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/192/SHEIN Frenchy Top casual sans manches à rayures et col en V pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/192/SHEIN Frenchy Top casual sans manches à rayures et col en V pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/192/SHEIN Frenchy Top casual sans manches à rayures et col en V pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/192/SHEIN Frenchy Top casual sans manches à rayures et col en V pour femmes (4).webp"
     ]
   },
   {
@@ -8119,14 +8119,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/193/Elenzga Nouvelle arrivée d'automne pour femmes Blouse à manches longues avec épaule oblique froncée.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/193/Elenzga Nouvelle arrivée d'automne pour femmes Blouse à manches longues avec épaule oblique froncée.webp",
     "images": [
-      "/vetement_femme/193/Elenzga Nouvelle arrivée d'automne pour femmes Blouse à manches longues avec épaule oblique froncée.webp",
-      "/vetement_femme/193/Elenzga Nouvelle arrivée d'automne pour femmes Blouse à manches longues avec épaule oblique froncée (1).webp",
-      "/vetement_femme/193/Elenzga Nouvelle arrivée d'automne pour femmes Blouse à manches longues avec épaule oblique froncée (2).webp",
-      "/vetement_femme/193/Elenzga Nouvelle arrivée d'automne pour femmes Blouse à manches longues avec épaule oblique froncée (3).webp",
-      "/vetement_femme/193/Elenzga Nouvelle arrivée d'automne pour femmes Blouse à manches longues avec épaule oblique froncée (4).webp",
-      "/vetement_femme/193/Elenzga Nouvelle arrivée d'automne pour femmes Blouse à manches longues avec épaule oblique froncée (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/193/Elenzga Nouvelle arrivée d'automne pour femmes Blouse à manches longues avec épaule oblique froncée.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/193/Elenzga Nouvelle arrivée d'automne pour femmes Blouse à manches longues avec épaule oblique froncée (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/193/Elenzga Nouvelle arrivée d'automne pour femmes Blouse à manches longues avec épaule oblique froncée (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/193/Elenzga Nouvelle arrivée d'automne pour femmes Blouse à manches longues avec épaule oblique froncée (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/193/Elenzga Nouvelle arrivée d'automne pour femmes Blouse à manches longues avec épaule oblique froncée (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/193/Elenzga Nouvelle arrivée d'automne pour femmes Blouse à manches longues avec épaule oblique froncée (5).webp"
     ]
   },
   {
@@ -8161,14 +8161,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 10,
-    "image": "/vetement_femme/194/Elenzga Chemise décontractée de navetteur à taille serrée par cordon autour de la taille.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/194/Elenzga Chemise décontractée de navetteur à taille serrée par cordon autour de la taille.webp",
     "images": [
-      "/vetement_femme/194/Elenzga Chemise décontractée de navetteur à taille serrée par cordon autour de la taille.webp",
-      "/vetement_femme/194/Elenzga Chemise décontractée de navetteur à taille serrée par cordon autour de la taille (1).webp",
-      "/vetement_femme/194/Elenzga Chemise décontractée de navetteur à taille serrée par cordon autour de la taille (2).webp",
-      "/vetement_femme/194/Elenzga Chemise décontractée de navetteur à taille serrée par cordon autour de la taille (3).webp",
-      "/vetement_femme/194/Elenzga Chemise décontractée de navetteur à taille serrée par cordon autour de la taille (4).webp",
-      "/vetement_femme/194/Elenzga Chemise décontractée de navetteur à taille serrée par cordon autour de la taille (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/194/Elenzga Chemise décontractée de navetteur à taille serrée par cordon autour de la taille.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/194/Elenzga Chemise décontractée de navetteur à taille serrée par cordon autour de la taille (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/194/Elenzga Chemise décontractée de navetteur à taille serrée par cordon autour de la taille (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/194/Elenzga Chemise décontractée de navetteur à taille serrée par cordon autour de la taille (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/194/Elenzga Chemise décontractée de navetteur à taille serrée par cordon autour de la taille (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/194/Elenzga Chemise décontractée de navetteur à taille serrée par cordon autour de la taille (5).webp"
     ]
   },
   {
@@ -8203,13 +8203,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/195/Rafferiza T-shirt ajusté à manches courtes avec épaules dénudées pour femmes, décontracté, pour les déplacements et l'été.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/195/Rafferiza T-shirt ajusté à manches courtes avec épaules dénudées pour femmes, décontracté, pour les déplacements et l'été.webp",
     "images": [
-      "/vetement_femme/195/Rafferiza T-shirt ajusté à manches courtes avec épaules dénudées pour femmes, décontracté, pour les déplacements et l'été.webp",
-      "/vetement_femme/195/Rafferiza T-shirt ajusté à manches courtes avec épaules dénudées pour femmes, décontracté, pour les déplacements et l'été (1).webp",
-      "/vetement_femme/195/Rafferiza T-shirt ajusté à manches courtes avec épaules dénudées pour femmes, décontracté, pour les déplacements et l'été (2).webp",
-      "/vetement_femme/195/Rafferiza T-shirt ajusté à manches courtes avec épaules dénudées pour femmes, décontracté, pour les déplacements et l'été (3).webp",
-      "/vetement_femme/195/Rafferiza T-shirt ajusté à manches courtes avec épaules dénudées pour femmes, décontracté, pour les déplacements et l'été (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/195/Rafferiza T-shirt ajusté à manches courtes avec épaules dénudées pour femmes, décontracté, pour les déplacements et l'été.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/195/Rafferiza T-shirt ajusté à manches courtes avec épaules dénudées pour femmes, décontracté, pour les déplacements et l'été (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/195/Rafferiza T-shirt ajusté à manches courtes avec épaules dénudées pour femmes, décontracté, pour les déplacements et l'été (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/195/Rafferiza T-shirt ajusté à manches courtes avec épaules dénudées pour femmes, décontracté, pour les déplacements et l'été (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/195/Rafferiza T-shirt ajusté à manches courtes avec épaules dénudées pour femmes, décontracté, pour les déplacements et l'été (4).webp"
     ]
   },
   {
@@ -8244,15 +8244,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/196/SHEIN Elenzya Femmes Mode Élégante Sportive Polo Chemise à Manches Courtes Ajustée Col V Demi-Zip Motif Cheval Brodé blocs de couleurs.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/196/SHEIN Elenzya Femmes Mode Élégante Sportive Polo Chemise à Manches Courtes Ajustée Col V Demi-Zip Motif Cheval Brodé blocs de couleurs.webp",
     "images": [
-      "/vetement_femme/196/SHEIN Elenzya Femmes Mode Élégante Sportive Polo Chemise à Manches Courtes Ajustée Col V Demi-Zip Motif Cheval Brodé blocs de couleurs.webp",
-      "/vetement_femme/196/SHEIN Elenzya Femmes Mode Élégante Sportive Polo Chemise à Manches Courtes Ajustée Col V Demi-Zip Motif Cheval Brodé blocs de couleurs (1).webp",
-      "/vetement_femme/196/SHEIN Elenzya Femmes Mode Élégante Sportive Polo Chemise à Manches Courtes Ajustée Col V Demi-Zip Motif Cheval Brodé blocs de couleurs (2).webp",
-      "/vetement_femme/196/SHEIN Elenzya Femmes Mode Élégante Sportive Polo Chemise à Manches Courtes Ajustée Col V Demi-Zip Motif Cheval Brodé blocs de couleurs (3).webp",
-      "/vetement_femme/196/SHEIN Elenzya Femmes Mode Élégante Sportive Polo Chemise à Manches Courtes Ajustée Col V Demi-Zip Motif Cheval Brodé blocs de couleurs (4).webp",
-      "/vetement_femme/196/SHEIN Elenzya Femmes Mode Élégante Sportive Polo Chemise à Manches Courtes Ajustée Col V Demi-Zip Motif Cheval Brodé blocs de couleurs (5).webp",
-      "/vetement_femme/196/SHEIN Elenzya Femmes Mode Élégante Sportive Polo Chemise à Manches Courtes Ajustée Col V Demi-Zip Motif Cheval Brodé blocs de couleurs (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/196/SHEIN Elenzya Femmes Mode Élégante Sportive Polo Chemise à Manches Courtes Ajustée Col V Demi-Zip Motif Cheval Brodé blocs de couleurs.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/196/SHEIN Elenzya Femmes Mode Élégante Sportive Polo Chemise à Manches Courtes Ajustée Col V Demi-Zip Motif Cheval Brodé blocs de couleurs (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/196/SHEIN Elenzya Femmes Mode Élégante Sportive Polo Chemise à Manches Courtes Ajustée Col V Demi-Zip Motif Cheval Brodé blocs de couleurs (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/196/SHEIN Elenzya Femmes Mode Élégante Sportive Polo Chemise à Manches Courtes Ajustée Col V Demi-Zip Motif Cheval Brodé blocs de couleurs (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/196/SHEIN Elenzya Femmes Mode Élégante Sportive Polo Chemise à Manches Courtes Ajustée Col V Demi-Zip Motif Cheval Brodé blocs de couleurs (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/196/SHEIN Elenzya Femmes Mode Élégante Sportive Polo Chemise à Manches Courtes Ajustée Col V Demi-Zip Motif Cheval Brodé blocs de couleurs (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/196/SHEIN Elenzya Femmes Mode Élégante Sportive Polo Chemise à Manches Courtes Ajustée Col V Demi-Zip Motif Cheval Brodé blocs de couleurs (6).webp"
     ]
   },
   {
@@ -8288,14 +8288,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 12,
-    "image": "/vetement_femme/197/Elenzga Élégant T-shirt décontracté avec col drapé à volants et manches, convient pour le printemps_été, les vacances, les sorties, couleur rose mode pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/197/Elenzga Élégant T-shirt décontracté avec col drapé à volants et manches, convient pour le printemps_été, les vacances, les sorties, couleur rose mode pour femmes.webp",
     "images": [
-      "/vetement_femme/197/Elenzga Élégant T-shirt décontracté avec col drapé à volants et manches, convient pour le printemps_été, les vacances, les sorties, couleur rose mode pour femmes.webp",
-      "/vetement_femme/197/Elenzga Élégant T-shirt décontracté avec col drapé à volants et manches, convient pour le printemps_été, les vacances, les sorties, couleur rose mode pour femmes (1).webp",
-      "/vetement_femme/197/Elenzga Élégant T-shirt décontracté avec col drapé à volants et manches, convient pour le printemps_été, les vacances, les sorties, couleur rose mode pour femmes (2).webp",
-      "/vetement_femme/197/Elenzga Élégant T-shirt décontracté avec col drapé à volants et manches, convient pour le printemps_été, les vacances, les sorties, couleur rose mode pour femmes (3).webp",
-      "/vetement_femme/197/Elenzga Élégant T-shirt décontracté avec col drapé à volants et manches, convient pour le printemps_été, les vacances, les sorties, couleur rose mode pour femmes (4).webp",
-      "/vetement_femme/197/Elenzga Élégant T-shirt décontracté avec col drapé à volants et manches, convient pour le printemps_été, les vacances, les sorties, couleur rose mode pour femmes (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/197/Elenzga Élégant T-shirt décontracté avec col drapé à volants et manches, convient pour le printemps_été, les vacances, les sorties, couleur rose mode pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/197/Elenzga Élégant T-shirt décontracté avec col drapé à volants et manches, convient pour le printemps_été, les vacances, les sorties, couleur rose mode pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/197/Elenzga Élégant T-shirt décontracté avec col drapé à volants et manches, convient pour le printemps_été, les vacances, les sorties, couleur rose mode pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/197/Elenzga Élégant T-shirt décontracté avec col drapé à volants et manches, convient pour le printemps_été, les vacances, les sorties, couleur rose mode pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/197/Elenzga Élégant T-shirt décontracté avec col drapé à volants et manches, convient pour le printemps_été, les vacances, les sorties, couleur rose mode pour femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/197/Elenzga Élégant T-shirt décontracté avec col drapé à volants et manches, convient pour le printemps_été, les vacances, les sorties, couleur rose mode pour femmes (5).webp"
     ]
   },
   {
@@ -8330,14 +8330,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/198/Elenzga T-shirt sexy à imprimé floral pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/198/Elenzga T-shirt sexy à imprimé floral pour femmes.webp",
     "images": [
-      "/vetement_femme/198/Elenzga T-shirt sexy à imprimé floral pour femmes.webp",
-      "/vetement_femme/198/Elenzga T-shirt sexy à imprimé floral pour femmes (1).webp",
-      "/vetement_femme/198/Elenzga T-shirt sexy à imprimé floral pour femmes (2).webp",
-      "/vetement_femme/198/Elenzga T-shirt sexy à imprimé floral pour femmes (3).webp",
-      "/vetement_femme/198/Elenzga T-shirt sexy à imprimé floral pour femmes (4).webp",
-      "/vetement_femme/198/Elenzga T-shirt sexy à imprimé floral pour femmes (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/198/Elenzga T-shirt sexy à imprimé floral pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/198/Elenzga T-shirt sexy à imprimé floral pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/198/Elenzga T-shirt sexy à imprimé floral pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/198/Elenzga T-shirt sexy à imprimé floral pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/198/Elenzga T-shirt sexy à imprimé floral pour femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/198/Elenzga T-shirt sexy à imprimé floral pour femmes (5).webp"
     ]
   },
   {
@@ -8372,14 +8372,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/199/Elenzga Chemise élégante de tous les jours Col chemise Décoration de perle noir et blanc Ajusté T-shirt femme.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/199/Elenzga Chemise élégante de tous les jours Col chemise Décoration de perle noir et blanc Ajusté T-shirt femme.webp",
     "images": [
-      "/vetement_femme/199/Elenzga Chemise élégante de tous les jours Col chemise Décoration de perle noir et blanc Ajusté T-shirt femme.webp",
-      "/vetement_femme/199/Elenzga Chemise élégante de tous les jours Col chemise Décoration de perle noir et blanc Ajusté T-shirt femme (1).webp",
-      "/vetement_femme/199/Elenzga Chemise élégante de tous les jours Col chemise Décoration de perle noir et blanc Ajusté T-shirt femme (2).webp",
-      "/vetement_femme/199/Elenzga Chemise élégante de tous les jours Col chemise Décoration de perle noir et blanc Ajusté T-shirt femme (3).webp",
-      "/vetement_femme/199/Elenzga Chemise élégante de tous les jours Col chemise Décoration de perle noir et blanc Ajusté T-shirt femme (4).webp",
-      "/vetement_femme/199/Elenzga Chemise élégante de tous les jours Col chemise Décoration de perle noir et blanc Ajusté T-shirt femme (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/199/Elenzga Chemise élégante de tous les jours Col chemise Décoration de perle noir et blanc Ajusté T-shirt femme.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/199/Elenzga Chemise élégante de tous les jours Col chemise Décoration de perle noir et blanc Ajusté T-shirt femme (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/199/Elenzga Chemise élégante de tous les jours Col chemise Décoration de perle noir et blanc Ajusté T-shirt femme (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/199/Elenzga Chemise élégante de tous les jours Col chemise Décoration de perle noir et blanc Ajusté T-shirt femme (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/199/Elenzga Chemise élégante de tous les jours Col chemise Décoration de perle noir et blanc Ajusté T-shirt femme (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/199/Elenzga Chemise élégante de tous les jours Col chemise Décoration de perle noir et blanc Ajusté T-shirt femme (5).webp"
     ]
   },
   {
@@ -8414,15 +8414,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/200/Elenzga Nouveau T-shirt décontracté et élégant pour femmes avec imprimé floral, manches évasées en maille transparente et nœud papillon à l'avant, pour l'automne.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/200/Elenzga Nouveau T-shirt décontracté et élégant pour femmes avec imprimé floral, manches évasées en maille transparente et nœud papillon à l'avant, pour l'automne.webp",
     "images": [
-      "/vetement_femme/200/Elenzga Nouveau T-shirt décontracté et élégant pour femmes avec imprimé floral, manches évasées en maille transparente et nœud papillon à l'avant, pour l'automne.webp",
-      "/vetement_femme/200/Elenzga Nouveau T-shirt décontracté et élégant pour femmes avec imprimé floral, manches évasées en maille transparente et nœud papillon à l'avant, pour l'automne (1).webp",
-      "/vetement_femme/200/Elenzga Nouveau T-shirt décontracté et élégant pour femmes avec imprimé floral, manches évasées en maille transparente et nœud papillon à l'avant, pour l'automne (2).webp",
-      "/vetement_femme/200/Elenzga Nouveau T-shirt décontracté et élégant pour femmes avec imprimé floral, manches évasées en maille transparente et nœud papillon à l'avant, pour l'automne (3).webp",
-      "/vetement_femme/200/Elenzga Nouveau T-shirt décontracté et élégant pour femmes avec imprimé floral, manches évasées en maille transparente et nœud papillon à l'avant, pour l'automne (4).webp",
-      "/vetement_femme/200/Elenzga Nouveau T-shirt décontracté et élégant pour femmes avec imprimé floral, manches évasées en maille transparente et nœud papillon à l'avant, pour l'automne (5).webp",
-      "/vetement_femme/200/Elenzga Nouveau T-shirt décontracté et élégant pour femmes avec imprimé floral, manches évasées en maille transparente et nœud papillon à l'avant, pour l'automne (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/200/Elenzga Nouveau T-shirt décontracté et élégant pour femmes avec imprimé floral, manches évasées en maille transparente et nœud papillon à l'avant, pour l'automne.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/200/Elenzga Nouveau T-shirt décontracté et élégant pour femmes avec imprimé floral, manches évasées en maille transparente et nœud papillon à l'avant, pour l'automne (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/200/Elenzga Nouveau T-shirt décontracté et élégant pour femmes avec imprimé floral, manches évasées en maille transparente et nœud papillon à l'avant, pour l'automne (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/200/Elenzga Nouveau T-shirt décontracté et élégant pour femmes avec imprimé floral, manches évasées en maille transparente et nœud papillon à l'avant, pour l'automne (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/200/Elenzga Nouveau T-shirt décontracté et élégant pour femmes avec imprimé floral, manches évasées en maille transparente et nœud papillon à l'avant, pour l'automne (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/200/Elenzga Nouveau T-shirt décontracté et élégant pour femmes avec imprimé floral, manches évasées en maille transparente et nœud papillon à l'avant, pour l'automne (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/200/Elenzga Nouveau T-shirt décontracté et élégant pour femmes avec imprimé floral, manches évasées en maille transparente et nœud papillon à l'avant, pour l'automne (6).webp"
     ]
   },
   {
@@ -8457,14 +8457,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/201/Selianne Nouveau T-shirt à manches longues plissé avec col oblique côtelé brossé de couleur unie pour l'automne_hiver, top casual slim fit.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/201/Selianne Nouveau T-shirt à manches longues plissé avec col oblique côtelé brossé de couleur unie pour l'automne_hiver, top casual slim fit.webp",
     "images": [
-      "/vetement_femme/201/Selianne Nouveau T-shirt à manches longues plissé avec col oblique côtelé brossé de couleur unie pour l'automne_hiver, top casual slim fit.webp",
-      "/vetement_femme/201/Selianne Nouveau T-shirt à manches longues plissé avec col oblique côtelé brossé de couleur unie pour l'automne_hiver, top casual slim fit (1).webp",
-      "/vetement_femme/201/Selianne Nouveau T-shirt à manches longues plissé avec col oblique côtelé brossé de couleur unie pour l'automne_hiver, top casual slim fit (2).webp",
-      "/vetement_femme/201/Selianne Nouveau T-shirt à manches longues plissé avec col oblique côtelé brossé de couleur unie pour l'automne_hiver, top casual slim fit (3).webp",
-      "/vetement_femme/201/Selianne Nouveau T-shirt à manches longues plissé avec col oblique côtelé brossé de couleur unie pour l'automne_hiver, top casual slim fit (4).webp",
-      "/vetement_femme/201/Selianne Nouveau T-shirt à manches longues plissé avec col oblique côtelé brossé de couleur unie pour l'automne_hiver, top casual slim fit (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/201/Selianne Nouveau T-shirt à manches longues plissé avec col oblique côtelé brossé de couleur unie pour l'automne_hiver, top casual slim fit.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/201/Selianne Nouveau T-shirt à manches longues plissé avec col oblique côtelé brossé de couleur unie pour l'automne_hiver, top casual slim fit (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/201/Selianne Nouveau T-shirt à manches longues plissé avec col oblique côtelé brossé de couleur unie pour l'automne_hiver, top casual slim fit (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/201/Selianne Nouveau T-shirt à manches longues plissé avec col oblique côtelé brossé de couleur unie pour l'automne_hiver, top casual slim fit (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/201/Selianne Nouveau T-shirt à manches longues plissé avec col oblique côtelé brossé de couleur unie pour l'automne_hiver, top casual slim fit (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/201/Selianne Nouveau T-shirt à manches longues plissé avec col oblique côtelé brossé de couleur unie pour l'automne_hiver, top casual slim fit (5).webp"
     ]
   },
   {
@@ -8499,14 +8499,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 10,
-    "image": "/vetement_femme/202/Elenzga Chemise décontractée élégante de style français pour femme à imprimé floral col en V, manches bouffantes, taille ajustée et évasée, convient pour le trajet, le quotidien, les vacances, le thé de l'après-m.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/202/Elenzga Chemise décontractée élégante de style français pour femme à imprimé floral col en V, manches bouffantes, taille ajustée et évasée, convient pour le trajet, le quotidien, les vacances, le thé de l'après-m.webp",
     "images": [
-      "/vetement_femme/202/Elenzga Chemise décontractée élégante de style français pour femme à imprimé floral col en V, manches bouffantes, taille ajustée et évasée, convient pour le trajet, le quotidien, les vacances, le thé de l'après-m.webp",
-      "/vetement_femme/202/Elenzga Chemise décontractée élégante de style français pour femme à imprimé floral col en V, manches bouffantes, taille ajustée et évasée, convient pour le trajet, le quotidien, les vacances, le thé de l'apr (1).webp",
-      "/vetement_femme/202/Elenzga Chemise décontractée élégante de style français pour femme à imprimé floral col en V, manches bouffantes, taille ajustée et évasée, convient pour le trajet, le quotidien, les vacances, le thé de l'apr (2).webp",
-      "/vetement_femme/202/Elenzga Chemise décontractée élégante de style français pour femme à imprimé floral col en V, manches bouffantes, taille ajustée et évasée, convient pour le trajet, le quotidien, les vacances, le thé de l'apr (3).webp",
-      "/vetement_femme/202/Elenzga Chemise décontractée élégante de style français pour femme à imprimé floral col en V, manches bouffantes, taille ajustée et évasée, convient pour le trajet, le quotidien, les vacances, le thé de l'apr (4).webp",
-      "/vetement_femme/202/Elenzga Chemise décontractée élégante de style français pour femme à imprimé floral col en V, manches bouffantes, taille ajustée et évasée, convient pour le trajet, le quotidien, les vacances, le thé de l'apr (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/202/Elenzga Chemise décontractée élégante de style français pour femme à imprimé floral col en V, manches bouffantes, taille ajustée et évasée, convient pour le trajet, le quotidien, les vacances, le thé de l'après-m.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/202/Elenzga Chemise décontractée élégante de style français pour femme à imprimé floral col en V, manches bouffantes, taille ajustée et évasée, convient pour le trajet, le quotidien, les vacances, le thé de l'apr (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/202/Elenzga Chemise décontractée élégante de style français pour femme à imprimé floral col en V, manches bouffantes, taille ajustée et évasée, convient pour le trajet, le quotidien, les vacances, le thé de l'apr (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/202/Elenzga Chemise décontractée élégante de style français pour femme à imprimé floral col en V, manches bouffantes, taille ajustée et évasée, convient pour le trajet, le quotidien, les vacances, le thé de l'apr (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/202/Elenzga Chemise décontractée élégante de style français pour femme à imprimé floral col en V, manches bouffantes, taille ajustée et évasée, convient pour le trajet, le quotidien, les vacances, le thé de l'apr (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/202/Elenzga Chemise décontractée élégante de style français pour femme à imprimé floral col en V, manches bouffantes, taille ajustée et évasée, convient pour le trajet, le quotidien, les vacances, le thé de l'apr (5).webp"
     ]
   },
   {
@@ -8540,13 +8540,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/203/GlowEve Chemisier casual simple à manches courtes et boutons devant, couleur unie, port quotidien pour femme.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/203/GlowEve Chemisier casual simple à manches courtes et boutons devant, couleur unie, port quotidien pour femme.webp",
     "images": [
-      "/vetement_femme/203/GlowEve Chemisier casual simple à manches courtes et boutons devant, couleur unie, port quotidien pour femme.webp",
-      "/vetement_femme/203/GlowEve Chemisier casual simple à manches courtes et boutons devant, couleur unie, port quotidien pour femme (1).webp",
-      "/vetement_femme/203/GlowEve Chemisier casual simple à manches courtes et boutons devant, couleur unie, port quotidien pour femme (2).webp",
-      "/vetement_femme/203/GlowEve Chemisier casual simple à manches courtes et boutons devant, couleur unie, port quotidien pour femme (3).webp",
-      "/vetement_femme/203/GlowEve Chemisier casual simple à manches courtes et boutons devant, couleur unie, port quotidien pour femme (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/203/GlowEve Chemisier casual simple à manches courtes et boutons devant, couleur unie, port quotidien pour femme.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/203/GlowEve Chemisier casual simple à manches courtes et boutons devant, couleur unie, port quotidien pour femme (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/203/GlowEve Chemisier casual simple à manches courtes et boutons devant, couleur unie, port quotidien pour femme (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/203/GlowEve Chemisier casual simple à manches courtes et boutons devant, couleur unie, port quotidien pour femme (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/203/GlowEve Chemisier casual simple à manches courtes et boutons devant, couleur unie, port quotidien pour femme (4).webp"
     ]
   },
   {
@@ -8581,12 +8581,12 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/204/Elenzga T-shirt mode femme épaules dénudées de couleur unie.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/204/Elenzga T-shirt mode femme épaules dénudées de couleur unie.webp",
     "images": [
-      "/vetement_femme/204/Elenzga T-shirt mode femme épaules dénudées de couleur unie.webp",
-      "/vetement_femme/204/Elenzga T-shirt mode femme épaules dénudées de couleur unie (1).webp",
-      "/vetement_femme/204/Elenzga T-shirt mode femme épaules dénudées de couleur unie (2).webp",
-      "/vetement_femme/204/Elenzga T-shirt mode femme épaules dénudées de couleur unie (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/204/Elenzga T-shirt mode femme épaules dénudées de couleur unie.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/204/Elenzga T-shirt mode femme épaules dénudées de couleur unie (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/204/Elenzga T-shirt mode femme épaules dénudées de couleur unie (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/204/Elenzga T-shirt mode femme épaules dénudées de couleur unie (3).webp"
     ]
   },
   {
@@ -8621,13 +8621,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/205/Elenzga T-shirt manches longues élégant pour femmes, col V, ajusté, avec décoration métallique, couleur unie.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/205/Elenzga T-shirt manches longues élégant pour femmes, col V, ajusté, avec décoration métallique, couleur unie.webp",
     "images": [
-      "/vetement_femme/205/Elenzga T-shirt manches longues élégant pour femmes, col V, ajusté, avec décoration métallique, couleur unie.webp",
-      "/vetement_femme/205/Elenzga T-shirt manches longues élégant pour femmes, col V, ajusté, avec décoration métallique, couleur unie (1).webp",
-      "/vetement_femme/205/Elenzga T-shirt manches longues élégant pour femmes, col V, ajusté, avec décoration métallique, couleur unie (2).webp",
-      "/vetement_femme/205/Elenzga T-shirt manches longues élégant pour femmes, col V, ajusté, avec décoration métallique, couleur unie (3).webp",
-      "/vetement_femme/205/Elenzga T-shirt manches longues élégant pour femmes, col V, ajusté, avec décoration métallique, couleur unie (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/205/Elenzga T-shirt manches longues élégant pour femmes, col V, ajusté, avec décoration métallique, couleur unie.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/205/Elenzga T-shirt manches longues élégant pour femmes, col V, ajusté, avec décoration métallique, couleur unie (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/205/Elenzga T-shirt manches longues élégant pour femmes, col V, ajusté, avec décoration métallique, couleur unie (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/205/Elenzga T-shirt manches longues élégant pour femmes, col V, ajusté, avec décoration métallique, couleur unie (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/205/Elenzga T-shirt manches longues élégant pour femmes, col V, ajusté, avec décoration métallique, couleur unie (4).webp"
     ]
   },
   {
@@ -8662,14 +8662,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 11,
-    "image": "/vetement_femme/206/Elenzga T-shirt manches courtes pour femmes à design asymétrique et blocs de couleurs rétro.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/206/Elenzga T-shirt manches courtes pour femmes à design asymétrique et blocs de couleurs rétro.webp",
     "images": [
-      "/vetement_femme/206/Elenzga T-shirt manches courtes pour femmes à design asymétrique et blocs de couleurs rétro.webp",
-      "/vetement_femme/206/Elenzga T-shirt manches courtes pour femmes à design asymétrique et blocs de couleurs rétro (1).webp",
-      "/vetement_femme/206/Elenzga T-shirt manches courtes pour femmes à design asymétrique et blocs de couleurs rétro (2).webp",
-      "/vetement_femme/206/Elenzga T-shirt manches courtes pour femmes à design asymétrique et blocs de couleurs rétro (3).webp",
-      "/vetement_femme/206/Elenzga T-shirt manches courtes pour femmes à design asymétrique et blocs de couleurs rétro (4).webp",
-      "/vetement_femme/206/Elenzga T-shirt manches courtes pour femmes à design asymétrique et blocs de couleurs rétro (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/206/Elenzga T-shirt manches courtes pour femmes à design asymétrique et blocs de couleurs rétro.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/206/Elenzga T-shirt manches courtes pour femmes à design asymétrique et blocs de couleurs rétro (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/206/Elenzga T-shirt manches courtes pour femmes à design asymétrique et blocs de couleurs rétro (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/206/Elenzga T-shirt manches courtes pour femmes à design asymétrique et blocs de couleurs rétro (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/206/Elenzga T-shirt manches courtes pour femmes à design asymétrique et blocs de couleurs rétro (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/206/Elenzga T-shirt manches courtes pour femmes à design asymétrique et blocs de couleurs rétro (5).webp"
     ]
   },
   {
@@ -8704,13 +8704,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/207/SHEIN Frenchy T-shirt tricoté avec col contrasté, texture côtelée en tissu matelassé.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/207/SHEIN Frenchy T-shirt tricoté avec col contrasté, texture côtelée en tissu matelassé.webp",
     "images": [
-      "/vetement_femme/207/SHEIN Frenchy T-shirt tricoté avec col contrasté, texture côtelée en tissu matelassé.webp",
-      "/vetement_femme/207/SHEIN Frenchy T-shirt tricoté avec col contrasté, texture côtelée en tissu matelassé (1).webp",
-      "/vetement_femme/207/SHEIN Frenchy T-shirt tricoté avec col contrasté, texture côtelée en tissu matelassé (2).webp",
-      "/vetement_femme/207/SHEIN Frenchy T-shirt tricoté avec col contrasté, texture côtelée en tissu matelassé (3).webp",
-      "/vetement_femme/207/SHEIN Frenchy T-shirt tricoté avec col contrasté, texture côtelée en tissu matelassé (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/207/SHEIN Frenchy T-shirt tricoté avec col contrasté, texture côtelée en tissu matelassé.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/207/SHEIN Frenchy T-shirt tricoté avec col contrasté, texture côtelée en tissu matelassé (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/207/SHEIN Frenchy T-shirt tricoté avec col contrasté, texture côtelée en tissu matelassé (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/207/SHEIN Frenchy T-shirt tricoté avec col contrasté, texture côtelée en tissu matelassé (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/207/SHEIN Frenchy T-shirt tricoté avec col contrasté, texture côtelée en tissu matelassé (4).webp"
     ]
   },
   {
@@ -8745,12 +8745,12 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/208/SHEIN EZwear T-shirt à manches courtes ample à col rond minimaliste décontracté avec impression numérique 23 et lettre anglaise de course. Convient pour les sorties, le style de rue, chic.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/208/SHEIN EZwear T-shirt à manches courtes ample à col rond minimaliste décontracté avec impression numérique 23 et lettre anglaise de course. Convient pour les sorties, le style de rue, chic.webp",
     "images": [
-      "/vetement_femme/208/SHEIN EZwear T-shirt à manches courtes ample à col rond minimaliste décontracté avec impression numérique 23 et lettre anglaise de course. Convient pour les sorties, le style de rue, chic.webp",
-      "/vetement_femme/208/SHEIN EZwear T-shirt à manches courtes ample à col rond minimaliste décontracté avec impression numérique 23 et lettre anglaise de course. Convient pour les sorties, le style de rue, chic (1).webp",
-      "/vetement_femme/208/SHEIN EZwear T-shirt à manches courtes ample à col rond minimaliste décontracté avec impression numérique 23 et lettre anglaise de course. Convient pour les sorties, le style de rue, chic (2).webp",
-      "/vetement_femme/208/SHEIN EZwear T-shirt à manches courtes ample à col rond minimaliste décontracté avec impression numérique 23 et lettre anglaise de course. Convient pour les sorties, le style de rue, chic (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/208/SHEIN EZwear T-shirt à manches courtes ample à col rond minimaliste décontracté avec impression numérique 23 et lettre anglaise de course. Convient pour les sorties, le style de rue, chic.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/208/SHEIN EZwear T-shirt à manches courtes ample à col rond minimaliste décontracté avec impression numérique 23 et lettre anglaise de course. Convient pour les sorties, le style de rue, chic (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/208/SHEIN EZwear T-shirt à manches courtes ample à col rond minimaliste décontracté avec impression numérique 23 et lettre anglaise de course. Convient pour les sorties, le style de rue, chic (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/208/SHEIN EZwear T-shirt à manches courtes ample à col rond minimaliste décontracté avec impression numérique 23 et lettre anglaise de course. Convient pour les sorties, le style de rue, chic (3).webp"
     ]
   },
   {
@@ -8785,14 +8785,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/209/Ellegaria. Chemise décontractée à manches longues, épaules tombantes, coupe ample, de couleur unie, à poches, pour femmes. Top à manches longues pour le printemps_été.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/209/Ellegaria. Chemise décontractée à manches longues, épaules tombantes, coupe ample, de couleur unie, à poches, pour femmes. Top à manches longues pour le printemps_été.webp",
     "images": [
-      "/vetement_femme/209/Ellegaria. Chemise décontractée à manches longues, épaules tombantes, coupe ample, de couleur unie, à poches, pour femmes. Top à manches longues pour le printemps_été.webp",
-      "/vetement_femme/209/Ellegaria. Chemise décontractée à manches longues, épaules tombantes, coupe ample, de couleur unie, à poches, pour femmes. Top à manches longues pour le printemps_été (1).webp",
-      "/vetement_femme/209/Ellegaria. Chemise décontractée à manches longues, épaules tombantes, coupe ample, de couleur unie, à poches, pour femmes. Top à manches longues pour le printemps_été (2).webp",
-      "/vetement_femme/209/Ellegaria. Chemise décontractée à manches longues, épaules tombantes, coupe ample, de couleur unie, à poches, pour femmes. Top à manches longues pour le printemps_été (3).webp",
-      "/vetement_femme/209/Ellegaria. Chemise décontractée à manches longues, épaules tombantes, coupe ample, de couleur unie, à poches, pour femmes. Top à manches longues pour le printemps_été (4).webp",
-      "/vetement_femme/209/Ellegaria. Chemise décontractée à manches longues, épaules tombantes, coupe ample, de couleur unie, à poches, pour femmes. Top à manches longues pour le printemps_été (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/209/Ellegaria. Chemise décontractée à manches longues, épaules tombantes, coupe ample, de couleur unie, à poches, pour femmes. Top à manches longues pour le printemps_été.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/209/Ellegaria. Chemise décontractée à manches longues, épaules tombantes, coupe ample, de couleur unie, à poches, pour femmes. Top à manches longues pour le printemps_été (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/209/Ellegaria. Chemise décontractée à manches longues, épaules tombantes, coupe ample, de couleur unie, à poches, pour femmes. Top à manches longues pour le printemps_été (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/209/Ellegaria. Chemise décontractée à manches longues, épaules tombantes, coupe ample, de couleur unie, à poches, pour femmes. Top à manches longues pour le printemps_été (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/209/Ellegaria. Chemise décontractée à manches longues, épaules tombantes, coupe ample, de couleur unie, à poches, pour femmes. Top à manches longues pour le printemps_été (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/209/Ellegaria. Chemise décontractée à manches longues, épaules tombantes, coupe ample, de couleur unie, à poches, pour femmes. Top à manches longues pour le printemps_été (5).webp"
     ]
   },
   {
@@ -8827,12 +8827,12 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/210/Franclia Chemise à manches longues rayée classique, motif délicat brodé, coupe ample et confortable.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/210/Franclia Chemise à manches longues rayée classique, motif délicat brodé, coupe ample et confortable.webp",
     "images": [
-      "/vetement_femme/210/Franclia Chemise à manches longues rayée classique, motif délicat brodé, coupe ample et confortable.webp",
-      "/vetement_femme/210/Franclia Chemise à manches longues rayée classique, motif délicat brodé, coupe ample et confortable (1).webp",
-      "/vetement_femme/210/Franclia Chemise à manches longues rayée classique, motif délicat brodé, coupe ample et confortable (2).webp",
-      "/vetement_femme/210/Franclia Chemise à manches longues rayée classique, motif délicat brodé, coupe ample et confortable (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/210/Franclia Chemise à manches longues rayée classique, motif délicat brodé, coupe ample et confortable.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/210/Franclia Chemise à manches longues rayée classique, motif délicat brodé, coupe ample et confortable (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/210/Franclia Chemise à manches longues rayée classique, motif délicat brodé, coupe ample et confortable (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/210/Franclia Chemise à manches longues rayée classique, motif délicat brodé, coupe ample et confortable (3).webp"
     ]
   },
   {
@@ -8868,14 +8868,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/211/Elenzga Nouvelle blouse élégante à manches courtes style rétro pour femmes, style français printemps_été, col carré à volants, manches bouffantes, taille cintrée, motif floral violet de haute qualité, convient po.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/211/Elenzga Nouvelle blouse élégante à manches courtes style rétro pour femmes, style français printemps_été, col carré à volants, manches bouffantes, taille cintrée, motif floral violet de haute qualité, convient po.webp",
     "images": [
-      "/vetement_femme/211/Elenzga Nouvelle blouse élégante à manches courtes style rétro pour femmes, style français printemps_été, col carré à volants, manches bouffantes, taille cintrée, motif floral violet de haute qualité, convient po.webp",
-      "/vetement_femme/211/Elenzga Nouvelle blouse élégante à manches courtes style rétro pour femmes, style français printemps_été, col carré à volants, manches bouffantes, taille cintrée, motif floral violet de haute qualité, convien (1).webp",
-      "/vetement_femme/211/Elenzga Nouvelle blouse élégante à manches courtes style rétro pour femmes, style français printemps_été, col carré à volants, manches bouffantes, taille cintrée, motif floral violet de haute qualité, convien (2).webp",
-      "/vetement_femme/211/Elenzga Nouvelle blouse élégante à manches courtes style rétro pour femmes, style français printemps_été, col carré à volants, manches bouffantes, taille cintrée, motif floral violet de haute qualité, convien (3).webp",
-      "/vetement_femme/211/Elenzga Nouvelle blouse élégante à manches courtes style rétro pour femmes, style français printemps_été, col carré à volants, manches bouffantes, taille cintrée, motif floral violet de haute qualité, convien (4).webp",
-      "/vetement_femme/211/Elenzga Nouvelle blouse élégante à manches courtes style rétro pour femmes, style français printemps_été, col carré à volants, manches bouffantes, taille cintrée, motif floral violet de haute qualité, convien (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/211/Elenzga Nouvelle blouse élégante à manches courtes style rétro pour femmes, style français printemps_été, col carré à volants, manches bouffantes, taille cintrée, motif floral violet de haute qualité, convient po.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/211/Elenzga Nouvelle blouse élégante à manches courtes style rétro pour femmes, style français printemps_été, col carré à volants, manches bouffantes, taille cintrée, motif floral violet de haute qualité, convien (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/211/Elenzga Nouvelle blouse élégante à manches courtes style rétro pour femmes, style français printemps_été, col carré à volants, manches bouffantes, taille cintrée, motif floral violet de haute qualité, convien (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/211/Elenzga Nouvelle blouse élégante à manches courtes style rétro pour femmes, style français printemps_été, col carré à volants, manches bouffantes, taille cintrée, motif floral violet de haute qualité, convien (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/211/Elenzga Nouvelle blouse élégante à manches courtes style rétro pour femmes, style français printemps_été, col carré à volants, manches bouffantes, taille cintrée, motif floral violet de haute qualité, convien (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/211/Elenzga Nouvelle blouse élégante à manches courtes style rétro pour femmes, style français printemps_été, col carré à volants, manches bouffantes, taille cintrée, motif floral violet de haute qualité, convien (5).webp"
     ]
   },
   {
@@ -8910,11 +8910,11 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/212/Top moulant à manches longues en tricot sexy pour femmes Vaiaye, T-shirt col V de couleur unie, convient pour le port décontracté au printemps, idéal pour la Saint-Valentin.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/212/Top moulant à manches longues en tricot sexy pour femmes Vaiaye, T-shirt col V de couleur unie, convient pour le port décontracté au printemps, idéal pour la Saint-Valentin.webp",
     "images": [
-      "/vetement_femme/212/Top moulant à manches longues en tricot sexy pour femmes Vaiaye, T-shirt col V de couleur unie, convient pour le port décontracté au printemps, idéal pour la Saint-Valentin.webp",
-      "/vetement_femme/212/Top moulant à manches longues en tricot sexy pour femmes Vaiaye, T-shirt col V de couleur unie, convient pour le port décontracté au printemps, idéal pour la Saint-Valentin (1).webp",
-      "/vetement_femme/212/Top moulant à manches longues en tricot sexy pour femmes Vaiaye, T-shirt col V de couleur unie, convient pour le port décontracté au printemps, idéal pour la Saint-Valentin (2).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/212/Top moulant à manches longues en tricot sexy pour femmes Vaiaye, T-shirt col V de couleur unie, convient pour le port décontracté au printemps, idéal pour la Saint-Valentin.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/212/Top moulant à manches longues en tricot sexy pour femmes Vaiaye, T-shirt col V de couleur unie, convient pour le port décontracté au printemps, idéal pour la Saint-Valentin (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/212/Top moulant à manches longues en tricot sexy pour femmes Vaiaye, T-shirt col V de couleur unie, convient pour le port décontracté au printemps, idéal pour la Saint-Valentin (2).webp"
     ]
   },
   {
@@ -8948,12 +8948,12 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/213/Elenzga Top sans manches à encolure style licou blanc avec patchwork en dentelle pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/213/Elenzga Top sans manches à encolure style licou blanc avec patchwork en dentelle pour femmes.webp",
     "images": [
-      "/vetement_femme/213/Elenzga Top sans manches à encolure style licou blanc avec patchwork en dentelle pour femmes.webp",
-      "/vetement_femme/213/Elenzga Top sans manches à encolure style licou blanc avec patchwork en dentelle pour femmes (1).webp",
-      "/vetement_femme/213/Elenzga Top sans manches à encolure style licou blanc avec patchwork en dentelle pour femmes (2).webp",
-      "/vetement_femme/213/Elenzga Top sans manches à encolure style licou blanc avec patchwork en dentelle pour femmes (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/213/Elenzga Top sans manches à encolure style licou blanc avec patchwork en dentelle pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/213/Elenzga Top sans manches à encolure style licou blanc avec patchwork en dentelle pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/213/Elenzga Top sans manches à encolure style licou blanc avec patchwork en dentelle pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/213/Elenzga Top sans manches à encolure style licou blanc avec patchwork en dentelle pour femmes (3).webp"
     ]
   },
   {
@@ -8988,12 +8988,12 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/214/SHEIN EZwear Blouse 2 en 1 à col contrasté en tricot torsadé avec patchwork tissé à l'aiguille.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/214/SHEIN EZwear Blouse 2 en 1 à col contrasté en tricot torsadé avec patchwork tissé à l'aiguille.webp",
     "images": [
-      "/vetement_femme/214/SHEIN EZwear Blouse 2 en 1 à col contrasté en tricot torsadé avec patchwork tissé à l'aiguille.webp",
-      "/vetement_femme/214/SHEIN EZwear Blouse 2 en 1 à col contrasté en tricot torsadé avec patchwork tissé à l'aiguille (1).webp",
-      "/vetement_femme/214/SHEIN EZwear Blouse 2 en 1 à col contrasté en tricot torsadé avec patchwork tissé à l'aiguille (2).webp",
-      "/vetement_femme/214/SHEIN EZwear Blouse 2 en 1 à col contrasté en tricot torsadé avec patchwork tissé à l'aiguille (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/214/SHEIN EZwear Blouse 2 en 1 à col contrasté en tricot torsadé avec patchwork tissé à l'aiguille.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/214/SHEIN EZwear Blouse 2 en 1 à col contrasté en tricot torsadé avec patchwork tissé à l'aiguille (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/214/SHEIN EZwear Blouse 2 en 1 à col contrasté en tricot torsadé avec patchwork tissé à l'aiguille (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/214/SHEIN EZwear Blouse 2 en 1 à col contrasté en tricot torsadé avec patchwork tissé à l'aiguille (3).webp"
     ]
   },
   {
@@ -9029,14 +9029,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/215/SHEIN MOD 2 pièces T-shirts à manches évasées asymétriques marron et noirs.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/215/SHEIN MOD 2 pièces T-shirts à manches évasées asymétriques marron et noirs.webp",
     "images": [
-      "/vetement_femme/215/SHEIN MOD 2 pièces T-shirts à manches évasées asymétriques marron et noirs.webp",
-      "/vetement_femme/215/SHEIN MOD 2 pièces T-shirts à manches évasées asymétriques marron et noirs (1).webp",
-      "/vetement_femme/215/SHEIN MOD 2 pièces T-shirts à manches évasées asymétriques marron et noirs (2).webp",
-      "/vetement_femme/215/SHEIN MOD 2 pièces T-shirts à manches évasées asymétriques marron et noirs (3).webp",
-      "/vetement_femme/215/SHEIN MOD 2 pièces T-shirts à manches évasées asymétriques marron et noirs (4).webp",
-      "/vetement_femme/215/SHEIN MOD 2 pièces T-shirts à manches évasées asymétriques marron et noirs (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/215/SHEIN MOD 2 pièces T-shirts à manches évasées asymétriques marron et noirs.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/215/SHEIN MOD 2 pièces T-shirts à manches évasées asymétriques marron et noirs (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/215/SHEIN MOD 2 pièces T-shirts à manches évasées asymétriques marron et noirs (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/215/SHEIN MOD 2 pièces T-shirts à manches évasées asymétriques marron et noirs (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/215/SHEIN MOD 2 pièces T-shirts à manches évasées asymétriques marron et noirs (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/215/SHEIN MOD 2 pièces T-shirts à manches évasées asymétriques marron et noirs (5).webp"
     ]
   },
   {
@@ -9071,13 +9071,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 10,
-    "image": "/vetement_femme/216/SHEIN MOD Blouse élégante et romantique à nouer devant, T-shirt mignon pour femmes, printemps_été, Top de pirate, costume de princesse pour femmes, hauts de sortie, hauts de fête, plage, mariage, parfait pour les.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/216/SHEIN MOD Blouse élégante et romantique à nouer devant, T-shirt mignon pour femmes, printemps_été, Top de pirate, costume de princesse pour femmes, hauts de sortie, hauts de fête, plage, mariage, parfait pour les.webp",
     "images": [
-      "/vetement_femme/216/SHEIN MOD Blouse élégante et romantique à nouer devant, T-shirt mignon pour femmes, printemps_été, Top de pirate, costume de princesse pour femmes, hauts de sortie, hauts de fête, plage, mariage, parfait pour les.webp",
-      "/vetement_femme/216/SHEIN MOD Blouse élégante et romantique à nouer devant, T-shirt mignon pour femmes, printemps_été, Top de pirate, costume de princesse pour femmes, hauts de sortie, hauts de fête, plage, mariage, parfait pour (1).webp",
-      "/vetement_femme/216/SHEIN MOD Blouse élégante et romantique à nouer devant, T-shirt mignon pour femmes, printemps_été, Top de pirate, costume de princesse pour femmes, hauts de sortie, hauts de fête, plage, mariage, parfait pour (2).webp",
-      "/vetement_femme/216/SHEIN MOD Blouse élégante et romantique à nouer devant, T-shirt mignon pour femmes, printemps_été, Top de pirate, costume de princesse pour femmes, hauts de sortie, hauts de fête, plage, mariage, parfait pour (3).webp",
-      "/vetement_femme/216/SHEIN MOD Blouse élégante et romantique à nouer devant, T-shirt mignon pour femmes, printemps_été, Top de pirate, costume de princesse pour femmes, hauts de sortie, hauts de fête, plage, mariage, parfait pour (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/216/SHEIN MOD Blouse élégante et romantique à nouer devant, T-shirt mignon pour femmes, printemps_été, Top de pirate, costume de princesse pour femmes, hauts de sortie, hauts de fête, plage, mariage, parfait pour les.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/216/SHEIN MOD Blouse élégante et romantique à nouer devant, T-shirt mignon pour femmes, printemps_été, Top de pirate, costume de princesse pour femmes, hauts de sortie, hauts de fête, plage, mariage, parfait pour (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/216/SHEIN MOD Blouse élégante et romantique à nouer devant, T-shirt mignon pour femmes, printemps_été, Top de pirate, costume de princesse pour femmes, hauts de sortie, hauts de fête, plage, mariage, parfait pour (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/216/SHEIN MOD Blouse élégante et romantique à nouer devant, T-shirt mignon pour femmes, printemps_été, Top de pirate, costume de princesse pour femmes, hauts de sortie, hauts de fête, plage, mariage, parfait pour (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/216/SHEIN MOD Blouse élégante et romantique à nouer devant, T-shirt mignon pour femmes, printemps_été, Top de pirate, costume de princesse pour femmes, hauts de sortie, hauts de fête, plage, mariage, parfait pour (4).webp"
     ]
   },
   {
@@ -9112,14 +9112,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/217/SHEIN LUNE Chemise à manches longues ajustée et boutonnée sexy à la mode pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/217/SHEIN LUNE Chemise à manches longues ajustée et boutonnée sexy à la mode pour femmes.webp",
     "images": [
-      "/vetement_femme/217/SHEIN LUNE Chemise à manches longues ajustée et boutonnée sexy à la mode pour femmes.webp",
-      "/vetement_femme/217/SHEIN LUNE Chemise à manches longues ajustée et boutonnée sexy à la mode pour femmes (1).webp",
-      "/vetement_femme/217/SHEIN LUNE Chemise à manches longues ajustée et boutonnée sexy à la mode pour femmes (2).webp",
-      "/vetement_femme/217/SHEIN LUNE Chemise à manches longues ajustée et boutonnée sexy à la mode pour femmes (3).webp",
-      "/vetement_femme/217/SHEIN LUNE Chemise à manches longues ajustée et boutonnée sexy à la mode pour femmes (4).webp",
-      "/vetement_femme/217/SHEIN LUNE Chemise à manches longues ajustée et boutonnée sexy à la mode pour femmes (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/217/SHEIN LUNE Chemise à manches longues ajustée et boutonnée sexy à la mode pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/217/SHEIN LUNE Chemise à manches longues ajustée et boutonnée sexy à la mode pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/217/SHEIN LUNE Chemise à manches longues ajustée et boutonnée sexy à la mode pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/217/SHEIN LUNE Chemise à manches longues ajustée et boutonnée sexy à la mode pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/217/SHEIN LUNE Chemise à manches longues ajustée et boutonnée sexy à la mode pour femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/217/SHEIN LUNE Chemise à manches longues ajustée et boutonnée sexy à la mode pour femmes (5).webp"
     ]
   },
   {
@@ -9154,15 +9154,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/218/Elenzga Débardeur élégant et romantique pour femme en perle beige.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/218/Elenzga Débardeur élégant et romantique pour femme en perle beige.webp",
     "images": [
-      "/vetement_femme/218/Elenzga Débardeur élégant et romantique pour femme en perle beige.webp",
-      "/vetement_femme/218/Elenzga Débardeur élégant et romantique pour femme en perle beige (1).webp",
-      "/vetement_femme/218/Elenzga Débardeur élégant et romantique pour femme en perle beige (2).webp",
-      "/vetement_femme/218/Elenzga Débardeur élégant et romantique pour femme en perle beige (3).webp",
-      "/vetement_femme/218/Elenzga Débardeur élégant et romantique pour femme en perle beige (4).webp",
-      "/vetement_femme/218/Elenzga Débardeur élégant et romantique pour femme en perle beige (5).webp",
-      "/vetement_femme/218/Elenzga Débardeur élégant et romantique pour femme en perle beige (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/218/Elenzga Débardeur élégant et romantique pour femme en perle beige.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/218/Elenzga Débardeur élégant et romantique pour femme en perle beige (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/218/Elenzga Débardeur élégant et romantique pour femme en perle beige (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/218/Elenzga Débardeur élégant et romantique pour femme en perle beige (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/218/Elenzga Débardeur élégant et romantique pour femme en perle beige (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/218/Elenzga Débardeur élégant et romantique pour femme en perle beige (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/218/Elenzga Débardeur élégant et romantique pour femme en perle beige (6).webp"
     ]
   },
   {
@@ -9197,14 +9197,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 11,
-    "image": "/vetement_femme/219/Selianne Chemise simple à nœud papillon et pli à la taille pour femme, adaptée pour l'été.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/219/Selianne Chemise simple à nœud papillon et pli à la taille pour femme, adaptée pour l'été.webp",
     "images": [
-      "/vetement_femme/219/Selianne Chemise simple à nœud papillon et pli à la taille pour femme, adaptée pour l'été.webp",
-      "/vetement_femme/219/Selianne Chemise simple à nœud papillon et pli à la taille pour femme, adaptée pour l'été (1).webp",
-      "/vetement_femme/219/Selianne Chemise simple à nœud papillon et pli à la taille pour femme, adaptée pour l'été (2).webp",
-      "/vetement_femme/219/Selianne Chemise simple à nœud papillon et pli à la taille pour femme, adaptée pour l'été (3).webp",
-      "/vetement_femme/219/Selianne Chemise simple à nœud papillon et pli à la taille pour femme, adaptée pour l'été (4).webp",
-      "/vetement_femme/219/Selianne Chemise simple à nœud papillon et pli à la taille pour femme, adaptée pour l'été (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/219/Selianne Chemise simple à nœud papillon et pli à la taille pour femme, adaptée pour l'été.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/219/Selianne Chemise simple à nœud papillon et pli à la taille pour femme, adaptée pour l'été (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/219/Selianne Chemise simple à nœud papillon et pli à la taille pour femme, adaptée pour l'été (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/219/Selianne Chemise simple à nœud papillon et pli à la taille pour femme, adaptée pour l'été (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/219/Selianne Chemise simple à nœud papillon et pli à la taille pour femme, adaptée pour l'été (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/219/Selianne Chemise simple à nœud papillon et pli à la taille pour femme, adaptée pour l'été (5).webp"
     ]
   },
   {
@@ -9238,14 +9238,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/220/Elenzga Débardeur slim à col ras-du-cou avec imprimé floral, style décontracté pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/220/Elenzga Débardeur slim à col ras-du-cou avec imprimé floral, style décontracté pour femmes.webp",
     "images": [
-      "/vetement_femme/220/Elenzga Débardeur slim à col ras-du-cou avec imprimé floral, style décontracté pour femmes.webp",
-      "/vetement_femme/220/Elenzga Débardeur slim à col ras-du-cou avec imprimé floral, style décontracté pour femmes (1).webp",
-      "/vetement_femme/220/Elenzga Débardeur slim à col ras-du-cou avec imprimé floral, style décontracté pour femmes (2).webp",
-      "/vetement_femme/220/Elenzga Débardeur slim à col ras-du-cou avec imprimé floral, style décontracté pour femmes (3).webp",
-      "/vetement_femme/220/Elenzga Débardeur slim à col ras-du-cou avec imprimé floral, style décontracté pour femmes (4).webp",
-      "/vetement_femme/220/Elenzga Débardeur slim à col ras-du-cou avec imprimé floral, style décontracté pour femmes (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/220/Elenzga Débardeur slim à col ras-du-cou avec imprimé floral, style décontracté pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/220/Elenzga Débardeur slim à col ras-du-cou avec imprimé floral, style décontracté pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/220/Elenzga Débardeur slim à col ras-du-cou avec imprimé floral, style décontracté pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/220/Elenzga Débardeur slim à col ras-du-cou avec imprimé floral, style décontracté pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/220/Elenzga Débardeur slim à col ras-du-cou avec imprimé floral, style décontracté pour femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/220/Elenzga Débardeur slim à col ras-du-cou avec imprimé floral, style décontracté pour femmes (5).webp"
     ]
   },
   {
@@ -9280,14 +9280,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/221/Elenzga Nouveau chemisier élégant pour femmes avec col contrasté rayé noir, style ras-du-cou. Chemise décontractée pour les vacances, le travail, les sorties quotidiennes, les rendez-vous, les fêtes. Design mode_.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/221/Elenzga Nouveau chemisier élégant pour femmes avec col contrasté rayé noir, style ras-du-cou. Chemise décontractée pour les vacances, le travail, les sorties quotidiennes, les rendez-vous, les fêtes. Design mode_.webp",
     "images": [
-      "/vetement_femme/221/Elenzga Nouveau chemisier élégant pour femmes avec col contrasté rayé noir, style ras-du-cou. Chemise décontractée pour les vacances, le travail, les sorties quotidiennes, les rendez-vous, les fêtes. Design mode_.webp",
-      "/vetement_femme/221/Elenzga Nouveau chemisier élégant pour femmes avec col contrasté rayé noir, style ras-du-cou. Chemise décontractée pour les vacances, le travail, les sorties quotidiennes, les rendez-vous, les fêtes. Design m (1).webp",
-      "/vetement_femme/221/Elenzga Nouveau chemisier élégant pour femmes avec col contrasté rayé noir, style ras-du-cou. Chemise décontractée pour les vacances, le travail, les sorties quotidiennes, les rendez-vous, les fêtes. Design m (2).webp",
-      "/vetement_femme/221/Elenzga Nouveau chemisier élégant pour femmes avec col contrasté rayé noir, style ras-du-cou. Chemise décontractée pour les vacances, le travail, les sorties quotidiennes, les rendez-vous, les fêtes. Design m (3).webp",
-      "/vetement_femme/221/Elenzga Nouveau chemisier élégant pour femmes avec col contrasté rayé noir, style ras-du-cou. Chemise décontractée pour les vacances, le travail, les sorties quotidiennes, les rendez-vous, les fêtes. Design m (4).webp",
-      "/vetement_femme/221/Elenzga Nouveau chemisier élégant pour femmes avec col contrasté rayé noir, style ras-du-cou. Chemise décontractée pour les vacances, le travail, les sorties quotidiennes, les rendez-vous, les fêtes. Design m (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/221/Elenzga Nouveau chemisier élégant pour femmes avec col contrasté rayé noir, style ras-du-cou. Chemise décontractée pour les vacances, le travail, les sorties quotidiennes, les rendez-vous, les fêtes. Design mode_.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/221/Elenzga Nouveau chemisier élégant pour femmes avec col contrasté rayé noir, style ras-du-cou. Chemise décontractée pour les vacances, le travail, les sorties quotidiennes, les rendez-vous, les fêtes. Design m (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/221/Elenzga Nouveau chemisier élégant pour femmes avec col contrasté rayé noir, style ras-du-cou. Chemise décontractée pour les vacances, le travail, les sorties quotidiennes, les rendez-vous, les fêtes. Design m (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/221/Elenzga Nouveau chemisier élégant pour femmes avec col contrasté rayé noir, style ras-du-cou. Chemise décontractée pour les vacances, le travail, les sorties quotidiennes, les rendez-vous, les fêtes. Design m (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/221/Elenzga Nouveau chemisier élégant pour femmes avec col contrasté rayé noir, style ras-du-cou. Chemise décontractée pour les vacances, le travail, les sorties quotidiennes, les rendez-vous, les fêtes. Design m (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/221/Elenzga Nouveau chemisier élégant pour femmes avec col contrasté rayé noir, style ras-du-cou. Chemise décontractée pour les vacances, le travail, les sorties quotidiennes, les rendez-vous, les fêtes. Design m (5).webp"
     ]
   },
   {
@@ -9322,14 +9322,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/222/Selianne Femmes Top court texture rose sans bretelle avec détails de boutons de perle, été.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/222/Selianne Femmes Top court texture rose sans bretelle avec détails de boutons de perle, été.webp",
     "images": [
-      "/vetement_femme/222/Selianne Femmes Top court texture rose sans bretelle avec détails de boutons de perle, été.webp",
-      "/vetement_femme/222/Selianne Femmes Top court texture rose sans bretelle avec détails de boutons de perle, été (1).webp",
-      "/vetement_femme/222/Selianne Femmes Top court texture rose sans bretelle avec détails de boutons de perle, été (2).webp",
-      "/vetement_femme/222/Selianne Femmes Top court texture rose sans bretelle avec détails de boutons de perle, été (3).webp",
-      "/vetement_femme/222/Selianne Femmes Top court texture rose sans bretelle avec détails de boutons de perle, été (4).webp",
-      "/vetement_femme/222/Selianne Femmes Top court texture rose sans bretelle avec détails de boutons de perle, été (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/222/Selianne Femmes Top court texture rose sans bretelle avec détails de boutons de perle, été.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/222/Selianne Femmes Top court texture rose sans bretelle avec détails de boutons de perle, été (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/222/Selianne Femmes Top court texture rose sans bretelle avec détails de boutons de perle, été (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/222/Selianne Femmes Top court texture rose sans bretelle avec détails de boutons de perle, été (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/222/Selianne Femmes Top court texture rose sans bretelle avec détails de boutons de perle, été (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/222/Selianne Femmes Top court texture rose sans bretelle avec détails de boutons de perle, été (5).webp"
     ]
   },
   {
@@ -9363,14 +9363,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/223/Elenzga Débardeur casual unicolore avec empiècement en dentelle col échancré pour femmes, été 2025.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/223/Elenzga Débardeur casual unicolore avec empiècement en dentelle col échancré pour femmes, été 2025.webp",
     "images": [
-      "/vetement_femme/223/Elenzga Débardeur casual unicolore avec empiècement en dentelle col échancré pour femmes, été 2025.webp",
-      "/vetement_femme/223/Elenzga Débardeur casual unicolore avec empiècement en dentelle col échancré pour femmes, été 2025 (1).webp",
-      "/vetement_femme/223/Elenzga Débardeur casual unicolore avec empiècement en dentelle col échancré pour femmes, été 2025 (2).webp",
-      "/vetement_femme/223/Elenzga Débardeur casual unicolore avec empiècement en dentelle col échancré pour femmes, été 2025 (3).webp",
-      "/vetement_femme/223/Elenzga Débardeur casual unicolore avec empiècement en dentelle col échancré pour femmes, été 2025 (4).webp",
-      "/vetement_femme/223/Elenzga Débardeur casual unicolore avec empiècement en dentelle col échancré pour femmes, été 2025 (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/223/Elenzga Débardeur casual unicolore avec empiècement en dentelle col échancré pour femmes, été 2025.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/223/Elenzga Débardeur casual unicolore avec empiècement en dentelle col échancré pour femmes, été 2025 (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/223/Elenzga Débardeur casual unicolore avec empiècement en dentelle col échancré pour femmes, été 2025 (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/223/Elenzga Débardeur casual unicolore avec empiècement en dentelle col échancré pour femmes, été 2025 (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/223/Elenzga Débardeur casual unicolore avec empiècement en dentelle col échancré pour femmes, été 2025 (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/223/Elenzga Débardeur casual unicolore avec empiècement en dentelle col échancré pour femmes, été 2025 (5).webp"
     ]
   },
   {
@@ -9406,14 +9406,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 11,
-    "image": "/vetement_femme/224/StreetHx Chemise sans manches marron rayée style urbain avec dos nu pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/224/StreetHx Chemise sans manches marron rayée style urbain avec dos nu pour femmes.webp",
     "images": [
-      "/vetement_femme/224/StreetHx Chemise sans manches marron rayée style urbain avec dos nu pour femmes.webp",
-      "/vetement_femme/224/StreetHx Chemise sans manches marron rayée style urbain avec dos nu pour femmes (1).webp",
-      "/vetement_femme/224/StreetHx Chemise sans manches marron rayée style urbain avec dos nu pour femmes (2).webp",
-      "/vetement_femme/224/StreetHx Chemise sans manches marron rayée style urbain avec dos nu pour femmes (3).webp",
-      "/vetement_femme/224/StreetHx Chemise sans manches marron rayée style urbain avec dos nu pour femmes (4).webp",
-      "/vetement_femme/224/StreetHx Chemise sans manches marron rayée style urbain avec dos nu pour femmes (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/224/StreetHx Chemise sans manches marron rayée style urbain avec dos nu pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/224/StreetHx Chemise sans manches marron rayée style urbain avec dos nu pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/224/StreetHx Chemise sans manches marron rayée style urbain avec dos nu pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/224/StreetHx Chemise sans manches marron rayée style urbain avec dos nu pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/224/StreetHx Chemise sans manches marron rayée style urbain avec dos nu pour femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/224/StreetHx Chemise sans manches marron rayée style urbain avec dos nu pour femmes (5).webp"
     ]
   },
   {
@@ -9448,14 +9448,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/225/SHEIN Frenchy Tee-shirt côtelé à manches évasées décontracté pour femmes, automne.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/225/SHEIN Frenchy Tee-shirt côtelé à manches évasées décontracté pour femmes, automne.webp",
     "images": [
-      "/vetement_femme/225/SHEIN Frenchy Tee-shirt côtelé à manches évasées décontracté pour femmes, automne.webp",
-      "/vetement_femme/225/SHEIN Frenchy Tee-shirt côtelé à manches évasées décontracté pour femmes, automne (1).webp",
-      "/vetement_femme/225/SHEIN Frenchy Tee-shirt côtelé à manches évasées décontracté pour femmes, automne (2).webp",
-      "/vetement_femme/225/SHEIN Frenchy Tee-shirt côtelé à manches évasées décontracté pour femmes, automne (3).webp",
-      "/vetement_femme/225/SHEIN Frenchy Tee-shirt côtelé à manches évasées décontracté pour femmes, automne (4).webp",
-      "/vetement_femme/225/SHEIN Frenchy Tee-shirt côtelé à manches évasées décontracté pour femmes, automne (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/225/SHEIN Frenchy Tee-shirt côtelé à manches évasées décontracté pour femmes, automne.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/225/SHEIN Frenchy Tee-shirt côtelé à manches évasées décontracté pour femmes, automne (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/225/SHEIN Frenchy Tee-shirt côtelé à manches évasées décontracté pour femmes, automne (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/225/SHEIN Frenchy Tee-shirt côtelé à manches évasées décontracté pour femmes, automne (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/225/SHEIN Frenchy Tee-shirt côtelé à manches évasées décontracté pour femmes, automne (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/225/SHEIN Frenchy Tee-shirt côtelé à manches évasées décontracté pour femmes, automne (5).webp"
     ]
   },
   {
@@ -9490,16 +9490,16 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 10,
-    "image": "/vetement_femme/226/Elenzga Blouse courte à encolure carrée avec boutons métalliques et manches bouffantes, chemise chic en mousseline de style français à manches évasées, taille cintrée, polyvalente pour le travail et les vacances.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/226/Elenzga Blouse courte à encolure carrée avec boutons métalliques et manches bouffantes, chemise chic en mousseline de style français à manches évasées, taille cintrée, polyvalente pour le travail et les vacances.webp",
     "images": [
-      "/vetement_femme/226/Elenzga Blouse courte à encolure carrée avec boutons métalliques et manches bouffantes, chemise chic en mousseline de style français à manches évasées, taille cintrée, polyvalente pour le travail et les vacances.webp",
-      "/vetement_femme/226/Elenzga Blouse courte à encolure carrée avec boutons métalliques et manches bouffantes, chemise chic en mousseline de style français à manches évasées, taille cintrée, polyvalente pour le travail et les vacan (1).webp",
-      "/vetement_femme/226/Elenzga Blouse courte à encolure carrée avec boutons métalliques et manches bouffantes, chemise chic en mousseline de style français à manches évasées, taille cintrée, polyvalente pour le travail et les vacan (2).webp",
-      "/vetement_femme/226/Elenzga Blouse courte à encolure carrée avec boutons métalliques et manches bouffantes, chemise chic en mousseline de style français à manches évasées, taille cintrée, polyvalente pour le travail et les vacan (3).webp",
-      "/vetement_femme/226/Elenzga Blouse courte à encolure carrée avec boutons métalliques et manches bouffantes, chemise chic en mousseline de style français à manches évasées, taille cintrée, polyvalente pour le travail et les vacan (4).webp",
-      "/vetement_femme/226/Elenzga Blouse courte à encolure carrée avec boutons métalliques et manches bouffantes, chemise chic en mousseline de style français à manches évasées, taille cintrée, polyvalente pour le travail et les vacan (5).webp",
-      "/vetement_femme/226/Elenzga Blouse courte à encolure carrée avec boutons métalliques et manches bouffantes, chemise chic en mousseline de style français à manches évasées, taille cintrée, polyvalente pour le travail et les vacan (6).webp",
-      "/vetement_femme/226/Elenzga Blouse courte à encolure carrée avec boutons métalliques et manches bouffantes, chemise chic en mousseline de style français à manches évasées, taille cintrée, polyvalente pour le travail et les vacan (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/226/Elenzga Blouse courte à encolure carrée avec boutons métalliques et manches bouffantes, chemise chic en mousseline de style français à manches évasées, taille cintrée, polyvalente pour le travail et les vacances.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/226/Elenzga Blouse courte à encolure carrée avec boutons métalliques et manches bouffantes, chemise chic en mousseline de style français à manches évasées, taille cintrée, polyvalente pour le travail et les vacan (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/226/Elenzga Blouse courte à encolure carrée avec boutons métalliques et manches bouffantes, chemise chic en mousseline de style français à manches évasées, taille cintrée, polyvalente pour le travail et les vacan (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/226/Elenzga Blouse courte à encolure carrée avec boutons métalliques et manches bouffantes, chemise chic en mousseline de style français à manches évasées, taille cintrée, polyvalente pour le travail et les vacan (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/226/Elenzga Blouse courte à encolure carrée avec boutons métalliques et manches bouffantes, chemise chic en mousseline de style français à manches évasées, taille cintrée, polyvalente pour le travail et les vacan (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/226/Elenzga Blouse courte à encolure carrée avec boutons métalliques et manches bouffantes, chemise chic en mousseline de style français à manches évasées, taille cintrée, polyvalente pour le travail et les vacan (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/226/Elenzga Blouse courte à encolure carrée avec boutons métalliques et manches bouffantes, chemise chic en mousseline de style français à manches évasées, taille cintrée, polyvalente pour le travail et les vacan (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/226/Elenzga Blouse courte à encolure carrée avec boutons métalliques et manches bouffantes, chemise chic en mousseline de style français à manches évasées, taille cintrée, polyvalente pour le travail et les vacan (7).webp"
     ]
   },
   {
@@ -9533,12 +9533,12 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/227/Elenzga Débardeur d'été décontracté et élégant pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/227/Elenzga Débardeur d'été décontracté et élégant pour femmes.webp",
     "images": [
-      "/vetement_femme/227/Elenzga Débardeur d'été décontracté et élégant pour femmes.webp",
-      "/vetement_femme/227/Elenzga Débardeur d'été décontracté et élégant pour femmes (1).webp",
-      "/vetement_femme/227/Elenzga Débardeur d'été décontracté et élégant pour femmes (2).webp",
-      "/vetement_femme/227/Elenzga Débardeur d'été décontracté et élégant pour femmes (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/227/Elenzga Débardeur d'été décontracté et élégant pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/227/Elenzga Débardeur d'été décontracté et élégant pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/227/Elenzga Débardeur d'été décontracté et élégant pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/227/Elenzga Débardeur d'été décontracté et élégant pour femmes (3).webp"
     ]
   },
   {
@@ -9572,12 +9572,12 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/228/Soleia Top vintage à manches longues col V imprimé floral pour femmes, vacances, rentrée des classes, automne. Top bohème transparent.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/228/Soleia Top vintage à manches longues col V imprimé floral pour femmes, vacances, rentrée des classes, automne. Top bohème transparent.webp",
     "images": [
-      "/vetement_femme/228/Soleia Top vintage à manches longues col V imprimé floral pour femmes, vacances, rentrée des classes, automne. Top bohème transparent.webp",
-      "/vetement_femme/228/Soleia Top vintage à manches longues col V imprimé floral pour femmes, vacances, rentrée des classes, automne. Top bohème transparent (1).webp",
-      "/vetement_femme/228/Soleia Top vintage à manches longues col V imprimé floral pour femmes, vacances, rentrée des classes, automne. Top bohème transparent (2).webp",
-      "/vetement_femme/228/Soleia Top vintage à manches longues col V imprimé floral pour femmes, vacances, rentrée des classes, automne. Top bohème transparent (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/228/Soleia Top vintage à manches longues col V imprimé floral pour femmes, vacances, rentrée des classes, automne. Top bohème transparent.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/228/Soleia Top vintage à manches longues col V imprimé floral pour femmes, vacances, rentrée des classes, automne. Top bohème transparent (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/228/Soleia Top vintage à manches longues col V imprimé floral pour femmes, vacances, rentrée des classes, automne. Top bohème transparent (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/228/Soleia Top vintage à manches longues col V imprimé floral pour femmes, vacances, rentrée des classes, automne. Top bohème transparent (3).webp"
     ]
   },
   {
@@ -9612,14 +9612,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/229/Elouméa Blouse élégante à manches longues, col V profond, avec empiècement en dentelle et nœud devant pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/229/Elouméa Blouse élégante à manches longues, col V profond, avec empiècement en dentelle et nœud devant pour femmes.webp",
     "images": [
-      "/vetement_femme/229/Elouméa Blouse élégante à manches longues, col V profond, avec empiècement en dentelle et nœud devant pour femmes.webp",
-      "/vetement_femme/229/Elouméa Blouse élégante à manches longues, col V profond, avec empiècement en dentelle et nœud devant pour femmes (1).webp",
-      "/vetement_femme/229/Elouméa Blouse élégante à manches longues, col V profond, avec empiècement en dentelle et nœud devant pour femmes (2).webp",
-      "/vetement_femme/229/Elouméa Blouse élégante à manches longues, col V profond, avec empiècement en dentelle et nœud devant pour femmes (3).webp",
-      "/vetement_femme/229/Elouméa Blouse élégante à manches longues, col V profond, avec empiècement en dentelle et nœud devant pour femmes (4).webp",
-      "/vetement_femme/229/Elouméa Blouse élégante à manches longues, col V profond, avec empiècement en dentelle et nœud devant pour femmes (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/229/Elouméa Blouse élégante à manches longues, col V profond, avec empiècement en dentelle et nœud devant pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/229/Elouméa Blouse élégante à manches longues, col V profond, avec empiècement en dentelle et nœud devant pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/229/Elouméa Blouse élégante à manches longues, col V profond, avec empiècement en dentelle et nœud devant pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/229/Elouméa Blouse élégante à manches longues, col V profond, avec empiècement en dentelle et nœud devant pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/229/Elouméa Blouse élégante à manches longues, col V profond, avec empiècement en dentelle et nœud devant pour femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/229/Elouméa Blouse élégante à manches longues, col V profond, avec empiècement en dentelle et nœud devant pour femmes (5).webp"
     ]
   },
   {
@@ -9654,14 +9654,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/230/Elenzga 2025 Nouveau Débardeur casual à taille resserrée, design asymétrique bleu mode et polyvalent pour le trajet.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/230/Elenzga 2025 Nouveau Débardeur casual à taille resserrée, design asymétrique bleu mode et polyvalent pour le trajet.webp",
     "images": [
-      "/vetement_femme/230/Elenzga 2025 Nouveau Débardeur casual à taille resserrée, design asymétrique bleu mode et polyvalent pour le trajet.webp",
-      "/vetement_femme/230/Elenzga 2025 Nouveau Débardeur casual à taille resserrée, design asymétrique bleu mode et polyvalent pour le trajet (1).webp",
-      "/vetement_femme/230/Elenzga 2025 Nouveau Débardeur casual à taille resserrée, design asymétrique bleu mode et polyvalent pour le trajet (2).webp",
-      "/vetement_femme/230/Elenzga 2025 Nouveau Débardeur casual à taille resserrée, design asymétrique bleu mode et polyvalent pour le trajet (3).webp",
-      "/vetement_femme/230/Elenzga 2025 Nouveau Débardeur casual à taille resserrée, design asymétrique bleu mode et polyvalent pour le trajet (4).webp",
-      "/vetement_femme/230/Elenzga 2025 Nouveau Débardeur casual à taille resserrée, design asymétrique bleu mode et polyvalent pour le trajet (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/230/Elenzga 2025 Nouveau Débardeur casual à taille resserrée, design asymétrique bleu mode et polyvalent pour le trajet.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/230/Elenzga 2025 Nouveau Débardeur casual à taille resserrée, design asymétrique bleu mode et polyvalent pour le trajet (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/230/Elenzga 2025 Nouveau Débardeur casual à taille resserrée, design asymétrique bleu mode et polyvalent pour le trajet (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/230/Elenzga 2025 Nouveau Débardeur casual à taille resserrée, design asymétrique bleu mode et polyvalent pour le trajet (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/230/Elenzga 2025 Nouveau Débardeur casual à taille resserrée, design asymétrique bleu mode et polyvalent pour le trajet (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/230/Elenzga 2025 Nouveau Débardeur casual à taille resserrée, design asymétrique bleu mode et polyvalent pour le trajet (5).webp"
     ]
   },
   {
@@ -9695,14 +9695,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/231/Selianne Débardeur femme élégant avec ourlet asymétrique en dentelle de couleur unie.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/231/Selianne Débardeur femme élégant avec ourlet asymétrique en dentelle de couleur unie.webp",
     "images": [
-      "/vetement_femme/231/Selianne Débardeur femme élégant avec ourlet asymétrique en dentelle de couleur unie.webp",
-      "/vetement_femme/231/Selianne Débardeur femme élégant avec ourlet asymétrique en dentelle de couleur unie (1).webp",
-      "/vetement_femme/231/Selianne Débardeur femme élégant avec ourlet asymétrique en dentelle de couleur unie (2).webp",
-      "/vetement_femme/231/Selianne Débardeur femme élégant avec ourlet asymétrique en dentelle de couleur unie (3).webp",
-      "/vetement_femme/231/Selianne Débardeur femme élégant avec ourlet asymétrique en dentelle de couleur unie (4).webp",
-      "/vetement_femme/231/Selianne Débardeur femme élégant avec ourlet asymétrique en dentelle de couleur unie (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/231/Selianne Débardeur femme élégant avec ourlet asymétrique en dentelle de couleur unie.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/231/Selianne Débardeur femme élégant avec ourlet asymétrique en dentelle de couleur unie (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/231/Selianne Débardeur femme élégant avec ourlet asymétrique en dentelle de couleur unie (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/231/Selianne Débardeur femme élégant avec ourlet asymétrique en dentelle de couleur unie (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/231/Selianne Débardeur femme élégant avec ourlet asymétrique en dentelle de couleur unie (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/231/Selianne Débardeur femme élégant avec ourlet asymétrique en dentelle de couleur unie (5).webp"
     ]
   },
   {
@@ -9737,14 +9737,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/232/Elenzga Blouse boutonnée élégante et décontractée à col en V, manches longues, avec poignets à volants. Idéale pour le travail et les sorties, en automne_hiver_printemps.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/232/Elenzga Blouse boutonnée élégante et décontractée à col en V, manches longues, avec poignets à volants. Idéale pour le travail et les sorties, en automne_hiver_printemps.webp",
     "images": [
-      "/vetement_femme/232/Elenzga Blouse boutonnée élégante et décontractée à col en V, manches longues, avec poignets à volants. Idéale pour le travail et les sorties, en automne_hiver_printemps.webp",
-      "/vetement_femme/232/Elenzga Blouse boutonnée élégante et décontractée à col en V, manches longues, avec poignets à volants. Idéale pour le travail et les sorties, en automne_hiver_printemps (1).webp",
-      "/vetement_femme/232/Elenzga Blouse boutonnée élégante et décontractée à col en V, manches longues, avec poignets à volants. Idéale pour le travail et les sorties, en automne_hiver_printemps (2).webp",
-      "/vetement_femme/232/Elenzga Blouse boutonnée élégante et décontractée à col en V, manches longues, avec poignets à volants. Idéale pour le travail et les sorties, en automne_hiver_printemps (3).webp",
-      "/vetement_femme/232/Elenzga Blouse boutonnée élégante et décontractée à col en V, manches longues, avec poignets à volants. Idéale pour le travail et les sorties, en automne_hiver_printemps (4).webp",
-      "/vetement_femme/232/Elenzga Blouse boutonnée élégante et décontractée à col en V, manches longues, avec poignets à volants. Idéale pour le travail et les sorties, en automne_hiver_printemps (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/232/Elenzga Blouse boutonnée élégante et décontractée à col en V, manches longues, avec poignets à volants. Idéale pour le travail et les sorties, en automne_hiver_printemps.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/232/Elenzga Blouse boutonnée élégante et décontractée à col en V, manches longues, avec poignets à volants. Idéale pour le travail et les sorties, en automne_hiver_printemps (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/232/Elenzga Blouse boutonnée élégante et décontractée à col en V, manches longues, avec poignets à volants. Idéale pour le travail et les sorties, en automne_hiver_printemps (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/232/Elenzga Blouse boutonnée élégante et décontractée à col en V, manches longues, avec poignets à volants. Idéale pour le travail et les sorties, en automne_hiver_printemps (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/232/Elenzga Blouse boutonnée élégante et décontractée à col en V, manches longues, avec poignets à volants. Idéale pour le travail et les sorties, en automne_hiver_printemps (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/232/Elenzga Blouse boutonnée élégante et décontractée à col en V, manches longues, avec poignets à volants. Idéale pour le travail et les sorties, en automne_hiver_printemps (5).webp"
     ]
   },
   {
@@ -9781,15 +9781,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/233/Elenzga Blouse à manches bouffantes en tissu texturé jaune crème pour femmes au printemps et en automne, nouvelle arrivée. Blouse élégante française en tissu texturé avec nœud papillon sur le devant, design en li.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/233/Elenzga Blouse à manches bouffantes en tissu texturé jaune crème pour femmes au printemps et en automne, nouvelle arrivée. Blouse élégante française en tissu texturé avec nœud papillon sur le devant, design en li.webp",
     "images": [
-      "/vetement_femme/233/Elenzga Blouse à manches bouffantes en tissu texturé jaune crème pour femmes au printemps et en automne, nouvelle arrivée. Blouse élégante française en tissu texturé avec nœud papillon sur le devant, design en li.webp",
-      "/vetement_femme/233/Elenzga Blouse à manches bouffantes en tissu texturé jaune crème pour femmes au printemps et en automne, nouvelle arrivée. Blouse élégante française en tissu texturé avec nœud papillon sur le devant, design e (1).webp",
-      "/vetement_femme/233/Elenzga Blouse à manches bouffantes en tissu texturé jaune crème pour femmes au printemps et en automne, nouvelle arrivée. Blouse élégante française en tissu texturé avec nœud papillon sur le devant, design e (2).webp",
-      "/vetement_femme/233/Elenzga Blouse à manches bouffantes en tissu texturé jaune crème pour femmes au printemps et en automne, nouvelle arrivée. Blouse élégante française en tissu texturé avec nœud papillon sur le devant, design e (3).webp",
-      "/vetement_femme/233/Elenzga Blouse à manches bouffantes en tissu texturé jaune crème pour femmes au printemps et en automne, nouvelle arrivée. Blouse élégante française en tissu texturé avec nœud papillon sur le devant, design e (4).webp",
-      "/vetement_femme/233/Elenzga Blouse à manches bouffantes en tissu texturé jaune crème pour femmes au printemps et en automne, nouvelle arrivée. Blouse élégante française en tissu texturé avec nœud papillon sur le devant, design e (5).webp",
-      "/vetement_femme/233/Elenzga Blouse à manches bouffantes en tissu texturé jaune crème pour femmes au printemps et en automne, nouvelle arrivée. Blouse élégante française en tissu texturé avec nœud papillon sur le devant, design e (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/233/Elenzga Blouse à manches bouffantes en tissu texturé jaune crème pour femmes au printemps et en automne, nouvelle arrivée. Blouse élégante française en tissu texturé avec nœud papillon sur le devant, design en li.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/233/Elenzga Blouse à manches bouffantes en tissu texturé jaune crème pour femmes au printemps et en automne, nouvelle arrivée. Blouse élégante française en tissu texturé avec nœud papillon sur le devant, design e (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/233/Elenzga Blouse à manches bouffantes en tissu texturé jaune crème pour femmes au printemps et en automne, nouvelle arrivée. Blouse élégante française en tissu texturé avec nœud papillon sur le devant, design e (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/233/Elenzga Blouse à manches bouffantes en tissu texturé jaune crème pour femmes au printemps et en automne, nouvelle arrivée. Blouse élégante française en tissu texturé avec nœud papillon sur le devant, design e (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/233/Elenzga Blouse à manches bouffantes en tissu texturé jaune crème pour femmes au printemps et en automne, nouvelle arrivée. Blouse élégante française en tissu texturé avec nœud papillon sur le devant, design e (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/233/Elenzga Blouse à manches bouffantes en tissu texturé jaune crème pour femmes au printemps et en automne, nouvelle arrivée. Blouse élégante française en tissu texturé avec nœud papillon sur le devant, design e (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/233/Elenzga Blouse à manches bouffantes en tissu texturé jaune crème pour femmes au printemps et en automne, nouvelle arrivée. Blouse élégante française en tissu texturé avec nœud papillon sur le devant, design e (6).webp"
     ]
   },
   {
@@ -9824,14 +9824,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 10,
-    "image": "/vetement_femme/234/Selianne Femme T-shirt col V asymétrique évasé, manches évasées, volants élégants et romantiques pour les vacances et le travail, Automne.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/234/Selianne Femme T-shirt col V asymétrique évasé, manches évasées, volants élégants et romantiques pour les vacances et le travail, Automne.webp",
     "images": [
-      "/vetement_femme/234/Selianne Femme T-shirt col V asymétrique évasé, manches évasées, volants élégants et romantiques pour les vacances et le travail, Automne.webp",
-      "/vetement_femme/234/Selianne Femme T-shirt col V asymétrique évasé, manches évasées, volants élégants et romantiques pour les vacances et le travail, Automne (1).webp",
-      "/vetement_femme/234/Selianne Femme T-shirt col V asymétrique évasé, manches évasées, volants élégants et romantiques pour les vacances et le travail, Automne (2).webp",
-      "/vetement_femme/234/Selianne Femme T-shirt col V asymétrique évasé, manches évasées, volants élégants et romantiques pour les vacances et le travail, Automne (3).webp",
-      "/vetement_femme/234/Selianne Femme T-shirt col V asymétrique évasé, manches évasées, volants élégants et romantiques pour les vacances et le travail, Automne (4).webp",
-      "/vetement_femme/234/Selianne Femme T-shirt col V asymétrique évasé, manches évasées, volants élégants et romantiques pour les vacances et le travail, Automne (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/234/Selianne Femme T-shirt col V asymétrique évasé, manches évasées, volants élégants et romantiques pour les vacances et le travail, Automne.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/234/Selianne Femme T-shirt col V asymétrique évasé, manches évasées, volants élégants et romantiques pour les vacances et le travail, Automne (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/234/Selianne Femme T-shirt col V asymétrique évasé, manches évasées, volants élégants et romantiques pour les vacances et le travail, Automne (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/234/Selianne Femme T-shirt col V asymétrique évasé, manches évasées, volants élégants et romantiques pour les vacances et le travail, Automne (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/234/Selianne Femme T-shirt col V asymétrique évasé, manches évasées, volants élégants et romantiques pour les vacances et le travail, Automne (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/234/Selianne Femme T-shirt col V asymétrique évasé, manches évasées, volants élégants et romantiques pour les vacances et le travail, Automne (5).webp"
     ]
   },
   {
@@ -9866,13 +9866,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 9,
-    "image": "/vetement_femme/235/Firerie Chemise élégante et de navette pour femme à la mode, décorée de boutons en soie, affinant la taille, top sans manches.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/235/Firerie Chemise élégante et de navette pour femme à la mode, décorée de boutons en soie, affinant la taille, top sans manches.webp",
     "images": [
-      "/vetement_femme/235/Firerie Chemise élégante et de navette pour femme à la mode, décorée de boutons en soie, affinant la taille, top sans manches.webp",
-      "/vetement_femme/235/Firerie Chemise élégante et de navette pour femme à la mode, décorée de boutons en soie, affinant la taille, top sans manches (1).webp",
-      "/vetement_femme/235/Firerie Chemise élégante et de navette pour femme à la mode, décorée de boutons en soie, affinant la taille, top sans manches (2).webp",
-      "/vetement_femme/235/Firerie Chemise élégante et de navette pour femme à la mode, décorée de boutons en soie, affinant la taille, top sans manches (3).webp",
-      "/vetement_femme/235/Firerie Chemise élégante et de navette pour femme à la mode, décorée de boutons en soie, affinant la taille, top sans manches (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/235/Firerie Chemise élégante et de navette pour femme à la mode, décorée de boutons en soie, affinant la taille, top sans manches.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/235/Firerie Chemise élégante et de navette pour femme à la mode, décorée de boutons en soie, affinant la taille, top sans manches (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/235/Firerie Chemise élégante et de navette pour femme à la mode, décorée de boutons en soie, affinant la taille, top sans manches (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/235/Firerie Chemise élégante et de navette pour femme à la mode, décorée de boutons en soie, affinant la taille, top sans manches (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/235/Firerie Chemise élégante et de navette pour femme à la mode, décorée de boutons en soie, affinant la taille, top sans manches (4).webp"
     ]
   },
   {
@@ -9909,12 +9909,12 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/236/SHEIN MOD Blouse vintage mignonne en tweed pour dames, blanche, tenue de bureau_déplacement, style d'argent ancien.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/236/SHEIN MOD Blouse vintage mignonne en tweed pour dames, blanche, tenue de bureau_déplacement, style d'argent ancien.webp",
     "images": [
-      "/vetement_femme/236/SHEIN MOD Blouse vintage mignonne en tweed pour dames, blanche, tenue de bureau_déplacement, style d'argent ancien.webp",
-      "/vetement_femme/236/SHEIN MOD Blouse vintage mignonne en tweed pour dames, blanche, tenue de bureau_déplacement, style d'argent ancien (1).webp",
-      "/vetement_femme/236/SHEIN MOD Blouse vintage mignonne en tweed pour dames, blanche, tenue de bureau_déplacement, style d'argent ancien (2).webp",
-      "/vetement_femme/236/SHEIN MOD Blouse vintage mignonne en tweed pour dames, blanche, tenue de bureau_déplacement, style d'argent ancien (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/236/SHEIN MOD Blouse vintage mignonne en tweed pour dames, blanche, tenue de bureau_déplacement, style d'argent ancien.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/236/SHEIN MOD Blouse vintage mignonne en tweed pour dames, blanche, tenue de bureau_déplacement, style d'argent ancien (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/236/SHEIN MOD Blouse vintage mignonne en tweed pour dames, blanche, tenue de bureau_déplacement, style d'argent ancien (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/236/SHEIN MOD Blouse vintage mignonne en tweed pour dames, blanche, tenue de bureau_déplacement, style d'argent ancien (3).webp"
     ]
   },
   {
@@ -9949,15 +9949,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/237/Elenzga Blouse à manches courtes pour femmes avec patchwork de broderie florale en maille, design de taille élégant, Top chic convenant pour les sorties quotidiennes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/237/Elenzga Blouse à manches courtes pour femmes avec patchwork de broderie florale en maille, design de taille élégant, Top chic convenant pour les sorties quotidiennes.webp",
     "images": [
-      "/vetement_femme/237/Elenzga Blouse à manches courtes pour femmes avec patchwork de broderie florale en maille, design de taille élégant, Top chic convenant pour les sorties quotidiennes.webp",
-      "/vetement_femme/237/Elenzga Blouse à manches courtes pour femmes avec patchwork de broderie florale en maille, design de taille élégant, Top chic convenant pour les sorties quotidiennes (1).webp",
-      "/vetement_femme/237/Elenzga Blouse à manches courtes pour femmes avec patchwork de broderie florale en maille, design de taille élégant, Top chic convenant pour les sorties quotidiennes (2).webp",
-      "/vetement_femme/237/Elenzga Blouse à manches courtes pour femmes avec patchwork de broderie florale en maille, design de taille élégant, Top chic convenant pour les sorties quotidiennes (3).webp",
-      "/vetement_femme/237/Elenzga Blouse à manches courtes pour femmes avec patchwork de broderie florale en maille, design de taille élégant, Top chic convenant pour les sorties quotidiennes (4).webp",
-      "/vetement_femme/237/Elenzga Blouse à manches courtes pour femmes avec patchwork de broderie florale en maille, design de taille élégant, Top chic convenant pour les sorties quotidiennes (5).webp",
-      "/vetement_femme/237/Elenzga Blouse à manches courtes pour femmes avec patchwork de broderie florale en maille, design de taille élégant, Top chic convenant pour les sorties quotidiennes (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/237/Elenzga Blouse à manches courtes pour femmes avec patchwork de broderie florale en maille, design de taille élégant, Top chic convenant pour les sorties quotidiennes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/237/Elenzga Blouse à manches courtes pour femmes avec patchwork de broderie florale en maille, design de taille élégant, Top chic convenant pour les sorties quotidiennes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/237/Elenzga Blouse à manches courtes pour femmes avec patchwork de broderie florale en maille, design de taille élégant, Top chic convenant pour les sorties quotidiennes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/237/Elenzga Blouse à manches courtes pour femmes avec patchwork de broderie florale en maille, design de taille élégant, Top chic convenant pour les sorties quotidiennes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/237/Elenzga Blouse à manches courtes pour femmes avec patchwork de broderie florale en maille, design de taille élégant, Top chic convenant pour les sorties quotidiennes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/237/Elenzga Blouse à manches courtes pour femmes avec patchwork de broderie florale en maille, design de taille élégant, Top chic convenant pour les sorties quotidiennes (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/237/Elenzga Blouse à manches courtes pour femmes avec patchwork de broderie florale en maille, design de taille élégant, Top chic convenant pour les sorties quotidiennes (6).webp"
     ]
   },
   {
@@ -9992,12 +9992,12 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/238/Soleia Débardeur de fête, de plage, de vacances d'été, de la Saint-Valentin, de carnaval pour femmes. Débardeur décontracté rouge à imprimé floral avec nœud devant et encolure bateaux, style Y2K.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/238/Soleia Débardeur de fête, de plage, de vacances d'été, de la Saint-Valentin, de carnaval pour femmes. Débardeur décontracté rouge à imprimé floral avec nœud devant et encolure bateaux, style Y2K.webp",
     "images": [
-      "/vetement_femme/238/Soleia Débardeur de fête, de plage, de vacances d'été, de la Saint-Valentin, de carnaval pour femmes. Débardeur décontracté rouge à imprimé floral avec nœud devant et encolure bateaux, style Y2K.webp",
-      "/vetement_femme/238/Soleia Débardeur de fête, de plage, de vacances d'été, de la Saint-Valentin, de carnaval pour femmes. Débardeur décontracté rouge à imprimé floral avec nœud devant et encolure bateaux, style Y2K (1).webp",
-      "/vetement_femme/238/Soleia Débardeur de fête, de plage, de vacances d'été, de la Saint-Valentin, de carnaval pour femmes. Débardeur décontracté rouge à imprimé floral avec nœud devant et encolure bateaux, style Y2K (2).webp",
-      "/vetement_femme/238/Soleia Débardeur de fête, de plage, de vacances d'été, de la Saint-Valentin, de carnaval pour femmes. Débardeur décontracté rouge à imprimé floral avec nœud devant et encolure bateaux, style Y2K (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/238/Soleia Débardeur de fête, de plage, de vacances d'été, de la Saint-Valentin, de carnaval pour femmes. Débardeur décontracté rouge à imprimé floral avec nœud devant et encolure bateaux, style Y2K.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/238/Soleia Débardeur de fête, de plage, de vacances d'été, de la Saint-Valentin, de carnaval pour femmes. Débardeur décontracté rouge à imprimé floral avec nœud devant et encolure bateaux, style Y2K (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/238/Soleia Débardeur de fête, de plage, de vacances d'été, de la Saint-Valentin, de carnaval pour femmes. Débardeur décontracté rouge à imprimé floral avec nœud devant et encolure bateaux, style Y2K (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/238/Soleia Débardeur de fête, de plage, de vacances d'été, de la Saint-Valentin, de carnaval pour femmes. Débardeur décontracté rouge à imprimé floral avec nœud devant et encolure bateaux, style Y2K (3).webp"
     ]
   },
   {
@@ -10031,14 +10031,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/239/Elenzga Top camisole dos nu sexy femme d'été avec imprimé tie-dye.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/239/Elenzga Top camisole dos nu sexy femme d'été avec imprimé tie-dye.webp",
     "images": [
-      "/vetement_femme/239/Elenzga Top camisole dos nu sexy femme d'été avec imprimé tie-dye.webp",
-      "/vetement_femme/239/Elenzga Top camisole dos nu sexy femme d'été avec imprimé tie-dye (1).webp",
-      "/vetement_femme/239/Elenzga Top camisole dos nu sexy femme d'été avec imprimé tie-dye (2).webp",
-      "/vetement_femme/239/Elenzga Top camisole dos nu sexy femme d'été avec imprimé tie-dye (3).webp",
-      "/vetement_femme/239/Elenzga Top camisole dos nu sexy femme d'été avec imprimé tie-dye (4).webp",
-      "/vetement_femme/239/Elenzga Top camisole dos nu sexy femme d'été avec imprimé tie-dye (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/239/Elenzga Top camisole dos nu sexy femme d'été avec imprimé tie-dye.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/239/Elenzga Top camisole dos nu sexy femme d'été avec imprimé tie-dye (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/239/Elenzga Top camisole dos nu sexy femme d'été avec imprimé tie-dye (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/239/Elenzga Top camisole dos nu sexy femme d'été avec imprimé tie-dye (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/239/Elenzga Top camisole dos nu sexy femme d'été avec imprimé tie-dye (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/239/Elenzga Top camisole dos nu sexy femme d'été avec imprimé tie-dye (5).webp"
     ]
   },
   {
@@ -10072,14 +10072,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 8,
-    "image": "/vetement_femme/240/Firerie 1 pièce Débardeur femme élégant et sexy à col plongeant avec imprimé floral en maille, convient pour les vacances d'été.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/240/Firerie 1 pièce Débardeur femme élégant et sexy à col plongeant avec imprimé floral en maille, convient pour les vacances d'été.webp",
     "images": [
-      "/vetement_femme/240/Firerie 1 pièce Débardeur femme élégant et sexy à col plongeant avec imprimé floral en maille, convient pour les vacances d'été.webp",
-      "/vetement_femme/240/Firerie 1 pièce Débardeur femme élégant et sexy à col plongeant avec imprimé floral en maille, convient pour les vacances d'été (1).webp",
-      "/vetement_femme/240/Firerie 1 pièce Débardeur femme élégant et sexy à col plongeant avec imprimé floral en maille, convient pour les vacances d'été (2).webp",
-      "/vetement_femme/240/Firerie 1 pièce Débardeur femme élégant et sexy à col plongeant avec imprimé floral en maille, convient pour les vacances d'été (3).webp",
-      "/vetement_femme/240/Firerie 1 pièce Débardeur femme élégant et sexy à col plongeant avec imprimé floral en maille, convient pour les vacances d'été (4).webp",
-      "/vetement_femme/240/Firerie 1 pièce Débardeur femme élégant et sexy à col plongeant avec imprimé floral en maille, convient pour les vacances d'été (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/240/Firerie 1 pièce Débardeur femme élégant et sexy à col plongeant avec imprimé floral en maille, convient pour les vacances d'été.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/240/Firerie 1 pièce Débardeur femme élégant et sexy à col plongeant avec imprimé floral en maille, convient pour les vacances d'été (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/240/Firerie 1 pièce Débardeur femme élégant et sexy à col plongeant avec imprimé floral en maille, convient pour les vacances d'été (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/240/Firerie 1 pièce Débardeur femme élégant et sexy à col plongeant avec imprimé floral en maille, convient pour les vacances d'été (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/240/Firerie 1 pièce Débardeur femme élégant et sexy à col plongeant avec imprimé floral en maille, convient pour les vacances d'été (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/240/Firerie 1 pièce Débardeur femme élégant et sexy à col plongeant avec imprimé floral en maille, convient pour les vacances d'été (5).webp"
     ]
   },
   {
@@ -10115,15 +10115,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/241/Elenzga Blouse sans manches à encolure en V avec taille froncée et appliqué floral 3D, coupe évasée élégante, jaune, printemps_été.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/241/Elenzga Blouse sans manches à encolure en V avec taille froncée et appliqué floral 3D, coupe évasée élégante, jaune, printemps_été.webp",
     "images": [
-      "/vetement_femme/241/Elenzga Blouse sans manches à encolure en V avec taille froncée et appliqué floral 3D, coupe évasée élégante, jaune, printemps_été.webp",
-      "/vetement_femme/241/Elenzga Blouse sans manches à encolure en V avec taille froncée et appliqué floral 3D, coupe évasée élégante, jaune, printemps_été (1).webp",
-      "/vetement_femme/241/Elenzga Blouse sans manches à encolure en V avec taille froncée et appliqué floral 3D, coupe évasée élégante, jaune, printemps_été (2).webp",
-      "/vetement_femme/241/Elenzga Blouse sans manches à encolure en V avec taille froncée et appliqué floral 3D, coupe évasée élégante, jaune, printemps_été (3).webp",
-      "/vetement_femme/241/Elenzga Blouse sans manches à encolure en V avec taille froncée et appliqué floral 3D, coupe évasée élégante, jaune, printemps_été (4).webp",
-      "/vetement_femme/241/Elenzga Blouse sans manches à encolure en V avec taille froncée et appliqué floral 3D, coupe évasée élégante, jaune, printemps_été (5).webp",
-      "/vetement_femme/241/Elenzga Blouse sans manches à encolure en V avec taille froncée et appliqué floral 3D, coupe évasée élégante, jaune, printemps_été (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/241/Elenzga Blouse sans manches à encolure en V avec taille froncée et appliqué floral 3D, coupe évasée élégante, jaune, printemps_été.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/241/Elenzga Blouse sans manches à encolure en V avec taille froncée et appliqué floral 3D, coupe évasée élégante, jaune, printemps_été (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/241/Elenzga Blouse sans manches à encolure en V avec taille froncée et appliqué floral 3D, coupe évasée élégante, jaune, printemps_été (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/241/Elenzga Blouse sans manches à encolure en V avec taille froncée et appliqué floral 3D, coupe évasée élégante, jaune, printemps_été (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/241/Elenzga Blouse sans manches à encolure en V avec taille froncée et appliqué floral 3D, coupe évasée élégante, jaune, printemps_été (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/241/Elenzga Blouse sans manches à encolure en V avec taille froncée et appliqué floral 3D, coupe évasée élégante, jaune, printemps_été (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/241/Elenzga Blouse sans manches à encolure en V avec taille froncée et appliqué floral 3D, coupe évasée élégante, jaune, printemps_été (6).webp"
     ]
   },
   {
@@ -10158,13 +10158,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/242/Elenzga Combinaison élégante bicolore pour le travail.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/242/Elenzga Combinaison élégante bicolore pour le travail.webp",
     "images": [
-      "/vetement_femme/242/Elenzga Combinaison élégante bicolore pour le travail.webp",
-      "/vetement_femme/242/Elenzga Combinaison élégante bicolore pour le travail (1).webp",
-      "/vetement_femme/242/Elenzga Combinaison élégante bicolore pour le travail (2).webp",
-      "/vetement_femme/242/Elenzga Combinaison élégante bicolore pour le travail (3).webp",
-      "/vetement_femme/242/Elenzga Combinaison élégante bicolore pour le travail (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/242/Elenzga Combinaison élégante bicolore pour le travail.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/242/Elenzga Combinaison élégante bicolore pour le travail (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/242/Elenzga Combinaison élégante bicolore pour le travail (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/242/Elenzga Combinaison élégante bicolore pour le travail (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/242/Elenzga Combinaison élégante bicolore pour le travail (4).webp"
     ]
   },
   {
@@ -10199,14 +10199,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/243/Elenzga Combinaison élégante pour femme, style travail, coupe évasée, col châle contrasté, sans manches et ceinture, idéale pour les trajets domicile-travail, printemps_été_automne.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/243/Elenzga Combinaison élégante pour femme, style travail, coupe évasée, col châle contrasté, sans manches et ceinture, idéale pour les trajets domicile-travail, printemps_été_automne.webp",
     "images": [
-      "/vetement_femme/243/Elenzga Combinaison élégante pour femme, style travail, coupe évasée, col châle contrasté, sans manches et ceinture, idéale pour les trajets domicile-travail, printemps_été_automne.webp",
-      "/vetement_femme/243/Elenzga Combinaison élégante pour femme, style travail, coupe évasée, col châle contrasté, sans manches et ceinture, idéale pour les trajets domicile-travail, printemps_été_automne (1).webp",
-      "/vetement_femme/243/Elenzga Combinaison élégante pour femme, style travail, coupe évasée, col châle contrasté, sans manches et ceinture, idéale pour les trajets domicile-travail, printemps_été_automne (2).webp",
-      "/vetement_femme/243/Elenzga Combinaison élégante pour femme, style travail, coupe évasée, col châle contrasté, sans manches et ceinture, idéale pour les trajets domicile-travail, printemps_été_automne (3).webp",
-      "/vetement_femme/243/Elenzga Combinaison élégante pour femme, style travail, coupe évasée, col châle contrasté, sans manches et ceinture, idéale pour les trajets domicile-travail, printemps_été_automne (4).webp",
-      "/vetement_femme/243/Elenzga Combinaison élégante pour femme, style travail, coupe évasée, col châle contrasté, sans manches et ceinture, idéale pour les trajets domicile-travail, printemps_été_automne (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/243/Elenzga Combinaison élégante pour femme, style travail, coupe évasée, col châle contrasté, sans manches et ceinture, idéale pour les trajets domicile-travail, printemps_été_automne.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/243/Elenzga Combinaison élégante pour femme, style travail, coupe évasée, col châle contrasté, sans manches et ceinture, idéale pour les trajets domicile-travail, printemps_été_automne (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/243/Elenzga Combinaison élégante pour femme, style travail, coupe évasée, col châle contrasté, sans manches et ceinture, idéale pour les trajets domicile-travail, printemps_été_automne (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/243/Elenzga Combinaison élégante pour femme, style travail, coupe évasée, col châle contrasté, sans manches et ceinture, idéale pour les trajets domicile-travail, printemps_été_automne (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/243/Elenzga Combinaison élégante pour femme, style travail, coupe évasée, col châle contrasté, sans manches et ceinture, idéale pour les trajets domicile-travail, printemps_été_automne (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/243/Elenzga Combinaison élégante pour femme, style travail, coupe évasée, col châle contrasté, sans manches et ceinture, idéale pour les trajets domicile-travail, printemps_été_automne (5).webp"
     ]
   },
   {
@@ -10241,15 +10241,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/244/Selianne Combinaison ample à encolure en V et taille nouée pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/244/Selianne Combinaison ample à encolure en V et taille nouée pour femmes.webp",
     "images": [
-      "/vetement_femme/244/Selianne Combinaison ample à encolure en V et taille nouée pour femmes.webp",
-      "/vetement_femme/244/Selianne Combinaison ample à encolure en V et taille nouée pour femmes (1).webp",
-      "/vetement_femme/244/Selianne Combinaison ample à encolure en V et taille nouée pour femmes (2).webp",
-      "/vetement_femme/244/Selianne Combinaison ample à encolure en V et taille nouée pour femmes (3).webp",
-      "/vetement_femme/244/Selianne Combinaison ample à encolure en V et taille nouée pour femmes (4).webp",
-      "/vetement_femme/244/Selianne Combinaison ample à encolure en V et taille nouée pour femmes (5).webp",
-      "/vetement_femme/244/Selianne Combinaison ample à encolure en V et taille nouée pour femmes (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/244/Selianne Combinaison ample à encolure en V et taille nouée pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/244/Selianne Combinaison ample à encolure en V et taille nouée pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/244/Selianne Combinaison ample à encolure en V et taille nouée pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/244/Selianne Combinaison ample à encolure en V et taille nouée pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/244/Selianne Combinaison ample à encolure en V et taille nouée pour femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/244/Selianne Combinaison ample à encolure en V et taille nouée pour femmes (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/244/Selianne Combinaison ample à encolure en V et taille nouée pour femmes (6).webp"
     ]
   },
   {
@@ -10284,15 +10284,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/245/Breezaya Combinaison imprimé paisley bohème.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/245/Breezaya Combinaison imprimé paisley bohème.webp",
     "images": [
-      "/vetement_femme/245/Breezaya Combinaison imprimé paisley bohème.webp",
-      "/vetement_femme/245/Breezaya Combinaison imprimé paisley bohème (1).webp",
-      "/vetement_femme/245/Breezaya Combinaison imprimé paisley bohème (2).webp",
-      "/vetement_femme/245/Breezaya Combinaison imprimé paisley bohème (3).webp",
-      "/vetement_femme/245/Breezaya Combinaison imprimé paisley bohème (4).webp",
-      "/vetement_femme/245/Breezaya Combinaison imprimé paisley bohème (5).webp",
-      "/vetement_femme/245/Breezaya Combinaison imprimé paisley bohème (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/245/Breezaya Combinaison imprimé paisley bohème.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/245/Breezaya Combinaison imprimé paisley bohème (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/245/Breezaya Combinaison imprimé paisley bohème (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/245/Breezaya Combinaison imprimé paisley bohème (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/245/Breezaya Combinaison imprimé paisley bohème (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/245/Breezaya Combinaison imprimé paisley bohème (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/245/Breezaya Combinaison imprimé paisley bohème (6).webp"
     ]
   },
   {
@@ -10327,15 +10327,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/246/Elenzga Combinaison élégante pour femmes avec décoration de nœud sur l'épaule, en tissu jacquard, taille cintrée, jambes larges, convient pour les déplacements quotidiens.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/246/Elenzga Combinaison élégante pour femmes avec décoration de nœud sur l'épaule, en tissu jacquard, taille cintrée, jambes larges, convient pour les déplacements quotidiens.webp",
     "images": [
-      "/vetement_femme/246/Elenzga Combinaison élégante pour femmes avec décoration de nœud sur l'épaule, en tissu jacquard, taille cintrée, jambes larges, convient pour les déplacements quotidiens.webp",
-      "/vetement_femme/246/Elenzga Combinaison élégante pour femmes avec décoration de nœud sur l'épaule, en tissu jacquard, taille cintrée, jambes larges, convient pour les déplacements quotidiens (1).webp",
-      "/vetement_femme/246/Elenzga Combinaison élégante pour femmes avec décoration de nœud sur l'épaule, en tissu jacquard, taille cintrée, jambes larges, convient pour les déplacements quotidiens (2).webp",
-      "/vetement_femme/246/Elenzga Combinaison élégante pour femmes avec décoration de nœud sur l'épaule, en tissu jacquard, taille cintrée, jambes larges, convient pour les déplacements quotidiens (3).webp",
-      "/vetement_femme/246/Elenzga Combinaison élégante pour femmes avec décoration de nœud sur l'épaule, en tissu jacquard, taille cintrée, jambes larges, convient pour les déplacements quotidiens (4).webp",
-      "/vetement_femme/246/Elenzga Combinaison élégante pour femmes avec décoration de nœud sur l'épaule, en tissu jacquard, taille cintrée, jambes larges, convient pour les déplacements quotidiens (5).webp",
-      "/vetement_femme/246/Elenzga Combinaison élégante pour femmes avec décoration de nœud sur l'épaule, en tissu jacquard, taille cintrée, jambes larges, convient pour les déplacements quotidiens (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/246/Elenzga Combinaison élégante pour femmes avec décoration de nœud sur l'épaule, en tissu jacquard, taille cintrée, jambes larges, convient pour les déplacements quotidiens.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/246/Elenzga Combinaison élégante pour femmes avec décoration de nœud sur l'épaule, en tissu jacquard, taille cintrée, jambes larges, convient pour les déplacements quotidiens (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/246/Elenzga Combinaison élégante pour femmes avec décoration de nœud sur l'épaule, en tissu jacquard, taille cintrée, jambes larges, convient pour les déplacements quotidiens (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/246/Elenzga Combinaison élégante pour femmes avec décoration de nœud sur l'épaule, en tissu jacquard, taille cintrée, jambes larges, convient pour les déplacements quotidiens (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/246/Elenzga Combinaison élégante pour femmes avec décoration de nœud sur l'épaule, en tissu jacquard, taille cintrée, jambes larges, convient pour les déplacements quotidiens (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/246/Elenzga Combinaison élégante pour femmes avec décoration de nœud sur l'épaule, en tissu jacquard, taille cintrée, jambes larges, convient pour les déplacements quotidiens (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/246/Elenzga Combinaison élégante pour femmes avec décoration de nœud sur l'épaule, en tissu jacquard, taille cintrée, jambes larges, convient pour les déplacements quotidiens (6).webp"
     ]
   },
   {
@@ -10370,14 +10370,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/247/Elenzga Combinaison bandeau rayée d'été décontractée pour femmes - motif floral aléatoire.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/247/Elenzga Combinaison bandeau rayée d'été décontractée pour femmes - motif floral aléatoire.webp",
     "images": [
-      "/vetement_femme/247/Elenzga Combinaison bandeau rayée d'été décontractée pour femmes - motif floral aléatoire.webp",
-      "/vetement_femme/247/Elenzga Combinaison bandeau rayée d'été décontractée pour femmes - motif floral aléatoire (1).webp",
-      "/vetement_femme/247/Elenzga Combinaison bandeau rayée d'été décontractée pour femmes - motif floral aléatoire (2).webp",
-      "/vetement_femme/247/Elenzga Combinaison bandeau rayée d'été décontractée pour femmes - motif floral aléatoire (3).webp",
-      "/vetement_femme/247/Elenzga Combinaison bandeau rayée d'été décontractée pour femmes - motif floral aléatoire (4).webp",
-      "/vetement_femme/247/Elenzga Combinaison bandeau rayée d'été décontractée pour femmes - motif floral aléatoire (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/247/Elenzga Combinaison bandeau rayée d'été décontractée pour femmes - motif floral aléatoire.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/247/Elenzga Combinaison bandeau rayée d'été décontractée pour femmes - motif floral aléatoire (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/247/Elenzga Combinaison bandeau rayée d'été décontractée pour femmes - motif floral aléatoire (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/247/Elenzga Combinaison bandeau rayée d'été décontractée pour femmes - motif floral aléatoire (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/247/Elenzga Combinaison bandeau rayée d'été décontractée pour femmes - motif floral aléatoire (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/247/Elenzga Combinaison bandeau rayée d'été décontractée pour femmes - motif floral aléatoire (5).webp"
     ]
   },
   {
@@ -10412,14 +10412,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/248/Elenzga Combinaison élégante à double boutonnage et plissée de couleur abricot pour femmes, printemps_automne.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/248/Elenzga Combinaison élégante à double boutonnage et plissée de couleur abricot pour femmes, printemps_automne.webp",
     "images": [
-      "/vetement_femme/248/Elenzga Combinaison élégante à double boutonnage et plissée de couleur abricot pour femmes, printemps_automne.webp",
-      "/vetement_femme/248/Elenzga Combinaison élégante à double boutonnage et plissée de couleur abricot pour femmes, printemps_automne (1).webp",
-      "/vetement_femme/248/Elenzga Combinaison élégante à double boutonnage et plissée de couleur abricot pour femmes, printemps_automne (2).webp",
-      "/vetement_femme/248/Elenzga Combinaison élégante à double boutonnage et plissée de couleur abricot pour femmes, printemps_automne (3).webp",
-      "/vetement_femme/248/Elenzga Combinaison élégante à double boutonnage et plissée de couleur abricot pour femmes, printemps_automne (4).webp",
-      "/vetement_femme/248/Elenzga Combinaison élégante à double boutonnage et plissée de couleur abricot pour femmes, printemps_automne (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/248/Elenzga Combinaison élégante à double boutonnage et plissée de couleur abricot pour femmes, printemps_automne.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/248/Elenzga Combinaison élégante à double boutonnage et plissée de couleur abricot pour femmes, printemps_automne (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/248/Elenzga Combinaison élégante à double boutonnage et plissée de couleur abricot pour femmes, printemps_automne (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/248/Elenzga Combinaison élégante à double boutonnage et plissée de couleur abricot pour femmes, printemps_automne (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/248/Elenzga Combinaison élégante à double boutonnage et plissée de couleur abricot pour femmes, printemps_automne (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/248/Elenzga Combinaison élégante à double boutonnage et plissée de couleur abricot pour femmes, printemps_automne (5).webp"
     ]
   },
   {
@@ -10454,14 +10454,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/249/Elenzga Nouvelle combinaison élégante et décontractée pour femme sans manches, avec revers, à double boutonnage, avec taille resserrée, coupe slim, printemps_été.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/249/Elenzga Nouvelle combinaison élégante et décontractée pour femme sans manches, avec revers, à double boutonnage, avec taille resserrée, coupe slim, printemps_été.webp",
     "images": [
-      "/vetement_femme/249/Elenzga Nouvelle combinaison élégante et décontractée pour femme sans manches, avec revers, à double boutonnage, avec taille resserrée, coupe slim, printemps_été.webp",
-      "/vetement_femme/249/Elenzga Nouvelle combinaison élégante et décontractée pour femme sans manches, avec revers, à double boutonnage, avec taille resserrée, coupe slim, printemps_été (1).webp",
-      "/vetement_femme/249/Elenzga Nouvelle combinaison élégante et décontractée pour femme sans manches, avec revers, à double boutonnage, avec taille resserrée, coupe slim, printemps_été (2).webp",
-      "/vetement_femme/249/Elenzga Nouvelle combinaison élégante et décontractée pour femme sans manches, avec revers, à double boutonnage, avec taille resserrée, coupe slim, printemps_été (3).webp",
-      "/vetement_femme/249/Elenzga Nouvelle combinaison élégante et décontractée pour femme sans manches, avec revers, à double boutonnage, avec taille resserrée, coupe slim, printemps_été (4).webp",
-      "/vetement_femme/249/Elenzga Nouvelle combinaison élégante et décontractée pour femme sans manches, avec revers, à double boutonnage, avec taille resserrée, coupe slim, printemps_été (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/249/Elenzga Nouvelle combinaison élégante et décontractée pour femme sans manches, avec revers, à double boutonnage, avec taille resserrée, coupe slim, printemps_été.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/249/Elenzga Nouvelle combinaison élégante et décontractée pour femme sans manches, avec revers, à double boutonnage, avec taille resserrée, coupe slim, printemps_été (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/249/Elenzga Nouvelle combinaison élégante et décontractée pour femme sans manches, avec revers, à double boutonnage, avec taille resserrée, coupe slim, printemps_été (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/249/Elenzga Nouvelle combinaison élégante et décontractée pour femme sans manches, avec revers, à double boutonnage, avec taille resserrée, coupe slim, printemps_été (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/249/Elenzga Nouvelle combinaison élégante et décontractée pour femme sans manches, avec revers, à double boutonnage, avec taille resserrée, coupe slim, printemps_été (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/249/Elenzga Nouvelle combinaison élégante et décontractée pour femme sans manches, avec revers, à double boutonnage, avec taille resserrée, coupe slim, printemps_été (5).webp"
     ]
   },
   {
@@ -10496,14 +10496,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/250/Rafferiza Petite Combinaison pantalon ajustée évasée avec col contrasté.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/250/Rafferiza Petite Combinaison pantalon ajustée évasée avec col contrasté.webp",
     "images": [
-      "/vetement_femme/250/Rafferiza Petite Combinaison pantalon ajustée évasée avec col contrasté.webp",
-      "/vetement_femme/250/Rafferiza Petite Combinaison pantalon ajustée évasée avec col contrasté (1).webp",
-      "/vetement_femme/250/Rafferiza Petite Combinaison pantalon ajustée évasée avec col contrasté (2).webp",
-      "/vetement_femme/250/Rafferiza Petite Combinaison pantalon ajustée évasée avec col contrasté (3).webp",
-      "/vetement_femme/250/Rafferiza Petite Combinaison pantalon ajustée évasée avec col contrasté (4).webp",
-      "/vetement_femme/250/Rafferiza Petite Combinaison pantalon ajustée évasée avec col contrasté (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/250/Rafferiza Petite Combinaison pantalon ajustée évasée avec col contrasté.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/250/Rafferiza Petite Combinaison pantalon ajustée évasée avec col contrasté (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/250/Rafferiza Petite Combinaison pantalon ajustée évasée avec col contrasté (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/250/Rafferiza Petite Combinaison pantalon ajustée évasée avec col contrasté (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/250/Rafferiza Petite Combinaison pantalon ajustée évasée avec col contrasté (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/250/Rafferiza Petite Combinaison pantalon ajustée évasée avec col contrasté (5).webp"
     ]
   },
   {
@@ -10538,14 +10538,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/251/SHEIN Elenzya Combinaison noire à manches cape scintillante pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/251/SHEIN Elenzya Combinaison noire à manches cape scintillante pour femmes.webp",
     "images": [
-      "/vetement_femme/251/SHEIN Elenzya Combinaison noire à manches cape scintillante pour femmes.webp",
-      "/vetement_femme/251/SHEIN Elenzya Combinaison noire à manches cape scintillante pour femmes (1).webp",
-      "/vetement_femme/251/SHEIN Elenzya Combinaison noire à manches cape scintillante pour femmes (2).webp",
-      "/vetement_femme/251/SHEIN Elenzya Combinaison noire à manches cape scintillante pour femmes (3).webp",
-      "/vetement_femme/251/SHEIN Elenzya Combinaison noire à manches cape scintillante pour femmes (4).webp",
-      "/vetement_femme/251/SHEIN Elenzya Combinaison noire à manches cape scintillante pour femmes (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/251/SHEIN Elenzya Combinaison noire à manches cape scintillante pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/251/SHEIN Elenzya Combinaison noire à manches cape scintillante pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/251/SHEIN Elenzya Combinaison noire à manches cape scintillante pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/251/SHEIN Elenzya Combinaison noire à manches cape scintillante pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/251/SHEIN Elenzya Combinaison noire à manches cape scintillante pour femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/251/SHEIN Elenzya Combinaison noire à manches cape scintillante pour femmes (5).webp"
     ]
   },
   {
@@ -10582,14 +10582,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 2,
-    "image": "/vetement_femme/252/Rafferiza Combinaison élégante à jambes larges en mousseline de soie plissée à la taille avec col en V et perles, convient pour une tenue d'invitée de mariage.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/252/Rafferiza Combinaison élégante à jambes larges en mousseline de soie plissée à la taille avec col en V et perles, convient pour une tenue d'invitée de mariage.webp",
     "images": [
-      "/vetement_femme/252/Rafferiza Combinaison élégante à jambes larges en mousseline de soie plissée à la taille avec col en V et perles, convient pour une tenue d'invitée de mariage.webp",
-      "/vetement_femme/252/Rafferiza Combinaison élégante à jambes larges en mousseline de soie plissée à la taille avec col en V et perles, convient pour une tenue d'invitée de mariage (1).webp",
-      "/vetement_femme/252/Rafferiza Combinaison élégante à jambes larges en mousseline de soie plissée à la taille avec col en V et perles, convient pour une tenue d'invitée de mariage (2).webp",
-      "/vetement_femme/252/Rafferiza Combinaison élégante à jambes larges en mousseline de soie plissée à la taille avec col en V et perles, convient pour une tenue d'invitée de mariage (3).webp",
-      "/vetement_femme/252/Rafferiza Combinaison élégante à jambes larges en mousseline de soie plissée à la taille avec col en V et perles, convient pour une tenue d'invitée de mariage (4).webp",
-      "/vetement_femme/252/Rafferiza Combinaison élégante à jambes larges en mousseline de soie plissée à la taille avec col en V et perles, convient pour une tenue d'invitée de mariage (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/252/Rafferiza Combinaison élégante à jambes larges en mousseline de soie plissée à la taille avec col en V et perles, convient pour une tenue d'invitée de mariage.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/252/Rafferiza Combinaison élégante à jambes larges en mousseline de soie plissée à la taille avec col en V et perles, convient pour une tenue d'invitée de mariage (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/252/Rafferiza Combinaison élégante à jambes larges en mousseline de soie plissée à la taille avec col en V et perles, convient pour une tenue d'invitée de mariage (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/252/Rafferiza Combinaison élégante à jambes larges en mousseline de soie plissée à la taille avec col en V et perles, convient pour une tenue d'invitée de mariage (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/252/Rafferiza Combinaison élégante à jambes larges en mousseline de soie plissée à la taille avec col en V et perles, convient pour une tenue d'invitée de mariage (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/252/Rafferiza Combinaison élégante à jambes larges en mousseline de soie plissée à la taille avec col en V et perles, convient pour une tenue d'invitée de mariage (5).webp"
     ]
   },
   {
@@ -10624,13 +10624,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/253/Elenzga Nouvelle combinaison femme à col cranté sans manches, taille cintrée, double boutonnage. Polyvalente pour le port quotidien et les déplacements, jeune et élégante, affinante, pantalon droit. Combinaison é.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/253/Elenzga Nouvelle combinaison femme à col cranté sans manches, taille cintrée, double boutonnage. Polyvalente pour le port quotidien et les déplacements, jeune et élégante, affinante, pantalon droit. Combinaison é.webp",
     "images": [
-      "/vetement_femme/253/Elenzga Nouvelle combinaison femme à col cranté sans manches, taille cintrée, double boutonnage. Polyvalente pour le port quotidien et les déplacements, jeune et élégante, affinante, pantalon droit. Combinaison é.webp",
-      "/vetement_femme/253/Elenzga Nouvelle combinaison femme à col cranté sans manches, taille cintrée, double boutonnage. Polyvalente pour le port quotidien et les déplacements, jeune et élégante, affinante, pantalon droit. Combinais (1).webp",
-      "/vetement_femme/253/Elenzga Nouvelle combinaison femme à col cranté sans manches, taille cintrée, double boutonnage. Polyvalente pour le port quotidien et les déplacements, jeune et élégante, affinante, pantalon droit. Combinais (2).webp",
-      "/vetement_femme/253/Elenzga Nouvelle combinaison femme à col cranté sans manches, taille cintrée, double boutonnage. Polyvalente pour le port quotidien et les déplacements, jeune et élégante, affinante, pantalon droit. Combinais (3).webp",
-      "/vetement_femme/253/Elenzga Nouvelle combinaison femme à col cranté sans manches, taille cintrée, double boutonnage. Polyvalente pour le port quotidien et les déplacements, jeune et élégante, affinante, pantalon droit. Combinais (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/253/Elenzga Nouvelle combinaison femme à col cranté sans manches, taille cintrée, double boutonnage. Polyvalente pour le port quotidien et les déplacements, jeune et élégante, affinante, pantalon droit. Combinaison é.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/253/Elenzga Nouvelle combinaison femme à col cranté sans manches, taille cintrée, double boutonnage. Polyvalente pour le port quotidien et les déplacements, jeune et élégante, affinante, pantalon droit. Combinais (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/253/Elenzga Nouvelle combinaison femme à col cranté sans manches, taille cintrée, double boutonnage. Polyvalente pour le port quotidien et les déplacements, jeune et élégante, affinante, pantalon droit. Combinais (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/253/Elenzga Nouvelle combinaison femme à col cranté sans manches, taille cintrée, double boutonnage. Polyvalente pour le port quotidien et les déplacements, jeune et élégante, affinante, pantalon droit. Combinais (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/253/Elenzga Nouvelle combinaison femme à col cranté sans manches, taille cintrée, double boutonnage. Polyvalente pour le port quotidien et les déplacements, jeune et élégante, affinante, pantalon droit. Combinais (4).webp"
     ]
   },
   {
@@ -10665,14 +10665,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/254/Rafferiza Combinaison élégante à manches longues et patchwork pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/254/Rafferiza Combinaison élégante à manches longues et patchwork pour femmes.webp",
     "images": [
-      "/vetement_femme/254/Rafferiza Combinaison élégante à manches longues et patchwork pour femmes.webp",
-      "/vetement_femme/254/Rafferiza Combinaison élégante à manches longues et patchwork pour femmes (1).webp",
-      "/vetement_femme/254/Rafferiza Combinaison élégante à manches longues et patchwork pour femmes (2).webp",
-      "/vetement_femme/254/Rafferiza Combinaison élégante à manches longues et patchwork pour femmes (3).webp",
-      "/vetement_femme/254/Rafferiza Combinaison élégante à manches longues et patchwork pour femmes (4).webp",
-      "/vetement_femme/254/Rafferiza Combinaison élégante à manches longues et patchwork pour femmes (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/254/Rafferiza Combinaison élégante à manches longues et patchwork pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/254/Rafferiza Combinaison élégante à manches longues et patchwork pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/254/Rafferiza Combinaison élégante à manches longues et patchwork pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/254/Rafferiza Combinaison élégante à manches longues et patchwork pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/254/Rafferiza Combinaison élégante à manches longues et patchwork pour femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/254/Rafferiza Combinaison élégante à manches longues et patchwork pour femmes (5).webp"
     ]
   },
   {
@@ -10707,14 +10707,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/255/Selianne Combinaison ajourée texturée à vagues mode femme.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/255/Selianne Combinaison ajourée texturée à vagues mode femme.webp",
     "images": [
-      "/vetement_femme/255/Selianne Combinaison ajourée texturée à vagues mode femme.webp",
-      "/vetement_femme/255/Selianne Combinaison ajourée texturée à vagues mode femme (1).webp",
-      "/vetement_femme/255/Selianne Combinaison ajourée texturée à vagues mode femme (2).webp",
-      "/vetement_femme/255/Selianne Combinaison ajourée texturée à vagues mode femme (3).webp",
-      "/vetement_femme/255/Selianne Combinaison ajourée texturée à vagues mode femme (4).webp",
-      "/vetement_femme/255/Selianne Combinaison ajourée texturée à vagues mode femme (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/255/Selianne Combinaison ajourée texturée à vagues mode femme.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/255/Selianne Combinaison ajourée texturée à vagues mode femme (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/255/Selianne Combinaison ajourée texturée à vagues mode femme (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/255/Selianne Combinaison ajourée texturée à vagues mode femme (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/255/Selianne Combinaison ajourée texturée à vagues mode femme (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/255/Selianne Combinaison ajourée texturée à vagues mode femme (5).webp"
     ]
   },
   {
@@ -10749,14 +10749,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/256/Elenzga Combinaison sans manches avec lien à la taille pour femmes, été 2025.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/256/Elenzga Combinaison sans manches avec lien à la taille pour femmes, été 2025.webp",
     "images": [
-      "/vetement_femme/256/Elenzga Combinaison sans manches avec lien à la taille pour femmes, été 2025.webp",
-      "/vetement_femme/256/Elenzga Combinaison sans manches avec lien à la taille pour femmes, été 2025 (1).webp",
-      "/vetement_femme/256/Elenzga Combinaison sans manches avec lien à la taille pour femmes, été 2025 (2).webp",
-      "/vetement_femme/256/Elenzga Combinaison sans manches avec lien à la taille pour femmes, été 2025 (3).webp",
-      "/vetement_femme/256/Elenzga Combinaison sans manches avec lien à la taille pour femmes, été 2025 (4).webp",
-      "/vetement_femme/256/Elenzga Combinaison sans manches avec lien à la taille pour femmes, été 2025 (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/256/Elenzga Combinaison sans manches avec lien à la taille pour femmes, été 2025.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/256/Elenzga Combinaison sans manches avec lien à la taille pour femmes, été 2025 (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/256/Elenzga Combinaison sans manches avec lien à la taille pour femmes, été 2025 (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/256/Elenzga Combinaison sans manches avec lien à la taille pour femmes, été 2025 (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/256/Elenzga Combinaison sans manches avec lien à la taille pour femmes, été 2025 (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/256/Elenzga Combinaison sans manches avec lien à la taille pour femmes, été 2025 (5).webp"
     ]
   },
   {
@@ -10791,16 +10791,16 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/257/Rafferiza Combinaison ajustée élégante pour femmes avec col à nœud, manches courtes et épaules dénudées, en couleurs contrastées.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/257/Rafferiza Combinaison ajustée élégante pour femmes avec col à nœud, manches courtes et épaules dénudées, en couleurs contrastées.webp",
     "images": [
-      "/vetement_femme/257/Rafferiza Combinaison ajustée élégante pour femmes avec col à nœud, manches courtes et épaules dénudées, en couleurs contrastées.webp",
-      "/vetement_femme/257/Rafferiza Combinaison ajustée élégante pour femmes avec col à nœud, manches courtes et épaules dénudées, en couleurs contrastées (1).webp",
-      "/vetement_femme/257/Rafferiza Combinaison ajustée élégante pour femmes avec col à nœud, manches courtes et épaules dénudées, en couleurs contrastées (2).webp",
-      "/vetement_femme/257/Rafferiza Combinaison ajustée élégante pour femmes avec col à nœud, manches courtes et épaules dénudées, en couleurs contrastées (3).webp",
-      "/vetement_femme/257/Rafferiza Combinaison ajustée élégante pour femmes avec col à nœud, manches courtes et épaules dénudées, en couleurs contrastées (4).webp",
-      "/vetement_femme/257/Rafferiza Combinaison ajustée élégante pour femmes avec col à nœud, manches courtes et épaules dénudées, en couleurs contrastées (5).webp",
-      "/vetement_femme/257/Rafferiza Combinaison ajustée élégante pour femmes avec col à nœud, manches courtes et épaules dénudées, en couleurs contrastées (6).webp",
-      "/vetement_femme/257/Rafferiza Combinaison ajustée élégante pour femmes avec col à nœud, manches courtes et épaules dénudées, en couleurs contrastées (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/257/Rafferiza Combinaison ajustée élégante pour femmes avec col à nœud, manches courtes et épaules dénudées, en couleurs contrastées.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/257/Rafferiza Combinaison ajustée élégante pour femmes avec col à nœud, manches courtes et épaules dénudées, en couleurs contrastées (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/257/Rafferiza Combinaison ajustée élégante pour femmes avec col à nœud, manches courtes et épaules dénudées, en couleurs contrastées (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/257/Rafferiza Combinaison ajustée élégante pour femmes avec col à nœud, manches courtes et épaules dénudées, en couleurs contrastées (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/257/Rafferiza Combinaison ajustée élégante pour femmes avec col à nœud, manches courtes et épaules dénudées, en couleurs contrastées (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/257/Rafferiza Combinaison ajustée élégante pour femmes avec col à nœud, manches courtes et épaules dénudées, en couleurs contrastées (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/257/Rafferiza Combinaison ajustée élégante pour femmes avec col à nœud, manches courtes et épaules dénudées, en couleurs contrastées (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/257/Rafferiza Combinaison ajustée élégante pour femmes avec col à nœud, manches courtes et épaules dénudées, en couleurs contrastées (7).webp"
     ]
   },
   {
@@ -10835,15 +10835,15 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/258/Elenzga Combinaison élégante de style français avec col V en maille, broderie florale, col V, manches 3_4 en lanterne, fermeture éclair au dos, couleur abricot, printemps_été.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/258/Elenzga Combinaison élégante de style français avec col V en maille, broderie florale, col V, manches 3_4 en lanterne, fermeture éclair au dos, couleur abricot, printemps_été.webp",
     "images": [
-      "/vetement_femme/258/Elenzga Combinaison élégante de style français avec col V en maille, broderie florale, col V, manches 3_4 en lanterne, fermeture éclair au dos, couleur abricot, printemps_été.webp",
-      "/vetement_femme/258/Elenzga Combinaison élégante de style français avec col V en maille, broderie florale, col V, manches 3_4 en lanterne, fermeture éclair au dos, couleur abricot, printemps_été (1).webp",
-      "/vetement_femme/258/Elenzga Combinaison élégante de style français avec col V en maille, broderie florale, col V, manches 3_4 en lanterne, fermeture éclair au dos, couleur abricot, printemps_été (2).webp",
-      "/vetement_femme/258/Elenzga Combinaison élégante de style français avec col V en maille, broderie florale, col V, manches 3_4 en lanterne, fermeture éclair au dos, couleur abricot, printemps_été (3).webp",
-      "/vetement_femme/258/Elenzga Combinaison élégante de style français avec col V en maille, broderie florale, col V, manches 3_4 en lanterne, fermeture éclair au dos, couleur abricot, printemps_été (4).webp",
-      "/vetement_femme/258/Elenzga Combinaison élégante de style français avec col V en maille, broderie florale, col V, manches 3_4 en lanterne, fermeture éclair au dos, couleur abricot, printemps_été (5).webp",
-      "/vetement_femme/258/Elenzga Combinaison élégante de style français avec col V en maille, broderie florale, col V, manches 3_4 en lanterne, fermeture éclair au dos, couleur abricot, printemps_été (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/258/Elenzga Combinaison élégante de style français avec col V en maille, broderie florale, col V, manches 3_4 en lanterne, fermeture éclair au dos, couleur abricot, printemps_été.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/258/Elenzga Combinaison élégante de style français avec col V en maille, broderie florale, col V, manches 3_4 en lanterne, fermeture éclair au dos, couleur abricot, printemps_été (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/258/Elenzga Combinaison élégante de style français avec col V en maille, broderie florale, col V, manches 3_4 en lanterne, fermeture éclair au dos, couleur abricot, printemps_été (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/258/Elenzga Combinaison élégante de style français avec col V en maille, broderie florale, col V, manches 3_4 en lanterne, fermeture éclair au dos, couleur abricot, printemps_été (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/258/Elenzga Combinaison élégante de style français avec col V en maille, broderie florale, col V, manches 3_4 en lanterne, fermeture éclair au dos, couleur abricot, printemps_été (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/258/Elenzga Combinaison élégante de style français avec col V en maille, broderie florale, col V, manches 3_4 en lanterne, fermeture éclair au dos, couleur abricot, printemps_été (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/258/Elenzga Combinaison élégante de style français avec col V en maille, broderie florale, col V, manches 3_4 en lanterne, fermeture éclair au dos, couleur abricot, printemps_été (6).webp"
     ]
   },
   {
@@ -10878,14 +10878,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/259/SOLERSUN Combinaison élégante et à la mode pour femme, col en V, épaules dénudées, manches à volants, en tissu scintillant, coupe ajustée, jambes larges, idéale pour une soirée ou un rendez-vous galant_.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/259/SOLERSUN Combinaison élégante et à la mode pour femme, col en V, épaules dénudées, manches à volants, en tissu scintillant, coupe ajustée, jambes larges, idéale pour une soirée ou un rendez-vous galant_.webp",
     "images": [
-      "/vetement_femme/259/SOLERSUN Combinaison élégante et à la mode pour femme, col en V, épaules dénudées, manches à volants, en tissu scintillant, coupe ajustée, jambes larges, idéale pour une soirée ou un rendez-vous galant_.webp",
-      "/vetement_femme/259/SOLERSUN Combinaison élégante et à la mode pour femme, col en V, épaules dénudées, manches à volants, en tissu scintillant, coupe ajustée, jambes larges, idéale pour une soirée ou un rendez-vous galant_ (1).webp",
-      "/vetement_femme/259/SOLERSUN Combinaison élégante et à la mode pour femme, col en V, épaules dénudées, manches à volants, en tissu scintillant, coupe ajustée, jambes larges, idéale pour une soirée ou un rendez-vous galant_ (2).webp",
-      "/vetement_femme/259/SOLERSUN Combinaison élégante et à la mode pour femme, col en V, épaules dénudées, manches à volants, en tissu scintillant, coupe ajustée, jambes larges, idéale pour une soirée ou un rendez-vous galant_ (3).webp",
-      "/vetement_femme/259/SOLERSUN Combinaison élégante et à la mode pour femme, col en V, épaules dénudées, manches à volants, en tissu scintillant, coupe ajustée, jambes larges, idéale pour une soirée ou un rendez-vous galant_ (4).webp",
-      "/vetement_femme/259/SOLERSUN Combinaison élégante et à la mode pour femme, col en V, épaules dénudées, manches à volants, en tissu scintillant, coupe ajustée, jambes larges, idéale pour une soirée ou un rendez-vous galant_ (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/259/SOLERSUN Combinaison élégante et à la mode pour femme, col en V, épaules dénudées, manches à volants, en tissu scintillant, coupe ajustée, jambes larges, idéale pour une soirée ou un rendez-vous galant_.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/259/SOLERSUN Combinaison élégante et à la mode pour femme, col en V, épaules dénudées, manches à volants, en tissu scintillant, coupe ajustée, jambes larges, idéale pour une soirée ou un rendez-vous galant_ (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/259/SOLERSUN Combinaison élégante et à la mode pour femme, col en V, épaules dénudées, manches à volants, en tissu scintillant, coupe ajustée, jambes larges, idéale pour une soirée ou un rendez-vous galant_ (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/259/SOLERSUN Combinaison élégante et à la mode pour femme, col en V, épaules dénudées, manches à volants, en tissu scintillant, coupe ajustée, jambes larges, idéale pour une soirée ou un rendez-vous galant_ (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/259/SOLERSUN Combinaison élégante et à la mode pour femme, col en V, épaules dénudées, manches à volants, en tissu scintillant, coupe ajustée, jambes larges, idéale pour une soirée ou un rendez-vous galant_ (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/259/SOLERSUN Combinaison élégante et à la mode pour femme, col en V, épaules dénudées, manches à volants, en tissu scintillant, coupe ajustée, jambes larges, idéale pour une soirée ou un rendez-vous galant_ (5).webp"
     ]
   },
   {
@@ -10922,12 +10922,12 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/260/Combinaison femme avec empiècement en dentelle col V, tenue de navettage, élégante noire d'été.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/260/Combinaison femme avec empiècement en dentelle col V, tenue de navettage, élégante noire d'été.webp",
     "images": [
-      "/vetement_femme/260/Combinaison femme avec empiècement en dentelle col V, tenue de navettage, élégante noire d'été.webp",
-      "/vetement_femme/260/Combinaison femme avec empiècement en dentelle col V, tenue de navettage, élégante noire d'été (1).webp",
-      "/vetement_femme/260/Combinaison femme avec empiècement en dentelle col V, tenue de navettage, élégante noire d'été (2).webp",
-      "/vetement_femme/260/Combinaison femme avec empiècement en dentelle col V, tenue de navettage, élégante noire d'été (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/260/Combinaison femme avec empiècement en dentelle col V, tenue de navettage, élégante noire d'été.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/260/Combinaison femme avec empiècement en dentelle col V, tenue de navettage, élégante noire d'été (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/260/Combinaison femme avec empiècement en dentelle col V, tenue de navettage, élégante noire d'été (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/260/Combinaison femme avec empiècement en dentelle col V, tenue de navettage, élégante noire d'été (3).webp"
     ]
   },
   {
@@ -10962,14 +10962,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/261/Elenzga Combinaison décontractée à imprimé abricot sans dos, style vacances, pour femmes, pour festival de musique.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/261/Elenzga Combinaison décontractée à imprimé abricot sans dos, style vacances, pour femmes, pour festival de musique.webp",
     "images": [
-      "/vetement_femme/261/Elenzga Combinaison décontractée à imprimé abricot sans dos, style vacances, pour femmes, pour festival de musique.webp",
-      "/vetement_femme/261/Elenzga Combinaison décontractée à imprimé abricot sans dos, style vacances, pour femmes, pour festival de musique (1).webp",
-      "/vetement_femme/261/Elenzga Combinaison décontractée à imprimé abricot sans dos, style vacances, pour femmes, pour festival de musique (2).webp",
-      "/vetement_femme/261/Elenzga Combinaison décontractée à imprimé abricot sans dos, style vacances, pour femmes, pour festival de musique (3).webp",
-      "/vetement_femme/261/Elenzga Combinaison décontractée à imprimé abricot sans dos, style vacances, pour femmes, pour festival de musique (4).webp",
-      "/vetement_femme/261/Elenzga Combinaison décontractée à imprimé abricot sans dos, style vacances, pour femmes, pour festival de musique (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/261/Elenzga Combinaison décontractée à imprimé abricot sans dos, style vacances, pour femmes, pour festival de musique.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/261/Elenzga Combinaison décontractée à imprimé abricot sans dos, style vacances, pour femmes, pour festival de musique (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/261/Elenzga Combinaison décontractée à imprimé abricot sans dos, style vacances, pour femmes, pour festival de musique (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/261/Elenzga Combinaison décontractée à imprimé abricot sans dos, style vacances, pour femmes, pour festival de musique (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/261/Elenzga Combinaison décontractée à imprimé abricot sans dos, style vacances, pour femmes, pour festival de musique (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/261/Elenzga Combinaison décontractée à imprimé abricot sans dos, style vacances, pour femmes, pour festival de musique (5).webp"
     ]
   },
   {
@@ -11004,13 +11004,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/262/Elenzga Combinaison à jambes droites amples, design de haute qualité, col en V profond, ceinturage à la taille, superposition élégante et sophistiquée.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/262/Elenzga Combinaison à jambes droites amples, design de haute qualité, col en V profond, ceinturage à la taille, superposition élégante et sophistiquée.webp",
     "images": [
-      "/vetement_femme/262/Elenzga Combinaison à jambes droites amples, design de haute qualité, col en V profond, ceinturage à la taille, superposition élégante et sophistiquée.webp",
-      "/vetement_femme/262/Elenzga Combinaison à jambes droites amples, design de haute qualité, col en V profond, ceinturage à la taille, superposition élégante et sophistiquée (1).webp",
-      "/vetement_femme/262/Elenzga Combinaison à jambes droites amples, design de haute qualité, col en V profond, ceinturage à la taille, superposition élégante et sophistiquée (2).webp",
-      "/vetement_femme/262/Elenzga Combinaison à jambes droites amples, design de haute qualité, col en V profond, ceinturage à la taille, superposition élégante et sophistiquée (3).webp",
-      "/vetement_femme/262/Elenzga Combinaison à jambes droites amples, design de haute qualité, col en V profond, ceinturage à la taille, superposition élégante et sophistiquée (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/262/Elenzga Combinaison à jambes droites amples, design de haute qualité, col en V profond, ceinturage à la taille, superposition élégante et sophistiquée.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/262/Elenzga Combinaison à jambes droites amples, design de haute qualité, col en V profond, ceinturage à la taille, superposition élégante et sophistiquée (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/262/Elenzga Combinaison à jambes droites amples, design de haute qualité, col en V profond, ceinturage à la taille, superposition élégante et sophistiquée (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/262/Elenzga Combinaison à jambes droites amples, design de haute qualité, col en V profond, ceinturage à la taille, superposition élégante et sophistiquée (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/262/Elenzga Combinaison à jambes droites amples, design de haute qualité, col en V profond, ceinturage à la taille, superposition élégante et sophistiquée (4).webp"
     ]
   },
   {
@@ -11045,13 +11045,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/263/Elenzga Combinaison élégante sans manches à carreaux décorée de perles pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/263/Elenzga Combinaison élégante sans manches à carreaux décorée de perles pour femmes.webp",
     "images": [
-      "/vetement_femme/263/Elenzga Combinaison élégante sans manches à carreaux décorée de perles pour femmes.webp",
-      "/vetement_femme/263/Elenzga Combinaison élégante sans manches à carreaux décorée de perles pour femmes (1).webp",
-      "/vetement_femme/263/Elenzga Combinaison élégante sans manches à carreaux décorée de perles pour femmes (2).webp",
-      "/vetement_femme/263/Elenzga Combinaison élégante sans manches à carreaux décorée de perles pour femmes (3).webp",
-      "/vetement_femme/263/Elenzga Combinaison élégante sans manches à carreaux décorée de perles pour femmes (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/263/Elenzga Combinaison élégante sans manches à carreaux décorée de perles pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/263/Elenzga Combinaison élégante sans manches à carreaux décorée de perles pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/263/Elenzga Combinaison élégante sans manches à carreaux décorée de perles pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/263/Elenzga Combinaison élégante sans manches à carreaux décorée de perles pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/263/Elenzga Combinaison élégante sans manches à carreaux décorée de perles pour femmes (4).webp"
     ]
   },
   {
@@ -11086,13 +11086,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 3,
-    "image": "/vetement_femme/264/Elenzga Combinaison ample à volants col élégant et romantique pour femme, sans manches.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/264/Elenzga Combinaison ample à volants col élégant et romantique pour femme, sans manches.webp",
     "images": [
-      "/vetement_femme/264/Elenzga Combinaison ample à volants col élégant et romantique pour femme, sans manches.webp",
-      "/vetement_femme/264/Elenzga Combinaison ample à volants col élégant et romantique pour femme, sans manches (1).webp",
-      "/vetement_femme/264/Elenzga Combinaison ample à volants col élégant et romantique pour femme, sans manches (2).webp",
-      "/vetement_femme/264/Elenzga Combinaison ample à volants col élégant et romantique pour femme, sans manches (3).webp",
-      "/vetement_femme/264/Elenzga Combinaison ample à volants col élégant et romantique pour femme, sans manches (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/264/Elenzga Combinaison ample à volants col élégant et romantique pour femme, sans manches.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/264/Elenzga Combinaison ample à volants col élégant et romantique pour femme, sans manches (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/264/Elenzga Combinaison ample à volants col élégant et romantique pour femme, sans manches (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/264/Elenzga Combinaison ample à volants col élégant et romantique pour femme, sans manches (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/264/Elenzga Combinaison ample à volants col élégant et romantique pour femme, sans manches (4).webp"
     ]
   },
   {
@@ -11127,14 +11127,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/265/ChicMe Combinaison moulante à bretelles multiples sans manches avec détails de strass, coupe évasée sexy, combinaison élégante d'été_.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/265/ChicMe Combinaison moulante à bretelles multiples sans manches avec détails de strass, coupe évasée sexy, combinaison élégante d'été_.webp",
     "images": [
-      "/vetement_femme/265/ChicMe Combinaison moulante à bretelles multiples sans manches avec détails de strass, coupe évasée sexy, combinaison élégante d'été_.webp",
-      "/vetement_femme/265/ChicMe Combinaison moulante à bretelles multiples sans manches avec détails de strass, coupe évasée sexy, combinaison élégante d'été_ (1).webp",
-      "/vetement_femme/265/ChicMe Combinaison moulante à bretelles multiples sans manches avec détails de strass, coupe évasée sexy, combinaison élégante d'été_ (2).webp",
-      "/vetement_femme/265/ChicMe Combinaison moulante à bretelles multiples sans manches avec détails de strass, coupe évasée sexy, combinaison élégante d'été_ (3).webp",
-      "/vetement_femme/265/ChicMe Combinaison moulante à bretelles multiples sans manches avec détails de strass, coupe évasée sexy, combinaison élégante d'été_ (4).webp",
-      "/vetement_femme/265/ChicMe Combinaison moulante à bretelles multiples sans manches avec détails de strass, coupe évasée sexy, combinaison élégante d'été_ (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/265/ChicMe Combinaison moulante à bretelles multiples sans manches avec détails de strass, coupe évasée sexy, combinaison élégante d'été_.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/265/ChicMe Combinaison moulante à bretelles multiples sans manches avec détails de strass, coupe évasée sexy, combinaison élégante d'été_ (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/265/ChicMe Combinaison moulante à bretelles multiples sans manches avec détails de strass, coupe évasée sexy, combinaison élégante d'été_ (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/265/ChicMe Combinaison moulante à bretelles multiples sans manches avec détails de strass, coupe évasée sexy, combinaison élégante d'été_ (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/265/ChicMe Combinaison moulante à bretelles multiples sans manches avec détails de strass, coupe évasée sexy, combinaison élégante d'été_ (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/265/ChicMe Combinaison moulante à bretelles multiples sans manches avec détails de strass, coupe évasée sexy, combinaison élégante d'été_ (5).webp"
     ]
   },
   {
@@ -11169,13 +11169,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/266/Chiquease Combinaison décontractée pour femme avec boutons devant, manches courtes et imprimé, nœud devant.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/266/Chiquease Combinaison décontractée pour femme avec boutons devant, manches courtes et imprimé, nœud devant.webp",
     "images": [
-      "/vetement_femme/266/Chiquease Combinaison décontractée pour femme avec boutons devant, manches courtes et imprimé, nœud devant.webp",
-      "/vetement_femme/266/Chiquease Combinaison décontractée pour femme avec boutons devant, manches courtes et imprimé, nœud devant (1).webp",
-      "/vetement_femme/266/Chiquease Combinaison décontractée pour femme avec boutons devant, manches courtes et imprimé, nœud devant (2).webp",
-      "/vetement_femme/266/Chiquease Combinaison décontractée pour femme avec boutons devant, manches courtes et imprimé, nœud devant (3).webp",
-      "/vetement_femme/266/Chiquease Combinaison décontractée pour femme avec boutons devant, manches courtes et imprimé, nœud devant (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/266/Chiquease Combinaison décontractée pour femme avec boutons devant, manches courtes et imprimé, nœud devant.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/266/Chiquease Combinaison décontractée pour femme avec boutons devant, manches courtes et imprimé, nœud devant (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/266/Chiquease Combinaison décontractée pour femme avec boutons devant, manches courtes et imprimé, nœud devant (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/266/Chiquease Combinaison décontractée pour femme avec boutons devant, manches courtes et imprimé, nœud devant (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/266/Chiquease Combinaison décontractée pour femme avec boutons devant, manches courtes et imprimé, nœud devant (4).webp"
     ]
   },
   {
@@ -11212,13 +11212,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 4,
-    "image": "/vetement_femme/267/Balvessa Ensemble d'été pour femmes comprenant un blazer sans manches avec col, boucle métallique à la taille, short avec revers et une combinaison pantalon élégante et formelle.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/267/Balvessa Ensemble d'été pour femmes comprenant un blazer sans manches avec col, boucle métallique à la taille, short avec revers et une combinaison pantalon élégante et formelle.webp",
     "images": [
-      "/vetement_femme/267/Balvessa Ensemble d'été pour femmes comprenant un blazer sans manches avec col, boucle métallique à la taille, short avec revers et une combinaison pantalon élégante et formelle.webp",
-      "/vetement_femme/267/Balvessa Ensemble d'été pour femmes comprenant un blazer sans manches avec col, boucle métallique à la taille, short avec revers et une combinaison pantalon élégante et formelle (1).webp",
-      "/vetement_femme/267/Balvessa Ensemble d'été pour femmes comprenant un blazer sans manches avec col, boucle métallique à la taille, short avec revers et une combinaison pantalon élégante et formelle (2).webp",
-      "/vetement_femme/267/Balvessa Ensemble d'été pour femmes comprenant un blazer sans manches avec col, boucle métallique à la taille, short avec revers et une combinaison pantalon élégante et formelle (3).webp",
-      "/vetement_femme/267/Balvessa Ensemble d'été pour femmes comprenant un blazer sans manches avec col, boucle métallique à la taille, short avec revers et une combinaison pantalon élégante et formelle (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/267/Balvessa Ensemble d'été pour femmes comprenant un blazer sans manches avec col, boucle métallique à la taille, short avec revers et une combinaison pantalon élégante et formelle.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/267/Balvessa Ensemble d'été pour femmes comprenant un blazer sans manches avec col, boucle métallique à la taille, short avec revers et une combinaison pantalon élégante et formelle (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/267/Balvessa Ensemble d'été pour femmes comprenant un blazer sans manches avec col, boucle métallique à la taille, short avec revers et une combinaison pantalon élégante et formelle (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/267/Balvessa Ensemble d'été pour femmes comprenant un blazer sans manches avec col, boucle métallique à la taille, short avec revers et une combinaison pantalon élégante et formelle (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/267/Balvessa Ensemble d'été pour femmes comprenant un blazer sans manches avec col, boucle métallique à la taille, short avec revers et une combinaison pantalon élégante et formelle (4).webp"
     ]
   },
   {
@@ -11254,13 +11254,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/268/SHEIN SXY Combinaison rose d'été Jiri vêtement pour femmes, robe de remise de diplôme, de promo ou de rendez-vous avec volants, plis, bordure en dentelle et bustier ajusté.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/268/SHEIN SXY Combinaison rose d'été Jiri vêtement pour femmes, robe de remise de diplôme, de promo ou de rendez-vous avec volants, plis, bordure en dentelle et bustier ajusté.webp",
     "images": [
-      "/vetement_femme/268/SHEIN SXY Combinaison rose d'été Jiri vêtement pour femmes, robe de remise de diplôme, de promo ou de rendez-vous avec volants, plis, bordure en dentelle et bustier ajusté.webp",
-      "/vetement_femme/268/SHEIN SXY Combinaison rose d'été Jiri vêtement pour femmes, robe de remise de diplôme, de promo ou de rendez-vous avec volants, plis, bordure en dentelle et bustier ajusté (1).webp",
-      "/vetement_femme/268/SHEIN SXY Combinaison rose d'été Jiri vêtement pour femmes, robe de remise de diplôme, de promo ou de rendez-vous avec volants, plis, bordure en dentelle et bustier ajusté (2).webp",
-      "/vetement_femme/268/SHEIN SXY Combinaison rose d'été Jiri vêtement pour femmes, robe de remise de diplôme, de promo ou de rendez-vous avec volants, plis, bordure en dentelle et bustier ajusté (3).webp",
-      "/vetement_femme/268/SHEIN SXY Combinaison rose d'été Jiri vêtement pour femmes, robe de remise de diplôme, de promo ou de rendez-vous avec volants, plis, bordure en dentelle et bustier ajusté (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/268/SHEIN SXY Combinaison rose d'été Jiri vêtement pour femmes, robe de remise de diplôme, de promo ou de rendez-vous avec volants, plis, bordure en dentelle et bustier ajusté.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/268/SHEIN SXY Combinaison rose d'été Jiri vêtement pour femmes, robe de remise de diplôme, de promo ou de rendez-vous avec volants, plis, bordure en dentelle et bustier ajusté (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/268/SHEIN SXY Combinaison rose d'été Jiri vêtement pour femmes, robe de remise de diplôme, de promo ou de rendez-vous avec volants, plis, bordure en dentelle et bustier ajusté (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/268/SHEIN SXY Combinaison rose d'été Jiri vêtement pour femmes, robe de remise de diplôme, de promo ou de rendez-vous avec volants, plis, bordure en dentelle et bustier ajusté (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/268/SHEIN SXY Combinaison rose d'été Jiri vêtement pour femmes, robe de remise de diplôme, de promo ou de rendez-vous avec volants, plis, bordure en dentelle et bustier ajusté (4).webp"
     ]
   },
   {
@@ -11295,14 +11295,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/269/Firerie Combinaison élégante abricot pour femmes, combinaison drapée sans bretelles à encolure asymétrique modeste, combinaison à jambes larges, combinaison sans manches confortable, convient pour le printemps_l'.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/269/Firerie Combinaison élégante abricot pour femmes, combinaison drapée sans bretelles à encolure asymétrique modeste, combinaison à jambes larges, combinaison sans manches confortable, convient pour le printemps_l'.webp",
     "images": [
-      "/vetement_femme/269/Firerie Combinaison élégante abricot pour femmes, combinaison drapée sans bretelles à encolure asymétrique modeste, combinaison à jambes larges, combinaison sans manches confortable, convient pour le printemps_l'.webp",
-      "/vetement_femme/269/Firerie Combinaison élégante abricot pour femmes, combinaison drapée sans bretelles à encolure asymétrique modeste, combinaison à jambes larges, combinaison sans manches confortable, convient pour le printemp (1).webp",
-      "/vetement_femme/269/Firerie Combinaison élégante abricot pour femmes, combinaison drapée sans bretelles à encolure asymétrique modeste, combinaison à jambes larges, combinaison sans manches confortable, convient pour le printemp (2).webp",
-      "/vetement_femme/269/Firerie Combinaison élégante abricot pour femmes, combinaison drapée sans bretelles à encolure asymétrique modeste, combinaison à jambes larges, combinaison sans manches confortable, convient pour le printemp (3).webp",
-      "/vetement_femme/269/Firerie Combinaison élégante abricot pour femmes, combinaison drapée sans bretelles à encolure asymétrique modeste, combinaison à jambes larges, combinaison sans manches confortable, convient pour le printemp (4).webp",
-      "/vetement_femme/269/Firerie Combinaison élégante abricot pour femmes, combinaison drapée sans bretelles à encolure asymétrique modeste, combinaison à jambes larges, combinaison sans manches confortable, convient pour le printemp (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/269/Firerie Combinaison élégante abricot pour femmes, combinaison drapée sans bretelles à encolure asymétrique modeste, combinaison à jambes larges, combinaison sans manches confortable, convient pour le printemps_l'.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/269/Firerie Combinaison élégante abricot pour femmes, combinaison drapée sans bretelles à encolure asymétrique modeste, combinaison à jambes larges, combinaison sans manches confortable, convient pour le printemp (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/269/Firerie Combinaison élégante abricot pour femmes, combinaison drapée sans bretelles à encolure asymétrique modeste, combinaison à jambes larges, combinaison sans manches confortable, convient pour le printemp (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/269/Firerie Combinaison élégante abricot pour femmes, combinaison drapée sans bretelles à encolure asymétrique modeste, combinaison à jambes larges, combinaison sans manches confortable, convient pour le printemp (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/269/Firerie Combinaison élégante abricot pour femmes, combinaison drapée sans bretelles à encolure asymétrique modeste, combinaison à jambes larges, combinaison sans manches confortable, convient pour le printemp (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/269/Firerie Combinaison élégante abricot pour femmes, combinaison drapée sans bretelles à encolure asymétrique modeste, combinaison à jambes larges, combinaison sans manches confortable, convient pour le printemp (5).webp"
     ]
   },
   {
@@ -11337,13 +11337,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 7,
-    "image": "/vetement_femme/270/Elenzga Combinaison élégante pour femmes de couleur unie avec torsade et découpes ajourées, pour l'été.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/270/Elenzga Combinaison élégante pour femmes de couleur unie avec torsade et découpes ajourées, pour l'été.webp",
     "images": [
-      "/vetement_femme/270/Elenzga Combinaison élégante pour femmes de couleur unie avec torsade et découpes ajourées, pour l'été.webp",
-      "/vetement_femme/270/Elenzga Combinaison élégante pour femmes de couleur unie avec torsade et découpes ajourées, pour l'été (1).webp",
-      "/vetement_femme/270/Elenzga Combinaison élégante pour femmes de couleur unie avec torsade et découpes ajourées, pour l'été (2).webp",
-      "/vetement_femme/270/Elenzga Combinaison élégante pour femmes de couleur unie avec torsade et découpes ajourées, pour l'été (3).webp",
-      "/vetement_femme/270/Elenzga Combinaison élégante pour femmes de couleur unie avec torsade et découpes ajourées, pour l'été (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/270/Elenzga Combinaison élégante pour femmes de couleur unie avec torsade et découpes ajourées, pour l'été.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/270/Elenzga Combinaison élégante pour femmes de couleur unie avec torsade et découpes ajourées, pour l'été (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/270/Elenzga Combinaison élégante pour femmes de couleur unie avec torsade et découpes ajourées, pour l'été (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/270/Elenzga Combinaison élégante pour femmes de couleur unie avec torsade et découpes ajourées, pour l'été (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/270/Elenzga Combinaison élégante pour femmes de couleur unie avec torsade et découpes ajourées, pour l'été (4).webp"
     ]
   },
   {
@@ -11378,14 +11378,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/271/SOLERSUN Combinaison élégante et sexy pour femmes, couleur unie, nouvelle collection printemps-été. Col V profond, détail ornemental à l'avant, jambes larges. Convient pour les sorties, les vacances et les fêtes_.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/271/SOLERSUN Combinaison élégante et sexy pour femmes, couleur unie, nouvelle collection printemps-été. Col V profond, détail ornemental à l'avant, jambes larges. Convient pour les sorties, les vacances et les fêtes_.webp",
     "images": [
-      "/vetement_femme/271/SOLERSUN Combinaison élégante et sexy pour femmes, couleur unie, nouvelle collection printemps-été. Col V profond, détail ornemental à l'avant, jambes larges. Convient pour les sorties, les vacances et les fêtes_.webp",
-      "/vetement_femme/271/SOLERSUN Combinaison élégante et sexy pour femmes, couleur unie, nouvelle collection printemps-été. Col V profond, détail ornemental à l'avant, jambes larges. Convient pour les sorties, les vacances et les fê (1).webp",
-      "/vetement_femme/271/SOLERSUN Combinaison élégante et sexy pour femmes, couleur unie, nouvelle collection printemps-été. Col V profond, détail ornemental à l'avant, jambes larges. Convient pour les sorties, les vacances et les fê (2).webp",
-      "/vetement_femme/271/SOLERSUN Combinaison élégante et sexy pour femmes, couleur unie, nouvelle collection printemps-été. Col V profond, détail ornemental à l'avant, jambes larges. Convient pour les sorties, les vacances et les fê (3).webp",
-      "/vetement_femme/271/SOLERSUN Combinaison élégante et sexy pour femmes, couleur unie, nouvelle collection printemps-été. Col V profond, détail ornemental à l'avant, jambes larges. Convient pour les sorties, les vacances et les fê (4).webp",
-      "/vetement_femme/271/SOLERSUN Combinaison élégante et sexy pour femmes, couleur unie, nouvelle collection printemps-été. Col V profond, détail ornemental à l'avant, jambes larges. Convient pour les sorties, les vacances et les fê (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/271/SOLERSUN Combinaison élégante et sexy pour femmes, couleur unie, nouvelle collection printemps-été. Col V profond, détail ornemental à l'avant, jambes larges. Convient pour les sorties, les vacances et les fêtes_.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/271/SOLERSUN Combinaison élégante et sexy pour femmes, couleur unie, nouvelle collection printemps-été. Col V profond, détail ornemental à l'avant, jambes larges. Convient pour les sorties, les vacances et les fê (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/271/SOLERSUN Combinaison élégante et sexy pour femmes, couleur unie, nouvelle collection printemps-été. Col V profond, détail ornemental à l'avant, jambes larges. Convient pour les sorties, les vacances et les fê (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/271/SOLERSUN Combinaison élégante et sexy pour femmes, couleur unie, nouvelle collection printemps-été. Col V profond, détail ornemental à l'avant, jambes larges. Convient pour les sorties, les vacances et les fê (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/271/SOLERSUN Combinaison élégante et sexy pour femmes, couleur unie, nouvelle collection printemps-été. Col V profond, détail ornemental à l'avant, jambes larges. Convient pour les sorties, les vacances et les fê (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/271/SOLERSUN Combinaison élégante et sexy pour femmes, couleur unie, nouvelle collection printemps-été. Col V profond, détail ornemental à l'avant, jambes larges. Convient pour les sorties, les vacances et les fê (5).webp"
     ]
   },
   {
@@ -11420,14 +11420,14 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 6,
-    "image": "/vetement_femme/272/EURMUSE Combinaison pour femmes avec détails nacrés et en tulle.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/272/EURMUSE Combinaison pour femmes avec détails nacrés et en tulle.webp",
     "images": [
-      "/vetement_femme/272/EURMUSE Combinaison pour femmes avec détails nacrés et en tulle.webp",
-      "/vetement_femme/272/EURMUSE Combinaison pour femmes avec détails nacrés et en tulle (1).webp",
-      "/vetement_femme/272/EURMUSE Combinaison pour femmes avec détails nacrés et en tulle (2).webp",
-      "/vetement_femme/272/EURMUSE Combinaison pour femmes avec détails nacrés et en tulle (3).webp",
-      "/vetement_femme/272/EURMUSE Combinaison pour femmes avec détails nacrés et en tulle (4).webp",
-      "/vetement_femme/272/EURMUSE Combinaison pour femmes avec détails nacrés et en tulle (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/272/EURMUSE Combinaison pour femmes avec détails nacrés et en tulle.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/272/EURMUSE Combinaison pour femmes avec détails nacrés et en tulle (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/272/EURMUSE Combinaison pour femmes avec détails nacrés et en tulle (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/272/EURMUSE Combinaison pour femmes avec détails nacrés et en tulle (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/272/EURMUSE Combinaison pour femmes avec détails nacrés et en tulle (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/272/EURMUSE Combinaison pour femmes avec détails nacrés et en tulle (5).webp"
     ]
   },
   {
@@ -11462,11 +11462,11 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 5,
-    "image": "/vetement_femme/273/BamGleam Combinaison élégante avec dentelle contrastée pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/273/BamGleam Combinaison élégante avec dentelle contrastée pour femmes.webp",
     "images": [
-      "/vetement_femme/273/BamGleam Combinaison élégante avec dentelle contrastée pour femmes.webp",
-      "/vetement_femme/273/BamGleam Combinaison élégante avec dentelle contrastée pour femmes (1).webp",
-      "/vetement_femme/273/BamGleam Combinaison élégante avec dentelle contrastée pour femmes (2).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/273/BamGleam Combinaison élégante avec dentelle contrastée pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/273/BamGleam Combinaison élégante avec dentelle contrastée pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/273/BamGleam Combinaison élégante avec dentelle contrastée pour femmes (2).webp"
     ]
   },
   {
@@ -11503,13 +11503,13 @@ export const vetement_femme = [
       "XXL"
     ],
     "minOrder": 2,
-    "image": "/vetement_femme/274/Combinaison polyester sexy et élégante avec nœud dans le dos pour femmes, convient pour les rendez-vous, les vacances, les plages, la Saint-Valentin, les fêtes d'anniversaire, les tenues d'été pour l'extérieur.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/274/Combinaison polyester sexy et élégante avec nœud dans le dos pour femmes, convient pour les rendez-vous, les vacances, les plages, la Saint-Valentin, les fêtes d'anniversaire, les tenues d'été pour l'extérieur.webp",
     "images": [
-      "/vetement_femme/274/Combinaison polyester sexy et élégante avec nœud dans le dos pour femmes, convient pour les rendez-vous, les vacances, les plages, la Saint-Valentin, les fêtes d'anniversaire, les tenues d'été pour l'extérieur.webp",
-      "/vetement_femme/274/Combinaison polyester sexy et élégante avec nœud dans le dos pour femmes, convient pour les rendez-vous, les vacances, les plages, la Saint-Valentin, les fêtes d'anniversaire, les tenues d'été pour l'extérieu (1).webp",
-      "/vetement_femme/274/Combinaison polyester sexy et élégante avec nœud dans le dos pour femmes, convient pour les rendez-vous, les vacances, les plages, la Saint-Valentin, les fêtes d'anniversaire, les tenues d'été pour l'extérieu (2).webp",
-      "/vetement_femme/274/Combinaison polyester sexy et élégante avec nœud dans le dos pour femmes, convient pour les rendez-vous, les vacances, les plages, la Saint-Valentin, les fêtes d'anniversaire, les tenues d'été pour l'extérieu (3).webp",
-      "/vetement_femme/274/Combinaison polyester sexy et élégante avec nœud dans le dos pour femmes, convient pour les rendez-vous, les vacances, les plages, la Saint-Valentin, les fêtes d'anniversaire, les tenues d'été pour l'extérieu (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/274/Combinaison polyester sexy et élégante avec nœud dans le dos pour femmes, convient pour les rendez-vous, les vacances, les plages, la Saint-Valentin, les fêtes d'anniversaire, les tenues d'été pour l'extérieur.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/274/Combinaison polyester sexy et élégante avec nœud dans le dos pour femmes, convient pour les rendez-vous, les vacances, les plages, la Saint-Valentin, les fêtes d'anniversaire, les tenues d'été pour l'extérieu (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/274/Combinaison polyester sexy et élégante avec nœud dans le dos pour femmes, convient pour les rendez-vous, les vacances, les plages, la Saint-Valentin, les fêtes d'anniversaire, les tenues d'été pour l'extérieu (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/274/Combinaison polyester sexy et élégante avec nœud dans le dos pour femmes, convient pour les rendez-vous, les vacances, les plages, la Saint-Valentin, les fêtes d'anniversaire, les tenues d'été pour l'extérieu (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_femme/274/Combinaison polyester sexy et élégante avec nœud dans le dos pour femmes, convient pour les rendez-vous, les vacances, les plages, la Saint-Valentin, les fêtes d'anniversaire, les tenues d'été pour l'extérieu (4).webp"
     ]
   }
 ]

@@ -32,7 +32,7 @@ const Hero = () => {
   const slides = [
     {
       id: 1,
-      image: "/bannier/sac1.png",
+      image: "https://res.cloudinary.com/deuttziac/bannier/sac1.png",
       title: "IMPORTATION DIRECTE DE CHINE",
       subtitle: "Prix d'Usine • Sans Intermédiaire",
       description: "Économisez jusqu'à 60% en achetant directement depuis nos partenaires chinois vérifiés",
@@ -44,7 +44,7 @@ const Hero = () => {
     },
     {
       id: 2,
-      image: "/bannier/montre.png",
+      image: "https://res.cloudinary.com/deuttziac/bannier/montre.png",
       title: "LIVRAISON GROUPÉE",
       subtitle: "Réduisez Vos Coûts de Transport",
       description: "Profitez de notre système de groupage pour des frais de livraison réduits et optimisés",
@@ -56,7 +56,7 @@ const Hero = () => {
     },
     {
       id: 3,
-      image: "/bannier/iphone.png",
+      image: "https://res.cloudinary.com/deuttziac/bannier/iphone.png",
       title: "LARGE CATALOGUE",
       subtitle: "Des Milliers de Produits Disponibles",
       description: "Mode, électronique, accessoires, bijoux... Tout ce dont vous avez besoin en un seul endroit",
@@ -68,7 +68,7 @@ const Hero = () => {
     },
     {
       id: 4,
-      image: "/bannier/choes.png",
+      image: "https://res.cloudinary.com/deuttziac/bannier/choes.png",
       title: "ACCOMPAGNEMENT PERSONNALISÉ",
       subtitle: "Support 24/7 • Conseil d'Expert",
       description: "Notre équipe vous accompagne de la commande à la réception pour une expérience sans souci",

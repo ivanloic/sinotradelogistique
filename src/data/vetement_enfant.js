@@ -6,7 +6,7 @@ export const vetement_enfant = [
     "originalPrice": 2654,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/1/Vêtements_enfant_1017.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/1/Vêtements_enfant_1017.jpg",
     "taxType": "ttc",
     "colors": [
       "Orange",
@@ -24,9 +24,9 @@ export const vetement_enfant = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_enfant/1/Vêtements_enfant_1017.jpg",
-      "/vetement_enfant/1/Vêtements_enfant_1036.jpg",
-      "/vetement_enfant/1/Vêtements_enfant_1073.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/1/Vêtements_enfant_1017.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/1/Vêtements_enfant_1036.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/1/Vêtements_enfant_1073.jpg"
     ]
   },
   {
@@ -36,7 +36,7 @@ export const vetement_enfant = [
     "originalPrice": 2581,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/2/Vêtements_enfant_1016.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/2/Vêtements_enfant_1016.jpg",
     "taxType": "ttc",
     "colors": [
       "Marron",
@@ -54,10 +54,10 @@ export const vetement_enfant = [
     ],
     "minOrder": 15,
     "images": [
-      "/vetement_enfant/2/Vêtements_enfant_1016.jpg",
-      "/vetement_enfant/2/Vêtements_enfant_1069.jpg",
-      "/vetement_enfant/2/Vêtements_enfant_1116.jpg",
-      "/vetement_enfant/2/Vêtements_enfant_1124.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/2/Vêtements_enfant_1016.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/2/Vêtements_enfant_1069.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/2/Vêtements_enfant_1116.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/2/Vêtements_enfant_1124.jpg"
     ]
   },
   {
@@ -67,7 +67,7 @@ export const vetement_enfant = [
     "originalPrice": 2082,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/3/Vêtements_enfant_1024.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/3/Vêtements_enfant_1024.jpg",
     "taxType": "ht",
     "colors": [
       "Violet",
@@ -84,11 +84,11 @@ export const vetement_enfant = [
     ],
     "minOrder": 11,
     "images": [
-      "/vetement_enfant/3/Vêtements_enfant_1024.jpg",
-      "/vetement_enfant/3/Vêtements_enfant_1051.jpg",
-      "/vetement_enfant/3/Vêtements_enfant_1092.jpg",
-      "/vetement_enfant/3/Vêtements_enfant_1095.jpg",
-      "/vetement_enfant/3/Vêtements_enfant_1119.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/3/Vêtements_enfant_1024.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/3/Vêtements_enfant_1051.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/3/Vêtements_enfant_1092.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/3/Vêtements_enfant_1095.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/3/Vêtements_enfant_1119.jpg"
     ]
   },
   {
@@ -98,7 +98,7 @@ export const vetement_enfant = [
     "originalPrice": 2606,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/4/Vêtements_enfant_1071.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/4/Vêtements_enfant_1071.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -116,9 +116,9 @@ export const vetement_enfant = [
     ],
     "minOrder": 7,
     "images": [
-      "/vetement_enfant/4/Vêtements_enfant_1071.jpg",
-      "/vetement_enfant/4/Vêtements_enfant_1075.jpg",
-      "/vetement_enfant/4/Vêtements_enfant_1080.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/4/Vêtements_enfant_1071.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/4/Vêtements_enfant_1075.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/4/Vêtements_enfant_1080.jpg"
     ]
   },
   {
@@ -128,7 +128,7 @@ export const vetement_enfant = [
     "originalPrice": 2227,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/5/Vêtements_enfant_1034.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/5/Vêtements_enfant_1034.jpg",
     "taxType": "ttc",
     "colors": [
       "Gris",
@@ -146,10 +146,10 @@ export const vetement_enfant = [
     ],
     "minOrder": 14,
     "images": [
-      "/vetement_enfant/5/Vêtements_enfant_1034.jpg",
-      "/vetement_enfant/5/Vêtements_enfant_1098.jpg",
-      "/vetement_enfant/5/Vêtements_enfant_1106.jpg",
-      "/vetement_enfant/5/Vêtements_enfant_1117.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/5/Vêtements_enfant_1034.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/5/Vêtements_enfant_1098.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/5/Vêtements_enfant_1106.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/5/Vêtements_enfant_1117.jpg"
     ]
   },
   {
@@ -159,7 +159,7 @@ export const vetement_enfant = [
     "originalPrice": 2447,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/6/Vêtements_enfant_1005.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/6/Vêtements_enfant_1005.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -178,9 +178,9 @@ export const vetement_enfant = [
     ],
     "minOrder": 5,
     "images": [
-      "/vetement_enfant/6/Vêtements_enfant_1005.jpg",
-      "/vetement_enfant/6/Vêtements_enfant_1068.jpg",
-      "/vetement_enfant/6/Vêtements_enfant_1108.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/6/Vêtements_enfant_1005.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/6/Vêtements_enfant_1068.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/6/Vêtements_enfant_1108.jpg"
     ]
   },
   {
@@ -190,7 +190,7 @@ export const vetement_enfant = [
     "originalPrice": 2216,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/7/Vêtements_enfant_1035.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/7/Vêtements_enfant_1035.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -207,9 +207,9 @@ export const vetement_enfant = [
     ],
     "minOrder": 19,
     "images": [
-      "/vetement_enfant/7/Vêtements_enfant_1035.jpg",
-      "/vetement_enfant/7/Vêtements_enfant_1039.jpg",
-      "/vetement_enfant/7/Vêtements_enfant_1067.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/7/Vêtements_enfant_1035.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/7/Vêtements_enfant_1039.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/7/Vêtements_enfant_1067.jpg"
     ]
   },
   {
@@ -219,7 +219,7 @@ export const vetement_enfant = [
     "originalPrice": 2889,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/8/Vêtements_enfant_1103.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/8/Vêtements_enfant_1103.jpg",
     "taxType": "ht",
     "colors": [
       "Jaune",
@@ -237,7 +237,7 @@ export const vetement_enfant = [
     ],
     "minOrder": 13,
     "images": [
-      "/vetement_enfant/8/Vêtements_enfant_1103.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/8/Vêtements_enfant_1103.jpg"
     ]
   },
   {
@@ -247,7 +247,7 @@ export const vetement_enfant = [
     "originalPrice": 2728,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/9/Vêtements_enfant_1082.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/9/Vêtements_enfant_1082.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -265,7 +265,7 @@ export const vetement_enfant = [
     ],
     "minOrder": 12,
     "images": [
-      "/vetement_enfant/9/Vêtements_enfant_1082.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/9/Vêtements_enfant_1082.jpg"
     ]
   },
   {
@@ -275,7 +275,7 @@ export const vetement_enfant = [
     "originalPrice": 2159,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/10/Vêtements_enfant_1022.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/10/Vêtements_enfant_1022.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -293,7 +293,7 @@ export const vetement_enfant = [
     ],
     "minOrder": 20,
     "images": [
-      "/vetement_enfant/10/Vêtements_enfant_1022.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/10/Vêtements_enfant_1022.jpg"
     ]
   },
   {
@@ -303,7 +303,7 @@ export const vetement_enfant = [
     "originalPrice": 1918,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/11/Vêtements_enfant_1026.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/11/Vêtements_enfant_1026.jpg",
     "taxType": "ttc",
     "colors": [
       "Gris",
@@ -320,7 +320,7 @@ export const vetement_enfant = [
     ],
     "minOrder": 7,
     "images": [
-      "/vetement_enfant/11/Vêtements_enfant_1026.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/11/Vêtements_enfant_1026.jpg"
     ]
   },
   {
@@ -330,7 +330,7 @@ export const vetement_enfant = [
     "originalPrice": 2244,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/12/Vêtements_enfant_1015.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/12/Vêtements_enfant_1015.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -348,7 +348,7 @@ export const vetement_enfant = [
     ],
     "minOrder": 7,
     "images": [
-      "/vetement_enfant/12/Vêtements_enfant_1015.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/12/Vêtements_enfant_1015.jpg"
     ]
   },
   {
@@ -358,7 +358,7 @@ export const vetement_enfant = [
     "originalPrice": 2490,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/13/Vêtements_enfant_1027.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/13/Vêtements_enfant_1027.jpg",
     "taxType": "ttc",
     "colors": [
       "Marron",
@@ -374,7 +374,7 @@ export const vetement_enfant = [
     ],
     "minOrder": 5,
     "images": [
-      "/vetement_enfant/13/Vêtements_enfant_1027.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/13/Vêtements_enfant_1027.jpg"
     ]
   },
   {
@@ -384,7 +384,7 @@ export const vetement_enfant = [
     "originalPrice": 2643,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/14/Vêtements_enfant_1078.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/14/Vêtements_enfant_1078.jpg",
     "taxType": "ht",
     "colors": [
       "Bleu",
@@ -403,7 +403,7 @@ export const vetement_enfant = [
     ],
     "minOrder": 8,
     "images": [
-      "/vetement_enfant/14/Vêtements_enfant_1078.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/14/Vêtements_enfant_1078.jpg"
     ]
   },
   {
@@ -413,7 +413,7 @@ export const vetement_enfant = [
     "originalPrice": 2512,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/15/Vêtements_enfant_1018.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/15/Vêtements_enfant_1018.jpg",
     "taxType": "ht",
     "colors": [
       "Gris",
@@ -430,7 +430,7 @@ export const vetement_enfant = [
     ],
     "minOrder": 8,
     "images": [
-      "/vetement_enfant/15/Vêtements_enfant_1018.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/15/Vêtements_enfant_1018.jpg"
     ]
   },
   {
@@ -440,7 +440,7 @@ export const vetement_enfant = [
     "originalPrice": 1981,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/16/Vêtements_enfant_1003.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/16/Vêtements_enfant_1003.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -456,7 +456,7 @@ export const vetement_enfant = [
     ],
     "minOrder": 19,
     "images": [
-      "/vetement_enfant/16/Vêtements_enfant_1003.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/16/Vêtements_enfant_1003.jpg"
     ]
   },
   {
@@ -466,7 +466,7 @@ export const vetement_enfant = [
     "originalPrice": 2377,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/17/Vêtements_enfant_1023.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/17/Vêtements_enfant_1023.jpg",
     "taxType": "ttc",
     "colors": [
       "Beige",
@@ -484,7 +484,7 @@ export const vetement_enfant = [
     ],
     "minOrder": 9,
     "images": [
-      "/vetement_enfant/17/Vêtements_enfant_1023.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/17/Vêtements_enfant_1023.jpg"
     ]
   },
   {
@@ -494,7 +494,7 @@ export const vetement_enfant = [
     "originalPrice": 2547,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/18/Vêtements_enfant_1007.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/18/Vêtements_enfant_1007.jpg",
     "taxType": "ht",
     "colors": [
       "Gris",
@@ -513,11 +513,11 @@ export const vetement_enfant = [
     ],
     "minOrder": 12,
     "images": [
-      "/vetement_enfant/18/Vêtements_enfant_1007.jpg",
-      "/vetement_enfant/18/Vêtements_enfant_1030.jpg",
-      "/vetement_enfant/18/Vêtements_enfant_1052.jpg",
-      "/vetement_enfant/18/Vêtements_enfant_1074.jpg",
-      "/vetement_enfant/18/Vêtements_enfant_1113.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/18/Vêtements_enfant_1007.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/18/Vêtements_enfant_1030.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/18/Vêtements_enfant_1052.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/18/Vêtements_enfant_1074.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/18/Vêtements_enfant_1113.jpg"
     ]
   },
   {
@@ -527,7 +527,7 @@ export const vetement_enfant = [
     "originalPrice": 1790,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/19/Vêtements_enfant_1010.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/19/Vêtements_enfant_1010.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -544,11 +544,11 @@ export const vetement_enfant = [
     ],
     "minOrder": 19,
     "images": [
-      "/vetement_enfant/19/Vêtements_enfant_1010.jpg",
-      "/vetement_enfant/19/Vêtements_enfant_1055.jpg",
-      "/vetement_enfant/19/Vêtements_enfant_1079.jpg",
-      "/vetement_enfant/19/Vêtements_enfant_1085.jpg",
-      "/vetement_enfant/19/Vêtements_enfant_1089.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/19/Vêtements_enfant_1010.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/19/Vêtements_enfant_1055.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/19/Vêtements_enfant_1079.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/19/Vêtements_enfant_1085.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/19/Vêtements_enfant_1089.jpg"
     ]
   },
   {
@@ -558,7 +558,7 @@ export const vetement_enfant = [
     "originalPrice": 2456,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/20/Vêtements_enfant_1031.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/20/Vêtements_enfant_1031.jpg",
     "taxType": "ttc",
     "colors": [
       "Vert",
@@ -576,8 +576,8 @@ export const vetement_enfant = [
     ],
     "minOrder": 19,
     "images": [
-      "/vetement_enfant/20/Vêtements_enfant_1031.jpg",
-      "/vetement_enfant/20/Vêtements_enfant_1032.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/20/Vêtements_enfant_1031.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/20/Vêtements_enfant_1032.jpg"
     ]
   },
   {
@@ -587,7 +587,7 @@ export const vetement_enfant = [
     "originalPrice": 2295,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/21/Vêtements_enfant_1013.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/21/Vêtements_enfant_1013.jpg",
     "taxType": "ht",
     "colors": [
       "Gris",
@@ -604,7 +604,7 @@ export const vetement_enfant = [
     ],
     "minOrder": 19,
     "images": [
-      "/vetement_enfant/21/Vêtements_enfant_1013.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/21/Vêtements_enfant_1013.jpg"
     ]
   },
   {
@@ -614,7 +614,7 @@ export const vetement_enfant = [
     "originalPrice": 2150,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/22/Vêtements_enfant_1011.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/22/Vêtements_enfant_1011.jpg",
     "taxType": "ttc",
     "colors": [
       "Marron",
@@ -633,7 +633,7 @@ export const vetement_enfant = [
     ],
     "minOrder": 20,
     "images": [
-      "/vetement_enfant/22/Vêtements_enfant_1011.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/22/Vêtements_enfant_1011.jpg"
     ]
   },
   {
@@ -643,7 +643,7 @@ export const vetement_enfant = [
     "originalPrice": 2600,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/23/Vêtements_enfant_1006.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/23/Vêtements_enfant_1006.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -662,8 +662,8 @@ export const vetement_enfant = [
     ],
     "minOrder": 16,
     "images": [
-      "/vetement_enfant/23/Vêtements_enfant_1006.jpg",
-      "/vetement_enfant/23/Vêtements_enfant_1008.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/23/Vêtements_enfant_1006.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/23/Vêtements_enfant_1008.jpg"
     ]
   },
   {
@@ -673,7 +673,7 @@ export const vetement_enfant = [
     "originalPrice": 2299,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/24/Vêtements_enfant_1000.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/24/Vêtements_enfant_1000.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -691,8 +691,8 @@ export const vetement_enfant = [
     ],
     "minOrder": 20,
     "images": [
-      "/vetement_enfant/24/Vêtements_enfant_1000.jpg",
-      "/vetement_enfant/24/Vêtements_enfant_1001.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/24/Vêtements_enfant_1000.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/24/Vêtements_enfant_1001.jpg"
     ]
   },
   {
@@ -702,7 +702,7 @@ export const vetement_enfant = [
     "originalPrice": 2009,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/25/Vêtements_enfant_1122.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/25/Vêtements_enfant_1122.jpg",
     "taxType": "ht",
     "colors": [
       "Beige",
@@ -721,7 +721,7 @@ export const vetement_enfant = [
     ],
     "minOrder": 15,
     "images": [
-      "/vetement_enfant/25/Vêtements_enfant_1122.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/25/Vêtements_enfant_1122.jpg"
     ]
   },
   {
@@ -731,7 +731,7 @@ export const vetement_enfant = [
     "originalPrice": 2451,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/26/Vêtements_enfant_1121.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/26/Vêtements_enfant_1121.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -747,7 +747,7 @@ export const vetement_enfant = [
     ],
     "minOrder": 12,
     "images": [
-      "/vetement_enfant/26/Vêtements_enfant_1121.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/26/Vêtements_enfant_1121.jpg"
     ]
   },
   {
@@ -757,7 +757,7 @@ export const vetement_enfant = [
     "originalPrice": 2178,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/27/Vêtements_enfant_1109.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/27/Vêtements_enfant_1109.jpg",
     "taxType": "ttc",
     "colors": [
       "Bleu",
@@ -776,7 +776,7 @@ export const vetement_enfant = [
     ],
     "minOrder": 13,
     "images": [
-      "/vetement_enfant/27/Vêtements_enfant_1109.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/27/Vêtements_enfant_1109.jpg"
     ]
   },
   {
@@ -786,7 +786,7 @@ export const vetement_enfant = [
     "originalPrice": 2342,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/28/Vêtements_enfant_1114.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/28/Vêtements_enfant_1114.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -803,7 +803,7 @@ export const vetement_enfant = [
     ],
     "minOrder": 13,
     "images": [
-      "/vetement_enfant/28/Vêtements_enfant_1114.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/28/Vêtements_enfant_1114.jpg"
     ]
   },
   {
@@ -813,7 +813,7 @@ export const vetement_enfant = [
     "originalPrice": 2533,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/29/Vêtements_enfant_1058.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/29/Vêtements_enfant_1058.jpg",
     "taxType": "ht",
     "colors": [
       "Beige",
@@ -830,10 +830,10 @@ export const vetement_enfant = [
     ],
     "minOrder": 5,
     "images": [
-      "/vetement_enfant/29/Vêtements_enfant_1058.jpg",
-      "/vetement_enfant/29/Vêtements_enfant_1070.jpg",
-      "/vetement_enfant/29/Vêtements_enfant_1115.jpg",
-      "/vetement_enfant/29/Vêtements_enfant_1120.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/29/Vêtements_enfant_1058.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/29/Vêtements_enfant_1070.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/29/Vêtements_enfant_1115.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/29/Vêtements_enfant_1120.jpg"
     ]
   },
   {
@@ -843,7 +843,7 @@ export const vetement_enfant = [
     "originalPrice": 2228,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/30/Vêtements_enfant_1044.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/30/Vêtements_enfant_1044.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -861,8 +861,8 @@ export const vetement_enfant = [
     ],
     "minOrder": 7,
     "images": [
-      "/vetement_enfant/30/Vêtements_enfant_1044.jpg",
-      "/vetement_enfant/30/Vêtements_enfant_1126.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/30/Vêtements_enfant_1044.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/30/Vêtements_enfant_1126.jpg"
     ]
   },
   {
@@ -872,7 +872,7 @@ export const vetement_enfant = [
     "originalPrice": 2055,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/31/Vêtements_enfant_1037.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/31/Vêtements_enfant_1037.jpg",
     "taxType": "ht",
     "colors": [
       "Orange",
@@ -889,7 +889,7 @@ export const vetement_enfant = [
     ],
     "minOrder": 14,
     "images": [
-      "/vetement_enfant/31/Vêtements_enfant_1037.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/31/Vêtements_enfant_1037.jpg"
     ]
   },
   {
@@ -899,7 +899,7 @@ export const vetement_enfant = [
     "originalPrice": 2476,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/32/Vêtements_enfant_1045.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/32/Vêtements_enfant_1045.jpg",
     "taxType": "ht",
     "colors": [
       "Gris",
@@ -917,10 +917,10 @@ export const vetement_enfant = [
     ],
     "minOrder": 17,
     "images": [
-      "/vetement_enfant/32/Vêtements_enfant_1045.jpg",
-      "/vetement_enfant/32/Vêtements_enfant_1072.jpg",
-      "/vetement_enfant/32/Vêtements_enfant_1111.jpg",
-      "/vetement_enfant/32/Vêtements_enfant_1112.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/32/Vêtements_enfant_1045.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/32/Vêtements_enfant_1072.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/32/Vêtements_enfant_1111.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/32/Vêtements_enfant_1112.jpg"
     ]
   },
   {
@@ -930,7 +930,7 @@ export const vetement_enfant = [
     "originalPrice": 1783,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/33/Vêtements_enfant_1009.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/33/Vêtements_enfant_1009.jpg",
     "taxType": "ht",
     "colors": [
       "Violet",
@@ -949,10 +949,10 @@ export const vetement_enfant = [
     ],
     "minOrder": 8,
     "images": [
-      "/vetement_enfant/33/Vêtements_enfant_1009.jpg",
-      "/vetement_enfant/33/Vêtements_enfant_1038.jpg",
-      "/vetement_enfant/33/Vêtements_enfant_1081.jpg",
-      "/vetement_enfant/33/Vêtements_enfant_1110.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/33/Vêtements_enfant_1009.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/33/Vêtements_enfant_1038.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/33/Vêtements_enfant_1081.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/33/Vêtements_enfant_1110.jpg"
     ]
   },
   {
@@ -962,7 +962,7 @@ export const vetement_enfant = [
     "originalPrice": 1859,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/34/Vêtements_enfant_1041.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/34/Vêtements_enfant_1041.jpg",
     "taxType": "ttc",
     "colors": [
       "Vert",
@@ -980,10 +980,10 @@ export const vetement_enfant = [
     ],
     "minOrder": 8,
     "images": [
-      "/vetement_enfant/34/Vêtements_enfant_1041.jpg",
-      "/vetement_enfant/34/Vêtements_enfant_1077.jpg",
-      "/vetement_enfant/34/Vêtements_enfant_1101.jpg",
-      "/vetement_enfant/34/Vêtements_enfant_1125.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/34/Vêtements_enfant_1041.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/34/Vêtements_enfant_1077.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/34/Vêtements_enfant_1101.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/34/Vêtements_enfant_1125.jpg"
     ]
   },
   {
@@ -993,7 +993,7 @@ export const vetement_enfant = [
     "originalPrice": 1930,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/35/Vêtements_enfant_1066.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/35/Vêtements_enfant_1066.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -1012,8 +1012,8 @@ export const vetement_enfant = [
     ],
     "minOrder": 15,
     "images": [
-      "/vetement_enfant/35/Vêtements_enfant_1066.jpg",
-      "/vetement_enfant/35/Vêtements_enfant_1105.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/35/Vêtements_enfant_1066.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/35/Vêtements_enfant_1105.jpg"
     ]
   },
   {
@@ -1023,7 +1023,7 @@ export const vetement_enfant = [
     "originalPrice": 2049,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/36/Vêtements_enfant_1028.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/36/Vêtements_enfant_1028.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -1040,10 +1040,10 @@ export const vetement_enfant = [
     ],
     "minOrder": 14,
     "images": [
-      "/vetement_enfant/36/Vêtements_enfant_1028.jpg",
-      "/vetement_enfant/36/Vêtements_enfant_1040.jpg",
-      "/vetement_enfant/36/Vêtements_enfant_1053.jpg",
-      "/vetement_enfant/36/Vêtements_enfant_1065.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/36/Vêtements_enfant_1028.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/36/Vêtements_enfant_1040.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/36/Vêtements_enfant_1053.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/36/Vêtements_enfant_1065.jpg"
     ]
   },
   {
@@ -1053,7 +1053,7 @@ export const vetement_enfant = [
     "originalPrice": 2394,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/37/Vêtements_enfant_1042.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/37/Vêtements_enfant_1042.jpg",
     "taxType": "ttc",
     "colors": [
       "Bleu",
@@ -1072,9 +1072,9 @@ export const vetement_enfant = [
     ],
     "minOrder": 17,
     "images": [
-      "/vetement_enfant/37/Vêtements_enfant_1042.jpg",
-      "/vetement_enfant/37/Vêtements_enfant_1063.jpg",
-      "/vetement_enfant/37/Vêtements_enfant_1107.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/37/Vêtements_enfant_1042.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/37/Vêtements_enfant_1063.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/37/Vêtements_enfant_1107.jpg"
     ]
   },
   {
@@ -1084,7 +1084,7 @@ export const vetement_enfant = [
     "originalPrice": 1916,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/38/Vêtements_enfant_1046.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/38/Vêtements_enfant_1046.jpg",
     "taxType": "ttc",
     "colors": [
       "Gris",
@@ -1102,8 +1102,8 @@ export const vetement_enfant = [
     ],
     "minOrder": 6,
     "images": [
-      "/vetement_enfant/38/Vêtements_enfant_1046.jpg",
-      "/vetement_enfant/38/Vêtements_enfant_1118.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/38/Vêtements_enfant_1046.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/38/Vêtements_enfant_1118.jpg"
     ]
   },
   {
@@ -1113,7 +1113,7 @@ export const vetement_enfant = [
     "originalPrice": 2627,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/39/Vêtements_enfant_1043.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/39/Vêtements_enfant_1043.jpg",
     "taxType": "ht",
     "colors": [
       "Gris",
@@ -1130,8 +1130,8 @@ export const vetement_enfant = [
     ],
     "minOrder": 18,
     "images": [
-      "/vetement_enfant/39/Vêtements_enfant_1043.jpg",
-      "/vetement_enfant/39/Vêtements_enfant_1096.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/39/Vêtements_enfant_1043.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/39/Vêtements_enfant_1096.jpg"
     ]
   },
   {
@@ -1141,7 +1141,7 @@ export const vetement_enfant = [
     "originalPrice": 2507,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/40/Vêtements_enfant_1056.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/40/Vêtements_enfant_1056.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -1159,10 +1159,10 @@ export const vetement_enfant = [
     ],
     "minOrder": 9,
     "images": [
-      "/vetement_enfant/40/Vêtements_enfant_1056.jpg",
-      "/vetement_enfant/40/Vêtements_enfant_1059.jpg",
-      "/vetement_enfant/40/Vêtements_enfant_1060.jpg",
-      "/vetement_enfant/40/Vêtements_enfant_1061.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/40/Vêtements_enfant_1056.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/40/Vêtements_enfant_1059.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/40/Vêtements_enfant_1060.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/40/Vêtements_enfant_1061.jpg"
     ]
   },
   {
@@ -1172,7 +1172,7 @@ export const vetement_enfant = [
     "originalPrice": 1921,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/41/Vêtements_enfant_1002.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/41/Vêtements_enfant_1002.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -1191,8 +1191,8 @@ export const vetement_enfant = [
     ],
     "minOrder": 9,
     "images": [
-      "/vetement_enfant/41/Vêtements_enfant_1002.jpg",
-      "/vetement_enfant/41/Vêtements_enfant_1014.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/41/Vêtements_enfant_1002.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/41/Vêtements_enfant_1014.jpg"
     ]
   },
   {
@@ -1202,7 +1202,7 @@ export const vetement_enfant = [
     "originalPrice": 1575,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/42/Vêtements_enfant_1099.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/42/Vêtements_enfant_1099.jpg",
     "taxType": "ht",
     "colors": [
       "Bleu",
@@ -1220,7 +1220,7 @@ export const vetement_enfant = [
     ],
     "minOrder": 17,
     "images": [
-      "/vetement_enfant/42/Vêtements_enfant_1099.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/42/Vêtements_enfant_1099.jpg"
     ]
   },
   {
@@ -1230,7 +1230,7 @@ export const vetement_enfant = [
     "originalPrice": 2005,
     "category": "men",
     "brand": "Various",
-    "image": "/vetement_enfant/43/Vêtements_enfant_1123.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/43/Vêtements_enfant_1123.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -1248,7 +1248,7 @@ export const vetement_enfant = [
     ],
     "minOrder": 10,
     "images": [
-      "/vetement_enfant/43/Vêtements_enfant_1123.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/vetement_enfant/43/Vêtements_enfant_1123.jpg"
     ]
   }
 ]

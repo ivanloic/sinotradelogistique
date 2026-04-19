@@ -33,17 +33,17 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/1/CEXXY Perruques Lace Front Wigs brésiliennes lisses à reflets P4_27, cheveux humains, 13x6, couleur blond miel ombré, pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/1/CEXXY Perruques Lace Front Wigs brésiliennes lisses à reflets P4_27, cheveux humains, 13x6, couleur blond miel ombré, pour femmes.webp",
     "images": [
-      "/perruque/1/CEXXY Perruques Lace Front Wigs brésiliennes lisses à reflets P4_27, cheveux humains, 13x6, couleur blond miel ombré, pour femmes.webp",
-      "/perruque/1/CEXXY Perruques Lace Front Wigs brésiliennes lisses à reflets P4_27, cheveux humains, 13x6, couleur blond miel ombré, pour femmes (1).webp",
-      "/perruque/1/CEXXY Perruques Lace Front Wigs brésiliennes lisses à reflets P4_27, cheveux humains, 13x6, couleur blond miel ombré, pour femmes (2).webp",
-      "/perruque/1/CEXXY Perruques Lace Front Wigs brésiliennes lisses à reflets P4_27, cheveux humains, 13x6, couleur blond miel ombré, pour femmes (3).webp",
-      "/perruque/1/CEXXY Perruques Lace Front Wigs brésiliennes lisses à reflets P4_27, cheveux humains, 13x6, couleur blond miel ombré, pour femmes (4).webp",
-      "/perruque/1/CEXXY Perruques Lace Front Wigs brésiliennes lisses à reflets P4_27, cheveux humains, 13x6, couleur blond miel ombré, pour femmes (5).webp",
-      "/perruque/1/CEXXY Perruques Lace Front Wigs brésiliennes lisses à reflets P4_27, cheveux humains, 13x6, couleur blond miel ombré, pour femmes (6).webp",
-      "/perruque/1/CEXXY Perruques Lace Front Wigs brésiliennes lisses à reflets P4_27, cheveux humains, 13x6, couleur blond miel ombré, pour femmes (7).webp",
-      "/perruque/1/CEXXY Perruques Lace Front Wigs brésiliennes lisses à reflets P4_27, cheveux humains, 13x6, couleur blond miel ombré, pour femmes (8).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/1/CEXXY Perruques Lace Front Wigs brésiliennes lisses à reflets P4_27, cheveux humains, 13x6, couleur blond miel ombré, pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/1/CEXXY Perruques Lace Front Wigs brésiliennes lisses à reflets P4_27, cheveux humains, 13x6, couleur blond miel ombré, pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/1/CEXXY Perruques Lace Front Wigs brésiliennes lisses à reflets P4_27, cheveux humains, 13x6, couleur blond miel ombré, pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/1/CEXXY Perruques Lace Front Wigs brésiliennes lisses à reflets P4_27, cheveux humains, 13x6, couleur blond miel ombré, pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/1/CEXXY Perruques Lace Front Wigs brésiliennes lisses à reflets P4_27, cheveux humains, 13x6, couleur blond miel ombré, pour femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/1/CEXXY Perruques Lace Front Wigs brésiliennes lisses à reflets P4_27, cheveux humains, 13x6, couleur blond miel ombré, pour femmes (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/1/CEXXY Perruques Lace Front Wigs brésiliennes lisses à reflets P4_27, cheveux humains, 13x6, couleur blond miel ombré, pour femmes (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/1/CEXXY Perruques Lace Front Wigs brésiliennes lisses à reflets P4_27, cheveux humains, 13x6, couleur blond miel ombré, pour femmes (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/1/CEXXY Perruques Lace Front Wigs brésiliennes lisses à reflets P4_27, cheveux humains, 13x6, couleur blond miel ombré, pour femmes (8).webp"
     ]
   },
   {
@@ -68,13 +68,13 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/2/CEXXY Perruques Bob sans colle, cheveux humains pré-épilés, pré-coupés, 14 pouces, 13x4, fermeture en dentelle HD, perruques courtes Bob sans colle, cheveux humains noirs, perruques droites, cheveux humains, porter.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/2/CEXXY Perruques Bob sans colle, cheveux humains pré-épilés, pré-coupés, 14 pouces, 13x4, fermeture en dentelle HD, perruques courtes Bob sans colle, cheveux humains noirs, perruques droites, cheveux humains, porter.webp",
     "images": [
-      "/perruque/2/CEXXY Perruques Bob sans colle, cheveux humains pré-épilés, pré-coupés, 14 pouces, 13x4, fermeture en dentelle HD, perruques courtes Bob sans colle, cheveux humains noirs, perruques droites, cheveux humains, porter.webp",
-      "/perruque/2/CEXXY Perruques Bob sans colle, cheveux humains pré-épilés, pré-coupés, 14 pouces, 13x4, fermeture en dentelle HD, perruques courtes Bob sans colle, cheveux humains noirs, perruques droites, cheveux humains, po (1).webp",
-      "/perruque/2/CEXXY Perruques Bob sans colle, cheveux humains pré-épilés, pré-coupés, 14 pouces, 13x4, fermeture en dentelle HD, perruques courtes Bob sans colle, cheveux humains noirs, perruques droites, cheveux humains, po (2).webp",
-      "/perruque/2/CEXXY Perruques Bob sans colle, cheveux humains pré-épilés, pré-coupés, 14 pouces, 13x4, fermeture en dentelle HD, perruques courtes Bob sans colle, cheveux humains noirs, perruques droites, cheveux humains, po (3).webp",
-      "/perruque/2/CEXXY Perruques Bob sans colle, cheveux humains pré-épilés, pré-coupés, 14 pouces, 13x4, fermeture en dentelle HD, perruques courtes Bob sans colle, cheveux humains noirs, perruques droites, cheveux humains, po (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/2/CEXXY Perruques Bob sans colle, cheveux humains pré-épilés, pré-coupés, 14 pouces, 13x4, fermeture en dentelle HD, perruques courtes Bob sans colle, cheveux humains noirs, perruques droites, cheveux humains, porter.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/2/CEXXY Perruques Bob sans colle, cheveux humains pré-épilés, pré-coupés, 14 pouces, 13x4, fermeture en dentelle HD, perruques courtes Bob sans colle, cheveux humains noirs, perruques droites, cheveux humains, po (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/2/CEXXY Perruques Bob sans colle, cheveux humains pré-épilés, pré-coupés, 14 pouces, 13x4, fermeture en dentelle HD, perruques courtes Bob sans colle, cheveux humains noirs, perruques droites, cheveux humains, po (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/2/CEXXY Perruques Bob sans colle, cheveux humains pré-épilés, pré-coupés, 14 pouces, 13x4, fermeture en dentelle HD, perruques courtes Bob sans colle, cheveux humains noirs, perruques droites, cheveux humains, po (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/2/CEXXY Perruques Bob sans colle, cheveux humains pré-épilés, pré-coupés, 14 pouces, 13x4, fermeture en dentelle HD, perruques courtes Bob sans colle, cheveux humains noirs, perruques droites, cheveux humains, po (4).webp"
     ]
   },
   {
@@ -110,16 +110,16 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/3/CEXXY Perruque frontale en dentelle HD 13 x 4, ultra fine et invisible de 0,10 mm, cheveux humains sans colle, nœuds blanchis pré-épilés, densité 180 %25, pour femmes, 91 cm.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/3/CEXXY Perruque frontale en dentelle HD 13 x 4, ultra fine et invisible de 0,10 mm, cheveux humains sans colle, nœuds blanchis pré-épilés, densité 180 %25, pour femmes, 91 cm.webp",
     "images": [
-      "/perruque/3/CEXXY Perruque frontale en dentelle HD 13 x 4, ultra fine et invisible de 0,10 mm, cheveux humains sans colle, nœuds blanchis pré-épilés, densité 180 %25, pour femmes, 91 cm.webp",
-      "/perruque/3/CEXXY Perruque frontale en dentelle HD 13 x 4, ultra fine et invisible de 0,10 mm, cheveux humains sans colle, nœuds blanchis pré-épilés, densité 180 %25, pour femmes, 91 cm (1).webp",
-      "/perruque/3/CEXXY Perruque frontale en dentelle HD 13 x 4, ultra fine et invisible de 0,10 mm, cheveux humains sans colle, nœuds blanchis pré-épilés, densité 180 %25, pour femmes, 91 cm (2).webp",
-      "/perruque/3/CEXXY Perruque frontale en dentelle HD 13 x 4, ultra fine et invisible de 0,10 mm, cheveux humains sans colle, nœuds blanchis pré-épilés, densité 180 %25, pour femmes, 91 cm (3).webp",
-      "/perruque/3/CEXXY Perruque frontale en dentelle HD 13 x 4, ultra fine et invisible de 0,10 mm, cheveux humains sans colle, nœuds blanchis pré-épilés, densité 180 %25, pour femmes, 91 cm (4).webp",
-      "/perruque/3/CEXXY Perruque frontale en dentelle HD 13 x 4, ultra fine et invisible de 0,10 mm, cheveux humains sans colle, nœuds blanchis pré-épilés, densité 180 %25, pour femmes, 91 cm (5).webp",
-      "/perruque/3/CEXXY Perruque frontale en dentelle HD 13 x 4, ultra fine et invisible de 0,10 mm, cheveux humains sans colle, nœuds blanchis pré-épilés, densité 180 %25, pour femmes, 91 cm (6).webp",
-      "/perruque/3/CEXXY Perruque frontale en dentelle HD 13 x 4, ultra fine et invisible de 0,10 mm, cheveux humains sans colle, nœuds blanchis pré-épilés, densité 180 %25, pour femmes, 91 cm (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/3/CEXXY Perruque frontale en dentelle HD 13 x 4, ultra fine et invisible de 0,10 mm, cheveux humains sans colle, nœuds blanchis pré-épilés, densité 180 %25, pour femmes, 91 cm.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/3/CEXXY Perruque frontale en dentelle HD 13 x 4, ultra fine et invisible de 0,10 mm, cheveux humains sans colle, nœuds blanchis pré-épilés, densité 180 %25, pour femmes, 91 cm (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/3/CEXXY Perruque frontale en dentelle HD 13 x 4, ultra fine et invisible de 0,10 mm, cheveux humains sans colle, nœuds blanchis pré-épilés, densité 180 %25, pour femmes, 91 cm (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/3/CEXXY Perruque frontale en dentelle HD 13 x 4, ultra fine et invisible de 0,10 mm, cheveux humains sans colle, nœuds blanchis pré-épilés, densité 180 %25, pour femmes, 91 cm (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/3/CEXXY Perruque frontale en dentelle HD 13 x 4, ultra fine et invisible de 0,10 mm, cheveux humains sans colle, nœuds blanchis pré-épilés, densité 180 %25, pour femmes, 91 cm (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/3/CEXXY Perruque frontale en dentelle HD 13 x 4, ultra fine et invisible de 0,10 mm, cheveux humains sans colle, nœuds blanchis pré-épilés, densité 180 %25, pour femmes, 91 cm (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/3/CEXXY Perruque frontale en dentelle HD 13 x 4, ultra fine et invisible de 0,10 mm, cheveux humains sans colle, nœuds blanchis pré-épilés, densité 180 %25, pour femmes, 91 cm (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/3/CEXXY Perruque frontale en dentelle HD 13 x 4, ultra fine et invisible de 0,10 mm, cheveux humains sans colle, nœuds blanchis pré-épilés, densité 180 %25, pour femmes, 91 cm (7).webp"
     ]
   },
   {
@@ -155,14 +155,14 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/4/CEXXY Perruques en cheveux humains avec dentelle frontale ombrée marron 13x4, pré-épilées avec cheveux de bébé, densité 250 %25, pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/4/CEXXY Perruques en cheveux humains avec dentelle frontale ombrée marron 13x4, pré-épilées avec cheveux de bébé, densité 250 %25, pour femmes.webp",
     "images": [
-      "/perruque/4/CEXXY Perruques en cheveux humains avec dentelle frontale ombrée marron 13x4, pré-épilées avec cheveux de bébé, densité 250 %25, pour femmes.webp",
-      "/perruque/4/CEXXY Perruques en cheveux humains avec dentelle frontale ombrée marron 13x4, pré-épilées avec cheveux de bébé, densité 250 %25, pour femmes (1).webp",
-      "/perruque/4/CEXXY Perruques en cheveux humains avec dentelle frontale ombrée marron 13x4, pré-épilées avec cheveux de bébé, densité 250 %25, pour femmes (2).webp",
-      "/perruque/4/CEXXY Perruques en cheveux humains avec dentelle frontale ombrée marron 13x4, pré-épilées avec cheveux de bébé, densité 250 %25, pour femmes (3).webp",
-      "/perruque/4/CEXXY Perruques en cheveux humains avec dentelle frontale ombrée marron 13x4, pré-épilées avec cheveux de bébé, densité 250 %25, pour femmes (4).webp",
-      "/perruque/4/CEXXY Perruques en cheveux humains avec dentelle frontale ombrée marron 13x4, pré-épilées avec cheveux de bébé, densité 250 %25, pour femmes (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/4/CEXXY Perruques en cheveux humains avec dentelle frontale ombrée marron 13x4, pré-épilées avec cheveux de bébé, densité 250 %25, pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/4/CEXXY Perruques en cheveux humains avec dentelle frontale ombrée marron 13x4, pré-épilées avec cheveux de bébé, densité 250 %25, pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/4/CEXXY Perruques en cheveux humains avec dentelle frontale ombrée marron 13x4, pré-épilées avec cheveux de bébé, densité 250 %25, pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/4/CEXXY Perruques en cheveux humains avec dentelle frontale ombrée marron 13x4, pré-épilées avec cheveux de bébé, densité 250 %25, pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/4/CEXXY Perruques en cheveux humains avec dentelle frontale ombrée marron 13x4, pré-épilées avec cheveux de bébé, densité 250 %25, pour femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/4/CEXXY Perruques en cheveux humains avec dentelle frontale ombrée marron 13x4, pré-épilées avec cheveux de bébé, densité 250 %25, pour femmes (5).webp"
     ]
   },
   {
@@ -199,13 +199,13 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/5/bling hair Perruques brésiliennes lisses 33 x 15 cm, 33 x 10 cm, cheveux humains pré-épilés, densité 180 %25, perruques à fermeture en dentelle 10 x 10 cm, cheveux humains avec cheveux de bébé, faciles à transporter,.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/5/bling hair Perruques brésiliennes lisses 33 x 15 cm, 33 x 10 cm, cheveux humains pré-épilés, densité 180 %25, perruques à fermeture en dentelle 10 x 10 cm, cheveux humains avec cheveux de bébé, faciles à transporter,.webp",
     "images": [
-      "/perruque/5/bling hair Perruques brésiliennes lisses 33 x 15 cm, 33 x 10 cm, cheveux humains pré-épilés, densité 180 %25, perruques à fermeture en dentelle 10 x 10 cm, cheveux humains avec cheveux de bébé, faciles à transporter,.webp",
-      "/perruque/5/bling hair Perruques brésiliennes lisses 33 x 15 cm, 33 x 10 cm, cheveux humains pré-épilés, densité 180 %25, perruques à fermeture en dentelle 10 x 10 cm, cheveux humains avec cheveux de bébé, faciles à transpor (1).webp",
-      "/perruque/5/bling hair Perruques brésiliennes lisses 33 x 15 cm, 33 x 10 cm, cheveux humains pré-épilés, densité 180 %25, perruques à fermeture en dentelle 10 x 10 cm, cheveux humains avec cheveux de bébé, faciles à transpor (2).webp",
-      "/perruque/5/bling hair Perruques brésiliennes lisses 33 x 15 cm, 33 x 10 cm, cheveux humains pré-épilés, densité 180 %25, perruques à fermeture en dentelle 10 x 10 cm, cheveux humains avec cheveux de bébé, faciles à transpor (3).webp",
-      "/perruque/5/bling hair Perruques brésiliennes lisses 33 x 15 cm, 33 x 10 cm, cheveux humains pré-épilés, densité 180 %25, perruques à fermeture en dentelle 10 x 10 cm, cheveux humains avec cheveux de bébé, faciles à transpor (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/5/bling hair Perruques brésiliennes lisses 33 x 15 cm, 33 x 10 cm, cheveux humains pré-épilés, densité 180 %25, perruques à fermeture en dentelle 10 x 10 cm, cheveux humains avec cheveux de bébé, faciles à transporter,.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/5/bling hair Perruques brésiliennes lisses 33 x 15 cm, 33 x 10 cm, cheveux humains pré-épilés, densité 180 %25, perruques à fermeture en dentelle 10 x 10 cm, cheveux humains avec cheveux de bébé, faciles à transpor (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/5/bling hair Perruques brésiliennes lisses 33 x 15 cm, 33 x 10 cm, cheveux humains pré-épilés, densité 180 %25, perruques à fermeture en dentelle 10 x 10 cm, cheveux humains avec cheveux de bébé, faciles à transpor (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/5/bling hair Perruques brésiliennes lisses 33 x 15 cm, 33 x 10 cm, cheveux humains pré-épilés, densité 180 %25, perruques à fermeture en dentelle 10 x 10 cm, cheveux humains avec cheveux de bébé, faciles à transpor (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/5/bling hair Perruques brésiliennes lisses 33 x 15 cm, 33 x 10 cm, cheveux humains pré-épilés, densité 180 %25, perruques à fermeture en dentelle 10 x 10 cm, cheveux humains avec cheveux de bébé, faciles à transpor (4).webp"
     ]
   },
   {
@@ -241,17 +241,17 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/6/CEXXY Perruque en cheveux humains raides, roux naturel HD, de 35 à 90 cm de hauteur, avec dentelle HD 13x6 et dentelle frontale, couleur 99J, 180 %25 cheveux humains non traités, soyeux et naturels. Spécialement conç.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/6/CEXXY Perruque en cheveux humains raides, roux naturel HD, de 35 à 90 cm de hauteur, avec dentelle HD 13x6 et dentelle frontale, couleur 99J, 180 %25 cheveux humains non traités, soyeux et naturels. Spécialement conç.webp",
     "images": [
-      "/perruque/6/CEXXY Perruque en cheveux humains raides, roux naturel HD, de 35 à 90 cm de hauteur, avec dentelle HD 13x6 et dentelle frontale, couleur 99J, 180 %25 cheveux humains non traités, soyeux et naturels. Spécialement conç.webp",
-      "/perruque/6/CEXXY Perruque en cheveux humains raides, roux naturel HD, de 35 à 90 cm de hauteur, avec dentelle HD 13x6 et dentelle frontale, couleur 99J, 180 %25 cheveux humains non traités, soyeux et naturels. Spécialement  (1).webp",
-      "/perruque/6/CEXXY Perruque en cheveux humains raides, roux naturel HD, de 35 à 90 cm de hauteur, avec dentelle HD 13x6 et dentelle frontale, couleur 99J, 180 %25 cheveux humains non traités, soyeux et naturels. Spécialement  (2).webp",
-      "/perruque/6/CEXXY Perruque en cheveux humains raides, roux naturel HD, de 35 à 90 cm de hauteur, avec dentelle HD 13x6 et dentelle frontale, couleur 99J, 180 %25 cheveux humains non traités, soyeux et naturels. Spécialement  (3).webp",
-      "/perruque/6/CEXXY Perruque en cheveux humains raides, roux naturel HD, de 35 à 90 cm de hauteur, avec dentelle HD 13x6 et dentelle frontale, couleur 99J, 180 %25 cheveux humains non traités, soyeux et naturels. Spécialement  (4).webp",
-      "/perruque/6/CEXXY Perruque en cheveux humains raides, roux naturel HD, de 35 à 90 cm de hauteur, avec dentelle HD 13x6 et dentelle frontale, couleur 99J, 180 %25 cheveux humains non traités, soyeux et naturels. Spécialement  (5).webp",
-      "/perruque/6/CEXXY Perruque en cheveux humains raides, roux naturel HD, de 35 à 90 cm de hauteur, avec dentelle HD 13x6 et dentelle frontale, couleur 99J, 180 %25 cheveux humains non traités, soyeux et naturels. Spécialement  (6).webp",
-      "/perruque/6/CEXXY Perruque en cheveux humains raides, roux naturel HD, de 35 à 90 cm de hauteur, avec dentelle HD 13x6 et dentelle frontale, couleur 99J, 180 %25 cheveux humains non traités, soyeux et naturels. Spécialement  (7).webp",
-      "/perruque/6/CEXXY Perruque en cheveux humains raides, roux naturel HD, de 35 à 90 cm de hauteur, avec dentelle HD 13x6 et dentelle frontale, couleur 99J, 180 %25 cheveux humains non traités, soyeux et naturels. Spécialement  (8).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/6/CEXXY Perruque en cheveux humains raides, roux naturel HD, de 35 à 90 cm de hauteur, avec dentelle HD 13x6 et dentelle frontale, couleur 99J, 180 %25 cheveux humains non traités, soyeux et naturels. Spécialement conç.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/6/CEXXY Perruque en cheveux humains raides, roux naturel HD, de 35 à 90 cm de hauteur, avec dentelle HD 13x6 et dentelle frontale, couleur 99J, 180 %25 cheveux humains non traités, soyeux et naturels. Spécialement  (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/6/CEXXY Perruque en cheveux humains raides, roux naturel HD, de 35 à 90 cm de hauteur, avec dentelle HD 13x6 et dentelle frontale, couleur 99J, 180 %25 cheveux humains non traités, soyeux et naturels. Spécialement  (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/6/CEXXY Perruque en cheveux humains raides, roux naturel HD, de 35 à 90 cm de hauteur, avec dentelle HD 13x6 et dentelle frontale, couleur 99J, 180 %25 cheveux humains non traités, soyeux et naturels. Spécialement  (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/6/CEXXY Perruque en cheveux humains raides, roux naturel HD, de 35 à 90 cm de hauteur, avec dentelle HD 13x6 et dentelle frontale, couleur 99J, 180 %25 cheveux humains non traités, soyeux et naturels. Spécialement  (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/6/CEXXY Perruque en cheveux humains raides, roux naturel HD, de 35 à 90 cm de hauteur, avec dentelle HD 13x6 et dentelle frontale, couleur 99J, 180 %25 cheveux humains non traités, soyeux et naturels. Spécialement  (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/6/CEXXY Perruque en cheveux humains raides, roux naturel HD, de 35 à 90 cm de hauteur, avec dentelle HD 13x6 et dentelle frontale, couleur 99J, 180 %25 cheveux humains non traités, soyeux et naturels. Spécialement  (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/6/CEXXY Perruque en cheveux humains raides, roux naturel HD, de 35 à 90 cm de hauteur, avec dentelle HD 13x6 et dentelle frontale, couleur 99J, 180 %25 cheveux humains non traités, soyeux et naturels. Spécialement  (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/6/CEXXY Perruque en cheveux humains raides, roux naturel HD, de 35 à 90 cm de hauteur, avec dentelle HD 13x6 et dentelle frontale, couleur 99J, 180 %25 cheveux humains non traités, soyeux et naturels. Spécialement  (8).webp"
     ]
   },
   {
@@ -287,16 +287,16 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 5,
-    "image": "/perruque/7/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/7/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon.webp",
     "images": [
-      "/perruque/7/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon.webp",
-      "/perruque/7/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon (1).webp",
-      "/perruque/7/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon (2).webp",
-      "/perruque/7/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon (3).webp",
-      "/perruque/7/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon (4).webp",
-      "/perruque/7/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon (5).webp",
-      "/perruque/7/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon (6).webp",
-      "/perruque/7/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/7/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/7/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/7/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/7/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/7/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/7/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/7/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/7/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon (7).webp"
     ]
   },
   {
@@ -332,13 +332,13 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 5,
-    "image": "/perruque/8/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/8/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon.webp",
     "images": [
-      "/perruque/8/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon.webp",
-      "/perruque/8/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon (1).webp",
-      "/perruque/8/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon (2).webp",
-      "/perruque/8/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon (3).webp",
-      "/perruque/8/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/8/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/8/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/8/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/8/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/8/CEXXY Perruque frontale en dentelle 360 __°, cheveux humains, densité 180, vague profonde, sans colle, avec cheveux de bébé pré-épilés, couleur naturelle, queue de cheval, chignon (4).webp"
     ]
   },
   {
@@ -374,16 +374,16 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/9/MEGALOOK Perruque frontale en dentelle dégradé Platinum Dip-Dye Upgraded 13x6 Max Three-Go™, avec cordon de serrage, dentelle pré-découpée d'oreille à oreille, ligne de cheveux naturelle, sans colle nécessaire, cou.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/9/MEGALOOK Perruque frontale en dentelle dégradé Platinum Dip-Dye Upgraded 13x6 Max Three-Go™, avec cordon de serrage, dentelle pré-découpée d'oreille à oreille, ligne de cheveux naturelle, sans colle nécessaire, cou.webp",
     "images": [
-      "/perruque/9/MEGALOOK Perruque frontale en dentelle dégradé Platinum Dip-Dye Upgraded 13x6 Max Three-Go™, avec cordon de serrage, dentelle pré-découpée d'oreille à oreille, ligne de cheveux naturelle, sans colle nécessaire, cou.webp",
-      "/perruque/9/MEGALOOK Perruque frontale en dentelle dégradé Platinum Dip-Dye Upgraded 13x6 Max Three-Go™, avec cordon de serrage, dentelle pré-découpée d'oreille à oreille, ligne de cheveux naturelle, sans colle nécessaire, (1).webp",
-      "/perruque/9/MEGALOOK Perruque frontale en dentelle dégradé Platinum Dip-Dye Upgraded 13x6 Max Three-Go™, avec cordon de serrage, dentelle pré-découpée d'oreille à oreille, ligne de cheveux naturelle, sans colle nécessaire, (2).webp",
-      "/perruque/9/MEGALOOK Perruque frontale en dentelle dégradé Platinum Dip-Dye Upgraded 13x6 Max Three-Go™, avec cordon de serrage, dentelle pré-découpée d'oreille à oreille, ligne de cheveux naturelle, sans colle nécessaire, (3).webp",
-      "/perruque/9/MEGALOOK Perruque frontale en dentelle dégradé Platinum Dip-Dye Upgraded 13x6 Max Three-Go™, avec cordon de serrage, dentelle pré-découpée d'oreille à oreille, ligne de cheveux naturelle, sans colle nécessaire, (4).webp",
-      "/perruque/9/MEGALOOK Perruque frontale en dentelle dégradé Platinum Dip-Dye Upgraded 13x6 Max Three-Go™, avec cordon de serrage, dentelle pré-découpée d'oreille à oreille, ligne de cheveux naturelle, sans colle nécessaire, (5).webp",
-      "/perruque/9/MEGALOOK Perruque frontale en dentelle dégradé Platinum Dip-Dye Upgraded 13x6 Max Three-Go™, avec cordon de serrage, dentelle pré-découpée d'oreille à oreille, ligne de cheveux naturelle, sans colle nécessaire, (6).webp",
-      "/perruque/9/MEGALOOK Perruque frontale en dentelle dégradé Platinum Dip-Dye Upgraded 13x6 Max Three-Go™, avec cordon de serrage, dentelle pré-découpée d'oreille à oreille, ligne de cheveux naturelle, sans colle nécessaire, (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/9/MEGALOOK Perruque frontale en dentelle dégradé Platinum Dip-Dye Upgraded 13x6 Max Three-Go™, avec cordon de serrage, dentelle pré-découpée d'oreille à oreille, ligne de cheveux naturelle, sans colle nécessaire, cou.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/9/MEGALOOK Perruque frontale en dentelle dégradé Platinum Dip-Dye Upgraded 13x6 Max Three-Go™, avec cordon de serrage, dentelle pré-découpée d'oreille à oreille, ligne de cheveux naturelle, sans colle nécessaire, (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/9/MEGALOOK Perruque frontale en dentelle dégradé Platinum Dip-Dye Upgraded 13x6 Max Three-Go™, avec cordon de serrage, dentelle pré-découpée d'oreille à oreille, ligne de cheveux naturelle, sans colle nécessaire, (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/9/MEGALOOK Perruque frontale en dentelle dégradé Platinum Dip-Dye Upgraded 13x6 Max Three-Go™, avec cordon de serrage, dentelle pré-découpée d'oreille à oreille, ligne de cheveux naturelle, sans colle nécessaire, (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/9/MEGALOOK Perruque frontale en dentelle dégradé Platinum Dip-Dye Upgraded 13x6 Max Three-Go™, avec cordon de serrage, dentelle pré-découpée d'oreille à oreille, ligne de cheveux naturelle, sans colle nécessaire, (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/9/MEGALOOK Perruque frontale en dentelle dégradé Platinum Dip-Dye Upgraded 13x6 Max Three-Go™, avec cordon de serrage, dentelle pré-découpée d'oreille à oreille, ligne de cheveux naturelle, sans colle nécessaire, (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/9/MEGALOOK Perruque frontale en dentelle dégradé Platinum Dip-Dye Upgraded 13x6 Max Three-Go™, avec cordon de serrage, dentelle pré-découpée d'oreille à oreille, ligne de cheveux naturelle, sans colle nécessaire, (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/9/MEGALOOK Perruque frontale en dentelle dégradé Platinum Dip-Dye Upgraded 13x6 Max Three-Go™, avec cordon de serrage, dentelle pré-découpée d'oreille à oreille, ligne de cheveux naturelle, sans colle nécessaire, (7).webp"
     ]
   },
   {
@@ -420,16 +420,16 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/10/CEXXY Perruque brésilienne ondulée avec lace front, cheveux naturels, 33 x 15 cm, avec dentelle transparente HD, pré-emballée avec des cheveux de bébé, ligne de cheveux naturelle, raie profonde, densité 180 °, per.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/10/CEXXY Perruque brésilienne ondulée avec lace front, cheveux naturels, 33 x 15 cm, avec dentelle transparente HD, pré-emballée avec des cheveux de bébé, ligne de cheveux naturelle, raie profonde, densité 180 °, per.webp",
     "images": [
-      "/perruque/10/CEXXY Perruque brésilienne ondulée avec lace front, cheveux naturels, 33 x 15 cm, avec dentelle transparente HD, pré-emballée avec des cheveux de bébé, ligne de cheveux naturelle, raie profonde, densité 180 °, per.webp",
-      "/perruque/10/CEXXY Perruque brésilienne ondulée avec lace front, cheveux naturels, 33 x 15 cm, avec dentelle transparente HD, pré-emballée avec des cheveux de bébé, ligne de cheveux naturelle, raie profonde, densité 180 °, (1).webp",
-      "/perruque/10/CEXXY Perruque brésilienne ondulée avec lace front, cheveux naturels, 33 x 15 cm, avec dentelle transparente HD, pré-emballée avec des cheveux de bébé, ligne de cheveux naturelle, raie profonde, densité 180 °, (2).webp",
-      "/perruque/10/CEXXY Perruque brésilienne ondulée avec lace front, cheveux naturels, 33 x 15 cm, avec dentelle transparente HD, pré-emballée avec des cheveux de bébé, ligne de cheveux naturelle, raie profonde, densité 180 °, (3).webp",
-      "/perruque/10/CEXXY Perruque brésilienne ondulée avec lace front, cheveux naturels, 33 x 15 cm, avec dentelle transparente HD, pré-emballée avec des cheveux de bébé, ligne de cheveux naturelle, raie profonde, densité 180 °, (4).webp",
-      "/perruque/10/CEXXY Perruque brésilienne ondulée avec lace front, cheveux naturels, 33 x 15 cm, avec dentelle transparente HD, pré-emballée avec des cheveux de bébé, ligne de cheveux naturelle, raie profonde, densité 180 °, (5).webp",
-      "/perruque/10/CEXXY Perruque brésilienne ondulée avec lace front, cheveux naturels, 33 x 15 cm, avec dentelle transparente HD, pré-emballée avec des cheveux de bébé, ligne de cheveux naturelle, raie profonde, densité 180 °, (6).webp",
-      "/perruque/10/CEXXY Perruque brésilienne ondulée avec lace front, cheveux naturels, 33 x 15 cm, avec dentelle transparente HD, pré-emballée avec des cheveux de bébé, ligne de cheveux naturelle, raie profonde, densité 180 °, (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/10/CEXXY Perruque brésilienne ondulée avec lace front, cheveux naturels, 33 x 15 cm, avec dentelle transparente HD, pré-emballée avec des cheveux de bébé, ligne de cheveux naturelle, raie profonde, densité 180 °, per.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/10/CEXXY Perruque brésilienne ondulée avec lace front, cheveux naturels, 33 x 15 cm, avec dentelle transparente HD, pré-emballée avec des cheveux de bébé, ligne de cheveux naturelle, raie profonde, densité 180 °, (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/10/CEXXY Perruque brésilienne ondulée avec lace front, cheveux naturels, 33 x 15 cm, avec dentelle transparente HD, pré-emballée avec des cheveux de bébé, ligne de cheveux naturelle, raie profonde, densité 180 °, (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/10/CEXXY Perruque brésilienne ondulée avec lace front, cheveux naturels, 33 x 15 cm, avec dentelle transparente HD, pré-emballée avec des cheveux de bébé, ligne de cheveux naturelle, raie profonde, densité 180 °, (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/10/CEXXY Perruque brésilienne ondulée avec lace front, cheveux naturels, 33 x 15 cm, avec dentelle transparente HD, pré-emballée avec des cheveux de bébé, ligne de cheveux naturelle, raie profonde, densité 180 °, (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/10/CEXXY Perruque brésilienne ondulée avec lace front, cheveux naturels, 33 x 15 cm, avec dentelle transparente HD, pré-emballée avec des cheveux de bébé, ligne de cheveux naturelle, raie profonde, densité 180 °, (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/10/CEXXY Perruque brésilienne ondulée avec lace front, cheveux naturels, 33 x 15 cm, avec dentelle transparente HD, pré-emballée avec des cheveux de bébé, ligne de cheveux naturelle, raie profonde, densité 180 °, (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/10/CEXXY Perruque brésilienne ondulée avec lace front, cheveux naturels, 33 x 15 cm, avec dentelle transparente HD, pré-emballée avec des cheveux de bébé, ligne de cheveux naturelle, raie profonde, densité 180 °, (7).webp"
     ]
   },
   {
@@ -466,18 +466,18 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/11/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés, Sa.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/11/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés, Sa.webp",
     "images": [
-      "/perruque/11/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés, Sa.webp",
-      "/perruque/11/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (1).webp",
-      "/perruque/11/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (2).webp",
-      "/perruque/11/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (3).webp",
-      "/perruque/11/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (4).webp",
-      "/perruque/11/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (5).webp",
-      "/perruque/11/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (6).webp",
-      "/perruque/11/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (7).webp",
-      "/perruque/11/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (8).webp",
-      "/perruque/11/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (9).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/11/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés, Sa.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/11/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/11/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/11/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/11/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/11/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/11/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/11/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/11/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (8).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/11/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (9).webp"
     ]
   },
   {
@@ -514,14 +514,14 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 1,
-    "image": "/perruque/12/CEXXY Perruque brésilienne bouclée avec dentelle frontale 33 x 15 cm, cheveux naturels, ondulés, transparents HD, naissance de cheveux naturelle pré-épilée avec cheveux de bébé, raie profonde, 18 x 13 cm, sans col.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/12/CEXXY Perruque brésilienne bouclée avec dentelle frontale 33 x 15 cm, cheveux naturels, ondulés, transparents HD, naissance de cheveux naturelle pré-épilée avec cheveux de bébé, raie profonde, 18 x 13 cm, sans col.webp",
     "images": [
-      "/perruque/12/CEXXY Perruque brésilienne bouclée avec dentelle frontale 33 x 15 cm, cheveux naturels, ondulés, transparents HD, naissance de cheveux naturelle pré-épilée avec cheveux de bébé, raie profonde, 18 x 13 cm, sans col.webp",
-      "/perruque/12/CEXXY Perruque brésilienne bouclée avec dentelle frontale 33 x 15 cm, cheveux naturels, ondulés, transparents HD, naissance de cheveux naturelle pré-épilée avec cheveux de bébé, raie profonde, 18 x 13 cm, sans (1).webp",
-      "/perruque/12/CEXXY Perruque brésilienne bouclée avec dentelle frontale 33 x 15 cm, cheveux naturels, ondulés, transparents HD, naissance de cheveux naturelle pré-épilée avec cheveux de bébé, raie profonde, 18 x 13 cm, sans (2).webp",
-      "/perruque/12/CEXXY Perruque brésilienne bouclée avec dentelle frontale 33 x 15 cm, cheveux naturels, ondulés, transparents HD, naissance de cheveux naturelle pré-épilée avec cheveux de bébé, raie profonde, 18 x 13 cm, sans (3).webp",
-      "/perruque/12/CEXXY Perruque brésilienne bouclée avec dentelle frontale 33 x 15 cm, cheveux naturels, ondulés, transparents HD, naissance de cheveux naturelle pré-épilée avec cheveux de bébé, raie profonde, 18 x 13 cm, sans (4).webp",
-      "/perruque/12/CEXXY Perruque brésilienne bouclée avec dentelle frontale 33 x 15 cm, cheveux naturels, ondulés, transparents HD, naissance de cheveux naturelle pré-épilée avec cheveux de bébé, raie profonde, 18 x 13 cm, sans (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/12/CEXXY Perruque brésilienne bouclée avec dentelle frontale 33 x 15 cm, cheveux naturels, ondulés, transparents HD, naissance de cheveux naturelle pré-épilée avec cheveux de bébé, raie profonde, 18 x 13 cm, sans col.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/12/CEXXY Perruque brésilienne bouclée avec dentelle frontale 33 x 15 cm, cheveux naturels, ondulés, transparents HD, naissance de cheveux naturelle pré-épilée avec cheveux de bébé, raie profonde, 18 x 13 cm, sans (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/12/CEXXY Perruque brésilienne bouclée avec dentelle frontale 33 x 15 cm, cheveux naturels, ondulés, transparents HD, naissance de cheveux naturelle pré-épilée avec cheveux de bébé, raie profonde, 18 x 13 cm, sans (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/12/CEXXY Perruque brésilienne bouclée avec dentelle frontale 33 x 15 cm, cheveux naturels, ondulés, transparents HD, naissance de cheveux naturelle pré-épilée avec cheveux de bébé, raie profonde, 18 x 13 cm, sans (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/12/CEXXY Perruque brésilienne bouclée avec dentelle frontale 33 x 15 cm, cheveux naturels, ondulés, transparents HD, naissance de cheveux naturelle pré-épilée avec cheveux de bébé, raie profonde, 18 x 13 cm, sans (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/12/CEXXY Perruque brésilienne bouclée avec dentelle frontale 33 x 15 cm, cheveux naturels, ondulés, transparents HD, naissance de cheveux naturelle pré-épilée avec cheveux de bébé, raie profonde, 18 x 13 cm, sans (5).webp"
     ]
   },
   {
@@ -558,17 +558,17 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/13/CEXXY Perruque marron chocolat 13x6 avec ondulations profondes et tulle frontal, perruque bordeaux avec ondulations profondes et tulle frontal, perruque en cheveux humains pour femme, perruque brésilienne en cheve.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/13/CEXXY Perruque marron chocolat 13x6 avec ondulations profondes et tulle frontal, perruque bordeaux avec ondulations profondes et tulle frontal, perruque en cheveux humains pour femme, perruque brésilienne en cheve.webp",
     "images": [
-      "/perruque/13/CEXXY Perruque marron chocolat 13x6 avec ondulations profondes et tulle frontal, perruque bordeaux avec ondulations profondes et tulle frontal, perruque en cheveux humains pour femme, perruque brésilienne en cheve.webp",
-      "/perruque/13/CEXXY Perruque marron chocolat 13x6 avec ondulations profondes et tulle frontal, perruque bordeaux avec ondulations profondes et tulle frontal, perruque en cheveux humains pour femme, perruque brésilienne en c (1).webp",
-      "/perruque/13/CEXXY Perruque marron chocolat 13x6 avec ondulations profondes et tulle frontal, perruque bordeaux avec ondulations profondes et tulle frontal, perruque en cheveux humains pour femme, perruque brésilienne en c (2).webp",
-      "/perruque/13/CEXXY Perruque marron chocolat 13x6 avec ondulations profondes et tulle frontal, perruque bordeaux avec ondulations profondes et tulle frontal, perruque en cheveux humains pour femme, perruque brésilienne en c (3).webp",
-      "/perruque/13/CEXXY Perruque marron chocolat 13x6 avec ondulations profondes et tulle frontal, perruque bordeaux avec ondulations profondes et tulle frontal, perruque en cheveux humains pour femme, perruque brésilienne en c (4).webp",
-      "/perruque/13/CEXXY Perruque marron chocolat 13x6 avec ondulations profondes et tulle frontal, perruque bordeaux avec ondulations profondes et tulle frontal, perruque en cheveux humains pour femme, perruque brésilienne en c (5).webp",
-      "/perruque/13/CEXXY Perruque marron chocolat 13x6 avec ondulations profondes et tulle frontal, perruque bordeaux avec ondulations profondes et tulle frontal, perruque en cheveux humains pour femme, perruque brésilienne en c (6).webp",
-      "/perruque/13/CEXXY Perruque marron chocolat 13x6 avec ondulations profondes et tulle frontal, perruque bordeaux avec ondulations profondes et tulle frontal, perruque en cheveux humains pour femme, perruque brésilienne en c (7).webp",
-      "/perruque/13/CEXXY Perruque marron chocolat 13x6 avec ondulations profondes et tulle frontal, perruque bordeaux avec ondulations profondes et tulle frontal, perruque en cheveux humains pour femme, perruque brésilienne en c (8).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/13/CEXXY Perruque marron chocolat 13x6 avec ondulations profondes et tulle frontal, perruque bordeaux avec ondulations profondes et tulle frontal, perruque en cheveux humains pour femme, perruque brésilienne en cheve.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/13/CEXXY Perruque marron chocolat 13x6 avec ondulations profondes et tulle frontal, perruque bordeaux avec ondulations profondes et tulle frontal, perruque en cheveux humains pour femme, perruque brésilienne en c (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/13/CEXXY Perruque marron chocolat 13x6 avec ondulations profondes et tulle frontal, perruque bordeaux avec ondulations profondes et tulle frontal, perruque en cheveux humains pour femme, perruque brésilienne en c (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/13/CEXXY Perruque marron chocolat 13x6 avec ondulations profondes et tulle frontal, perruque bordeaux avec ondulations profondes et tulle frontal, perruque en cheveux humains pour femme, perruque brésilienne en c (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/13/CEXXY Perruque marron chocolat 13x6 avec ondulations profondes et tulle frontal, perruque bordeaux avec ondulations profondes et tulle frontal, perruque en cheveux humains pour femme, perruque brésilienne en c (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/13/CEXXY Perruque marron chocolat 13x6 avec ondulations profondes et tulle frontal, perruque bordeaux avec ondulations profondes et tulle frontal, perruque en cheveux humains pour femme, perruque brésilienne en c (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/13/CEXXY Perruque marron chocolat 13x6 avec ondulations profondes et tulle frontal, perruque bordeaux avec ondulations profondes et tulle frontal, perruque en cheveux humains pour femme, perruque brésilienne en c (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/13/CEXXY Perruque marron chocolat 13x6 avec ondulations profondes et tulle frontal, perruque bordeaux avec ondulations profondes et tulle frontal, perruque en cheveux humains pour femme, perruque brésilienne en c (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/13/CEXXY Perruque marron chocolat 13x6 avec ondulations profondes et tulle frontal, perruque bordeaux avec ondulations profondes et tulle frontal, perruque en cheveux humains pour femme, perruque brésilienne en c (8).webp"
     ]
   },
   {
@@ -605,16 +605,16 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 1,
-    "image": "/perruque/14/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés, Sa.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/14/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés, Sa.webp",
     "images": [
-      "/perruque/14/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés, Sa.webp",
-      "/perruque/14/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (1).webp",
-      "/perruque/14/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (2).webp",
-      "/perruque/14/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (3).webp",
-      "/perruque/14/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (4).webp",
-      "/perruque/14/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (5).webp",
-      "/perruque/14/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (6).webp",
-      "/perruque/14/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/14/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés, Sa.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/14/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/14/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/14/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/14/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/14/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/14/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/14/CEXXY Perruque Lace Front Wig 613 Blonde 13x6, Cheveux Humains Lisse pour Femmes, Perruque Lace Front Wig Brésilienne Lisse, Cheveux Humains Pré-épilés avec Bébé Hair, Dentelle Transparente HD, Nœuds Décolorés (7).webp"
     ]
   },
   {
@@ -651,17 +651,17 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/15/CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux naturelle,.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/15/CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux naturelle,.webp",
     "images": [
-      "/perruque/15/CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux naturelle,.webp",
-      "/perruque/15/CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux nature (1).webp",
-      "/perruque/15/CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux nature (2).webp",
-      "/perruque/15/CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux nature (3).webp",
-      "/perruque/15/CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux nature (4).webp",
-      "/perruque/15/CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux nature (5).webp",
-      "/perruque/15/CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux nature (6).webp",
-      "/perruque/15/CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux nature (7).webp",
-      "/perruque/15/CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux nature (8).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/15/CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux naturelle,.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/15/CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux nature (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/15/CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux nature (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/15/CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux nature (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/15/CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux nature (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/15/CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux nature (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/15/CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux nature (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/15/CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux nature (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/15/CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux nature (8).webp"
     ]
   },
   {
@@ -686,17 +686,17 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 5,
-    "image": "/perruque/16/CEXXY Perruques d'Halloween 34 pouces Ombre Miel Blond Perruque Lace Front Cheveux Humains 13x4 Mèches Body Wave Perruque Lace Front Cheveux Humains Pré-épilés avec Bébé Cheveux 4_27 HD Perruque Dentelle Cheveux H.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/16/CEXXY Perruques d'Halloween 34 pouces Ombre Miel Blond Perruque Lace Front Cheveux Humains 13x4 Mèches Body Wave Perruque Lace Front Cheveux Humains Pré-épilés avec Bébé Cheveux 4_27 HD Perruque Dentelle Cheveux H.webp",
     "images": [
-      "/perruque/16/CEXXY Perruques d'Halloween 34 pouces Ombre Miel Blond Perruque Lace Front Cheveux Humains 13x4 Mèches Body Wave Perruque Lace Front Cheveux Humains Pré-épilés avec Bébé Cheveux 4_27 HD Perruque Dentelle Cheveux H.webp",
-      "/perruque/16/CEXXY Perruques d'Halloween 34 pouces Ombre Miel Blond Perruque Lace Front Cheveux Humains 13x4 Mèches Body Wave Perruque Lace Front Cheveux Humains Pré-épilés avec Bébé Cheveux 4_27 HD Perruque Dentelle Cheve (1).webp",
-      "/perruque/16/CEXXY Perruques d'Halloween 34 pouces Ombre Miel Blond Perruque Lace Front Cheveux Humains 13x4 Mèches Body Wave Perruque Lace Front Cheveux Humains Pré-épilés avec Bébé Cheveux 4_27 HD Perruque Dentelle Cheve (2).webp",
-      "/perruque/16/CEXXY Perruques d'Halloween 34 pouces Ombre Miel Blond Perruque Lace Front Cheveux Humains 13x4 Mèches Body Wave Perruque Lace Front Cheveux Humains Pré-épilés avec Bébé Cheveux 4_27 HD Perruque Dentelle Cheve (3).webp",
-      "/perruque/16/CEXXY Perruques d'Halloween 34 pouces Ombre Miel Blond Perruque Lace Front Cheveux Humains 13x4 Mèches Body Wave Perruque Lace Front Cheveux Humains Pré-épilés avec Bébé Cheveux 4_27 HD Perruque Dentelle Cheve (4).webp",
-      "/perruque/16/CEXXY Perruques d'Halloween 34 pouces Ombre Miel Blond Perruque Lace Front Cheveux Humains 13x4 Mèches Body Wave Perruque Lace Front Cheveux Humains Pré-épilés avec Bébé Cheveux 4_27 HD Perruque Dentelle Cheve (5).webp",
-      "/perruque/16/CEXXY Perruques d'Halloween 34 pouces Ombre Miel Blond Perruque Lace Front Cheveux Humains 13x4 Mèches Body Wave Perruque Lace Front Cheveux Humains Pré-épilés avec Bébé Cheveux 4_27 HD Perruque Dentelle Cheve (6).webp",
-      "/perruque/16/CEXXY Perruques d'Halloween 34 pouces Ombre Miel Blond Perruque Lace Front Cheveux Humains 13x4 Mèches Body Wave Perruque Lace Front Cheveux Humains Pré-épilés avec Bébé Cheveux 4_27 HD Perruque Dentelle Cheve (7).webp",
-      "/perruque/16/CEXXY Perruques d'Halloween 34 pouces Ombre Miel Blond Perruque Lace Front Cheveux Humains 13x4 Mèches Body Wave Perruque Lace Front Cheveux Humains Pré-épilés avec Bébé Cheveux 4_27 HD Perruque Dentelle Cheve (8).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/16/CEXXY Perruques d'Halloween 34 pouces Ombre Miel Blond Perruque Lace Front Cheveux Humains 13x4 Mèches Body Wave Perruque Lace Front Cheveux Humains Pré-épilés avec Bébé Cheveux 4_27 HD Perruque Dentelle Cheveux H.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/16/CEXXY Perruques d'Halloween 34 pouces Ombre Miel Blond Perruque Lace Front Cheveux Humains 13x4 Mèches Body Wave Perruque Lace Front Cheveux Humains Pré-épilés avec Bébé Cheveux 4_27 HD Perruque Dentelle Cheve (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/16/CEXXY Perruques d'Halloween 34 pouces Ombre Miel Blond Perruque Lace Front Cheveux Humains 13x4 Mèches Body Wave Perruque Lace Front Cheveux Humains Pré-épilés avec Bébé Cheveux 4_27 HD Perruque Dentelle Cheve (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/16/CEXXY Perruques d'Halloween 34 pouces Ombre Miel Blond Perruque Lace Front Cheveux Humains 13x4 Mèches Body Wave Perruque Lace Front Cheveux Humains Pré-épilés avec Bébé Cheveux 4_27 HD Perruque Dentelle Cheve (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/16/CEXXY Perruques d'Halloween 34 pouces Ombre Miel Blond Perruque Lace Front Cheveux Humains 13x4 Mèches Body Wave Perruque Lace Front Cheveux Humains Pré-épilés avec Bébé Cheveux 4_27 HD Perruque Dentelle Cheve (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/16/CEXXY Perruques d'Halloween 34 pouces Ombre Miel Blond Perruque Lace Front Cheveux Humains 13x4 Mèches Body Wave Perruque Lace Front Cheveux Humains Pré-épilés avec Bébé Cheveux 4_27 HD Perruque Dentelle Cheve (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/16/CEXXY Perruques d'Halloween 34 pouces Ombre Miel Blond Perruque Lace Front Cheveux Humains 13x4 Mèches Body Wave Perruque Lace Front Cheveux Humains Pré-épilés avec Bébé Cheveux 4_27 HD Perruque Dentelle Cheve (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/16/CEXXY Perruques d'Halloween 34 pouces Ombre Miel Blond Perruque Lace Front Cheveux Humains 13x4 Mèches Body Wave Perruque Lace Front Cheveux Humains Pré-épilés avec Bébé Cheveux 4_27 HD Perruque Dentelle Cheve (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/16/CEXXY Perruques d'Halloween 34 pouces Ombre Miel Blond Perruque Lace Front Cheveux Humains 13x4 Mèches Body Wave Perruque Lace Front Cheveux Humains Pré-épilés avec Bébé Cheveux 4_27 HD Perruque Dentelle Cheve (8).webp"
     ]
   },
   {
@@ -732,13 +732,13 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/17/CEXXY Nouvelles perruques sans colle ! Couleur marron raide 4 13 _ 4 Perruque frontale en dentelle droite marron chocolat pour femmes Perruques sans colle Prêtes à l'emploi Perruques brunes 100 %25 cheveux humains.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/17/CEXXY Nouvelles perruques sans colle ! Couleur marron raide 4 13 _ 4 Perruque frontale en dentelle droite marron chocolat pour femmes Perruques sans colle Prêtes à l'emploi Perruques brunes 100 %25 cheveux humains.webp",
     "images": [
-      "/perruque/17/CEXXY Nouvelles perruques sans colle ! Couleur marron raide 4 13 _ 4 Perruque frontale en dentelle droite marron chocolat pour femmes Perruques sans colle Prêtes à l'emploi Perruques brunes 100 %25 cheveux humains.webp",
-      "/perruque/17/CEXXY Nouvelles perruques sans colle ! Couleur marron raide 4 13 _ 4 Perruque frontale en dentelle droite marron chocolat pour femmes Perruques sans colle Prêtes à l'emploi Perruques brunes 100 %25 cheveux hum (1).webp",
-      "/perruque/17/CEXXY Nouvelles perruques sans colle ! Couleur marron raide 4 13 _ 4 Perruque frontale en dentelle droite marron chocolat pour femmes Perruques sans colle Prêtes à l'emploi Perruques brunes 100 %25 cheveux hum (2).webp",
-      "/perruque/17/CEXXY Nouvelles perruques sans colle ! Couleur marron raide 4 13 _ 4 Perruque frontale en dentelle droite marron chocolat pour femmes Perruques sans colle Prêtes à l'emploi Perruques brunes 100 %25 cheveux hum (3).webp",
-      "/perruque/17/CEXXY Nouvelles perruques sans colle ! Couleur marron raide 4 13 _ 4 Perruque frontale en dentelle droite marron chocolat pour femmes Perruques sans colle Prêtes à l'emploi Perruques brunes 100 %25 cheveux hum (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/17/CEXXY Nouvelles perruques sans colle ! Couleur marron raide 4 13 _ 4 Perruque frontale en dentelle droite marron chocolat pour femmes Perruques sans colle Prêtes à l'emploi Perruques brunes 100 %25 cheveux humains.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/17/CEXXY Nouvelles perruques sans colle ! Couleur marron raide 4 13 _ 4 Perruque frontale en dentelle droite marron chocolat pour femmes Perruques sans colle Prêtes à l'emploi Perruques brunes 100 %25 cheveux hum (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/17/CEXXY Nouvelles perruques sans colle ! Couleur marron raide 4 13 _ 4 Perruque frontale en dentelle droite marron chocolat pour femmes Perruques sans colle Prêtes à l'emploi Perruques brunes 100 %25 cheveux hum (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/17/CEXXY Nouvelles perruques sans colle ! Couleur marron raide 4 13 _ 4 Perruque frontale en dentelle droite marron chocolat pour femmes Perruques sans colle Prêtes à l'emploi Perruques brunes 100 %25 cheveux hum (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/17/CEXXY Nouvelles perruques sans colle ! Couleur marron raide 4 13 _ 4 Perruque frontale en dentelle droite marron chocolat pour femmes Perruques sans colle Prêtes à l'emploi Perruques brunes 100 %25 cheveux hum (4).webp"
     ]
   },
   {
@@ -775,18 +775,18 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/18/CEXXY Perruque brésilienne ondulée en cheveux naturels blond miel 4-27, 33 x 15 cm, densité 200 %25, avec cheveux de bébé_.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/18/CEXXY Perruque brésilienne ondulée en cheveux naturels blond miel 4-27, 33 x 15 cm, densité 200 %25, avec cheveux de bébé_.webp",
     "images": [
-      "/perruque/18/CEXXY Perruque brésilienne ondulée en cheveux naturels blond miel 4-27, 33 x 15 cm, densité 200 %25, avec cheveux de bébé_.webp",
-      "/perruque/18/CEXXY Perruque brésilienne ondulée en cheveux naturels blond miel 4-27, 33 x 15 cm, densité 200 %25, avec cheveux de bébé_ (1).webp",
-      "/perruque/18/CEXXY Perruque brésilienne ondulée en cheveux naturels blond miel 4-27, 33 x 15 cm, densité 200 %25, avec cheveux de bébé_ (2).webp",
-      "/perruque/18/CEXXY Perruque brésilienne ondulée en cheveux naturels blond miel 4-27, 33 x 15 cm, densité 200 %25, avec cheveux de bébé_ (3).webp",
-      "/perruque/18/CEXXY Perruque brésilienne ondulée en cheveux naturels blond miel 4-27, 33 x 15 cm, densité 200 %25, avec cheveux de bébé_ (4).webp",
-      "/perruque/18/CEXXY Perruque brésilienne ondulée en cheveux naturels blond miel 4-27, 33 x 15 cm, densité 200 %25, avec cheveux de bébé_ (5).webp",
-      "/perruque/18/CEXXY Perruque brésilienne ondulée en cheveux naturels blond miel 4-27, 33 x 15 cm, densité 200 %25, avec cheveux de bébé_ (6).webp",
-      "/perruque/18/CEXXY Perruque brésilienne ondulée en cheveux naturels blond miel 4-27, 33 x 15 cm, densité 200 %25, avec cheveux de bébé_ (7).webp",
-      "/perruque/18/CEXXY Perruque brésilienne ondulée en cheveux naturels blond miel 4-27, 33 x 15 cm, densité 200 %25, avec cheveux de bébé_ (8).webp",
-      "/perruque/18/CEXXY Perruque brésilienne ondulée en cheveux naturels blond miel 4-27, 33 x 15 cm, densité 200 %25, avec cheveux de bébé_ (9).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/18/CEXXY Perruque brésilienne ondulée en cheveux naturels blond miel 4-27, 33 x 15 cm, densité 200 %25, avec cheveux de bébé_.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/18/CEXXY Perruque brésilienne ondulée en cheveux naturels blond miel 4-27, 33 x 15 cm, densité 200 %25, avec cheveux de bébé_ (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/18/CEXXY Perruque brésilienne ondulée en cheveux naturels blond miel 4-27, 33 x 15 cm, densité 200 %25, avec cheveux de bébé_ (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/18/CEXXY Perruque brésilienne ondulée en cheveux naturels blond miel 4-27, 33 x 15 cm, densité 200 %25, avec cheveux de bébé_ (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/18/CEXXY Perruque brésilienne ondulée en cheveux naturels blond miel 4-27, 33 x 15 cm, densité 200 %25, avec cheveux de bébé_ (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/18/CEXXY Perruque brésilienne ondulée en cheveux naturels blond miel 4-27, 33 x 15 cm, densité 200 %25, avec cheveux de bébé_ (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/18/CEXXY Perruque brésilienne ondulée en cheveux naturels blond miel 4-27, 33 x 15 cm, densité 200 %25, avec cheveux de bébé_ (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/18/CEXXY Perruque brésilienne ondulée en cheveux naturels blond miel 4-27, 33 x 15 cm, densité 200 %25, avec cheveux de bébé_ (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/18/CEXXY Perruque brésilienne ondulée en cheveux naturels blond miel 4-27, 33 x 15 cm, densité 200 %25, avec cheveux de bébé_ (8).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/18/CEXXY Perruque brésilienne ondulée en cheveux naturels blond miel 4-27, 33 x 15 cm, densité 200 %25, avec cheveux de bébé_ (9).webp"
     ]
   },
   {
@@ -822,15 +822,15 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/19/SHINEHAIR Perruque Bob 4x4 lisse, couleur blond ombré sans colle avec mèches brunes, densité 200%25.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/19/SHINEHAIR Perruque Bob 4x4 lisse, couleur blond ombré sans colle avec mèches brunes, densité 200%25.jpg",
     "images": [
-      "/perruque/19/SHINEHAIR Perruque Bob 4x4 lisse, couleur blond ombré sans colle avec mèches brunes, densité 200%25.jpg",
-      "/perruque/19/SHINEHAIR Perruque Bob 4x4 lisse, couleur blond ombré sans colle avec mèches brunes, densité 200%25.webp",
-      "/perruque/19/SHINEHAIR Perruque Bob 4x4 lisse, couleur blond ombré sans colle avec mèches brunes, densité 200%25 (1).webp",
-      "/perruque/19/SHINEHAIR Perruque Bob 4x4 lisse, couleur blond ombré sans colle avec mèches brunes, densité 200%25 (2).webp",
-      "/perruque/19/SHINEHAIR Perruque Bob 4x4 lisse, couleur blond ombré sans colle avec mèches brunes, densité 200%25 (3).webp",
-      "/perruque/19/SHINEHAIR Perruque Bob 4x4 lisse, couleur blond ombré sans colle avec mèches brunes, densité 200%25 (4).webp",
-      "/perruque/19/SHINEHAIR Perruque Bob 4x4 lisse, couleur blond ombré sans colle avec mèches brunes, densité 200%25 (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/19/SHINEHAIR Perruque Bob 4x4 lisse, couleur blond ombré sans colle avec mèches brunes, densité 200%25.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/19/SHINEHAIR Perruque Bob 4x4 lisse, couleur blond ombré sans colle avec mèches brunes, densité 200%25.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/19/SHINEHAIR Perruque Bob 4x4 lisse, couleur blond ombré sans colle avec mèches brunes, densité 200%25 (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/19/SHINEHAIR Perruque Bob 4x4 lisse, couleur blond ombré sans colle avec mèches brunes, densité 200%25 (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/19/SHINEHAIR Perruque Bob 4x4 lisse, couleur blond ombré sans colle avec mèches brunes, densité 200%25 (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/19/SHINEHAIR Perruque Bob 4x4 lisse, couleur blond ombré sans colle avec mèches brunes, densité 200%25 (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/19/SHINEHAIR Perruque Bob 4x4 lisse, couleur blond ombré sans colle avec mèches brunes, densité 200%25 (5).webp"
     ]
   },
   {
@@ -867,14 +867,14 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/20/Perruque de cheveux humains à front de dentelle blond cendré dégradé pour femmes 13x4 grande dentelle transparente 4_gris argenté court carré brésilien cheveux Remy 180 densité convenant aux débutants, sans colle,.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/20/Perruque de cheveux humains à front de dentelle blond cendré dégradé pour femmes 13x4 grande dentelle transparente 4_gris argenté court carré brésilien cheveux Remy 180 densité convenant aux débutants, sans colle,.webp",
     "images": [
-      "/perruque/20/Perruque de cheveux humains à front de dentelle blond cendré dégradé pour femmes 13x4 grande dentelle transparente 4_gris argenté court carré brésilien cheveux Remy 180 densité convenant aux débutants, sans colle,.webp",
-      "/perruque/20/Perruque de cheveux humains à front de dentelle blond cendré dégradé pour femmes 13x4 grande dentelle transparente 4_gris argenté court carré brésilien cheveux Remy 180 densité convenant aux débutants, sans co (1).webp",
-      "/perruque/20/Perruque de cheveux humains à front de dentelle blond cendré dégradé pour femmes 13x4 grande dentelle transparente 4_gris argenté court carré brésilien cheveux Remy 180 densité convenant aux débutants, sans co (2).webp",
-      "/perruque/20/Perruque de cheveux humains à front de dentelle blond cendré dégradé pour femmes 13x4 grande dentelle transparente 4_gris argenté court carré brésilien cheveux Remy 180 densité convenant aux débutants, sans co (3).webp",
-      "/perruque/20/Perruque de cheveux humains à front de dentelle blond cendré dégradé pour femmes 13x4 grande dentelle transparente 4_gris argenté court carré brésilien cheveux Remy 180 densité convenant aux débutants, sans co (4).webp",
-      "/perruque/20/Perruque de cheveux humains à front de dentelle blond cendré dégradé pour femmes 13x4 grande dentelle transparente 4_gris argenté court carré brésilien cheveux Remy 180 densité convenant aux débutants, sans co (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/20/Perruque de cheveux humains à front de dentelle blond cendré dégradé pour femmes 13x4 grande dentelle transparente 4_gris argenté court carré brésilien cheveux Remy 180 densité convenant aux débutants, sans colle,.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/20/Perruque de cheveux humains à front de dentelle blond cendré dégradé pour femmes 13x4 grande dentelle transparente 4_gris argenté court carré brésilien cheveux Remy 180 densité convenant aux débutants, sans co (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/20/Perruque de cheveux humains à front de dentelle blond cendré dégradé pour femmes 13x4 grande dentelle transparente 4_gris argenté court carré brésilien cheveux Remy 180 densité convenant aux débutants, sans co (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/20/Perruque de cheveux humains à front de dentelle blond cendré dégradé pour femmes 13x4 grande dentelle transparente 4_gris argenté court carré brésilien cheveux Remy 180 densité convenant aux débutants, sans co (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/20/Perruque de cheveux humains à front de dentelle blond cendré dégradé pour femmes 13x4 grande dentelle transparente 4_gris argenté court carré brésilien cheveux Remy 180 densité convenant aux débutants, sans co (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/20/Perruque de cheveux humains à front de dentelle blond cendré dégradé pour femmes 13x4 grande dentelle transparente 4_gris argenté court carré brésilien cheveux Remy 180 densité convenant aux débutants, sans co (5).webp"
     ]
   },
   {
@@ -899,15 +899,15 @@ export const perruque = [
       "5 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/21/_Perruque Lace Front haute densité 150 %25 (13 x 3,5 pouces), confortable et de haute qualité, couleur ombrée, cheveux raides mi-longs (30 pouces), en fibre synthétique résistante à la chaleur, idéale pour les vacan.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/21/_Perruque Lace Front haute densité 150 %25 (13 x 3,5 pouces), confortable et de haute qualité, couleur ombrée, cheveux raides mi-longs (30 pouces), en fibre synthétique résistante à la chaleur, idéale pour les vacan.webp",
     "images": [
-      "/perruque/21/_Perruque Lace Front haute densité 150 %25 (13 x 3,5 pouces), confortable et de haute qualité, couleur ombrée, cheveux raides mi-longs (30 pouces), en fibre synthétique résistante à la chaleur, idéale pour les vacan.webp",
-      "/perruque/21/_Perruque Lace Front haute densité 150 %25 (13 x 3,5 pouces), confortable et de haute qualité, couleur ombrée, cheveux raides mi-longs (30 pouces), en fibre synthétique résistante à la chaleur, idéale pour les v (1).webp",
-      "/perruque/21/_Perruque Lace Front haute densité 150 %25 (13 x 3,5 pouces), confortable et de haute qualité, couleur ombrée, cheveux raides mi-longs (30 pouces), en fibre synthétique résistante à la chaleur, idéale pour les v (2).webp",
-      "/perruque/21/_Perruque Lace Front haute densité 150 %25 (13 x 3,5 pouces), confortable et de haute qualité, couleur ombrée, cheveux raides mi-longs (30 pouces), en fibre synthétique résistante à la chaleur, idéale pour les v (3).webp",
-      "/perruque/21/_Perruque Lace Front haute densité 150 %25 (13 x 3,5 pouces), confortable et de haute qualité, couleur ombrée, cheveux raides mi-longs (30 pouces), en fibre synthétique résistante à la chaleur, idéale pour les v (4).webp",
-      "/perruque/21/_Perruque Lace Front haute densité 150 %25 (13 x 3,5 pouces), confortable et de haute qualité, couleur ombrée, cheveux raides mi-longs (30 pouces), en fibre synthétique résistante à la chaleur, idéale pour les v (5).webp",
-      "/perruque/21/_Perruque Lace Front haute densité 150 %25 (13 x 3,5 pouces), confortable et de haute qualité, couleur ombrée, cheveux raides mi-longs (30 pouces), en fibre synthétique résistante à la chaleur, idéale pour les v (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/21/_Perruque Lace Front haute densité 150 %25 (13 x 3,5 pouces), confortable et de haute qualité, couleur ombrée, cheveux raides mi-longs (30 pouces), en fibre synthétique résistante à la chaleur, idéale pour les vacan.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/21/_Perruque Lace Front haute densité 150 %25 (13 x 3,5 pouces), confortable et de haute qualité, couleur ombrée, cheveux raides mi-longs (30 pouces), en fibre synthétique résistante à la chaleur, idéale pour les v (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/21/_Perruque Lace Front haute densité 150 %25 (13 x 3,5 pouces), confortable et de haute qualité, couleur ombrée, cheveux raides mi-longs (30 pouces), en fibre synthétique résistante à la chaleur, idéale pour les v (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/21/_Perruque Lace Front haute densité 150 %25 (13 x 3,5 pouces), confortable et de haute qualité, couleur ombrée, cheveux raides mi-longs (30 pouces), en fibre synthétique résistante à la chaleur, idéale pour les v (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/21/_Perruque Lace Front haute densité 150 %25 (13 x 3,5 pouces), confortable et de haute qualité, couleur ombrée, cheveux raides mi-longs (30 pouces), en fibre synthétique résistante à la chaleur, idéale pour les v (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/21/_Perruque Lace Front haute densité 150 %25 (13 x 3,5 pouces), confortable et de haute qualité, couleur ombrée, cheveux raides mi-longs (30 pouces), en fibre synthétique résistante à la chaleur, idéale pour les v (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/21/_Perruque Lace Front haute densité 150 %25 (13 x 3,5 pouces), confortable et de haute qualité, couleur ombrée, cheveux raides mi-longs (30 pouces), en fibre synthétique résistante à la chaleur, idéale pour les v (6).webp"
     ]
   },
   {
@@ -943,16 +943,16 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/22/_Perruque droite blonde ombrée de couleur mélangée brune et blonde avec des cheveux synthétiques en évidence pour femmes avec devant en dentelle.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/22/_Perruque droite blonde ombrée de couleur mélangée brune et blonde avec des cheveux synthétiques en évidence pour femmes avec devant en dentelle.jpg",
     "images": [
-      "/perruque/22/_Perruque droite blonde ombrée de couleur mélangée brune et blonde avec des cheveux synthétiques en évidence pour femmes avec devant en dentelle.jpg",
-      "/perruque/22/_Perruque droite blonde ombrée de couleur mélangée brune et blonde avec des cheveux synthétiques en évidence pour femmes avec devant en dentelle.webp",
-      "/perruque/22/_Perruque droite blonde ombrée de couleur mélangée brune et blonde avec des cheveux synthétiques en évidence pour femmes avec devant en dentelle (1).webp",
-      "/perruque/22/_Perruque droite blonde ombrée de couleur mélangée brune et blonde avec des cheveux synthétiques en évidence pour femmes avec devant en dentelle (2).webp",
-      "/perruque/22/_Perruque droite blonde ombrée de couleur mélangée brune et blonde avec des cheveux synthétiques en évidence pour femmes avec devant en dentelle (3).webp",
-      "/perruque/22/_Perruque droite blonde ombrée de couleur mélangée brune et blonde avec des cheveux synthétiques en évidence pour femmes avec devant en dentelle (4).webp",
-      "/perruque/22/_Perruque droite blonde ombrée de couleur mélangée brune et blonde avec des cheveux synthétiques en évidence pour femmes avec devant en dentelle (5).webp",
-      "/perruque/22/_Perruque droite blonde ombrée de couleur mélangée brune et blonde avec des cheveux synthétiques en évidence pour femmes avec devant en dentelle (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/22/_Perruque droite blonde ombrée de couleur mélangée brune et blonde avec des cheveux synthétiques en évidence pour femmes avec devant en dentelle.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/22/_Perruque droite blonde ombrée de couleur mélangée brune et blonde avec des cheveux synthétiques en évidence pour femmes avec devant en dentelle.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/22/_Perruque droite blonde ombrée de couleur mélangée brune et blonde avec des cheveux synthétiques en évidence pour femmes avec devant en dentelle (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/22/_Perruque droite blonde ombrée de couleur mélangée brune et blonde avec des cheveux synthétiques en évidence pour femmes avec devant en dentelle (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/22/_Perruque droite blonde ombrée de couleur mélangée brune et blonde avec des cheveux synthétiques en évidence pour femmes avec devant en dentelle (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/22/_Perruque droite blonde ombrée de couleur mélangée brune et blonde avec des cheveux synthétiques en évidence pour femmes avec devant en dentelle (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/22/_Perruque droite blonde ombrée de couleur mélangée brune et blonde avec des cheveux synthétiques en évidence pour femmes avec devant en dentelle (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/22/_Perruque droite blonde ombrée de couleur mélangée brune et blonde avec des cheveux synthétiques en évidence pour femmes avec devant en dentelle (6).webp"
     ]
   },
   {
@@ -988,18 +988,18 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/23/_MEGALOOK Perruque frontale en dentelle à trois parties 13x6, 100%25 cheveux humains, légère et respirante avec des extrémités bouclées mises en évidence, confortable pour un port toute la journée.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/23/_MEGALOOK Perruque frontale en dentelle à trois parties 13x6, 100%25 cheveux humains, légère et respirante avec des extrémités bouclées mises en évidence, confortable pour un port toute la journée.webp",
     "images": [
-      "/perruque/23/_MEGALOOK Perruque frontale en dentelle à trois parties 13x6, 100%25 cheveux humains, légère et respirante avec des extrémités bouclées mises en évidence, confortable pour un port toute la journée.webp",
-      "/perruque/23/_MEGALOOK Perruque frontale en dentelle à trois parties 13x6, 100%25 cheveux humains, légère et respirante avec des extrémités bouclées mises en évidence, confortable pour un port toute la journée (1).webp",
-      "/perruque/23/_MEGALOOK Perruque frontale en dentelle à trois parties 13x6, 100%25 cheveux humains, légère et respirante avec des extrémités bouclées mises en évidence, confortable pour un port toute la journée (2).webp",
-      "/perruque/23/_MEGALOOK Perruque frontale en dentelle à trois parties 13x6, 100%25 cheveux humains, légère et respirante avec des extrémités bouclées mises en évidence, confortable pour un port toute la journée (3).webp",
-      "/perruque/23/_MEGALOOK Perruque frontale en dentelle à trois parties 13x6, 100%25 cheveux humains, légère et respirante avec des extrémités bouclées mises en évidence, confortable pour un port toute la journée (4).webp",
-      "/perruque/23/_MEGALOOK Perruque frontale en dentelle à trois parties 13x6, 100%25 cheveux humains, légère et respirante avec des extrémités bouclées mises en évidence, confortable pour un port toute la journée (5).webp",
-      "/perruque/23/_MEGALOOK Perruque frontale en dentelle à trois parties 13x6, 100%25 cheveux humains, légère et respirante avec des extrémités bouclées mises en évidence, confortable pour un port toute la journée (6).webp",
-      "/perruque/23/_MEGALOOK Perruque frontale en dentelle à trois parties 13x6, 100%25 cheveux humains, légère et respirante avec des extrémités bouclées mises en évidence, confortable pour un port toute la journée (7).webp",
-      "/perruque/23/_MEGALOOK Perruque frontale en dentelle à trois parties 13x6, 100%25 cheveux humains, légère et respirante avec des extrémités bouclées mises en évidence, confortable pour un port toute la journée (8).webp",
-      "/perruque/23/_MEGALOOK Perruque frontale en dentelle à trois parties 13x6, 100%25 cheveux humains, légère et respirante avec des extrémités bouclées mises en évidence, confortable pour un port toute la journée (9).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/23/_MEGALOOK Perruque frontale en dentelle à trois parties 13x6, 100%25 cheveux humains, légère et respirante avec des extrémités bouclées mises en évidence, confortable pour un port toute la journée.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/23/_MEGALOOK Perruque frontale en dentelle à trois parties 13x6, 100%25 cheveux humains, légère et respirante avec des extrémités bouclées mises en évidence, confortable pour un port toute la journée (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/23/_MEGALOOK Perruque frontale en dentelle à trois parties 13x6, 100%25 cheveux humains, légère et respirante avec des extrémités bouclées mises en évidence, confortable pour un port toute la journée (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/23/_MEGALOOK Perruque frontale en dentelle à trois parties 13x6, 100%25 cheveux humains, légère et respirante avec des extrémités bouclées mises en évidence, confortable pour un port toute la journée (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/23/_MEGALOOK Perruque frontale en dentelle à trois parties 13x6, 100%25 cheveux humains, légère et respirante avec des extrémités bouclées mises en évidence, confortable pour un port toute la journée (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/23/_MEGALOOK Perruque frontale en dentelle à trois parties 13x6, 100%25 cheveux humains, légère et respirante avec des extrémités bouclées mises en évidence, confortable pour un port toute la journée (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/23/_MEGALOOK Perruque frontale en dentelle à trois parties 13x6, 100%25 cheveux humains, légère et respirante avec des extrémités bouclées mises en évidence, confortable pour un port toute la journée (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/23/_MEGALOOK Perruque frontale en dentelle à trois parties 13x6, 100%25 cheveux humains, légère et respirante avec des extrémités bouclées mises en évidence, confortable pour un port toute la journée (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/23/_MEGALOOK Perruque frontale en dentelle à trois parties 13x6, 100%25 cheveux humains, légère et respirante avec des extrémités bouclées mises en évidence, confortable pour un port toute la journée (8).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/23/_MEGALOOK Perruque frontale en dentelle à trois parties 13x6, 100%25 cheveux humains, légère et respirante avec des extrémités bouclées mises en évidence, confortable pour un port toute la journée (9).webp"
     ]
   },
   {
@@ -1035,17 +1035,17 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/24/bling hair Perruques Body Wave 13x4, 13x6, 4x4, cheveux humains, avec dentelle frontale, pré-épilées, densité 180 %25, transparentes, à emporter partout, 6x4, 9x6, 5x5, avec fermeture en dentelle, sans colle, cheveu.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/24/bling hair Perruques Body Wave 13x4, 13x6, 4x4, cheveux humains, avec dentelle frontale, pré-épilées, densité 180 %25, transparentes, à emporter partout, 6x4, 9x6, 5x5, avec fermeture en dentelle, sans colle, cheveu.webp",
     "images": [
-      "/perruque/24/bling hair Perruques Body Wave 13x4, 13x6, 4x4, cheveux humains, avec dentelle frontale, pré-épilées, densité 180 %25, transparentes, à emporter partout, 6x4, 9x6, 5x5, avec fermeture en dentelle, sans colle, cheveu.webp",
-      "/perruque/24/bling hair Perruques Body Wave 13x4, 13x6, 4x4, cheveux humains, avec dentelle frontale, pré-épilées, densité 180 %25, transparentes, à emporter partout, 6x4, 9x6, 5x5, avec fermeture en dentelle, sans colle, cheveux.png",
-      "/perruque/24/bling hair Perruques Body Wave 13x4, 13x6, 4x4, cheveux humains, avec dentelle frontale, pré-épilées, densité 180 %25, transparentes, à emporter partout, 6x4, 9x6, 5x5, avec fermeture en dentelle, sans colle, ch (1).webp",
-      "/perruque/24/bling hair Perruques Body Wave 13x4, 13x6, 4x4, cheveux humains, avec dentelle frontale, pré-épilées, densité 180 %25, transparentes, à emporter partout, 6x4, 9x6, 5x5, avec fermeture en dentelle, sans colle, ch (2).webp",
-      "/perruque/24/bling hair Perruques Body Wave 13x4, 13x6, 4x4, cheveux humains, avec dentelle frontale, pré-épilées, densité 180 %25, transparentes, à emporter partout, 6x4, 9x6, 5x5, avec fermeture en dentelle, sans colle, ch (3).webp",
-      "/perruque/24/bling hair Perruques Body Wave 13x4, 13x6, 4x4, cheveux humains, avec dentelle frontale, pré-épilées, densité 180 %25, transparentes, à emporter partout, 6x4, 9x6, 5x5, avec fermeture en dentelle, sans colle, ch (4).webp",
-      "/perruque/24/bling hair Perruques Body Wave 13x4, 13x6, 4x4, cheveux humains, avec dentelle frontale, pré-épilées, densité 180 %25, transparentes, à emporter partout, 6x4, 9x6, 5x5, avec fermeture en dentelle, sans colle, ch (5).webp",
-      "/perruque/24/bling hair Perruques Body Wave 13x4, 13x6, 4x4, cheveux humains, avec dentelle frontale, pré-épilées, densité 180 %25, transparentes, à emporter partout, 6x4, 9x6, 5x5, avec fermeture en dentelle, sans colle, che (1).png",
-      "/perruque/24/bling hair Perruques Body Wave 13x4, 13x6, 4x4, cheveux humains, avec dentelle frontale, pré-épilées, densité 180 %25, transparentes, à emporter partout, 6x4, 9x6, 5x5, avec fermeture en dentelle, sans colle, che (2).png"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/24/bling hair Perruques Body Wave 13x4, 13x6, 4x4, cheveux humains, avec dentelle frontale, pré-épilées, densité 180 %25, transparentes, à emporter partout, 6x4, 9x6, 5x5, avec fermeture en dentelle, sans colle, cheveu.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/24/bling hair Perruques Body Wave 13x4, 13x6, 4x4, cheveux humains, avec dentelle frontale, pré-épilées, densité 180 %25, transparentes, à emporter partout, 6x4, 9x6, 5x5, avec fermeture en dentelle, sans colle, cheveux.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/24/bling hair Perruques Body Wave 13x4, 13x6, 4x4, cheveux humains, avec dentelle frontale, pré-épilées, densité 180 %25, transparentes, à emporter partout, 6x4, 9x6, 5x5, avec fermeture en dentelle, sans colle, ch (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/24/bling hair Perruques Body Wave 13x4, 13x6, 4x4, cheveux humains, avec dentelle frontale, pré-épilées, densité 180 %25, transparentes, à emporter partout, 6x4, 9x6, 5x5, avec fermeture en dentelle, sans colle, ch (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/24/bling hair Perruques Body Wave 13x4, 13x6, 4x4, cheveux humains, avec dentelle frontale, pré-épilées, densité 180 %25, transparentes, à emporter partout, 6x4, 9x6, 5x5, avec fermeture en dentelle, sans colle, ch (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/24/bling hair Perruques Body Wave 13x4, 13x6, 4x4, cheveux humains, avec dentelle frontale, pré-épilées, densité 180 %25, transparentes, à emporter partout, 6x4, 9x6, 5x5, avec fermeture en dentelle, sans colle, ch (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/24/bling hair Perruques Body Wave 13x4, 13x6, 4x4, cheveux humains, avec dentelle frontale, pré-épilées, densité 180 %25, transparentes, à emporter partout, 6x4, 9x6, 5x5, avec fermeture en dentelle, sans colle, ch (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/24/bling hair Perruques Body Wave 13x4, 13x6, 4x4, cheveux humains, avec dentelle frontale, pré-épilées, densité 180 %25, transparentes, à emporter partout, 6x4, 9x6, 5x5, avec fermeture en dentelle, sans colle, che (1).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/24/bling hair Perruques Body Wave 13x4, 13x6, 4x4, cheveux humains, avec dentelle frontale, pré-épilées, densité 180 %25, transparentes, à emporter partout, 6x4, 9x6, 5x5, avec fermeture en dentelle, sans colle, che (2).png"
     ]
   },
   {
@@ -1071,19 +1071,19 @@ export const perruque = [
       "36 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange.webp",
     "images": [
-      "/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange.webp",
-      "/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange (1).webp",
-      "/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange (10).webp",
-      "/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange (2).webp",
-      "/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange (3).webp",
-      "/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange (4).webp",
-      "/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange (5).webp",
-      "/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange (6).webp",
-      "/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange (7).webp",
-      "/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange (8).webp",
-      "/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange (9).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange (10).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange (8).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/25/Leteme 32 34 36 pouces 180%25 densité 13x4 vague de corps 180 densité HD Transparent dentelle frontale perruques pour femmes droites Remy brésilien cheveux humains teints gingembre orange (9).webp"
     ]
   },
   {
@@ -1108,17 +1108,17 @@ export const perruque = [
       "30 pouces"
     ],
     "minOrder": 5,
-    "image": "/perruque/26/_CEXXY Perruques de cheveux humains ondulés 200 %25 sans colle, à porter et à emporter, 7 x 5 HD, avec fermeture en dentelle, perruque frontale en dentelle droite de 30 pouces.png",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/26/_CEXXY Perruques de cheveux humains ondulés 200 %25 sans colle, à porter et à emporter, 7 x 5 HD, avec fermeture en dentelle, perruque frontale en dentelle droite de 30 pouces.png",
     "images": [
-      "/perruque/26/_CEXXY Perruques de cheveux humains ondulés 200 %25 sans colle, à porter et à emporter, 7 x 5 HD, avec fermeture en dentelle, perruque frontale en dentelle droite de 30 pouces.png",
-      "/perruque/26/_CEXXY Perruques de cheveux humains ondulés 200 %25 sans colle, à porter et à emporter, 7 x 5 HD, avec fermeture en dentelle, perruque frontale en dentelle droite de 30 pouces.webp",
-      "/perruque/26/_CEXXY Perruques de cheveux humains ondulés 200 %25 sans colle, à porter et à emporter, 7 x 5 HD, avec fermeture en dentelle, perruque frontale en dentelle droite de 30 pouces (1).png",
-      "/perruque/26/_CEXXY Perruques de cheveux humains ondulés 200 %25 sans colle, à porter et à emporter, 7 x 5 HD, avec fermeture en dentelle, perruque frontale en dentelle droite de 30 pouces (1).webp",
-      "/perruque/26/_CEXXY Perruques de cheveux humains ondulés 200 %25 sans colle, à porter et à emporter, 7 x 5 HD, avec fermeture en dentelle, perruque frontale en dentelle droite de 30 pouces (2).png",
-      "/perruque/26/_CEXXY Perruques de cheveux humains ondulés 200 %25 sans colle, à porter et à emporter, 7 x 5 HD, avec fermeture en dentelle, perruque frontale en dentelle droite de 30 pouces (2).webp",
-      "/perruque/26/_CEXXY Perruques de cheveux humains ondulés 200 %25 sans colle, à porter et à emporter, 7 x 5 HD, avec fermeture en dentelle, perruque frontale en dentelle droite de 30 pouces (3).png",
-      "/perruque/26/_CEXXY Perruques de cheveux humains ondulés 200 %25 sans colle, à porter et à emporter, 7 x 5 HD, avec fermeture en dentelle, perruque frontale en dentelle droite de 30 pouces (3).webp",
-      "/perruque/26/_CEXXY Perruques de cheveux humains ondulés 200 %25 sans colle, à porter et à emporter, 7 x 5 HD, avec fermeture en dentelle, perruque frontale en dentelle droite de 30 pouces (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/26/_CEXXY Perruques de cheveux humains ondulés 200 %25 sans colle, à porter et à emporter, 7 x 5 HD, avec fermeture en dentelle, perruque frontale en dentelle droite de 30 pouces.png",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/26/_CEXXY Perruques de cheveux humains ondulés 200 %25 sans colle, à porter et à emporter, 7 x 5 HD, avec fermeture en dentelle, perruque frontale en dentelle droite de 30 pouces.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/26/_CEXXY Perruques de cheveux humains ondulés 200 %25 sans colle, à porter et à emporter, 7 x 5 HD, avec fermeture en dentelle, perruque frontale en dentelle droite de 30 pouces (1).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/26/_CEXXY Perruques de cheveux humains ondulés 200 %25 sans colle, à porter et à emporter, 7 x 5 HD, avec fermeture en dentelle, perruque frontale en dentelle droite de 30 pouces (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/26/_CEXXY Perruques de cheveux humains ondulés 200 %25 sans colle, à porter et à emporter, 7 x 5 HD, avec fermeture en dentelle, perruque frontale en dentelle droite de 30 pouces (2).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/26/_CEXXY Perruques de cheveux humains ondulés 200 %25 sans colle, à porter et à emporter, 7 x 5 HD, avec fermeture en dentelle, perruque frontale en dentelle droite de 30 pouces (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/26/_CEXXY Perruques de cheveux humains ondulés 200 %25 sans colle, à porter et à emporter, 7 x 5 HD, avec fermeture en dentelle, perruque frontale en dentelle droite de 30 pouces (3).png",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/26/_CEXXY Perruques de cheveux humains ondulés 200 %25 sans colle, à porter et à emporter, 7 x 5 HD, avec fermeture en dentelle, perruque frontale en dentelle droite de 30 pouces (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/26/_CEXXY Perruques de cheveux humains ondulés 200 %25 sans colle, à porter et à emporter, 7 x 5 HD, avec fermeture en dentelle, perruque frontale en dentelle droite de 30 pouces (4).webp"
     ]
   },
   {
@@ -1155,17 +1155,17 @@ export const perruque = [
       "30 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/27/Perruques de cheveux humains raides et soyeux avec frange, perruques entièrement fabriquées à la machine, 8 à 30 pouces pour femmes, perruques de cheveux humains brésiliens Remy de couleur naturelle, densité de 25.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/27/Perruques de cheveux humains raides et soyeux avec frange, perruques entièrement fabriquées à la machine, 8 à 30 pouces pour femmes, perruques de cheveux humains brésiliens Remy de couleur naturelle, densité de 25.webp",
     "images": [
-      "/perruque/27/Perruques de cheveux humains raides et soyeux avec frange, perruques entièrement fabriquées à la machine, 8 à 30 pouces pour femmes, perruques de cheveux humains brésiliens Remy de couleur naturelle, densité de 25.webp",
-      "/perruque/27/Perruques de cheveux humains raides et soyeux avec frange, perruques entièrement fabriquées à la machine, 8 à 30 pouces pour femmes, perruques de cheveux humains brésiliens Remy de couleur naturelle, densité d (1).webp",
-      "/perruque/27/Perruques de cheveux humains raides et soyeux avec frange, perruques entièrement fabriquées à la machine, 8 à 30 pouces pour femmes, perruques de cheveux humains brésiliens Remy de couleur naturelle, densité d (2).webp",
-      "/perruque/27/Perruques de cheveux humains raides et soyeux avec frange, perruques entièrement fabriquées à la machine, 8 à 30 pouces pour femmes, perruques de cheveux humains brésiliens Remy de couleur naturelle, densité d (3).webp",
-      "/perruque/27/Perruques de cheveux humains raides et soyeux avec frange, perruques entièrement fabriquées à la machine, 8 à 30 pouces pour femmes, perruques de cheveux humains brésiliens Remy de couleur naturelle, densité d (4).webp",
-      "/perruque/27/Perruques de cheveux humains raides et soyeux avec frange, perruques entièrement fabriquées à la machine, 8 à 30 pouces pour femmes, perruques de cheveux humains brésiliens Remy de couleur naturelle, densité d (5).webp",
-      "/perruque/27/Perruques de cheveux humains raides et soyeux avec frange, perruques entièrement fabriquées à la machine, 8 à 30 pouces pour femmes, perruques de cheveux humains brésiliens Remy de couleur naturelle, densité d (6).webp",
-      "/perruque/27/Perruques de cheveux humains raides et soyeux avec frange, perruques entièrement fabriquées à la machine, 8 à 30 pouces pour femmes, perruques de cheveux humains brésiliens Remy de couleur naturelle, densité d (7).webp",
-      "/perruque/27/Perruques de cheveux humains raides et soyeux avec frange, perruques entièrement fabriquées à la machine, 8 à 30 pouces pour femmes, perruques de cheveux humains brésiliens Remy de couleur naturelle, densité d (8).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/27/Perruques de cheveux humains raides et soyeux avec frange, perruques entièrement fabriquées à la machine, 8 à 30 pouces pour femmes, perruques de cheveux humains brésiliens Remy de couleur naturelle, densité de 25.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/27/Perruques de cheveux humains raides et soyeux avec frange, perruques entièrement fabriquées à la machine, 8 à 30 pouces pour femmes, perruques de cheveux humains brésiliens Remy de couleur naturelle, densité d (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/27/Perruques de cheveux humains raides et soyeux avec frange, perruques entièrement fabriquées à la machine, 8 à 30 pouces pour femmes, perruques de cheveux humains brésiliens Remy de couleur naturelle, densité d (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/27/Perruques de cheveux humains raides et soyeux avec frange, perruques entièrement fabriquées à la machine, 8 à 30 pouces pour femmes, perruques de cheveux humains brésiliens Remy de couleur naturelle, densité d (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/27/Perruques de cheveux humains raides et soyeux avec frange, perruques entièrement fabriquées à la machine, 8 à 30 pouces pour femmes, perruques de cheveux humains brésiliens Remy de couleur naturelle, densité d (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/27/Perruques de cheveux humains raides et soyeux avec frange, perruques entièrement fabriquées à la machine, 8 à 30 pouces pour femmes, perruques de cheveux humains brésiliens Remy de couleur naturelle, densité d (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/27/Perruques de cheveux humains raides et soyeux avec frange, perruques entièrement fabriquées à la machine, 8 à 30 pouces pour femmes, perruques de cheveux humains brésiliens Remy de couleur naturelle, densité d (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/27/Perruques de cheveux humains raides et soyeux avec frange, perruques entièrement fabriquées à la machine, 8 à 30 pouces pour femmes, perruques de cheveux humains brésiliens Remy de couleur naturelle, densité d (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/27/Perruques de cheveux humains raides et soyeux avec frange, perruques entièrement fabriquées à la machine, 8 à 30 pouces pour femmes, perruques de cheveux humains brésiliens Remy de couleur naturelle, densité d (8).webp"
     ]
   },
   {
@@ -1201,17 +1201,17 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/28/_bling hair Perruques en cheveux humains lisses avec dentelle frontale, cheveux de bébé pré-épilés, densité de 180 %25, 33 x 10 cm, 33 x 15 cm, 10 x 10 cm, 15 x 15 cm, sans colle, naissance des cheveux naturelle, pe.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/28/_bling hair Perruques en cheveux humains lisses avec dentelle frontale, cheveux de bébé pré-épilés, densité de 180 %25, 33 x 10 cm, 33 x 15 cm, 10 x 10 cm, 15 x 15 cm, sans colle, naissance des cheveux naturelle, pe.webp",
     "images": [
-      "/perruque/28/_bling hair Perruques en cheveux humains lisses avec dentelle frontale, cheveux de bébé pré-épilés, densité de 180 %25, 33 x 10 cm, 33 x 15 cm, 10 x 10 cm, 15 x 15 cm, sans colle, naissance des cheveux naturelle, pe.webp",
-      "/perruque/28/_bling hair Perruques en cheveux humains lisses avec dentelle frontale, cheveux de bébé pré-épilés, densité de 180 %25, 33 x 10 cm, 33 x 15 cm, 10 x 10 cm, 15 x 15 cm, sans colle, naissance des cheveux naturelle (1).webp",
-      "/perruque/28/_bling hair Perruques en cheveux humains lisses avec dentelle frontale, cheveux de bébé pré-épilés, densité de 180 %25, 33 x 10 cm, 33 x 15 cm, 10 x 10 cm, 15 x 15 cm, sans colle, naissance des cheveux naturelle (2).webp",
-      "/perruque/28/_bling hair Perruques en cheveux humains lisses avec dentelle frontale, cheveux de bébé pré-épilés, densité de 180 %25, 33 x 10 cm, 33 x 15 cm, 10 x 10 cm, 15 x 15 cm, sans colle, naissance des cheveux naturelle (3).webp",
-      "/perruque/28/_bling hair Perruques en cheveux humains lisses avec dentelle frontale, cheveux de bébé pré-épilés, densité de 180 %25, 33 x 10 cm, 33 x 15 cm, 10 x 10 cm, 15 x 15 cm, sans colle, naissance des cheveux naturelle (4).webp",
-      "/perruque/28/_bling hair Perruques en cheveux humains lisses avec dentelle frontale, cheveux de bébé pré-épilés, densité de 180 %25, 33 x 10 cm, 33 x 15 cm, 10 x 10 cm, 15 x 15 cm, sans colle, naissance des cheveux naturelle (5).webp",
-      "/perruque/28/_bling hair Perruques en cheveux humains lisses avec dentelle frontale, cheveux de bébé pré-épilés, densité de 180 %25, 33 x 10 cm, 33 x 15 cm, 10 x 10 cm, 15 x 15 cm, sans colle, naissance des cheveux naturelle (6).webp",
-      "/perruque/28/_bling hair Perruques en cheveux humains lisses avec dentelle frontale, cheveux de bébé pré-épilés, densité de 180 %25, 33 x 10 cm, 33 x 15 cm, 10 x 10 cm, 15 x 15 cm, sans colle, naissance des cheveux naturelle (7).webp",
-      "/perruque/28/_bling hair Perruques en cheveux humains lisses avec dentelle frontale, cheveux de bébé pré-épilés, densité de 180 %25, 33 x 10 cm, 33 x 15 cm, 10 x 10 cm, 15 x 15 cm, sans colle, naissance des cheveux naturelle (8).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/28/_bling hair Perruques en cheveux humains lisses avec dentelle frontale, cheveux de bébé pré-épilés, densité de 180 %25, 33 x 10 cm, 33 x 15 cm, 10 x 10 cm, 15 x 15 cm, sans colle, naissance des cheveux naturelle, pe.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/28/_bling hair Perruques en cheveux humains lisses avec dentelle frontale, cheveux de bébé pré-épilés, densité de 180 %25, 33 x 10 cm, 33 x 15 cm, 10 x 10 cm, 15 x 15 cm, sans colle, naissance des cheveux naturelle (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/28/_bling hair Perruques en cheveux humains lisses avec dentelle frontale, cheveux de bébé pré-épilés, densité de 180 %25, 33 x 10 cm, 33 x 15 cm, 10 x 10 cm, 15 x 15 cm, sans colle, naissance des cheveux naturelle (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/28/_bling hair Perruques en cheveux humains lisses avec dentelle frontale, cheveux de bébé pré-épilés, densité de 180 %25, 33 x 10 cm, 33 x 15 cm, 10 x 10 cm, 15 x 15 cm, sans colle, naissance des cheveux naturelle (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/28/_bling hair Perruques en cheveux humains lisses avec dentelle frontale, cheveux de bébé pré-épilés, densité de 180 %25, 33 x 10 cm, 33 x 15 cm, 10 x 10 cm, 15 x 15 cm, sans colle, naissance des cheveux naturelle (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/28/_bling hair Perruques en cheveux humains lisses avec dentelle frontale, cheveux de bébé pré-épilés, densité de 180 %25, 33 x 10 cm, 33 x 15 cm, 10 x 10 cm, 15 x 15 cm, sans colle, naissance des cheveux naturelle (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/28/_bling hair Perruques en cheveux humains lisses avec dentelle frontale, cheveux de bébé pré-épilés, densité de 180 %25, 33 x 10 cm, 33 x 15 cm, 10 x 10 cm, 15 x 15 cm, sans colle, naissance des cheveux naturelle (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/28/_bling hair Perruques en cheveux humains lisses avec dentelle frontale, cheveux de bébé pré-épilés, densité de 180 %25, 33 x 10 cm, 33 x 15 cm, 10 x 10 cm, 15 x 15 cm, sans colle, naissance des cheveux naturelle (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/28/_bling hair Perruques en cheveux humains lisses avec dentelle frontale, cheveux de bébé pré-épilés, densité de 180 %25, 33 x 10 cm, 33 x 15 cm, 10 x 10 cm, 15 x 15 cm, sans colle, naissance des cheveux naturelle (8).webp"
     ]
   },
   {
@@ -1239,14 +1239,14 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/29/Perruque droite à couches sans colle Bob avec frange Perruque de cheveux humains à lacet pré-coupé 4x4 sans colle Perruque Bob en soie à porter et à enfiler Perruque Bob courte respirante 99J Couleur bordeaux vin.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/29/Perruque droite à couches sans colle Bob avec frange Perruque de cheveux humains à lacet pré-coupé 4x4 sans colle Perruque Bob en soie à porter et à enfiler Perruque Bob courte respirante 99J Couleur bordeaux vin.webp",
     "images": [
-      "/perruque/29/Perruque droite à couches sans colle Bob avec frange Perruque de cheveux humains à lacet pré-coupé 4x4 sans colle Perruque Bob en soie à porter et à enfiler Perruque Bob courte respirante 99J Couleur bordeaux vin.webp",
-      "/perruque/29/Perruque droite à couches sans colle Bob avec frange Perruque de cheveux humains à lacet pré-coupé 4x4 sans colle Perruque Bob en soie à porter et à enfiler Perruque Bob courte respirante 99J Couleur bordeaux (1).webp",
-      "/perruque/29/Perruque droite à couches sans colle Bob avec frange Perruque de cheveux humains à lacet pré-coupé 4x4 sans colle Perruque Bob en soie à porter et à enfiler Perruque Bob courte respirante 99J Couleur bordeaux (2).webp",
-      "/perruque/29/Perruque droite à couches sans colle Bob avec frange Perruque de cheveux humains à lacet pré-coupé 4x4 sans colle Perruque Bob en soie à porter et à enfiler Perruque Bob courte respirante 99J Couleur bordeaux (3).webp",
-      "/perruque/29/Perruque droite à couches sans colle Bob avec frange Perruque de cheveux humains à lacet pré-coupé 4x4 sans colle Perruque Bob en soie à porter et à enfiler Perruque Bob courte respirante 99J Couleur bordeaux (4).webp",
-      "/perruque/29/Perruque droite à couches sans colle Bob avec frange Perruque de cheveux humains à lacet pré-coupé 4x4 sans colle Perruque Bob en soie à porter et à enfiler Perruque Bob courte respirante 99J Couleur bordeaux (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/29/Perruque droite à couches sans colle Bob avec frange Perruque de cheveux humains à lacet pré-coupé 4x4 sans colle Perruque Bob en soie à porter et à enfiler Perruque Bob courte respirante 99J Couleur bordeaux vin.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/29/Perruque droite à couches sans colle Bob avec frange Perruque de cheveux humains à lacet pré-coupé 4x4 sans colle Perruque Bob en soie à porter et à enfiler Perruque Bob courte respirante 99J Couleur bordeaux (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/29/Perruque droite à couches sans colle Bob avec frange Perruque de cheveux humains à lacet pré-coupé 4x4 sans colle Perruque Bob en soie à porter et à enfiler Perruque Bob courte respirante 99J Couleur bordeaux (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/29/Perruque droite à couches sans colle Bob avec frange Perruque de cheveux humains à lacet pré-coupé 4x4 sans colle Perruque Bob en soie à porter et à enfiler Perruque Bob courte respirante 99J Couleur bordeaux (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/29/Perruque droite à couches sans colle Bob avec frange Perruque de cheveux humains à lacet pré-coupé 4x4 sans colle Perruque Bob en soie à porter et à enfiler Perruque Bob courte respirante 99J Couleur bordeaux (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/29/Perruque droite à couches sans colle Bob avec frange Perruque de cheveux humains à lacet pré-coupé 4x4 sans colle Perruque Bob en soie à porter et à enfiler Perruque Bob courte respirante 99J Couleur bordeaux (5).webp"
     ]
   },
   {
@@ -1274,18 +1274,18 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 5,
-    "image": "/perruque/30/__Perruque Bob Marron Lace Front Cheveux Humains Raides HD Transparent Coupe Émoussée Perruque Bob Marron Chocolat Cheveux Humains 13 x 4 Perruques Frontales court.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/30/__Perruque Bob Marron Lace Front Cheveux Humains Raides HD Transparent Coupe Émoussée Perruque Bob Marron Chocolat Cheveux Humains 13 x 4 Perruques Frontales court.webp",
     "images": [
-      "/perruque/30/__Perruque Bob Marron Lace Front Cheveux Humains Raides HD Transparent Coupe Émoussée Perruque Bob Marron Chocolat Cheveux Humains 13 x 4 Perruques Frontales court.webp",
-      "/perruque/30/__Perruque Bob Marron Lace Front Cheveux Humains Raides HD Transparent Coupe Émoussée Perruque Bob Marron Chocolat Cheveux Humains 13 x 4 Perruques Frontales court (1).webp",
-      "/perruque/30/__Perruque Bob Marron Lace Front Cheveux Humains Raides HD Transparent Coupe Émoussée Perruque Bob Marron Chocolat Cheveux Humains 13 x 4 Perruques Frontales court (2).webp",
-      "/perruque/30/__Perruque Bob Marron Lace Front Cheveux Humains Raides HD Transparent Coupe Émoussée Perruque Bob Marron Chocolat Cheveux Humains 13 x 4 Perruques Frontales court (3).webp",
-      "/perruque/30/__Perruque Bob Marron Lace Front Cheveux Humains Raides HD Transparent Coupe Émoussée Perruque Bob Marron Chocolat Cheveux Humains 13 x 4 Perruques Frontales court (4).webp",
-      "/perruque/30/__Perruque Bob Marron Lace Front Cheveux Humains Raides HD Transparent Coupe Émoussée Perruque Bob Marron Chocolat Cheveux Humains 13 x 4 Perruques Frontales court (5).webp",
-      "/perruque/30/__Perruque Bob Marron Lace Front Cheveux Humains Raides HD Transparent Coupe Émoussée Perruque Bob Marron Chocolat Cheveux Humains 13 x 4 Perruques Frontales court (6).webp",
-      "/perruque/30/__Perruque Bob Marron Lace Front Cheveux Humains Raides HD Transparent Coupe Émoussée Perruque Bob Marron Chocolat Cheveux Humains 13 x 4 Perruques Frontales court (7).webp",
-      "/perruque/30/__Perruque Bob Marron Lace Front Cheveux Humains Raides HD Transparent Coupe Émoussée Perruque Bob Marron Chocolat Cheveux Humains 13 x 4 Perruques Frontales court (8).webp",
-      "/perruque/30/__Perruque Bob Marron Lace Front Cheveux Humains Raides HD Transparent Coupe Émoussée Perruque Bob Marron Chocolat Cheveux Humains 13 x 4 Perruques Frontales court (9).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/30/__Perruque Bob Marron Lace Front Cheveux Humains Raides HD Transparent Coupe Émoussée Perruque Bob Marron Chocolat Cheveux Humains 13 x 4 Perruques Frontales court.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/30/__Perruque Bob Marron Lace Front Cheveux Humains Raides HD Transparent Coupe Émoussée Perruque Bob Marron Chocolat Cheveux Humains 13 x 4 Perruques Frontales court (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/30/__Perruque Bob Marron Lace Front Cheveux Humains Raides HD Transparent Coupe Émoussée Perruque Bob Marron Chocolat Cheveux Humains 13 x 4 Perruques Frontales court (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/30/__Perruque Bob Marron Lace Front Cheveux Humains Raides HD Transparent Coupe Émoussée Perruque Bob Marron Chocolat Cheveux Humains 13 x 4 Perruques Frontales court (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/30/__Perruque Bob Marron Lace Front Cheveux Humains Raides HD Transparent Coupe Émoussée Perruque Bob Marron Chocolat Cheveux Humains 13 x 4 Perruques Frontales court (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/30/__Perruque Bob Marron Lace Front Cheveux Humains Raides HD Transparent Coupe Émoussée Perruque Bob Marron Chocolat Cheveux Humains 13 x 4 Perruques Frontales court (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/30/__Perruque Bob Marron Lace Front Cheveux Humains Raides HD Transparent Coupe Émoussée Perruque Bob Marron Chocolat Cheveux Humains 13 x 4 Perruques Frontales court (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/30/__Perruque Bob Marron Lace Front Cheveux Humains Raides HD Transparent Coupe Émoussée Perruque Bob Marron Chocolat Cheveux Humains 13 x 4 Perruques Frontales court (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/30/__Perruque Bob Marron Lace Front Cheveux Humains Raides HD Transparent Coupe Émoussée Perruque Bob Marron Chocolat Cheveux Humains 13 x 4 Perruques Frontales court (8).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/30/__Perruque Bob Marron Lace Front Cheveux Humains Raides HD Transparent Coupe Émoussée Perruque Bob Marron Chocolat Cheveux Humains 13 x 4 Perruques Frontales court (9).webp"
     ]
   },
   {
@@ -1322,16 +1322,16 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 1,
-    "image": "/perruque/31/_CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux naturelle.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/31/_CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux naturelle.webp",
     "images": [
-      "/perruque/31/_CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux naturelle.webp",
-      "/perruque/31/_CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux natur (1).webp",
-      "/perruque/31/_CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux natur (2).webp",
-      "/perruque/31/_CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux natur (3).webp",
-      "/perruque/31/_CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux natur (4).webp",
-      "/perruque/31/_CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux natur (5).webp",
-      "/perruque/31/_CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux natur (6).webp",
-      "/perruque/31/_CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux natur (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/31/_CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux naturelle.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/31/_CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux natur (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/31/_CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux natur (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/31/_CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux natur (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/31/_CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux natur (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/31/_CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux natur (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/31/_CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux natur (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/31/_CEXXY Perruque brésilienne lisse en cheveux naturels avec dentelle frontale 13x6, 100 %25 naturelle, transparente HD, pour femmes, raie profonde, pré-épilée avec des cheveux de bébé, naissance des cheveux natur (7).webp"
     ]
   },
   {
@@ -1360,14 +1360,14 @@ export const perruque = [
       "16 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/32/__Perruque bob grise en cheveux humains 13x4 avec frontale en dentelle droite, densité de 180, pré-épilée avec des baby hair. Cheveux courts brésiliens Remy de couleur grise de 10 à 16 pouces, idéale pour les cost.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/32/__Perruque bob grise en cheveux humains 13x4 avec frontale en dentelle droite, densité de 180, pré-épilée avec des baby hair. Cheveux courts brésiliens Remy de couleur grise de 10 à 16 pouces, idéale pour les cost.webp",
     "images": [
-      "/perruque/32/__Perruque bob grise en cheveux humains 13x4 avec frontale en dentelle droite, densité de 180, pré-épilée avec des baby hair. Cheveux courts brésiliens Remy de couleur grise de 10 à 16 pouces, idéale pour les cost.webp",
-      "/perruque/32/__Perruque bob grise en cheveux humains 13x4 avec frontale en dentelle droite, densité de 180, pré-épilée avec des baby hair. Cheveux courts brésiliens Remy de couleur grise de 10 à 16 pouces, idéale pour les  (1).webp",
-      "/perruque/32/__Perruque bob grise en cheveux humains 13x4 avec frontale en dentelle droite, densité de 180, pré-épilée avec des baby hair. Cheveux courts brésiliens Remy de couleur grise de 10 à 16 pouces, idéale pour les  (2).webp",
-      "/perruque/32/__Perruque bob grise en cheveux humains 13x4 avec frontale en dentelle droite, densité de 180, pré-épilée avec des baby hair. Cheveux courts brésiliens Remy de couleur grise de 10 à 16 pouces, idéale pour les  (3).webp",
-      "/perruque/32/__Perruque bob grise en cheveux humains 13x4 avec frontale en dentelle droite, densité de 180, pré-épilée avec des baby hair. Cheveux courts brésiliens Remy de couleur grise de 10 à 16 pouces, idéale pour les  (4).webp",
-      "/perruque/32/__Perruque bob grise en cheveux humains 13x4 avec frontale en dentelle droite, densité de 180, pré-épilée avec des baby hair. Cheveux courts brésiliens Remy de couleur grise de 10 à 16 pouces, idéale pour les  (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/32/__Perruque bob grise en cheveux humains 13x4 avec frontale en dentelle droite, densité de 180, pré-épilée avec des baby hair. Cheveux courts brésiliens Remy de couleur grise de 10 à 16 pouces, idéale pour les cost.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/32/__Perruque bob grise en cheveux humains 13x4 avec frontale en dentelle droite, densité de 180, pré-épilée avec des baby hair. Cheveux courts brésiliens Remy de couleur grise de 10 à 16 pouces, idéale pour les  (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/32/__Perruque bob grise en cheveux humains 13x4 avec frontale en dentelle droite, densité de 180, pré-épilée avec des baby hair. Cheveux courts brésiliens Remy de couleur grise de 10 à 16 pouces, idéale pour les  (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/32/__Perruque bob grise en cheveux humains 13x4 avec frontale en dentelle droite, densité de 180, pré-épilée avec des baby hair. Cheveux courts brésiliens Remy de couleur grise de 10 à 16 pouces, idéale pour les  (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/32/__Perruque bob grise en cheveux humains 13x4 avec frontale en dentelle droite, densité de 180, pré-épilée avec des baby hair. Cheveux courts brésiliens Remy de couleur grise de 10 à 16 pouces, idéale pour les  (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/32/__Perruque bob grise en cheveux humains 13x4 avec frontale en dentelle droite, densité de 180, pré-épilée avec des baby hair. Cheveux courts brésiliens Remy de couleur grise de 10 à 16 pouces, idéale pour les  (5).webp"
     ]
   },
   {
@@ -1403,16 +1403,16 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 5,
-    "image": "/perruque/33/MEGALOOK Perruque de luxe de qualité salon 99J Bordeaux 6x5 à front de dentelle, cheveux lisses droits à double trame et densité de 200%25, pré-épilés et pré-coupés, perruque longue ondulée 99J Bordeaux facile à uti.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/33/MEGALOOK Perruque de luxe de qualité salon 99J Bordeaux 6x5 à front de dentelle, cheveux lisses droits à double trame et densité de 200%25, pré-épilés et pré-coupés, perruque longue ondulée 99J Bordeaux facile à uti.webp",
     "images": [
-      "/perruque/33/MEGALOOK Perruque de luxe de qualité salon 99J Bordeaux 6x5 à front de dentelle, cheveux lisses droits à double trame et densité de 200%25, pré-épilés et pré-coupés, perruque longue ondulée 99J Bordeaux facile à uti.webp",
-      "/perruque/33/MEGALOOK Perruque de luxe de qualité salon 99J Bordeaux 6x5 à front de dentelle, cheveux lisses droits à double trame et densité de 200%25, pré-épilés et pré-coupés, perruque longue ondulée 99J Bordeaux facile à (1).webp",
-      "/perruque/33/MEGALOOK Perruque de luxe de qualité salon 99J Bordeaux 6x5 à front de dentelle, cheveux lisses droits à double trame et densité de 200%25, pré-épilés et pré-coupés, perruque longue ondulée 99J Bordeaux facile à (2).webp",
-      "/perruque/33/MEGALOOK Perruque de luxe de qualité salon 99J Bordeaux 6x5 à front de dentelle, cheveux lisses droits à double trame et densité de 200%25, pré-épilés et pré-coupés, perruque longue ondulée 99J Bordeaux facile à (3).webp",
-      "/perruque/33/MEGALOOK Perruque de luxe de qualité salon 99J Bordeaux 6x5 à front de dentelle, cheveux lisses droits à double trame et densité de 200%25, pré-épilés et pré-coupés, perruque longue ondulée 99J Bordeaux facile à (4).webp",
-      "/perruque/33/MEGALOOK Perruque de luxe de qualité salon 99J Bordeaux 6x5 à front de dentelle, cheveux lisses droits à double trame et densité de 200%25, pré-épilés et pré-coupés, perruque longue ondulée 99J Bordeaux facile à (5).webp",
-      "/perruque/33/MEGALOOK Perruque de luxe de qualité salon 99J Bordeaux 6x5 à front de dentelle, cheveux lisses droits à double trame et densité de 200%25, pré-épilés et pré-coupés, perruque longue ondulée 99J Bordeaux facile à (6).webp",
-      "/perruque/33/MEGALOOK Perruque de luxe de qualité salon 99J Bordeaux 6x5 à front de dentelle, cheveux lisses droits à double trame et densité de 200%25, pré-épilés et pré-coupés, perruque longue ondulée 99J Bordeaux facile à (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/33/MEGALOOK Perruque de luxe de qualité salon 99J Bordeaux 6x5 à front de dentelle, cheveux lisses droits à double trame et densité de 200%25, pré-épilés et pré-coupés, perruque longue ondulée 99J Bordeaux facile à uti.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/33/MEGALOOK Perruque de luxe de qualité salon 99J Bordeaux 6x5 à front de dentelle, cheveux lisses droits à double trame et densité de 200%25, pré-épilés et pré-coupés, perruque longue ondulée 99J Bordeaux facile à (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/33/MEGALOOK Perruque de luxe de qualité salon 99J Bordeaux 6x5 à front de dentelle, cheveux lisses droits à double trame et densité de 200%25, pré-épilés et pré-coupés, perruque longue ondulée 99J Bordeaux facile à (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/33/MEGALOOK Perruque de luxe de qualité salon 99J Bordeaux 6x5 à front de dentelle, cheveux lisses droits à double trame et densité de 200%25, pré-épilés et pré-coupés, perruque longue ondulée 99J Bordeaux facile à (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/33/MEGALOOK Perruque de luxe de qualité salon 99J Bordeaux 6x5 à front de dentelle, cheveux lisses droits à double trame et densité de 200%25, pré-épilés et pré-coupés, perruque longue ondulée 99J Bordeaux facile à (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/33/MEGALOOK Perruque de luxe de qualité salon 99J Bordeaux 6x5 à front de dentelle, cheveux lisses droits à double trame et densité de 200%25, pré-épilés et pré-coupés, perruque longue ondulée 99J Bordeaux facile à (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/33/MEGALOOK Perruque de luxe de qualité salon 99J Bordeaux 6x5 à front de dentelle, cheveux lisses droits à double trame et densité de 200%25, pré-épilés et pré-coupés, perruque longue ondulée 99J Bordeaux facile à (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/33/MEGALOOK Perruque de luxe de qualité salon 99J Bordeaux 6x5 à front de dentelle, cheveux lisses droits à double trame et densité de 200%25, pré-épilés et pré-coupés, perruque longue ondulée 99J Bordeaux facile à (7).webp"
     ]
   },
   {
@@ -1448,17 +1448,17 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/34/MEGALOOK Perruque ondulée en cheveux humains 100%25 de couleur violet cendré 6x5 pré-coupée - Perruque invisible sans colle avec ligne de cheveux naturelle pré-épilée, facile à mettre et à porter, idéale pour les dé.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/34/MEGALOOK Perruque ondulée en cheveux humains 100%25 de couleur violet cendré 6x5 pré-coupée - Perruque invisible sans colle avec ligne de cheveux naturelle pré-épilée, facile à mettre et à porter, idéale pour les dé.webp",
     "images": [
-      "/perruque/34/MEGALOOK Perruque ondulée en cheveux humains 100%25 de couleur violet cendré 6x5 pré-coupée - Perruque invisible sans colle avec ligne de cheveux naturelle pré-épilée, facile à mettre et à porter, idéale pour les dé.webp",
-      "/perruque/34/MEGALOOK Perruque ondulée en cheveux humains 100%25 de couleur violet cendré 6x5 pré-coupée - Perruque invisible sans colle avec ligne de cheveux naturelle pré-épilée, facile à mettre et à porter, idéale pour le (1).webp",
-      "/perruque/34/MEGALOOK Perruque ondulée en cheveux humains 100%25 de couleur violet cendré 6x5 pré-coupée - Perruque invisible sans colle avec ligne de cheveux naturelle pré-épilée, facile à mettre et à porter, idéale pour le (2).webp",
-      "/perruque/34/MEGALOOK Perruque ondulée en cheveux humains 100%25 de couleur violet cendré 6x5 pré-coupée - Perruque invisible sans colle avec ligne de cheveux naturelle pré-épilée, facile à mettre et à porter, idéale pour le (3).webp",
-      "/perruque/34/MEGALOOK Perruque ondulée en cheveux humains 100%25 de couleur violet cendré 6x5 pré-coupée - Perruque invisible sans colle avec ligne de cheveux naturelle pré-épilée, facile à mettre et à porter, idéale pour le (4).webp",
-      "/perruque/34/MEGALOOK Perruque ondulée en cheveux humains 100%25 de couleur violet cendré 6x5 pré-coupée - Perruque invisible sans colle avec ligne de cheveux naturelle pré-épilée, facile à mettre et à porter, idéale pour le (5).webp",
-      "/perruque/34/MEGALOOK Perruque ondulée en cheveux humains 100%25 de couleur violet cendré 6x5 pré-coupée - Perruque invisible sans colle avec ligne de cheveux naturelle pré-épilée, facile à mettre et à porter, idéale pour le (6).webp",
-      "/perruque/34/MEGALOOK Perruque ondulée en cheveux humains 100%25 de couleur violet cendré 6x5 pré-coupée - Perruque invisible sans colle avec ligne de cheveux naturelle pré-épilée, facile à mettre et à porter, idéale pour le (7).webp",
-      "/perruque/34/MEGALOOK Perruque ondulée en cheveux humains 100%25 de couleur violet cendré 6x5 pré-coupée - Perruque invisible sans colle avec ligne de cheveux naturelle pré-épilée, facile à mettre et à porter, idéale pour le (8).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/34/MEGALOOK Perruque ondulée en cheveux humains 100%25 de couleur violet cendré 6x5 pré-coupée - Perruque invisible sans colle avec ligne de cheveux naturelle pré-épilée, facile à mettre et à porter, idéale pour les dé.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/34/MEGALOOK Perruque ondulée en cheveux humains 100%25 de couleur violet cendré 6x5 pré-coupée - Perruque invisible sans colle avec ligne de cheveux naturelle pré-épilée, facile à mettre et à porter, idéale pour le (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/34/MEGALOOK Perruque ondulée en cheveux humains 100%25 de couleur violet cendré 6x5 pré-coupée - Perruque invisible sans colle avec ligne de cheveux naturelle pré-épilée, facile à mettre et à porter, idéale pour le (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/34/MEGALOOK Perruque ondulée en cheveux humains 100%25 de couleur violet cendré 6x5 pré-coupée - Perruque invisible sans colle avec ligne de cheveux naturelle pré-épilée, facile à mettre et à porter, idéale pour le (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/34/MEGALOOK Perruque ondulée en cheveux humains 100%25 de couleur violet cendré 6x5 pré-coupée - Perruque invisible sans colle avec ligne de cheveux naturelle pré-épilée, facile à mettre et à porter, idéale pour le (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/34/MEGALOOK Perruque ondulée en cheveux humains 100%25 de couleur violet cendré 6x5 pré-coupée - Perruque invisible sans colle avec ligne de cheveux naturelle pré-épilée, facile à mettre et à porter, idéale pour le (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/34/MEGALOOK Perruque ondulée en cheveux humains 100%25 de couleur violet cendré 6x5 pré-coupée - Perruque invisible sans colle avec ligne de cheveux naturelle pré-épilée, facile à mettre et à porter, idéale pour le (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/34/MEGALOOK Perruque ondulée en cheveux humains 100%25 de couleur violet cendré 6x5 pré-coupée - Perruque invisible sans colle avec ligne de cheveux naturelle pré-épilée, facile à mettre et à porter, idéale pour le (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/34/MEGALOOK Perruque ondulée en cheveux humains 100%25 de couleur violet cendré 6x5 pré-coupée - Perruque invisible sans colle avec ligne de cheveux naturelle pré-épilée, facile à mettre et à porter, idéale pour le (8).webp"
     ]
   },
   {
@@ -1494,20 +1494,20 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/35/__MEGALOOK Perruque frontale en dentelle Midnight Blue Upgraded 13x6 Three-Go™ Max, vague d'eau, 100%25 cheveux humains - Perruque frontale en dentelle pré-coupée, ligne de cheveux super fine d'oreille à oreille, pr.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/35/__MEGALOOK Perruque frontale en dentelle Midnight Blue Upgraded 13x6 Three-Go™ Max, vague d'eau, 100%25 cheveux humains - Perruque frontale en dentelle pré-coupée, ligne de cheveux super fine d'oreille à oreille, pr.webp",
     "images": [
-      "/perruque/35/__MEGALOOK Perruque frontale en dentelle Midnight Blue Upgraded 13x6 Three-Go™ Max, vague d'eau, 100%25 cheveux humains - Perruque frontale en dentelle pré-coupée, ligne de cheveux super fine d'oreille à oreille, pr.webp",
-      "/perruque/35/_MEGALOOK 6x5 Perruque Bobo avec ombré et mèches, perruque à fermeture de dentelle pré-coupée, prête à l'emploi, facile pour les débutants, sans colle nécessaire, cheveux humains de 12-14 pouces, ligne de cheveux .webp",
-      "/perruque/35/__MEGALOOK Perruque frontale en dentelle Midnight Blue Upgraded 13x6 Three-Go™ Max, vague d'eau, 100%25 cheveux humains - Perruque frontale en dentelle pré-coupée, ligne de cheveux super fine d'oreille à oreille (1).webp",
-      "/perruque/35/__MEGALOOK Perruque frontale en dentelle Midnight Blue Upgraded 13x6 Three-Go™ Max, vague d'eau, 100%25 cheveux humains - Perruque frontale en dentelle pré-coupée, ligne de cheveux super fine d'oreille à oreille (2).webp",
-      "/perruque/35/__MEGALOOK Perruque frontale en dentelle Midnight Blue Upgraded 13x6 Three-Go™ Max, vague d'eau, 100%25 cheveux humains - Perruque frontale en dentelle pré-coupée, ligne de cheveux super fine d'oreille à oreille (3).webp",
-      "/perruque/35/__MEGALOOK Perruque frontale en dentelle Midnight Blue Upgraded 13x6 Three-Go™ Max, vague d'eau, 100%25 cheveux humains - Perruque frontale en dentelle pré-coupée, ligne de cheveux super fine d'oreille à oreille (4).webp",
-      "/perruque/35/__MEGALOOK Perruque frontale en dentelle Midnight Blue Upgraded 13x6 Three-Go™ Max, vague d'eau, 100%25 cheveux humains - Perruque frontale en dentelle pré-coupée, ligne de cheveux super fine d'oreille à oreille (5).webp",
-      "/perruque/35/__MEGALOOK Perruque frontale en dentelle Midnight Blue Upgraded 13x6 Three-Go™ Max, vague d'eau, 100%25 cheveux humains - Perruque frontale en dentelle pré-coupée, ligne de cheveux super fine d'oreille à oreille (6).webp",
-      "/perruque/35/__MEGALOOK Perruque frontale en dentelle Midnight Blue Upgraded 13x6 Three-Go™ Max, vague d'eau, 100%25 cheveux humains - Perruque frontale en dentelle pré-coupée, ligne de cheveux super fine d'oreille à oreille (7).webp",
-      "/perruque/35/__MEGALOOK Perruque frontale en dentelle Midnight Blue Upgraded 13x6 Three-Go™ Max, vague d'eau, 100%25 cheveux humains - Perruque frontale en dentelle pré-coupée, ligne de cheveux super fine d'oreille à oreille (8).webp",
-      "/perruque/35/_MEGALOOK 6x5 Perruque Bobo avec ombré et mèches, perruque à fermeture de dentelle pré-coupée, prête à l'emploi, facile pour les débutants, sans colle nécessaire, cheveux humains de 12-14 pouces, ligne de chev (1).webp",
-      "/perruque/35/_MEGALOOK 6x5 Perruque Bobo avec ombré et mèches, perruque à fermeture de dentelle pré-coupée, prête à l'emploi, facile pour les débutants, sans colle nécessaire, cheveux humains de 12-14 pouces, ligne de chev (2).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/35/__MEGALOOK Perruque frontale en dentelle Midnight Blue Upgraded 13x6 Three-Go™ Max, vague d'eau, 100%25 cheveux humains - Perruque frontale en dentelle pré-coupée, ligne de cheveux super fine d'oreille à oreille, pr.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/35/_MEGALOOK 6x5 Perruque Bobo avec ombré et mèches, perruque à fermeture de dentelle pré-coupée, prête à l'emploi, facile pour les débutants, sans colle nécessaire, cheveux humains de 12-14 pouces, ligne de cheveux .webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/35/__MEGALOOK Perruque frontale en dentelle Midnight Blue Upgraded 13x6 Three-Go™ Max, vague d'eau, 100%25 cheveux humains - Perruque frontale en dentelle pré-coupée, ligne de cheveux super fine d'oreille à oreille (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/35/__MEGALOOK Perruque frontale en dentelle Midnight Blue Upgraded 13x6 Three-Go™ Max, vague d'eau, 100%25 cheveux humains - Perruque frontale en dentelle pré-coupée, ligne de cheveux super fine d'oreille à oreille (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/35/__MEGALOOK Perruque frontale en dentelle Midnight Blue Upgraded 13x6 Three-Go™ Max, vague d'eau, 100%25 cheveux humains - Perruque frontale en dentelle pré-coupée, ligne de cheveux super fine d'oreille à oreille (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/35/__MEGALOOK Perruque frontale en dentelle Midnight Blue Upgraded 13x6 Three-Go™ Max, vague d'eau, 100%25 cheveux humains - Perruque frontale en dentelle pré-coupée, ligne de cheveux super fine d'oreille à oreille (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/35/__MEGALOOK Perruque frontale en dentelle Midnight Blue Upgraded 13x6 Three-Go™ Max, vague d'eau, 100%25 cheveux humains - Perruque frontale en dentelle pré-coupée, ligne de cheveux super fine d'oreille à oreille (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/35/__MEGALOOK Perruque frontale en dentelle Midnight Blue Upgraded 13x6 Three-Go™ Max, vague d'eau, 100%25 cheveux humains - Perruque frontale en dentelle pré-coupée, ligne de cheveux super fine d'oreille à oreille (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/35/__MEGALOOK Perruque frontale en dentelle Midnight Blue Upgraded 13x6 Three-Go™ Max, vague d'eau, 100%25 cheveux humains - Perruque frontale en dentelle pré-coupée, ligne de cheveux super fine d'oreille à oreille (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/35/__MEGALOOK Perruque frontale en dentelle Midnight Blue Upgraded 13x6 Three-Go™ Max, vague d'eau, 100%25 cheveux humains - Perruque frontale en dentelle pré-coupée, ligne de cheveux super fine d'oreille à oreille (8).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/35/_MEGALOOK 6x5 Perruque Bobo avec ombré et mèches, perruque à fermeture de dentelle pré-coupée, prête à l'emploi, facile pour les débutants, sans colle nécessaire, cheveux humains de 12-14 pouces, ligne de chev (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/35/_MEGALOOK 6x5 Perruque Bobo avec ombré et mèches, perruque à fermeture de dentelle pré-coupée, prête à l'emploi, facile pour les débutants, sans colle nécessaire, cheveux humains de 12-14 pouces, ligne de chev (2).webp"
     ]
   },
   {
@@ -1543,17 +1543,17 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/36/_MEGALOOK Perruque ondulée corporelle en cheveux humains 100%25 de couleur cuivre foncé Ginger avec système Three-Go™ sans colle et cordon de serrage - Nœuds invisibles, front de dentelle pré-coupé de l'oreille à l'.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/36/_MEGALOOK Perruque ondulée corporelle en cheveux humains 100%25 de couleur cuivre foncé Ginger avec système Three-Go™ sans colle et cordon de serrage - Nœuds invisibles, front de dentelle pré-coupé de l'oreille à l'.webp",
     "images": [
-      "/perruque/36/_MEGALOOK Perruque ondulée corporelle en cheveux humains 100%25 de couleur cuivre foncé Ginger avec système Three-Go™ sans colle et cordon de serrage - Nœuds invisibles, front de dentelle pré-coupé de l'oreille à l'.webp",
-      "/perruque/36/_MEGALOOK Perruque ondulée corporelle en cheveux humains 100%25 de couleur cuivre foncé Ginger avec système Three-Go™ sans colle et cordon de serrage - Nœuds invisibles, front de dentelle pré-coupé de l'oreille  (1).webp",
-      "/perruque/36/_MEGALOOK Perruque ondulée corporelle en cheveux humains 100%25 de couleur cuivre foncé Ginger avec système Three-Go™ sans colle et cordon de serrage - Nœuds invisibles, front de dentelle pré-coupé de l'oreille  (2).webp",
-      "/perruque/36/_MEGALOOK Perruque ondulée corporelle en cheveux humains 100%25 de couleur cuivre foncé Ginger avec système Three-Go™ sans colle et cordon de serrage - Nœuds invisibles, front de dentelle pré-coupé de l'oreille  (3).webp",
-      "/perruque/36/_MEGALOOK Perruque ondulée corporelle en cheveux humains 100%25 de couleur cuivre foncé Ginger avec système Three-Go™ sans colle et cordon de serrage - Nœuds invisibles, front de dentelle pré-coupé de l'oreille  (4).webp",
-      "/perruque/36/_MEGALOOK Perruque ondulée corporelle en cheveux humains 100%25 de couleur cuivre foncé Ginger avec système Three-Go™ sans colle et cordon de serrage - Nœuds invisibles, front de dentelle pré-coupé de l'oreille  (5).webp",
-      "/perruque/36/_MEGALOOK Perruque ondulée corporelle en cheveux humains 100%25 de couleur cuivre foncé Ginger avec système Three-Go™ sans colle et cordon de serrage - Nœuds invisibles, front de dentelle pré-coupé de l'oreille  (6).webp",
-      "/perruque/36/_MEGALOOK Perruque ondulée corporelle en cheveux humains 100%25 de couleur cuivre foncé Ginger avec système Three-Go™ sans colle et cordon de serrage - Nœuds invisibles, front de dentelle pré-coupé de l'oreille  (7).webp",
-      "/perruque/36/_MEGALOOK Perruque ondulée corporelle en cheveux humains 100%25 de couleur cuivre foncé Ginger avec système Three-Go™ sans colle et cordon de serrage - Nœuds invisibles, front de dentelle pré-coupé de l'oreille  (8).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/36/_MEGALOOK Perruque ondulée corporelle en cheveux humains 100%25 de couleur cuivre foncé Ginger avec système Three-Go™ sans colle et cordon de serrage - Nœuds invisibles, front de dentelle pré-coupé de l'oreille à l'.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/36/_MEGALOOK Perruque ondulée corporelle en cheveux humains 100%25 de couleur cuivre foncé Ginger avec système Three-Go™ sans colle et cordon de serrage - Nœuds invisibles, front de dentelle pré-coupé de l'oreille  (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/36/_MEGALOOK Perruque ondulée corporelle en cheveux humains 100%25 de couleur cuivre foncé Ginger avec système Three-Go™ sans colle et cordon de serrage - Nœuds invisibles, front de dentelle pré-coupé de l'oreille  (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/36/_MEGALOOK Perruque ondulée corporelle en cheveux humains 100%25 de couleur cuivre foncé Ginger avec système Three-Go™ sans colle et cordon de serrage - Nœuds invisibles, front de dentelle pré-coupé de l'oreille  (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/36/_MEGALOOK Perruque ondulée corporelle en cheveux humains 100%25 de couleur cuivre foncé Ginger avec système Three-Go™ sans colle et cordon de serrage - Nœuds invisibles, front de dentelle pré-coupé de l'oreille  (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/36/_MEGALOOK Perruque ondulée corporelle en cheveux humains 100%25 de couleur cuivre foncé Ginger avec système Three-Go™ sans colle et cordon de serrage - Nœuds invisibles, front de dentelle pré-coupé de l'oreille  (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/36/_MEGALOOK Perruque ondulée corporelle en cheveux humains 100%25 de couleur cuivre foncé Ginger avec système Three-Go™ sans colle et cordon de serrage - Nœuds invisibles, front de dentelle pré-coupé de l'oreille  (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/36/_MEGALOOK Perruque ondulée corporelle en cheveux humains 100%25 de couleur cuivre foncé Ginger avec système Three-Go™ sans colle et cordon de serrage - Nœuds invisibles, front de dentelle pré-coupé de l'oreille  (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/36/_MEGALOOK Perruque ondulée corporelle en cheveux humains 100%25 de couleur cuivre foncé Ginger avec système Three-Go™ sans colle et cordon de serrage - Nœuds invisibles, front de dentelle pré-coupé de l'oreille  (8).webp"
     ]
   },
   {
@@ -1589,13 +1589,13 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/37/Perruques 13x4 Pre-Everything™ Lace Pre Cut Pre Blanchi Pre Épilé Portez Aller Perruque sans colle Lace Frontal Noir Moelleux Vague Naturelle Rideau Frange Perruques Pour Femmes Unice Hair.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/37/Perruques 13x4 Pre-Everything™ Lace Pre Cut Pre Blanchi Pre Épilé Portez Aller Perruque sans colle Lace Frontal Noir Moelleux Vague Naturelle Rideau Frange Perruques Pour Femmes Unice Hair.webp",
     "images": [
-      "/perruque/37/Perruques 13x4 Pre-Everything™ Lace Pre Cut Pre Blanchi Pre Épilé Portez Aller Perruque sans colle Lace Frontal Noir Moelleux Vague Naturelle Rideau Frange Perruques Pour Femmes Unice Hair.webp",
-      "/perruque/37/Perruques 13x4 Pre-Everything™ Lace Pre Cut Pre Blanchi Pre Épilé Portez Aller Perruque sans colle Lace Frontal Noir Moelleux Vague Naturelle Rideau Frange Perruques Pour Femmes Unice Hair (1).webp",
-      "/perruque/37/Perruques 13x4 Pre-Everything™ Lace Pre Cut Pre Blanchi Pre Épilé Portez Aller Perruque sans colle Lace Frontal Noir Moelleux Vague Naturelle Rideau Frange Perruques Pour Femmes Unice Hair (2).webp",
-      "/perruque/37/Perruques 13x4 Pre-Everything™ Lace Pre Cut Pre Blanchi Pre Épilé Portez Aller Perruque sans colle Lace Frontal Noir Moelleux Vague Naturelle Rideau Frange Perruques Pour Femmes Unice Hair (3).webp",
-      "/perruque/37/Perruques 13x4 Pre-Everything™ Lace Pre Cut Pre Blanchi Pre Épilé Portez Aller Perruque sans colle Lace Frontal Noir Moelleux Vague Naturelle Rideau Frange Perruques Pour Femmes Unice Hair (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/37/Perruques 13x4 Pre-Everything™ Lace Pre Cut Pre Blanchi Pre Épilé Portez Aller Perruque sans colle Lace Frontal Noir Moelleux Vague Naturelle Rideau Frange Perruques Pour Femmes Unice Hair.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/37/Perruques 13x4 Pre-Everything™ Lace Pre Cut Pre Blanchi Pre Épilé Portez Aller Perruque sans colle Lace Frontal Noir Moelleux Vague Naturelle Rideau Frange Perruques Pour Femmes Unice Hair (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/37/Perruques 13x4 Pre-Everything™ Lace Pre Cut Pre Blanchi Pre Épilé Portez Aller Perruque sans colle Lace Frontal Noir Moelleux Vague Naturelle Rideau Frange Perruques Pour Femmes Unice Hair (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/37/Perruques 13x4 Pre-Everything™ Lace Pre Cut Pre Blanchi Pre Épilé Portez Aller Perruque sans colle Lace Frontal Noir Moelleux Vague Naturelle Rideau Frange Perruques Pour Femmes Unice Hair (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/37/Perruques 13x4 Pre-Everything™ Lace Pre Cut Pre Blanchi Pre Épilé Portez Aller Perruque sans colle Lace Frontal Noir Moelleux Vague Naturelle Rideau Frange Perruques Pour Femmes Unice Hair (4).webp"
     ]
   },
   {
@@ -1631,13 +1631,13 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/38/MEGALOOK Perruque sans colle Three-Go™ à vague de corps de couleur marron chocolat 13x6 - Cheveux vierges 100%25 humains premium Remy vierges avec perruque à front transparent. Avec une coupe de dentelle de l'oreill.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/38/MEGALOOK Perruque sans colle Three-Go™ à vague de corps de couleur marron chocolat 13x6 - Cheveux vierges 100%25 humains premium Remy vierges avec perruque à front transparent. Avec une coupe de dentelle de l'oreill.webp",
     "images": [
-      "/perruque/38/MEGALOOK Perruque sans colle Three-Go™ à vague de corps de couleur marron chocolat 13x6 - Cheveux vierges 100%25 humains premium Remy vierges avec perruque à front transparent. Avec une coupe de dentelle de l'oreill.webp",
-      "/perruque/38/MEGALOOK Perruque sans colle Three-Go™ à vague de corps de couleur marron chocolat 13x6 - Cheveux vierges 100%25 humains premium Remy vierges avec perruque à front transparent. Avec une coupe de dentelle de l'or (1).webp",
-      "/perruque/38/MEGALOOK Perruque sans colle Three-Go™ à vague de corps de couleur marron chocolat 13x6 - Cheveux vierges 100%25 humains premium Remy vierges avec perruque à front transparent. Avec une coupe de dentelle de l'or (2).webp",
-      "/perruque/38/MEGALOOK Perruque sans colle Three-Go™ à vague de corps de couleur marron chocolat 13x6 - Cheveux vierges 100%25 humains premium Remy vierges avec perruque à front transparent. Avec une coupe de dentelle de l'or (3).webp",
-      "/perruque/38/MEGALOOK Perruque sans colle Three-Go™ à vague de corps de couleur marron chocolat 13x6 - Cheveux vierges 100%25 humains premium Remy vierges avec perruque à front transparent. Avec une coupe de dentelle de l'or (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/38/MEGALOOK Perruque sans colle Three-Go™ à vague de corps de couleur marron chocolat 13x6 - Cheveux vierges 100%25 humains premium Remy vierges avec perruque à front transparent. Avec une coupe de dentelle de l'oreill.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/38/MEGALOOK Perruque sans colle Three-Go™ à vague de corps de couleur marron chocolat 13x6 - Cheveux vierges 100%25 humains premium Remy vierges avec perruque à front transparent. Avec une coupe de dentelle de l'or (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/38/MEGALOOK Perruque sans colle Three-Go™ à vague de corps de couleur marron chocolat 13x6 - Cheveux vierges 100%25 humains premium Remy vierges avec perruque à front transparent. Avec une coupe de dentelle de l'or (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/38/MEGALOOK Perruque sans colle Three-Go™ à vague de corps de couleur marron chocolat 13x6 - Cheveux vierges 100%25 humains premium Remy vierges avec perruque à front transparent. Avec une coupe de dentelle de l'or (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/38/MEGALOOK Perruque sans colle Three-Go™ à vague de corps de couleur marron chocolat 13x6 - Cheveux vierges 100%25 humains premium Remy vierges avec perruque à front transparent. Avec une coupe de dentelle de l'or (4).webp"
     ]
   },
   {
@@ -1673,15 +1673,15 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/39/MEGALOOK Perruque droite lisse dégradée, 100%25 cheveux humains - Dentelle pré-coupée 6_X5_, facile à porter, pré-épilée, nœuds invisibles, sans colle nécessaire, perruque à fermeture de cheveux humains à coupe au c.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/39/MEGALOOK Perruque droite lisse dégradée, 100%25 cheveux humains - Dentelle pré-coupée 6_X5_, facile à porter, pré-épilée, nœuds invisibles, sans colle nécessaire, perruque à fermeture de cheveux humains à coupe au c.webp",
     "images": [
-      "/perruque/39/MEGALOOK Perruque droite lisse dégradée, 100%25 cheveux humains - Dentelle pré-coupée 6_X5_, facile à porter, pré-épilée, nœuds invisibles, sans colle nécessaire, perruque à fermeture de cheveux humains à coupe au c.webp",
-      "/perruque/39/MEGALOOK Perruque droite lisse dégradée, 100%25 cheveux humains - Dentelle pré-coupée 6_X5_, facile à porter, pré-épilée, nœuds invisibles, sans colle nécessaire, perruque à fermeture de cheveux humains à coupe  (1).webp",
-      "/perruque/39/MEGALOOK Perruque droite lisse dégradée, 100%25 cheveux humains - Dentelle pré-coupée 6_X5_, facile à porter, pré-épilée, nœuds invisibles, sans colle nécessaire, perruque à fermeture de cheveux humains à coupe  (2).webp",
-      "/perruque/39/MEGALOOK Perruque droite lisse dégradée, 100%25 cheveux humains - Dentelle pré-coupée 6_X5_, facile à porter, pré-épilée, nœuds invisibles, sans colle nécessaire, perruque à fermeture de cheveux humains à coupe  (3).webp",
-      "/perruque/39/MEGALOOK Perruque droite lisse dégradée, 100%25 cheveux humains - Dentelle pré-coupée 6_X5_, facile à porter, pré-épilée, nœuds invisibles, sans colle nécessaire, perruque à fermeture de cheveux humains à coupe  (4).webp",
-      "/perruque/39/MEGALOOK Perruque droite lisse dégradée, 100%25 cheveux humains - Dentelle pré-coupée 6_X5_, facile à porter, pré-épilée, nœuds invisibles, sans colle nécessaire, perruque à fermeture de cheveux humains à coupe  (5).webp",
-      "/perruque/39/MEGALOOK Perruque droite lisse dégradée, 100%25 cheveux humains - Dentelle pré-coupée 6_X5_, facile à porter, pré-épilée, nœuds invisibles, sans colle nécessaire, perruque à fermeture de cheveux humains à coupe  (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/39/MEGALOOK Perruque droite lisse dégradée, 100%25 cheveux humains - Dentelle pré-coupée 6_X5_, facile à porter, pré-épilée, nœuds invisibles, sans colle nécessaire, perruque à fermeture de cheveux humains à coupe au c.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/39/MEGALOOK Perruque droite lisse dégradée, 100%25 cheveux humains - Dentelle pré-coupée 6_X5_, facile à porter, pré-épilée, nœuds invisibles, sans colle nécessaire, perruque à fermeture de cheveux humains à coupe  (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/39/MEGALOOK Perruque droite lisse dégradée, 100%25 cheveux humains - Dentelle pré-coupée 6_X5_, facile à porter, pré-épilée, nœuds invisibles, sans colle nécessaire, perruque à fermeture de cheveux humains à coupe  (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/39/MEGALOOK Perruque droite lisse dégradée, 100%25 cheveux humains - Dentelle pré-coupée 6_X5_, facile à porter, pré-épilée, nœuds invisibles, sans colle nécessaire, perruque à fermeture de cheveux humains à coupe  (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/39/MEGALOOK Perruque droite lisse dégradée, 100%25 cheveux humains - Dentelle pré-coupée 6_X5_, facile à porter, pré-épilée, nœuds invisibles, sans colle nécessaire, perruque à fermeture de cheveux humains à coupe  (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/39/MEGALOOK Perruque droite lisse dégradée, 100%25 cheveux humains - Dentelle pré-coupée 6_X5_, facile à porter, pré-épilée, nœuds invisibles, sans colle nécessaire, perruque à fermeture de cheveux humains à coupe  (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/39/MEGALOOK Perruque droite lisse dégradée, 100%25 cheveux humains - Dentelle pré-coupée 6_X5_, facile à porter, pré-épilée, nœuds invisibles, sans colle nécessaire, perruque à fermeture de cheveux humains à coupe  (6).webp"
     ]
   },
   {
@@ -1706,16 +1706,16 @@ export const perruque = [
       "30 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/40/MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - confort .webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/40/MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - confort .webp",
     "images": [
-      "/perruque/40/MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - confort .webp",
-      "/perruque/40/MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - conf (1).webp",
-      "/perruque/40/MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - conf (2).webp",
-      "/perruque/40/MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - conf (3).webp",
-      "/perruque/40/MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - conf (4).webp",
-      "/perruque/40/MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - conf (5).webp",
-      "/perruque/40/MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - conf (6).webp",
-      "/perruque/40/MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - conf (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/40/MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - confort .webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/40/MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - conf (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/40/MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - conf (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/40/MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - conf (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/40/MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - conf (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/40/MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - conf (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/40/MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - conf (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/40/MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - conf (7).webp"
     ]
   },
   {
@@ -1740,17 +1740,17 @@ export const perruque = [
       "30 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/41/Perruque synthétique ondulée orange de 30 pouces avec front en dentelle, perruque en dentelle 13x6, fibre synthétique de haute qualité et douce pour femmes, convient pour un port quotidien, fabriquée à la machine.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/41/Perruque synthétique ondulée orange de 30 pouces avec front en dentelle, perruque en dentelle 13x6, fibre synthétique de haute qualité et douce pour femmes, convient pour un port quotidien, fabriquée à la machine.webp",
     "images": [
-      "/perruque/41/Perruque synthétique ondulée orange de 30 pouces avec front en dentelle, perruque en dentelle 13x6, fibre synthétique de haute qualité et douce pour femmes, convient pour un port quotidien, fabriquée à la machine.webp",
-      "/perruque/41/Perruque synthétique ondulée orange de 30 pouces avec front en dentelle, perruque en dentelle 13x6, fibre synthétique de haute qualité et douce pour femmes, convient pour un port quotidien, fabriquée à la mach (1).webp",
-      "/perruque/41/Perruque synthétique ondulée orange de 30 pouces avec front en dentelle, perruque en dentelle 13x6, fibre synthétique de haute qualité et douce pour femmes, convient pour un port quotidien, fabriquée à la mach (2).webp",
-      "/perruque/41/Perruque synthétique ondulée orange de 30 pouces avec front en dentelle, perruque en dentelle 13x6, fibre synthétique de haute qualité et douce pour femmes, convient pour un port quotidien, fabriquée à la mach (3).webp",
-      "/perruque/41/Perruque synthétique ondulée orange de 30 pouces avec front en dentelle, perruque en dentelle 13x6, fibre synthétique de haute qualité et douce pour femmes, convient pour un port quotidien, fabriquée à la mach (4).webp",
-      "/perruque/41/Perruque synthétique ondulée orange de 30 pouces avec front en dentelle, perruque en dentelle 13x6, fibre synthétique de haute qualité et douce pour femmes, convient pour un port quotidien, fabriquée à la mach (5).webp",
-      "/perruque/41/Perruque synthétique ondulée orange de 30 pouces avec front en dentelle, perruque en dentelle 13x6, fibre synthétique de haute qualité et douce pour femmes, convient pour un port quotidien, fabriquée à la mach (6).webp",
-      "/perruque/41/Perruque synthétique ondulée orange de 30 pouces avec front en dentelle, perruque en dentelle 13x6, fibre synthétique de haute qualité et douce pour femmes, convient pour un port quotidien, fabriquée à la mach (7).webp",
-      "/perruque/41/Perruque synthétique ondulée orange de 30 pouces avec front en dentelle, perruque en dentelle 13x6, fibre synthétique de haute qualité et douce pour femmes, convient pour un port quotidien, fabriquée à la mach (8).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/41/Perruque synthétique ondulée orange de 30 pouces avec front en dentelle, perruque en dentelle 13x6, fibre synthétique de haute qualité et douce pour femmes, convient pour un port quotidien, fabriquée à la machine.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/41/Perruque synthétique ondulée orange de 30 pouces avec front en dentelle, perruque en dentelle 13x6, fibre synthétique de haute qualité et douce pour femmes, convient pour un port quotidien, fabriquée à la mach (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/41/Perruque synthétique ondulée orange de 30 pouces avec front en dentelle, perruque en dentelle 13x6, fibre synthétique de haute qualité et douce pour femmes, convient pour un port quotidien, fabriquée à la mach (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/41/Perruque synthétique ondulée orange de 30 pouces avec front en dentelle, perruque en dentelle 13x6, fibre synthétique de haute qualité et douce pour femmes, convient pour un port quotidien, fabriquée à la mach (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/41/Perruque synthétique ondulée orange de 30 pouces avec front en dentelle, perruque en dentelle 13x6, fibre synthétique de haute qualité et douce pour femmes, convient pour un port quotidien, fabriquée à la mach (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/41/Perruque synthétique ondulée orange de 30 pouces avec front en dentelle, perruque en dentelle 13x6, fibre synthétique de haute qualité et douce pour femmes, convient pour un port quotidien, fabriquée à la mach (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/41/Perruque synthétique ondulée orange de 30 pouces avec front en dentelle, perruque en dentelle 13x6, fibre synthétique de haute qualité et douce pour femmes, convient pour un port quotidien, fabriquée à la mach (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/41/Perruque synthétique ondulée orange de 30 pouces avec front en dentelle, perruque en dentelle 13x6, fibre synthétique de haute qualité et douce pour femmes, convient pour un port quotidien, fabriquée à la mach (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/41/Perruque synthétique ondulée orange de 30 pouces avec front en dentelle, perruque en dentelle 13x6, fibre synthétique de haute qualité et douce pour femmes, convient pour un port quotidien, fabriquée à la mach (8).webp"
     ]
   },
   {
@@ -1786,17 +1786,17 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/42/_Perruque droite à fermeture en dentelle Bye-Bye Knots™ de 7_X5_, de couleur noire et cerise, pré-coupée, pré-décolorée, pré-épilée, perruque frontale en dentelle, sans colle nécessaire, pour femmes, Unice Hair.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/42/_Perruque droite à fermeture en dentelle Bye-Bye Knots™ de 7_X5_, de couleur noire et cerise, pré-coupée, pré-décolorée, pré-épilée, perruque frontale en dentelle, sans colle nécessaire, pour femmes, Unice Hair.webp",
     "images": [
-      "/perruque/42/_Perruque droite à fermeture en dentelle Bye-Bye Knots™ de 7_X5_, de couleur noire et cerise, pré-coupée, pré-décolorée, pré-épilée, perruque frontale en dentelle, sans colle nécessaire, pour femmes, Unice Hair.webp",
-      "/perruque/42/_Perruque droite à fermeture en dentelle Bye-Bye Knots™ de 7_X5_, de couleur noire et cerise, pré-coupée, pré-décolorée, pré-épilée, perruque frontale en dentelle, sans colle nécessaire, pour femmes, Unice Hai (1).webp",
-      "/perruque/42/_Perruque droite à fermeture en dentelle Bye-Bye Knots™ de 7_X5_, de couleur noire et cerise, pré-coupée, pré-décolorée, pré-épilée, perruque frontale en dentelle, sans colle nécessaire, pour femmes, Unice Hai (2).webp",
-      "/perruque/42/_Perruque droite à fermeture en dentelle Bye-Bye Knots™ de 7_X5_, de couleur noire et cerise, pré-coupée, pré-décolorée, pré-épilée, perruque frontale en dentelle, sans colle nécessaire, pour femmes, Unice Hai (3).webp",
-      "/perruque/42/_Perruque droite à fermeture en dentelle Bye-Bye Knots™ de 7_X5_, de couleur noire et cerise, pré-coupée, pré-décolorée, pré-épilée, perruque frontale en dentelle, sans colle nécessaire, pour femmes, Unice Hai (4).webp",
-      "/perruque/42/_Perruque droite à fermeture en dentelle Bye-Bye Knots™ de 7_X5_, de couleur noire et cerise, pré-coupée, pré-décolorée, pré-épilée, perruque frontale en dentelle, sans colle nécessaire, pour femmes, Unice Hai (5).webp",
-      "/perruque/42/_Perruque droite à fermeture en dentelle Bye-Bye Knots™ de 7_X5_, de couleur noire et cerise, pré-coupée, pré-décolorée, pré-épilée, perruque frontale en dentelle, sans colle nécessaire, pour femmes, Unice Hai (6).webp",
-      "/perruque/42/_Perruque droite à fermeture en dentelle Bye-Bye Knots™ de 7_X5_, de couleur noire et cerise, pré-coupée, pré-décolorée, pré-épilée, perruque frontale en dentelle, sans colle nécessaire, pour femmes, Unice Hai (7).webp",
-      "/perruque/42/_Perruque droite à fermeture en dentelle Bye-Bye Knots™ de 7_X5_, de couleur noire et cerise, pré-coupée, pré-décolorée, pré-épilée, perruque frontale en dentelle, sans colle nécessaire, pour femmes, Unice Hai (8).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/42/_Perruque droite à fermeture en dentelle Bye-Bye Knots™ de 7_X5_, de couleur noire et cerise, pré-coupée, pré-décolorée, pré-épilée, perruque frontale en dentelle, sans colle nécessaire, pour femmes, Unice Hair.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/42/_Perruque droite à fermeture en dentelle Bye-Bye Knots™ de 7_X5_, de couleur noire et cerise, pré-coupée, pré-décolorée, pré-épilée, perruque frontale en dentelle, sans colle nécessaire, pour femmes, Unice Hai (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/42/_Perruque droite à fermeture en dentelle Bye-Bye Knots™ de 7_X5_, de couleur noire et cerise, pré-coupée, pré-décolorée, pré-épilée, perruque frontale en dentelle, sans colle nécessaire, pour femmes, Unice Hai (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/42/_Perruque droite à fermeture en dentelle Bye-Bye Knots™ de 7_X5_, de couleur noire et cerise, pré-coupée, pré-décolorée, pré-épilée, perruque frontale en dentelle, sans colle nécessaire, pour femmes, Unice Hai (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/42/_Perruque droite à fermeture en dentelle Bye-Bye Knots™ de 7_X5_, de couleur noire et cerise, pré-coupée, pré-décolorée, pré-épilée, perruque frontale en dentelle, sans colle nécessaire, pour femmes, Unice Hai (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/42/_Perruque droite à fermeture en dentelle Bye-Bye Knots™ de 7_X5_, de couleur noire et cerise, pré-coupée, pré-décolorée, pré-épilée, perruque frontale en dentelle, sans colle nécessaire, pour femmes, Unice Hai (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/42/_Perruque droite à fermeture en dentelle Bye-Bye Knots™ de 7_X5_, de couleur noire et cerise, pré-coupée, pré-décolorée, pré-épilée, perruque frontale en dentelle, sans colle nécessaire, pour femmes, Unice Hai (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/42/_Perruque droite à fermeture en dentelle Bye-Bye Knots™ de 7_X5_, de couleur noire et cerise, pré-coupée, pré-décolorée, pré-épilée, perruque frontale en dentelle, sans colle nécessaire, pour femmes, Unice Hai (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/42/_Perruque droite à fermeture en dentelle Bye-Bye Knots™ de 7_X5_, de couleur noire et cerise, pré-coupée, pré-décolorée, pré-épilée, perruque frontale en dentelle, sans colle nécessaire, pour femmes, Unice Hai (8).webp"
     ]
   },
   {
@@ -1824,16 +1824,16 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/43/QVR QUEEN VIRGIN REMY Perruque court Bobo à partie T en cheveux humains à front de dentelle avec cheveux bébé, cheveux vierges Remy, perruque à dentelle à raie médiane, ligne de cheveux naturelle, couleur ombrée a.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/43/QVR QUEEN VIRGIN REMY Perruque court Bobo à partie T en cheveux humains à front de dentelle avec cheveux bébé, cheveux vierges Remy, perruque à dentelle à raie médiane, ligne de cheveux naturelle, couleur ombrée a.webp",
     "images": [
-      "/perruque/43/QVR QUEEN VIRGIN REMY Perruque court Bobo à partie T en cheveux humains à front de dentelle avec cheveux bébé, cheveux vierges Remy, perruque à dentelle à raie médiane, ligne de cheveux naturelle, couleur ombrée a.webp",
-      "/perruque/43/QVR QUEEN VIRGIN REMY Perruque court Bobo à partie T en cheveux humains à front de dentelle avec cheveux bébé, cheveux vierges Remy, perruque à dentelle à raie médiane, ligne de cheveux naturelle, couleur ombr (1).webp",
-      "/perruque/43/QVR QUEEN VIRGIN REMY Perruque court Bobo à partie T en cheveux humains à front de dentelle avec cheveux bébé, cheveux vierges Remy, perruque à dentelle à raie médiane, ligne de cheveux naturelle, couleur ombr (2).webp",
-      "/perruque/43/QVR QUEEN VIRGIN REMY Perruque court Bobo à partie T en cheveux humains à front de dentelle avec cheveux bébé, cheveux vierges Remy, perruque à dentelle à raie médiane, ligne de cheveux naturelle, couleur ombr (3).webp",
-      "/perruque/43/QVR QUEEN VIRGIN REMY Perruque court Bobo à partie T en cheveux humains à front de dentelle avec cheveux bébé, cheveux vierges Remy, perruque à dentelle à raie médiane, ligne de cheveux naturelle, couleur ombr (4).webp",
-      "/perruque/43/QVR QUEEN VIRGIN REMY Perruque court Bobo à partie T en cheveux humains à front de dentelle avec cheveux bébé, cheveux vierges Remy, perruque à dentelle à raie médiane, ligne de cheveux naturelle, couleur ombr (5).webp",
-      "/perruque/43/QVR QUEEN VIRGIN REMY Perruque court Bobo à partie T en cheveux humains à front de dentelle avec cheveux bébé, cheveux vierges Remy, perruque à dentelle à raie médiane, ligne de cheveux naturelle, couleur ombr (6).webp",
-      "/perruque/43/QVR QUEEN VIRGIN REMY Perruque court Bobo à partie T en cheveux humains à front de dentelle avec cheveux bébé, cheveux vierges Remy, perruque à dentelle à raie médiane, ligne de cheveux naturelle, couleur ombr (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/43/QVR QUEEN VIRGIN REMY Perruque court Bobo à partie T en cheveux humains à front de dentelle avec cheveux bébé, cheveux vierges Remy, perruque à dentelle à raie médiane, ligne de cheveux naturelle, couleur ombrée a.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/43/QVR QUEEN VIRGIN REMY Perruque court Bobo à partie T en cheveux humains à front de dentelle avec cheveux bébé, cheveux vierges Remy, perruque à dentelle à raie médiane, ligne de cheveux naturelle, couleur ombr (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/43/QVR QUEEN VIRGIN REMY Perruque court Bobo à partie T en cheveux humains à front de dentelle avec cheveux bébé, cheveux vierges Remy, perruque à dentelle à raie médiane, ligne de cheveux naturelle, couleur ombr (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/43/QVR QUEEN VIRGIN REMY Perruque court Bobo à partie T en cheveux humains à front de dentelle avec cheveux bébé, cheveux vierges Remy, perruque à dentelle à raie médiane, ligne de cheveux naturelle, couleur ombr (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/43/QVR QUEEN VIRGIN REMY Perruque court Bobo à partie T en cheveux humains à front de dentelle avec cheveux bébé, cheveux vierges Remy, perruque à dentelle à raie médiane, ligne de cheveux naturelle, couleur ombr (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/43/QVR QUEEN VIRGIN REMY Perruque court Bobo à partie T en cheveux humains à front de dentelle avec cheveux bébé, cheveux vierges Remy, perruque à dentelle à raie médiane, ligne de cheveux naturelle, couleur ombr (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/43/QVR QUEEN VIRGIN REMY Perruque court Bobo à partie T en cheveux humains à front de dentelle avec cheveux bébé, cheveux vierges Remy, perruque à dentelle à raie médiane, ligne de cheveux naturelle, couleur ombr (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/43/QVR QUEEN VIRGIN REMY Perruque court Bobo à partie T en cheveux humains à front de dentelle avec cheveux bébé, cheveux vierges Remy, perruque à dentelle à raie médiane, ligne de cheveux naturelle, couleur ombr (7).webp"
     ]
   },
   {
@@ -1858,16 +1858,16 @@ export const perruque = [
       "5 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/45/Perruque à franges soyeuse noire, précolorée, pré-épilée 7x5 pouces, lace front naturelle à vagues lâches sans colle ni nœud, perruque avec fermeture en dentelle pour femmes, Marque UNICE Hair.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/45/Perruque à franges soyeuse noire, précolorée, pré-épilée 7x5 pouces, lace front naturelle à vagues lâches sans colle ni nœud, perruque avec fermeture en dentelle pour femmes, Marque UNICE Hair.webp",
     "images": [
-      "/perruque/45/Perruque à franges soyeuse noire, précolorée, pré-épilée 7x5 pouces, lace front naturelle à vagues lâches sans colle ni nœud, perruque avec fermeture en dentelle pour femmes, Marque UNICE Hair.webp",
-      "/perruque/45/Perruque à franges soyeuse noire, précolorée, pré-épilée 7x5 pouces, lace front naturelle à vagues lâches sans colle ni nœud, perruque avec fermeture en dentelle pour femmes, Marque UNICE Hair (1).webp",
-      "/perruque/45/Perruque à franges soyeuse noire, précolorée, pré-épilée 7x5 pouces, lace front naturelle à vagues lâches sans colle ni nœud, perruque avec fermeture en dentelle pour femmes, Marque UNICE Hair (2).webp",
-      "/perruque/45/Perruque à franges soyeuse noire, précolorée, pré-épilée 7x5 pouces, lace front naturelle à vagues lâches sans colle ni nœud, perruque avec fermeture en dentelle pour femmes, Marque UNICE Hair (3).webp",
-      "/perruque/45/Perruque à franges soyeuse noire, précolorée, pré-épilée 7x5 pouces, lace front naturelle à vagues lâches sans colle ni nœud, perruque avec fermeture en dentelle pour femmes, Marque UNICE Hair (4).webp",
-      "/perruque/45/Perruque à franges soyeuse noire, précolorée, pré-épilée 7x5 pouces, lace front naturelle à vagues lâches sans colle ni nœud, perruque avec fermeture en dentelle pour femmes, Marque UNICE Hair (5).webp",
-      "/perruque/45/Perruque à franges soyeuse noire, précolorée, pré-épilée 7x5 pouces, lace front naturelle à vagues lâches sans colle ni nœud, perruque avec fermeture en dentelle pour femmes, Marque UNICE Hair (6).webp",
-      "/perruque/45/Perruque à franges soyeuse noire, précolorée, pré-épilée 7x5 pouces, lace front naturelle à vagues lâches sans colle ni nœud, perruque avec fermeture en dentelle pour femmes, Marque UNICE Hair (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/45/Perruque à franges soyeuse noire, précolorée, pré-épilée 7x5 pouces, lace front naturelle à vagues lâches sans colle ni nœud, perruque avec fermeture en dentelle pour femmes, Marque UNICE Hair.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/45/Perruque à franges soyeuse noire, précolorée, pré-épilée 7x5 pouces, lace front naturelle à vagues lâches sans colle ni nœud, perruque avec fermeture en dentelle pour femmes, Marque UNICE Hair (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/45/Perruque à franges soyeuse noire, précolorée, pré-épilée 7x5 pouces, lace front naturelle à vagues lâches sans colle ni nœud, perruque avec fermeture en dentelle pour femmes, Marque UNICE Hair (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/45/Perruque à franges soyeuse noire, précolorée, pré-épilée 7x5 pouces, lace front naturelle à vagues lâches sans colle ni nœud, perruque avec fermeture en dentelle pour femmes, Marque UNICE Hair (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/45/Perruque à franges soyeuse noire, précolorée, pré-épilée 7x5 pouces, lace front naturelle à vagues lâches sans colle ni nœud, perruque avec fermeture en dentelle pour femmes, Marque UNICE Hair (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/45/Perruque à franges soyeuse noire, précolorée, pré-épilée 7x5 pouces, lace front naturelle à vagues lâches sans colle ni nœud, perruque avec fermeture en dentelle pour femmes, Marque UNICE Hair (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/45/Perruque à franges soyeuse noire, précolorée, pré-épilée 7x5 pouces, lace front naturelle à vagues lâches sans colle ni nœud, perruque avec fermeture en dentelle pour femmes, Marque UNICE Hair (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/45/Perruque à franges soyeuse noire, précolorée, pré-épilée 7x5 pouces, lace front naturelle à vagues lâches sans colle ni nœud, perruque avec fermeture en dentelle pour femmes, Marque UNICE Hair (7).webp"
     ]
   },
   {
@@ -1903,15 +1903,15 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/46/MEGALOOK Perruque ondulée à corps orange cosmique 6x5 avec nœuds invisibles sans colle, pré-coupée avec dentelle pré-épilée, ligne de cheveux naturelle, facile pour les débutants. Couleur dégradé brun roux 6x5 ave.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/46/MEGALOOK Perruque ondulée à corps orange cosmique 6x5 avec nœuds invisibles sans colle, pré-coupée avec dentelle pré-épilée, ligne de cheveux naturelle, facile pour les débutants. Couleur dégradé brun roux 6x5 ave.webp",
     "images": [
-      "/perruque/46/MEGALOOK Perruque ondulée à corps orange cosmique 6x5 avec nœuds invisibles sans colle, pré-coupée avec dentelle pré-épilée, ligne de cheveux naturelle, facile pour les débutants. Couleur dégradé brun roux 6x5 ave.webp",
-      "/perruque/46/MEGALOOK Perruque ondulée à corps orange cosmique 6x5 avec nœuds invisibles sans colle, pré-coupée avec dentelle pré-épilée, ligne de cheveux naturelle, facile pour les débutants. Couleur dégradé brun roux 6x5 (1).webp",
-      "/perruque/46/MEGALOOK Perruque ondulée à corps orange cosmique 6x5 avec nœuds invisibles sans colle, pré-coupée avec dentelle pré-épilée, ligne de cheveux naturelle, facile pour les débutants. Couleur dégradé brun roux 6x5 (2).webp",
-      "/perruque/46/MEGALOOK Perruque ondulée à corps orange cosmique 6x5 avec nœuds invisibles sans colle, pré-coupée avec dentelle pré-épilée, ligne de cheveux naturelle, facile pour les débutants. Couleur dégradé brun roux 6x5 (3).webp",
-      "/perruque/46/MEGALOOK Perruque ondulée à corps orange cosmique 6x5 avec nœuds invisibles sans colle, pré-coupée avec dentelle pré-épilée, ligne de cheveux naturelle, facile pour les débutants. Couleur dégradé brun roux 6x5 (4).webp",
-      "/perruque/46/MEGALOOK Perruque ondulée à corps orange cosmique 6x5 avec nœuds invisibles sans colle, pré-coupée avec dentelle pré-épilée, ligne de cheveux naturelle, facile pour les débutants. Couleur dégradé brun roux 6x5 (5).webp",
-      "/perruque/46/MEGALOOK Perruque ondulée à corps orange cosmique 6x5 avec nœuds invisibles sans colle, pré-coupée avec dentelle pré-épilée, ligne de cheveux naturelle, facile pour les débutants. Couleur dégradé brun roux 6x5 (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/46/MEGALOOK Perruque ondulée à corps orange cosmique 6x5 avec nœuds invisibles sans colle, pré-coupée avec dentelle pré-épilée, ligne de cheveux naturelle, facile pour les débutants. Couleur dégradé brun roux 6x5 ave.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/46/MEGALOOK Perruque ondulée à corps orange cosmique 6x5 avec nœuds invisibles sans colle, pré-coupée avec dentelle pré-épilée, ligne de cheveux naturelle, facile pour les débutants. Couleur dégradé brun roux 6x5 (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/46/MEGALOOK Perruque ondulée à corps orange cosmique 6x5 avec nœuds invisibles sans colle, pré-coupée avec dentelle pré-épilée, ligne de cheveux naturelle, facile pour les débutants. Couleur dégradé brun roux 6x5 (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/46/MEGALOOK Perruque ondulée à corps orange cosmique 6x5 avec nœuds invisibles sans colle, pré-coupée avec dentelle pré-épilée, ligne de cheveux naturelle, facile pour les débutants. Couleur dégradé brun roux 6x5 (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/46/MEGALOOK Perruque ondulée à corps orange cosmique 6x5 avec nœuds invisibles sans colle, pré-coupée avec dentelle pré-épilée, ligne de cheveux naturelle, facile pour les débutants. Couleur dégradé brun roux 6x5 (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/46/MEGALOOK Perruque ondulée à corps orange cosmique 6x5 avec nœuds invisibles sans colle, pré-coupée avec dentelle pré-épilée, ligne de cheveux naturelle, facile pour les débutants. Couleur dégradé brun roux 6x5 (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/46/MEGALOOK Perruque ondulée à corps orange cosmique 6x5 avec nœuds invisibles sans colle, pré-coupée avec dentelle pré-épilée, ligne de cheveux naturelle, facile pour les débutants. Couleur dégradé brun roux 6x5 (6).webp"
     ]
   },
   {
@@ -1936,15 +1936,15 @@ export const perruque = [
       "30 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/47/_MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - confort.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/47/_MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - confort.webp",
     "images": [
-      "/perruque/47/_MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - confort.webp",
-      "/perruque/47/_MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - con (1).webp",
-      "/perruque/47/_MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - con (2).webp",
-      "/perruque/47/_MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - con (3).webp",
-      "/perruque/47/_MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - con (4).webp",
-      "/perruque/47/_MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - con (5).webp",
-      "/perruque/47/_MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - con (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/47/_MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - confort.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/47/_MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - con (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/47/_MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - con (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/47/_MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - con (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/47/_MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - con (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/47/_MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - con (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/47/_MEGALOOK Perruque droite à front de dentelle 13x4, densité de 180%25 - 100%25 cheveux humains, perruque à dentelle transparente pré-épilée, cheveux Remy de 30 pouces, casquette respirante, perruque violette - con (6).webp"
     ]
   },
   {
@@ -1969,16 +1969,16 @@ export const perruque = [
       "12 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/48/MEGALOOK Perruque ondulée corps dégradé blond 613 de 12 pouces, perruque carré court 100%25 cheveux humains - Perruque à lacet transparent 6x5 facile à utiliser, pré-coupée et pré-épilée avec une ligne de cheveux n.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/48/MEGALOOK Perruque ondulée corps dégradé blond 613 de 12 pouces, perruque carré court 100%25 cheveux humains - Perruque à lacet transparent 6x5 facile à utiliser, pré-coupée et pré-épilée avec une ligne de cheveux n.webp",
     "images": [
-      "/perruque/48/MEGALOOK Perruque ondulée corps dégradé blond 613 de 12 pouces, perruque carré court 100%25 cheveux humains - Perruque à lacet transparent 6x5 facile à utiliser, pré-coupée et pré-épilée avec une ligne de cheveux n.webp",
-      "/perruque/48/MEGALOOK Perruque ondulée corps dégradé blond 613 de 12 pouces, perruque carré court 100%25 cheveux humains - Perruque à lacet transparent 6x5 facile à utiliser, pré-coupée et pré-épilée avec une ligne de cheve (1).webp",
-      "/perruque/48/MEGALOOK Perruque ondulée corps dégradé blond 613 de 12 pouces, perruque carré court 100%25 cheveux humains - Perruque à lacet transparent 6x5 facile à utiliser, pré-coupée et pré-épilée avec une ligne de cheve (2).webp",
-      "/perruque/48/MEGALOOK Perruque ondulée corps dégradé blond 613 de 12 pouces, perruque carré court 100%25 cheveux humains - Perruque à lacet transparent 6x5 facile à utiliser, pré-coupée et pré-épilée avec une ligne de cheve (3).webp",
-      "/perruque/48/MEGALOOK Perruque ondulée corps dégradé blond 613 de 12 pouces, perruque carré court 100%25 cheveux humains - Perruque à lacet transparent 6x5 facile à utiliser, pré-coupée et pré-épilée avec une ligne de cheve (4).webp",
-      "/perruque/48/MEGALOOK Perruque ondulée corps dégradé blond 613 de 12 pouces, perruque carré court 100%25 cheveux humains - Perruque à lacet transparent 6x5 facile à utiliser, pré-coupée et pré-épilée avec une ligne de cheve (5).webp",
-      "/perruque/48/MEGALOOK Perruque ondulée corps dégradé blond 613 de 12 pouces, perruque carré court 100%25 cheveux humains - Perruque à lacet transparent 6x5 facile à utiliser, pré-coupée et pré-épilée avec une ligne de cheve (6).webp",
-      "/perruque/48/MEGALOOK Perruque ondulée corps dégradé blond 613 de 12 pouces, perruque carré court 100%25 cheveux humains - Perruque à lacet transparent 6x5 facile à utiliser, pré-coupée et pré-épilée avec une ligne de cheve (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/48/MEGALOOK Perruque ondulée corps dégradé blond 613 de 12 pouces, perruque carré court 100%25 cheveux humains - Perruque à lacet transparent 6x5 facile à utiliser, pré-coupée et pré-épilée avec une ligne de cheveux n.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/48/MEGALOOK Perruque ondulée corps dégradé blond 613 de 12 pouces, perruque carré court 100%25 cheveux humains - Perruque à lacet transparent 6x5 facile à utiliser, pré-coupée et pré-épilée avec une ligne de cheve (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/48/MEGALOOK Perruque ondulée corps dégradé blond 613 de 12 pouces, perruque carré court 100%25 cheveux humains - Perruque à lacet transparent 6x5 facile à utiliser, pré-coupée et pré-épilée avec une ligne de cheve (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/48/MEGALOOK Perruque ondulée corps dégradé blond 613 de 12 pouces, perruque carré court 100%25 cheveux humains - Perruque à lacet transparent 6x5 facile à utiliser, pré-coupée et pré-épilée avec une ligne de cheve (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/48/MEGALOOK Perruque ondulée corps dégradé blond 613 de 12 pouces, perruque carré court 100%25 cheveux humains - Perruque à lacet transparent 6x5 facile à utiliser, pré-coupée et pré-épilée avec une ligne de cheve (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/48/MEGALOOK Perruque ondulée corps dégradé blond 613 de 12 pouces, perruque carré court 100%25 cheveux humains - Perruque à lacet transparent 6x5 facile à utiliser, pré-coupée et pré-épilée avec une ligne de cheve (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/48/MEGALOOK Perruque ondulée corps dégradé blond 613 de 12 pouces, perruque carré court 100%25 cheveux humains - Perruque à lacet transparent 6x5 facile à utiliser, pré-coupée et pré-épilée avec une ligne de cheve (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/48/MEGALOOK Perruque ondulée corps dégradé blond 613 de 12 pouces, perruque carré court 100%25 cheveux humains - Perruque à lacet transparent 6x5 facile à utiliser, pré-coupée et pré-épilée avec une ligne de cheve (7).webp"
     ]
   },
   {
@@ -2005,13 +2005,13 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/49/Perruques de cheveux humains à ondes corporelles de 32 à 34 pouces avec mèches rouges mises en évidence. Perruques frontales en dentelle pour femmes, cheveux brésiliens Remy, perruques frontales en dentelle transp.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/49/Perruques de cheveux humains à ondes corporelles de 32 à 34 pouces avec mèches rouges mises en évidence. Perruques frontales en dentelle pour femmes, cheveux brésiliens Remy, perruques frontales en dentelle transp.webp",
     "images": [
-      "/perruque/49/Perruques de cheveux humains à ondes corporelles de 32 à 34 pouces avec mèches rouges mises en évidence. Perruques frontales en dentelle pour femmes, cheveux brésiliens Remy, perruques frontales en dentelle transp.webp",
-      "/perruque/49/Perruques de cheveux humains à ondes corporelles de 32 à 34 pouces avec mèches rouges mises en évidence. Perruques frontales en dentelle pour femmes, cheveux brésiliens Remy, perruques frontales en dentelle tr (1).webp",
-      "/perruque/49/Perruques de cheveux humains à ondes corporelles de 32 à 34 pouces avec mèches rouges mises en évidence. Perruques frontales en dentelle pour femmes, cheveux brésiliens Remy, perruques frontales en dentelle tr (2).webp",
-      "/perruque/49/Perruques de cheveux humains à ondes corporelles de 32 à 34 pouces avec mèches rouges mises en évidence. Perruques frontales en dentelle pour femmes, cheveux brésiliens Remy, perruques frontales en dentelle tr (3).webp",
-      "/perruque/49/Perruques de cheveux humains à ondes corporelles de 32 à 34 pouces avec mèches rouges mises en évidence. Perruques frontales en dentelle pour femmes, cheveux brésiliens Remy, perruques frontales en dentelle tr (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/49/Perruques de cheveux humains à ondes corporelles de 32 à 34 pouces avec mèches rouges mises en évidence. Perruques frontales en dentelle pour femmes, cheveux brésiliens Remy, perruques frontales en dentelle transp.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/49/Perruques de cheveux humains à ondes corporelles de 32 à 34 pouces avec mèches rouges mises en évidence. Perruques frontales en dentelle pour femmes, cheveux brésiliens Remy, perruques frontales en dentelle tr (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/49/Perruques de cheveux humains à ondes corporelles de 32 à 34 pouces avec mèches rouges mises en évidence. Perruques frontales en dentelle pour femmes, cheveux brésiliens Remy, perruques frontales en dentelle tr (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/49/Perruques de cheveux humains à ondes corporelles de 32 à 34 pouces avec mèches rouges mises en évidence. Perruques frontales en dentelle pour femmes, cheveux brésiliens Remy, perruques frontales en dentelle tr (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/49/Perruques de cheveux humains à ondes corporelles de 32 à 34 pouces avec mèches rouges mises en évidence. Perruques frontales en dentelle pour femmes, cheveux brésiliens Remy, perruques frontales en dentelle tr (4).webp"
     ]
   },
   {
@@ -2047,16 +2047,16 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/50/Perruque frontale en dentelle de cheveux humains orange gingembre 13x4 pour costumes d'Halloween. Perruque frontale en dentelle droite en cheveux humains orange avec ligne de cheveux naturelle pré-épilée et cheveu.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/50/Perruque frontale en dentelle de cheveux humains orange gingembre 13x4 pour costumes d'Halloween. Perruque frontale en dentelle droite en cheveux humains orange avec ligne de cheveux naturelle pré-épilée et cheveu.webp",
     "images": [
-      "/perruque/50/Perruque frontale en dentelle de cheveux humains orange gingembre 13x4 pour costumes d'Halloween. Perruque frontale en dentelle droite en cheveux humains orange avec ligne de cheveux naturelle pré-épilée et cheveu.webp",
-      "/perruque/50/Perruque frontale en dentelle de cheveux humains orange gingembre 13x4 pour costumes d'Halloween. Perruque frontale en dentelle droite en cheveux humains orange avec ligne de cheveux naturelle pré-épilée et ch (1).webp",
-      "/perruque/50/Perruque frontale en dentelle de cheveux humains orange gingembre 13x4 pour costumes d'Halloween. Perruque frontale en dentelle droite en cheveux humains orange avec ligne de cheveux naturelle pré-épilée et ch (2).webp",
-      "/perruque/50/Perruque frontale en dentelle de cheveux humains orange gingembre 13x4 pour costumes d'Halloween. Perruque frontale en dentelle droite en cheveux humains orange avec ligne de cheveux naturelle pré-épilée et ch (3).webp",
-      "/perruque/50/Perruque frontale en dentelle de cheveux humains orange gingembre 13x4 pour costumes d'Halloween. Perruque frontale en dentelle droite en cheveux humains orange avec ligne de cheveux naturelle pré-épilée et ch (4).webp",
-      "/perruque/50/Perruque frontale en dentelle de cheveux humains orange gingembre 13x4 pour costumes d'Halloween. Perruque frontale en dentelle droite en cheveux humains orange avec ligne de cheveux naturelle pré-épilée et ch (5).webp",
-      "/perruque/50/Perruque frontale en dentelle de cheveux humains orange gingembre 13x4 pour costumes d'Halloween. Perruque frontale en dentelle droite en cheveux humains orange avec ligne de cheveux naturelle pré-épilée et ch (6).webp",
-      "/perruque/50/Perruque frontale en dentelle de cheveux humains orange gingembre 13x4 pour costumes d'Halloween. Perruque frontale en dentelle droite en cheveux humains orange avec ligne de cheveux naturelle pré-épilée et ch (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/50/Perruque frontale en dentelle de cheveux humains orange gingembre 13x4 pour costumes d'Halloween. Perruque frontale en dentelle droite en cheveux humains orange avec ligne de cheveux naturelle pré-épilée et cheveu.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/50/Perruque frontale en dentelle de cheveux humains orange gingembre 13x4 pour costumes d'Halloween. Perruque frontale en dentelle droite en cheveux humains orange avec ligne de cheveux naturelle pré-épilée et ch (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/50/Perruque frontale en dentelle de cheveux humains orange gingembre 13x4 pour costumes d'Halloween. Perruque frontale en dentelle droite en cheveux humains orange avec ligne de cheveux naturelle pré-épilée et ch (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/50/Perruque frontale en dentelle de cheveux humains orange gingembre 13x4 pour costumes d'Halloween. Perruque frontale en dentelle droite en cheveux humains orange avec ligne de cheveux naturelle pré-épilée et ch (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/50/Perruque frontale en dentelle de cheveux humains orange gingembre 13x4 pour costumes d'Halloween. Perruque frontale en dentelle droite en cheveux humains orange avec ligne de cheveux naturelle pré-épilée et ch (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/50/Perruque frontale en dentelle de cheveux humains orange gingembre 13x4 pour costumes d'Halloween. Perruque frontale en dentelle droite en cheveux humains orange avec ligne de cheveux naturelle pré-épilée et ch (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/50/Perruque frontale en dentelle de cheveux humains orange gingembre 13x4 pour costumes d'Halloween. Perruque frontale en dentelle droite en cheveux humains orange avec ligne de cheveux naturelle pré-épilée et ch (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/50/Perruque frontale en dentelle de cheveux humains orange gingembre 13x4 pour costumes d'Halloween. Perruque frontale en dentelle droite en cheveux humains orange avec ligne de cheveux naturelle pré-épilée et ch (7).webp"
     ]
   },
   {
@@ -2084,18 +2084,18 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/51/Perruques courtes pour femmes en cheveux humains sans colle, perruques droites Bob 4x4 avec fermeture en dentelle et franges, dentelle transparente Suisse, perruques frontales en dentelle de cheveux humains réels .webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/51/Perruques courtes pour femmes en cheveux humains sans colle, perruques droites Bob 4x4 avec fermeture en dentelle et franges, dentelle transparente Suisse, perruques frontales en dentelle de cheveux humains réels .webp",
     "images": [
-      "/perruque/51/Perruques courtes pour femmes en cheveux humains sans colle, perruques droites Bob 4x4 avec fermeture en dentelle et franges, dentelle transparente Suisse, perruques frontales en dentelle de cheveux humains réels .webp",
-      "/perruque/51/Perruques courtes pour femmes en cheveux humains sans colle, perruques droites Bob 4x4 avec fermeture en dentelle et franges, dentelle transparente Suisse, perruques frontales en dentelle de cheveux humains ré (1).webp",
-      "/perruque/51/Perruques courtes pour femmes en cheveux humains sans colle, perruques droites Bob 4x4 avec fermeture en dentelle et franges, dentelle transparente Suisse, perruques frontales en dentelle de cheveux humains ré (2).webp",
-      "/perruque/51/Perruques courtes pour femmes en cheveux humains sans colle, perruques droites Bob 4x4 avec fermeture en dentelle et franges, dentelle transparente Suisse, perruques frontales en dentelle de cheveux humains ré (3).webp",
-      "/perruque/51/Perruques courtes pour femmes en cheveux humains sans colle, perruques droites Bob 4x4 avec fermeture en dentelle et franges, dentelle transparente Suisse, perruques frontales en dentelle de cheveux humains ré (4).webp",
-      "/perruque/51/Perruques courtes pour femmes en cheveux humains sans colle, perruques droites Bob 4x4 avec fermeture en dentelle et franges, dentelle transparente Suisse, perruques frontales en dentelle de cheveux humains ré (5).webp",
-      "/perruque/51/Perruques courtes pour femmes en cheveux humains sans colle, perruques droites Bob 4x4 avec fermeture en dentelle et franges, dentelle transparente Suisse, perruques frontales en dentelle de cheveux humains ré (6).webp",
-      "/perruque/51/Perruques courtes pour femmes en cheveux humains sans colle, perruques droites Bob 4x4 avec fermeture en dentelle et franges, dentelle transparente Suisse, perruques frontales en dentelle de cheveux humains ré (7).webp",
-      "/perruque/51/Perruques courtes pour femmes en cheveux humains sans colle, perruques droites Bob 4x4 avec fermeture en dentelle et franges, dentelle transparente Suisse, perruques frontales en dentelle de cheveux humains ré (8).webp",
-      "/perruque/51/Perruques courtes pour femmes en cheveux humains sans colle, perruques droites Bob 4x4 avec fermeture en dentelle et franges, dentelle transparente Suisse, perruques frontales en dentelle de cheveux humains ré (9).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/51/Perruques courtes pour femmes en cheveux humains sans colle, perruques droites Bob 4x4 avec fermeture en dentelle et franges, dentelle transparente Suisse, perruques frontales en dentelle de cheveux humains réels .webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/51/Perruques courtes pour femmes en cheveux humains sans colle, perruques droites Bob 4x4 avec fermeture en dentelle et franges, dentelle transparente Suisse, perruques frontales en dentelle de cheveux humains ré (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/51/Perruques courtes pour femmes en cheveux humains sans colle, perruques droites Bob 4x4 avec fermeture en dentelle et franges, dentelle transparente Suisse, perruques frontales en dentelle de cheveux humains ré (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/51/Perruques courtes pour femmes en cheveux humains sans colle, perruques droites Bob 4x4 avec fermeture en dentelle et franges, dentelle transparente Suisse, perruques frontales en dentelle de cheveux humains ré (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/51/Perruques courtes pour femmes en cheveux humains sans colle, perruques droites Bob 4x4 avec fermeture en dentelle et franges, dentelle transparente Suisse, perruques frontales en dentelle de cheveux humains ré (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/51/Perruques courtes pour femmes en cheveux humains sans colle, perruques droites Bob 4x4 avec fermeture en dentelle et franges, dentelle transparente Suisse, perruques frontales en dentelle de cheveux humains ré (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/51/Perruques courtes pour femmes en cheveux humains sans colle, perruques droites Bob 4x4 avec fermeture en dentelle et franges, dentelle transparente Suisse, perruques frontales en dentelle de cheveux humains ré (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/51/Perruques courtes pour femmes en cheveux humains sans colle, perruques droites Bob 4x4 avec fermeture en dentelle et franges, dentelle transparente Suisse, perruques frontales en dentelle de cheveux humains ré (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/51/Perruques courtes pour femmes en cheveux humains sans colle, perruques droites Bob 4x4 avec fermeture en dentelle et franges, dentelle transparente Suisse, perruques frontales en dentelle de cheveux humains ré (8).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/51/Perruques courtes pour femmes en cheveux humains sans colle, perruques droites Bob 4x4 avec fermeture en dentelle et franges, dentelle transparente Suisse, perruques frontales en dentelle de cheveux humains ré (9).webp"
     ]
   },
   {
@@ -2120,16 +2120,16 @@ export const perruque = [
       "6 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/52/Perruque 6 pouces avant en dentelle bouclée C Part pour femmes, perruque courte en cheveux humains pré-épilée, coupe pixie, perruque en dentelle 13x4 avec cheveux bébé, couleur 1B, densité 150%25.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/52/Perruque 6 pouces avant en dentelle bouclée C Part pour femmes, perruque courte en cheveux humains pré-épilée, coupe pixie, perruque en dentelle 13x4 avec cheveux bébé, couleur 1B, densité 150%25.webp",
     "images": [
-      "/perruque/52/Perruque 6 pouces avant en dentelle bouclée C Part pour femmes, perruque courte en cheveux humains pré-épilée, coupe pixie, perruque en dentelle 13x4 avec cheveux bébé, couleur 1B, densité 150%25.webp",
-      "/perruque/52/Perruque 6 pouces avant en dentelle bouclée C Part pour femmes, perruque courte en cheveux humains pré-épilée, coupe pixie, perruque en dentelle 13x4 avec cheveux bébé, couleur 1B, densité 150%25 (1).webp",
-      "/perruque/52/Perruque 6 pouces avant en dentelle bouclée C Part pour femmes, perruque courte en cheveux humains pré-épilée, coupe pixie, perruque en dentelle 13x4 avec cheveux bébé, couleur 1B, densité 150%25 (2).webp",
-      "/perruque/52/Perruque 6 pouces avant en dentelle bouclée C Part pour femmes, perruque courte en cheveux humains pré-épilée, coupe pixie, perruque en dentelle 13x4 avec cheveux bébé, couleur 1B, densité 150%25 (3).webp",
-      "/perruque/52/Perruque 6 pouces avant en dentelle bouclée C Part pour femmes, perruque courte en cheveux humains pré-épilée, coupe pixie, perruque en dentelle 13x4 avec cheveux bébé, couleur 1B, densité 150%25 (4).webp",
-      "/perruque/52/Perruque 6 pouces avant en dentelle bouclée C Part pour femmes, perruque courte en cheveux humains pré-épilée, coupe pixie, perruque en dentelle 13x4 avec cheveux bébé, couleur 1B, densité 150%25 (5).webp",
-      "/perruque/52/Perruque 6 pouces avant en dentelle bouclée C Part pour femmes, perruque courte en cheveux humains pré-épilée, coupe pixie, perruque en dentelle 13x4 avec cheveux bébé, couleur 1B, densité 150%25 (6).webp",
-      "/perruque/52/Perruque 6 pouces avant en dentelle bouclée C Part pour femmes, perruque courte en cheveux humains pré-épilée, coupe pixie, perruque en dentelle 13x4 avec cheveux bébé, couleur 1B, densité 150%25 (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/52/Perruque 6 pouces avant en dentelle bouclée C Part pour femmes, perruque courte en cheveux humains pré-épilée, coupe pixie, perruque en dentelle 13x4 avec cheveux bébé, couleur 1B, densité 150%25.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/52/Perruque 6 pouces avant en dentelle bouclée C Part pour femmes, perruque courte en cheveux humains pré-épilée, coupe pixie, perruque en dentelle 13x4 avec cheveux bébé, couleur 1B, densité 150%25 (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/52/Perruque 6 pouces avant en dentelle bouclée C Part pour femmes, perruque courte en cheveux humains pré-épilée, coupe pixie, perruque en dentelle 13x4 avec cheveux bébé, couleur 1B, densité 150%25 (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/52/Perruque 6 pouces avant en dentelle bouclée C Part pour femmes, perruque courte en cheveux humains pré-épilée, coupe pixie, perruque en dentelle 13x4 avec cheveux bébé, couleur 1B, densité 150%25 (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/52/Perruque 6 pouces avant en dentelle bouclée C Part pour femmes, perruque courte en cheveux humains pré-épilée, coupe pixie, perruque en dentelle 13x4 avec cheveux bébé, couleur 1B, densité 150%25 (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/52/Perruque 6 pouces avant en dentelle bouclée C Part pour femmes, perruque courte en cheveux humains pré-épilée, coupe pixie, perruque en dentelle 13x4 avec cheveux bébé, couleur 1B, densité 150%25 (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/52/Perruque 6 pouces avant en dentelle bouclée C Part pour femmes, perruque courte en cheveux humains pré-épilée, coupe pixie, perruque en dentelle 13x4 avec cheveux bébé, couleur 1B, densité 150%25 (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/52/Perruque 6 pouces avant en dentelle bouclée C Part pour femmes, perruque courte en cheveux humains pré-épilée, coupe pixie, perruque en dentelle 13x4 avec cheveux bébé, couleur 1B, densité 150%25 (7).webp"
     ]
   },
   {
@@ -2165,16 +2165,16 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/53/_Perruque carré bourgogne OT99J en cheveux humains, perruque frontale en dentelle 13x4 pour femmes, cheveux humains raides bourgogne pré épilés, densité de 150%25, perruque frontale en dentelle transparente, perruqu.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/53/_Perruque carré bourgogne OT99J en cheveux humains, perruque frontale en dentelle 13x4 pour femmes, cheveux humains raides bourgogne pré épilés, densité de 150%25, perruque frontale en dentelle transparente, perruqu.webp",
     "images": [
-      "/perruque/53/_Perruque carré bourgogne OT99J en cheveux humains, perruque frontale en dentelle 13x4 pour femmes, cheveux humains raides bourgogne pré épilés, densité de 150%25, perruque frontale en dentelle transparente, perruqu.webp",
-      "/perruque/53/_Perruque carré bourgogne OT99J en cheveux humains, perruque frontale en dentelle 13x4 pour femmes, cheveux humains raides bourgogne pré épilés, densité de 150%25, perruque frontale en dentelle transparente, per (1).webp",
-      "/perruque/53/_Perruque carré bourgogne OT99J en cheveux humains, perruque frontale en dentelle 13x4 pour femmes, cheveux humains raides bourgogne pré épilés, densité de 150%25, perruque frontale en dentelle transparente, per (2).webp",
-      "/perruque/53/_Perruque carré bourgogne OT99J en cheveux humains, perruque frontale en dentelle 13x4 pour femmes, cheveux humains raides bourgogne pré épilés, densité de 150%25, perruque frontale en dentelle transparente, per (3).webp",
-      "/perruque/53/_Perruque carré bourgogne OT99J en cheveux humains, perruque frontale en dentelle 13x4 pour femmes, cheveux humains raides bourgogne pré épilés, densité de 150%25, perruque frontale en dentelle transparente, per (4).webp",
-      "/perruque/53/_Perruque carré bourgogne OT99J en cheveux humains, perruque frontale en dentelle 13x4 pour femmes, cheveux humains raides bourgogne pré épilés, densité de 150%25, perruque frontale en dentelle transparente, per (5).webp",
-      "/perruque/53/_Perruque carré bourgogne OT99J en cheveux humains, perruque frontale en dentelle 13x4 pour femmes, cheveux humains raides bourgogne pré épilés, densité de 150%25, perruque frontale en dentelle transparente, per (6).webp",
-      "/perruque/53/_Perruque carré bourgogne OT99J en cheveux humains, perruque frontale en dentelle 13x4 pour femmes, cheveux humains raides bourgogne pré épilés, densité de 150%25, perruque frontale en dentelle transparente, per (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/53/_Perruque carré bourgogne OT99J en cheveux humains, perruque frontale en dentelle 13x4 pour femmes, cheveux humains raides bourgogne pré épilés, densité de 150%25, perruque frontale en dentelle transparente, perruqu.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/53/_Perruque carré bourgogne OT99J en cheveux humains, perruque frontale en dentelle 13x4 pour femmes, cheveux humains raides bourgogne pré épilés, densité de 150%25, perruque frontale en dentelle transparente, per (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/53/_Perruque carré bourgogne OT99J en cheveux humains, perruque frontale en dentelle 13x4 pour femmes, cheveux humains raides bourgogne pré épilés, densité de 150%25, perruque frontale en dentelle transparente, per (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/53/_Perruque carré bourgogne OT99J en cheveux humains, perruque frontale en dentelle 13x4 pour femmes, cheveux humains raides bourgogne pré épilés, densité de 150%25, perruque frontale en dentelle transparente, per (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/53/_Perruque carré bourgogne OT99J en cheveux humains, perruque frontale en dentelle 13x4 pour femmes, cheveux humains raides bourgogne pré épilés, densité de 150%25, perruque frontale en dentelle transparente, per (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/53/_Perruque carré bourgogne OT99J en cheveux humains, perruque frontale en dentelle 13x4 pour femmes, cheveux humains raides bourgogne pré épilés, densité de 150%25, perruque frontale en dentelle transparente, per (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/53/_Perruque carré bourgogne OT99J en cheveux humains, perruque frontale en dentelle 13x4 pour femmes, cheveux humains raides bourgogne pré épilés, densité de 150%25, perruque frontale en dentelle transparente, per (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/53/_Perruque carré bourgogne OT99J en cheveux humains, perruque frontale en dentelle 13x4 pour femmes, cheveux humains raides bourgogne pré épilés, densité de 150%25, perruque frontale en dentelle transparente, per (7).webp"
     ]
   },
   {
@@ -2199,14 +2199,14 @@ export const perruque = [
       "18 pouces"
     ],
     "minOrder": 5,
-    "image": "/perruque/54/_Perruque frontale en dentelle transparente de 18 pouces pour femmes, vague, cuivre rouge, 13x4, racines orange 350, vague corporelle 13_4 HD, densité de 200%25, pré-peignée, pré-décolorée, nœuds, carré court ondulé.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/54/_Perruque frontale en dentelle transparente de 18 pouces pour femmes, vague, cuivre rouge, 13x4, racines orange 350, vague corporelle 13_4 HD, densité de 200%25, pré-peignée, pré-décolorée, nœuds, carré court ondulé.webp",
     "images": [
-      "/perruque/54/_Perruque frontale en dentelle transparente de 18 pouces pour femmes, vague, cuivre rouge, 13x4, racines orange 350, vague corporelle 13_4 HD, densité de 200%25, pré-peignée, pré-décolorée, nœuds, carré court ondulé.webp",
-      "/perruque/54/_Perruque frontale en dentelle transparente de 18 pouces pour femmes, vague, cuivre rouge, 13x4, racines orange 350, vague corporelle 13_4 HD, densité de 200%25, pré-peignée, pré-décolorée, nœuds, carré court on (1).webp",
-      "/perruque/54/_Perruque frontale en dentelle transparente de 18 pouces pour femmes, vague, cuivre rouge, 13x4, racines orange 350, vague corporelle 13_4 HD, densité de 200%25, pré-peignée, pré-décolorée, nœuds, carré court on (2).webp",
-      "/perruque/54/_Perruque frontale en dentelle transparente de 18 pouces pour femmes, vague, cuivre rouge, 13x4, racines orange 350, vague corporelle 13_4 HD, densité de 200%25, pré-peignée, pré-décolorée, nœuds, carré court on (3).webp",
-      "/perruque/54/_Perruque frontale en dentelle transparente de 18 pouces pour femmes, vague, cuivre rouge, 13x4, racines orange 350, vague corporelle 13_4 HD, densité de 200%25, pré-peignée, pré-décolorée, nœuds, carré court on (4).webp",
-      "/perruque/54/_Perruque frontale en dentelle transparente de 18 pouces pour femmes, vague, cuivre rouge, 13x4, racines orange 350, vague corporelle 13_4 HD, densité de 200%25, pré-peignée, pré-décolorée, nœuds, carré court on (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/54/_Perruque frontale en dentelle transparente de 18 pouces pour femmes, vague, cuivre rouge, 13x4, racines orange 350, vague corporelle 13_4 HD, densité de 200%25, pré-peignée, pré-décolorée, nœuds, carré court ondulé.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/54/_Perruque frontale en dentelle transparente de 18 pouces pour femmes, vague, cuivre rouge, 13x4, racines orange 350, vague corporelle 13_4 HD, densité de 200%25, pré-peignée, pré-décolorée, nœuds, carré court on (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/54/_Perruque frontale en dentelle transparente de 18 pouces pour femmes, vague, cuivre rouge, 13x4, racines orange 350, vague corporelle 13_4 HD, densité de 200%25, pré-peignée, pré-décolorée, nœuds, carré court on (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/54/_Perruque frontale en dentelle transparente de 18 pouces pour femmes, vague, cuivre rouge, 13x4, racines orange 350, vague corporelle 13_4 HD, densité de 200%25, pré-peignée, pré-décolorée, nœuds, carré court on (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/54/_Perruque frontale en dentelle transparente de 18 pouces pour femmes, vague, cuivre rouge, 13x4, racines orange 350, vague corporelle 13_4 HD, densité de 200%25, pré-peignée, pré-décolorée, nœuds, carré court on (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/54/_Perruque frontale en dentelle transparente de 18 pouces pour femmes, vague, cuivre rouge, 13x4, racines orange 350, vague corporelle 13_4 HD, densité de 200%25, pré-peignée, pré-décolorée, nœuds, carré court on (5).webp"
     ]
   },
   {
@@ -2242,17 +2242,17 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/55/MEGALOOK Perruque ondulée brun rougeâtre 6x5 avec fermeture en dentelle 100%25 cheveux humains - Perruque en dentelle pré-coupée sans colle, densité de 180%25, couleur rouge pour femmes, avec ligne de cheveux naturell.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/55/MEGALOOK Perruque ondulée brun rougeâtre 6x5 avec fermeture en dentelle 100%25 cheveux humains - Perruque en dentelle pré-coupée sans colle, densité de 180%25, couleur rouge pour femmes, avec ligne de cheveux naturell.webp",
     "images": [
-      "/perruque/55/MEGALOOK Perruque ondulée brun rougeâtre 6x5 avec fermeture en dentelle 100%25 cheveux humains - Perruque en dentelle pré-coupée sans colle, densité de 180%25, couleur rouge pour femmes, avec ligne de cheveux naturell.webp",
-      "/perruque/55/MEGALOOK Perruque ondulée brun rougeâtre 6x5 avec fermeture en dentelle 100%25 cheveux humains - Perruque en dentelle pré-coupée sans colle, densité de 180%25, couleur rouge pour femmes, avec ligne de cheveux natu (1).webp",
-      "/perruque/55/MEGALOOK Perruque ondulée brun rougeâtre 6x5 avec fermeture en dentelle 100%25 cheveux humains - Perruque en dentelle pré-coupée sans colle, densité de 180%25, couleur rouge pour femmes, avec ligne de cheveux natu (2).webp",
-      "/perruque/55/MEGALOOK Perruque ondulée brun rougeâtre 6x5 avec fermeture en dentelle 100%25 cheveux humains - Perruque en dentelle pré-coupée sans colle, densité de 180%25, couleur rouge pour femmes, avec ligne de cheveux natu (3).webp",
-      "/perruque/55/MEGALOOK Perruque ondulée brun rougeâtre 6x5 avec fermeture en dentelle 100%25 cheveux humains - Perruque en dentelle pré-coupée sans colle, densité de 180%25, couleur rouge pour femmes, avec ligne de cheveux natu (4).webp",
-      "/perruque/55/MEGALOOK Perruque ondulée brun rougeâtre 6x5 avec fermeture en dentelle 100%25 cheveux humains - Perruque en dentelle pré-coupée sans colle, densité de 180%25, couleur rouge pour femmes, avec ligne de cheveux natu (5).webp",
-      "/perruque/55/MEGALOOK Perruque ondulée brun rougeâtre 6x5 avec fermeture en dentelle 100%25 cheveux humains - Perruque en dentelle pré-coupée sans colle, densité de 180%25, couleur rouge pour femmes, avec ligne de cheveux natu (6).webp",
-      "/perruque/55/MEGALOOK Perruque ondulée brun rougeâtre 6x5 avec fermeture en dentelle 100%25 cheveux humains - Perruque en dentelle pré-coupée sans colle, densité de 180%25, couleur rouge pour femmes, avec ligne de cheveux natu (7).webp",
-      "/perruque/55/MEGALOOK Perruque ondulée brun rougeâtre 6x5 avec fermeture en dentelle 100%25 cheveux humains - Perruque en dentelle pré-coupée sans colle, densité de 180%25, couleur rouge pour femmes, avec ligne de cheveux natu (8).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/55/MEGALOOK Perruque ondulée brun rougeâtre 6x5 avec fermeture en dentelle 100%25 cheveux humains - Perruque en dentelle pré-coupée sans colle, densité de 180%25, couleur rouge pour femmes, avec ligne de cheveux naturell.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/55/MEGALOOK Perruque ondulée brun rougeâtre 6x5 avec fermeture en dentelle 100%25 cheveux humains - Perruque en dentelle pré-coupée sans colle, densité de 180%25, couleur rouge pour femmes, avec ligne de cheveux natu (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/55/MEGALOOK Perruque ondulée brun rougeâtre 6x5 avec fermeture en dentelle 100%25 cheveux humains - Perruque en dentelle pré-coupée sans colle, densité de 180%25, couleur rouge pour femmes, avec ligne de cheveux natu (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/55/MEGALOOK Perruque ondulée brun rougeâtre 6x5 avec fermeture en dentelle 100%25 cheveux humains - Perruque en dentelle pré-coupée sans colle, densité de 180%25, couleur rouge pour femmes, avec ligne de cheveux natu (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/55/MEGALOOK Perruque ondulée brun rougeâtre 6x5 avec fermeture en dentelle 100%25 cheveux humains - Perruque en dentelle pré-coupée sans colle, densité de 180%25, couleur rouge pour femmes, avec ligne de cheveux natu (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/55/MEGALOOK Perruque ondulée brun rougeâtre 6x5 avec fermeture en dentelle 100%25 cheveux humains - Perruque en dentelle pré-coupée sans colle, densité de 180%25, couleur rouge pour femmes, avec ligne de cheveux natu (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/55/MEGALOOK Perruque ondulée brun rougeâtre 6x5 avec fermeture en dentelle 100%25 cheveux humains - Perruque en dentelle pré-coupée sans colle, densité de 180%25, couleur rouge pour femmes, avec ligne de cheveux natu (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/55/MEGALOOK Perruque ondulée brun rougeâtre 6x5 avec fermeture en dentelle 100%25 cheveux humains - Perruque en dentelle pré-coupée sans colle, densité de 180%25, couleur rouge pour femmes, avec ligne de cheveux natu (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/55/MEGALOOK Perruque ondulée brun rougeâtre 6x5 avec fermeture en dentelle 100%25 cheveux humains - Perruque en dentelle pré-coupée sans colle, densité de 180%25, couleur rouge pour femmes, avec ligne de cheveux natu (8).webp"
     ]
   },
   {
@@ -2288,18 +2288,18 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 5,
-    "image": "/perruque/56/MEGALOOK Perruque frontale en dentelle 13x6 Three-In-One™, cheveux lisses soyeux, 100%25 cheveux vierges, dentelle pré-coupée d'oreille à oreille, pré-épilée, violette, sans colle nécessaire, perte de cheveux minima.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/56/MEGALOOK Perruque frontale en dentelle 13x6 Three-In-One™, cheveux lisses soyeux, 100%25 cheveux vierges, dentelle pré-coupée d'oreille à oreille, pré-épilée, violette, sans colle nécessaire, perte de cheveux minima.webp",
     "images": [
-      "/perruque/56/MEGALOOK Perruque frontale en dentelle 13x6 Three-In-One™, cheveux lisses soyeux, 100%25 cheveux vierges, dentelle pré-coupée d'oreille à oreille, pré-épilée, violette, sans colle nécessaire, perte de cheveux minima.webp",
-      "/perruque/56/MEGALOOK Perruque frontale en dentelle 13x6 Three-In-One™, cheveux lisses soyeux, 100%25 cheveux vierges, dentelle pré-coupée d'oreille à oreille, pré-épilée, violette, sans colle nécessaire, perte de cheveux mi (1).webp",
-      "/perruque/56/MEGALOOK Perruque frontale en dentelle 13x6 Three-In-One™, cheveux lisses soyeux, 100%25 cheveux vierges, dentelle pré-coupée d'oreille à oreille, pré-épilée, violette, sans colle nécessaire, perte de cheveux mi (2).webp",
-      "/perruque/56/MEGALOOK Perruque frontale en dentelle 13x6 Three-In-One™, cheveux lisses soyeux, 100%25 cheveux vierges, dentelle pré-coupée d'oreille à oreille, pré-épilée, violette, sans colle nécessaire, perte de cheveux mi (3).webp",
-      "/perruque/56/MEGALOOK Perruque frontale en dentelle 13x6 Three-In-One™, cheveux lisses soyeux, 100%25 cheveux vierges, dentelle pré-coupée d'oreille à oreille, pré-épilée, violette, sans colle nécessaire, perte de cheveux mi (4).webp",
-      "/perruque/56/MEGALOOK Perruque frontale en dentelle 13x6 Three-In-One™, cheveux lisses soyeux, 100%25 cheveux vierges, dentelle pré-coupée d'oreille à oreille, pré-épilée, violette, sans colle nécessaire, perte de cheveux mi (5).webp",
-      "/perruque/56/MEGALOOK Perruque frontale en dentelle 13x6 Three-In-One™, cheveux lisses soyeux, 100%25 cheveux vierges, dentelle pré-coupée d'oreille à oreille, pré-épilée, violette, sans colle nécessaire, perte de cheveux mi (6).webp",
-      "/perruque/56/MEGALOOK Perruque frontale en dentelle 13x6 Three-In-One™, cheveux lisses soyeux, 100%25 cheveux vierges, dentelle pré-coupée d'oreille à oreille, pré-épilée, violette, sans colle nécessaire, perte de cheveux mi (7).webp",
-      "/perruque/56/MEGALOOK Perruque frontale en dentelle 13x6 Three-In-One™, cheveux lisses soyeux, 100%25 cheveux vierges, dentelle pré-coupée d'oreille à oreille, pré-épilée, violette, sans colle nécessaire, perte de cheveux mi (8).webp",
-      "/perruque/56/MEGALOOK Perruque frontale en dentelle 13x6 Three-In-One™, cheveux lisses soyeux, 100%25 cheveux vierges, dentelle pré-coupée d'oreille à oreille, pré-épilée, violette, sans colle nécessaire, perte de cheveux mi (9).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/56/MEGALOOK Perruque frontale en dentelle 13x6 Three-In-One™, cheveux lisses soyeux, 100%25 cheveux vierges, dentelle pré-coupée d'oreille à oreille, pré-épilée, violette, sans colle nécessaire, perte de cheveux minima.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/56/MEGALOOK Perruque frontale en dentelle 13x6 Three-In-One™, cheveux lisses soyeux, 100%25 cheveux vierges, dentelle pré-coupée d'oreille à oreille, pré-épilée, violette, sans colle nécessaire, perte de cheveux mi (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/56/MEGALOOK Perruque frontale en dentelle 13x6 Three-In-One™, cheveux lisses soyeux, 100%25 cheveux vierges, dentelle pré-coupée d'oreille à oreille, pré-épilée, violette, sans colle nécessaire, perte de cheveux mi (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/56/MEGALOOK Perruque frontale en dentelle 13x6 Three-In-One™, cheveux lisses soyeux, 100%25 cheveux vierges, dentelle pré-coupée d'oreille à oreille, pré-épilée, violette, sans colle nécessaire, perte de cheveux mi (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/56/MEGALOOK Perruque frontale en dentelle 13x6 Three-In-One™, cheveux lisses soyeux, 100%25 cheveux vierges, dentelle pré-coupée d'oreille à oreille, pré-épilée, violette, sans colle nécessaire, perte de cheveux mi (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/56/MEGALOOK Perruque frontale en dentelle 13x6 Three-In-One™, cheveux lisses soyeux, 100%25 cheveux vierges, dentelle pré-coupée d'oreille à oreille, pré-épilée, violette, sans colle nécessaire, perte de cheveux mi (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/56/MEGALOOK Perruque frontale en dentelle 13x6 Three-In-One™, cheveux lisses soyeux, 100%25 cheveux vierges, dentelle pré-coupée d'oreille à oreille, pré-épilée, violette, sans colle nécessaire, perte de cheveux mi (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/56/MEGALOOK Perruque frontale en dentelle 13x6 Three-In-One™, cheveux lisses soyeux, 100%25 cheveux vierges, dentelle pré-coupée d'oreille à oreille, pré-épilée, violette, sans colle nécessaire, perte de cheveux mi (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/56/MEGALOOK Perruque frontale en dentelle 13x6 Three-In-One™, cheveux lisses soyeux, 100%25 cheveux vierges, dentelle pré-coupée d'oreille à oreille, pré-épilée, violette, sans colle nécessaire, perte de cheveux mi (8).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/56/MEGALOOK Perruque frontale en dentelle 13x6 Three-In-One™, cheveux lisses soyeux, 100%25 cheveux vierges, dentelle pré-coupée d'oreille à oreille, pré-épilée, violette, sans colle nécessaire, perte de cheveux mi (9).webp"
     ]
   },
   {
@@ -2335,16 +2335,16 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/57/MEGALOOK Perruque frontale en dentelle 13x6 sans colle, couleur soulignée blond lait thé brun, ondulée, dentelle transparente, cheveux humains pour femme, nœuds blanchis, ligne de cheveux naturelle pincée, 18-24 p.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/57/MEGALOOK Perruque frontale en dentelle 13x6 sans colle, couleur soulignée blond lait thé brun, ondulée, dentelle transparente, cheveux humains pour femme, nœuds blanchis, ligne de cheveux naturelle pincée, 18-24 p.webp",
     "images": [
-      "/perruque/57/MEGALOOK Perruque frontale en dentelle 13x6 sans colle, couleur soulignée blond lait thé brun, ondulée, dentelle transparente, cheveux humains pour femme, nœuds blanchis, ligne de cheveux naturelle pincée, 18-24 p.webp",
-      "/perruque/57/MEGALOOK Perruque frontale en dentelle 13x6 sans colle, couleur soulignée blond lait thé brun, ondulée, dentelle transparente, cheveux humains pour femme, nœuds blanchis, ligne de cheveux naturelle pincée, 18- (1).webp",
-      "/perruque/57/MEGALOOK Perruque frontale en dentelle 13x6 sans colle, couleur soulignée blond lait thé brun, ondulée, dentelle transparente, cheveux humains pour femme, nœuds blanchis, ligne de cheveux naturelle pincée, 18- (2).webp",
-      "/perruque/57/MEGALOOK Perruque frontale en dentelle 13x6 sans colle, couleur soulignée blond lait thé brun, ondulée, dentelle transparente, cheveux humains pour femme, nœuds blanchis, ligne de cheveux naturelle pincée, 18- (3).webp",
-      "/perruque/57/MEGALOOK Perruque frontale en dentelle 13x6 sans colle, couleur soulignée blond lait thé brun, ondulée, dentelle transparente, cheveux humains pour femme, nœuds blanchis, ligne de cheveux naturelle pincée, 18- (4).webp",
-      "/perruque/57/MEGALOOK Perruque frontale en dentelle 13x6 sans colle, couleur soulignée blond lait thé brun, ondulée, dentelle transparente, cheveux humains pour femme, nœuds blanchis, ligne de cheveux naturelle pincée, 18- (5).webp",
-      "/perruque/57/MEGALOOK Perruque frontale en dentelle 13x6 sans colle, couleur soulignée blond lait thé brun, ondulée, dentelle transparente, cheveux humains pour femme, nœuds blanchis, ligne de cheveux naturelle pincée, 18- (6).webp",
-      "/perruque/57/MEGALOOK Perruque frontale en dentelle 13x6 sans colle, couleur soulignée blond lait thé brun, ondulée, dentelle transparente, cheveux humains pour femme, nœuds blanchis, ligne de cheveux naturelle pincée, 18- (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/57/MEGALOOK Perruque frontale en dentelle 13x6 sans colle, couleur soulignée blond lait thé brun, ondulée, dentelle transparente, cheveux humains pour femme, nœuds blanchis, ligne de cheveux naturelle pincée, 18-24 p.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/57/MEGALOOK Perruque frontale en dentelle 13x6 sans colle, couleur soulignée blond lait thé brun, ondulée, dentelle transparente, cheveux humains pour femme, nœuds blanchis, ligne de cheveux naturelle pincée, 18- (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/57/MEGALOOK Perruque frontale en dentelle 13x6 sans colle, couleur soulignée blond lait thé brun, ondulée, dentelle transparente, cheveux humains pour femme, nœuds blanchis, ligne de cheveux naturelle pincée, 18- (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/57/MEGALOOK Perruque frontale en dentelle 13x6 sans colle, couleur soulignée blond lait thé brun, ondulée, dentelle transparente, cheveux humains pour femme, nœuds blanchis, ligne de cheveux naturelle pincée, 18- (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/57/MEGALOOK Perruque frontale en dentelle 13x6 sans colle, couleur soulignée blond lait thé brun, ondulée, dentelle transparente, cheveux humains pour femme, nœuds blanchis, ligne de cheveux naturelle pincée, 18- (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/57/MEGALOOK Perruque frontale en dentelle 13x6 sans colle, couleur soulignée blond lait thé brun, ondulée, dentelle transparente, cheveux humains pour femme, nœuds blanchis, ligne de cheveux naturelle pincée, 18- (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/57/MEGALOOK Perruque frontale en dentelle 13x6 sans colle, couleur soulignée blond lait thé brun, ondulée, dentelle transparente, cheveux humains pour femme, nœuds blanchis, ligne de cheveux naturelle pincée, 18- (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/57/MEGALOOK Perruque frontale en dentelle 13x6 sans colle, couleur soulignée blond lait thé brun, ondulée, dentelle transparente, cheveux humains pour femme, nœuds blanchis, ligne de cheveux naturelle pincée, 18- (7).webp"
     ]
   },
   {
@@ -2380,13 +2380,13 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/58/Perruques pour femmes dégradé Honey Blonde Perruque Bob droite 7x5 Fermeture en dentelle Pré-coupée Pré-décolorée Perruque sans colle 100%25 cheveux humains Perruques Bob Bye Bye Nœuds Perruque Lace Front Blonde ave.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/58/Perruques pour femmes dégradé Honey Blonde Perruque Bob droite 7x5 Fermeture en dentelle Pré-coupée Pré-décolorée Perruque sans colle 100%25 cheveux humains Perruques Bob Bye Bye Nœuds Perruque Lace Front Blonde ave.webp",
     "images": [
-      "/perruque/58/Perruques pour femmes dégradé Honey Blonde Perruque Bob droite 7x5 Fermeture en dentelle Pré-coupée Pré-décolorée Perruque sans colle 100%25 cheveux humains Perruques Bob Bye Bye Nœuds Perruque Lace Front Blonde ave.webp",
-      "/perruque/58/Perruques pour femmes dégradé Honey Blonde Perruque Bob droite 7x5 Fermeture en dentelle Pré-coupée Pré-décolorée Perruque sans colle 100%25 cheveux humains Perruques Bob Bye Bye Nœuds Perruque Lace Front Blonde (1).webp",
-      "/perruque/58/Perruques pour femmes dégradé Honey Blonde Perruque Bob droite 7x5 Fermeture en dentelle Pré-coupée Pré-décolorée Perruque sans colle 100%25 cheveux humains Perruques Bob Bye Bye Nœuds Perruque Lace Front Blonde (2).webp",
-      "/perruque/58/Perruques pour femmes dégradé Honey Blonde Perruque Bob droite 7x5 Fermeture en dentelle Pré-coupée Pré-décolorée Perruque sans colle 100%25 cheveux humains Perruques Bob Bye Bye Nœuds Perruque Lace Front Blonde (3).webp",
-      "/perruque/58/Perruques pour femmes dégradé Honey Blonde Perruque Bob droite 7x5 Fermeture en dentelle Pré-coupée Pré-décolorée Perruque sans colle 100%25 cheveux humains Perruques Bob Bye Bye Nœuds Perruque Lace Front Blonde (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/58/Perruques pour femmes dégradé Honey Blonde Perruque Bob droite 7x5 Fermeture en dentelle Pré-coupée Pré-décolorée Perruque sans colle 100%25 cheveux humains Perruques Bob Bye Bye Nœuds Perruque Lace Front Blonde ave.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/58/Perruques pour femmes dégradé Honey Blonde Perruque Bob droite 7x5 Fermeture en dentelle Pré-coupée Pré-décolorée Perruque sans colle 100%25 cheveux humains Perruques Bob Bye Bye Nœuds Perruque Lace Front Blonde (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/58/Perruques pour femmes dégradé Honey Blonde Perruque Bob droite 7x5 Fermeture en dentelle Pré-coupée Pré-décolorée Perruque sans colle 100%25 cheveux humains Perruques Bob Bye Bye Nœuds Perruque Lace Front Blonde (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/58/Perruques pour femmes dégradé Honey Blonde Perruque Bob droite 7x5 Fermeture en dentelle Pré-coupée Pré-décolorée Perruque sans colle 100%25 cheveux humains Perruques Bob Bye Bye Nœuds Perruque Lace Front Blonde (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/58/Perruques pour femmes dégradé Honey Blonde Perruque Bob droite 7x5 Fermeture en dentelle Pré-coupée Pré-décolorée Perruque sans colle 100%25 cheveux humains Perruques Bob Bye Bye Nœuds Perruque Lace Front Blonde (4).webp"
     ]
   },
   {
@@ -2422,16 +2422,16 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/59/MEGALOOK Perruque ondulée en vague corporelle en dentelle sans colle 6x5 avec reflets blonds, 100%25 cheveux humains, ligne de cheveux pré-coupée et pré-épilée, dentelle invisible, facile à porter sans colle, aspect.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/59/MEGALOOK Perruque ondulée en vague corporelle en dentelle sans colle 6x5 avec reflets blonds, 100%25 cheveux humains, ligne de cheveux pré-coupée et pré-épilée, dentelle invisible, facile à porter sans colle, aspect.webp",
     "images": [
-      "/perruque/59/MEGALOOK Perruque ondulée en vague corporelle en dentelle sans colle 6x5 avec reflets blonds, 100%25 cheveux humains, ligne de cheveux pré-coupée et pré-épilée, dentelle invisible, facile à porter sans colle, aspect.webp",
-      "/perruque/59/MEGALOOK Perruque ondulée en vague corporelle en dentelle sans colle 6x5 avec reflets blonds, 100%25 cheveux humains, ligne de cheveux pré-coupée et pré-épilée, dentelle invisible, facile à porter sans colle, as (1).webp",
-      "/perruque/59/MEGALOOK Perruque ondulée en vague corporelle en dentelle sans colle 6x5 avec reflets blonds, 100%25 cheveux humains, ligne de cheveux pré-coupée et pré-épilée, dentelle invisible, facile à porter sans colle, as (2).webp",
-      "/perruque/59/MEGALOOK Perruque ondulée en vague corporelle en dentelle sans colle 6x5 avec reflets blonds, 100%25 cheveux humains, ligne de cheveux pré-coupée et pré-épilée, dentelle invisible, facile à porter sans colle, as (3).webp",
-      "/perruque/59/MEGALOOK Perruque ondulée en vague corporelle en dentelle sans colle 6x5 avec reflets blonds, 100%25 cheveux humains, ligne de cheveux pré-coupée et pré-épilée, dentelle invisible, facile à porter sans colle, as (4).webp",
-      "/perruque/59/MEGALOOK Perruque ondulée en vague corporelle en dentelle sans colle 6x5 avec reflets blonds, 100%25 cheveux humains, ligne de cheveux pré-coupée et pré-épilée, dentelle invisible, facile à porter sans colle, as (5).webp",
-      "/perruque/59/MEGALOOK Perruque ondulée en vague corporelle en dentelle sans colle 6x5 avec reflets blonds, 100%25 cheveux humains, ligne de cheveux pré-coupée et pré-épilée, dentelle invisible, facile à porter sans colle, as (6).webp",
-      "/perruque/59/MEGALOOK Perruque ondulée en vague corporelle en dentelle sans colle 6x5 avec reflets blonds, 100%25 cheveux humains, ligne de cheveux pré-coupée et pré-épilée, dentelle invisible, facile à porter sans colle, as (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/59/MEGALOOK Perruque ondulée en vague corporelle en dentelle sans colle 6x5 avec reflets blonds, 100%25 cheveux humains, ligne de cheveux pré-coupée et pré-épilée, dentelle invisible, facile à porter sans colle, aspect.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/59/MEGALOOK Perruque ondulée en vague corporelle en dentelle sans colle 6x5 avec reflets blonds, 100%25 cheveux humains, ligne de cheveux pré-coupée et pré-épilée, dentelle invisible, facile à porter sans colle, as (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/59/MEGALOOK Perruque ondulée en vague corporelle en dentelle sans colle 6x5 avec reflets blonds, 100%25 cheveux humains, ligne de cheveux pré-coupée et pré-épilée, dentelle invisible, facile à porter sans colle, as (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/59/MEGALOOK Perruque ondulée en vague corporelle en dentelle sans colle 6x5 avec reflets blonds, 100%25 cheveux humains, ligne de cheveux pré-coupée et pré-épilée, dentelle invisible, facile à porter sans colle, as (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/59/MEGALOOK Perruque ondulée en vague corporelle en dentelle sans colle 6x5 avec reflets blonds, 100%25 cheveux humains, ligne de cheveux pré-coupée et pré-épilée, dentelle invisible, facile à porter sans colle, as (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/59/MEGALOOK Perruque ondulée en vague corporelle en dentelle sans colle 6x5 avec reflets blonds, 100%25 cheveux humains, ligne de cheveux pré-coupée et pré-épilée, dentelle invisible, facile à porter sans colle, as (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/59/MEGALOOK Perruque ondulée en vague corporelle en dentelle sans colle 6x5 avec reflets blonds, 100%25 cheveux humains, ligne de cheveux pré-coupée et pré-épilée, dentelle invisible, facile à porter sans colle, as (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/59/MEGALOOK Perruque ondulée en vague corporelle en dentelle sans colle 6x5 avec reflets blonds, 100%25 cheveux humains, ligne de cheveux pré-coupée et pré-épilée, dentelle invisible, facile à porter sans colle, as (7).webp"
     ]
   },
   {
@@ -2456,15 +2456,15 @@ export const perruque = [
       "16 pouces"
     ],
     "minOrder": 5,
-    "image": "/perruque/60/Perruque bob court à front en dentelle, couleur orange 350, cheveux humains, 13x4 lace frontale transparente, pour femmes, 8-16 pouces.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/60/Perruque bob court à front en dentelle, couleur orange 350, cheveux humains, 13x4 lace frontale transparente, pour femmes, 8-16 pouces.webp",
     "images": [
-      "/perruque/60/Perruque bob court à front en dentelle, couleur orange 350, cheveux humains, 13x4 lace frontale transparente, pour femmes, 8-16 pouces.webp",
-      "/perruque/60/Perruque bob court à front en dentelle, couleur orange 350, cheveux humains, 13x4 lace frontale transparente, pour femmes, 8-16 pouces (1).webp",
-      "/perruque/60/Perruque bob court à front en dentelle, couleur orange 350, cheveux humains, 13x4 lace frontale transparente, pour femmes, 8-16 pouces (2).webp",
-      "/perruque/60/Perruque bob court à front en dentelle, couleur orange 350, cheveux humains, 13x4 lace frontale transparente, pour femmes, 8-16 pouces (3).webp",
-      "/perruque/60/Perruque bob court à front en dentelle, couleur orange 350, cheveux humains, 13x4 lace frontale transparente, pour femmes, 8-16 pouces (4).webp",
-      "/perruque/60/Perruque bob court à front en dentelle, couleur orange 350, cheveux humains, 13x4 lace frontale transparente, pour femmes, 8-16 pouces (5).webp",
-      "/perruque/60/Perruque bob court à front en dentelle, couleur orange 350, cheveux humains, 13x4 lace frontale transparente, pour femmes, 8-16 pouces (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/60/Perruque bob court à front en dentelle, couleur orange 350, cheveux humains, 13x4 lace frontale transparente, pour femmes, 8-16 pouces.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/60/Perruque bob court à front en dentelle, couleur orange 350, cheveux humains, 13x4 lace frontale transparente, pour femmes, 8-16 pouces (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/60/Perruque bob court à front en dentelle, couleur orange 350, cheveux humains, 13x4 lace frontale transparente, pour femmes, 8-16 pouces (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/60/Perruque bob court à front en dentelle, couleur orange 350, cheveux humains, 13x4 lace frontale transparente, pour femmes, 8-16 pouces (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/60/Perruque bob court à front en dentelle, couleur orange 350, cheveux humains, 13x4 lace frontale transparente, pour femmes, 8-16 pouces (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/60/Perruque bob court à front en dentelle, couleur orange 350, cheveux humains, 13x4 lace frontale transparente, pour femmes, 8-16 pouces (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/60/Perruque bob court à front en dentelle, couleur orange 350, cheveux humains, 13x4 lace frontale transparente, pour femmes, 8-16 pouces (6).webp"
     ]
   },
   {
@@ -2500,16 +2500,16 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/61/MEGALOOK Perruque de cheveux humains à lacet transparent 13x6 Three-Go™ Highlight Honey Blonde sans colle avec boucles ondulées et cordon de serrage. 100%25 cheveux humains, nœuds blanchis, densité de 180%25, facile p.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/61/MEGALOOK Perruque de cheveux humains à lacet transparent 13x6 Three-Go™ Highlight Honey Blonde sans colle avec boucles ondulées et cordon de serrage. 100%25 cheveux humains, nœuds blanchis, densité de 180%25, facile p.webp",
     "images": [
-      "/perruque/61/MEGALOOK Perruque de cheveux humains à lacet transparent 13x6 Three-Go™ Highlight Honey Blonde sans colle avec boucles ondulées et cordon de serrage. 100%25 cheveux humains, nœuds blanchis, densité de 180%25, facile p.webp",
-      "/perruque/61/MEGALOOK Perruque de cheveux humains à lacet transparent 13x6 Three-Go™ Highlight Honey Blonde sans colle avec boucles ondulées et cordon de serrage. 100%25 cheveux humains, nœuds blanchis, densité de 180%25, faci (1).webp",
-      "/perruque/61/MEGALOOK Perruque de cheveux humains à lacet transparent 13x6 Three-Go™ Highlight Honey Blonde sans colle avec boucles ondulées et cordon de serrage. 100%25 cheveux humains, nœuds blanchis, densité de 180%25, faci (2).webp",
-      "/perruque/61/MEGALOOK Perruque de cheveux humains à lacet transparent 13x6 Three-Go™ Highlight Honey Blonde sans colle avec boucles ondulées et cordon de serrage. 100%25 cheveux humains, nœuds blanchis, densité de 180%25, faci (3).webp",
-      "/perruque/61/MEGALOOK Perruque de cheveux humains à lacet transparent 13x6 Three-Go™ Highlight Honey Blonde sans colle avec boucles ondulées et cordon de serrage. 100%25 cheveux humains, nœuds blanchis, densité de 180%25, faci (4).webp",
-      "/perruque/61/MEGALOOK Perruque de cheveux humains à lacet transparent 13x6 Three-Go™ Highlight Honey Blonde sans colle avec boucles ondulées et cordon de serrage. 100%25 cheveux humains, nœuds blanchis, densité de 180%25, faci (5).webp",
-      "/perruque/61/MEGALOOK Perruque de cheveux humains à lacet transparent 13x6 Three-Go™ Highlight Honey Blonde sans colle avec boucles ondulées et cordon de serrage. 100%25 cheveux humains, nœuds blanchis, densité de 180%25, faci (6).webp",
-      "/perruque/61/MEGALOOK Perruque de cheveux humains à lacet transparent 13x6 Three-Go™ Highlight Honey Blonde sans colle avec boucles ondulées et cordon de serrage. 100%25 cheveux humains, nœuds blanchis, densité de 180%25, faci (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/61/MEGALOOK Perruque de cheveux humains à lacet transparent 13x6 Three-Go™ Highlight Honey Blonde sans colle avec boucles ondulées et cordon de serrage. 100%25 cheveux humains, nœuds blanchis, densité de 180%25, facile p.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/61/MEGALOOK Perruque de cheveux humains à lacet transparent 13x6 Three-Go™ Highlight Honey Blonde sans colle avec boucles ondulées et cordon de serrage. 100%25 cheveux humains, nœuds blanchis, densité de 180%25, faci (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/61/MEGALOOK Perruque de cheveux humains à lacet transparent 13x6 Three-Go™ Highlight Honey Blonde sans colle avec boucles ondulées et cordon de serrage. 100%25 cheveux humains, nœuds blanchis, densité de 180%25, faci (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/61/MEGALOOK Perruque de cheveux humains à lacet transparent 13x6 Three-Go™ Highlight Honey Blonde sans colle avec boucles ondulées et cordon de serrage. 100%25 cheveux humains, nœuds blanchis, densité de 180%25, faci (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/61/MEGALOOK Perruque de cheveux humains à lacet transparent 13x6 Three-Go™ Highlight Honey Blonde sans colle avec boucles ondulées et cordon de serrage. 100%25 cheveux humains, nœuds blanchis, densité de 180%25, faci (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/61/MEGALOOK Perruque de cheveux humains à lacet transparent 13x6 Three-Go™ Highlight Honey Blonde sans colle avec boucles ondulées et cordon de serrage. 100%25 cheveux humains, nœuds blanchis, densité de 180%25, faci (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/61/MEGALOOK Perruque de cheveux humains à lacet transparent 13x6 Three-Go™ Highlight Honey Blonde sans colle avec boucles ondulées et cordon de serrage. 100%25 cheveux humains, nœuds blanchis, densité de 180%25, faci (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/61/MEGALOOK Perruque de cheveux humains à lacet transparent 13x6 Three-Go™ Highlight Honey Blonde sans colle avec boucles ondulées et cordon de serrage. 100%25 cheveux humains, nœuds blanchis, densité de 180%25, faci (7).webp"
     ]
   },
   {
@@ -2545,18 +2545,18 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/62/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perruque .webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/62/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perruque .webp",
     "images": [
-      "/perruque/62/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perruque .webp",
-      "/perruque/62/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (1).webp",
-      "/perruque/62/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (2).webp",
-      "/perruque/62/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (3).webp",
-      "/perruque/62/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (4).webp",
-      "/perruque/62/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (5).webp",
-      "/perruque/62/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (6).webp",
-      "/perruque/62/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (7).webp",
-      "/perruque/62/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (8).webp",
-      "/perruque/62/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (9).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/62/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perruque .webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/62/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/62/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/62/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/62/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/62/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/62/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/62/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/62/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (8).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/62/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (9).webp"
     ]
   },
   {
@@ -2592,14 +2592,14 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/63/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perruque .webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/63/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perruque .webp",
     "images": [
-      "/perruque/63/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perruque .webp",
-      "/perruque/63/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (1).webp",
-      "/perruque/63/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (2).webp",
-      "/perruque/63/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (3).webp",
-      "/perruque/63/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (4).webp",
-      "/perruque/63/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/63/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perruque .webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/63/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/63/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/63/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/63/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/63/MEGALOOK Perruque frontale en dentelle 13x6 100%25 cheveux humains Perruque droite couleur chocolat brun sans colle avec cordon de serrage Dentelle transparente Ligne de cheveux pré-décolorée et pré-épilée Perru (5).webp"
     ]
   },
   {
@@ -2635,14 +2635,14 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/64/CEXXY Perruque Bob 99J dégradée sans colle 5_5, lisse et résistante à la chaleur.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/64/CEXXY Perruque Bob 99J dégradée sans colle 5_5, lisse et résistante à la chaleur.webp",
     "images": [
-      "/perruque/64/CEXXY Perruque Bob 99J dégradée sans colle 5_5, lisse et résistante à la chaleur.webp",
-      "/perruque/64/CEXXY Perruque Bob 99J dégradée sans colle 5_5, lisse et résistante à la chaleur (1).webp",
-      "/perruque/64/CEXXY Perruque Bob 99J dégradée sans colle 5_5, lisse et résistante à la chaleur (2).webp",
-      "/perruque/64/CEXXY Perruque Bob 99J dégradée sans colle 5_5, lisse et résistante à la chaleur (3).webp",
-      "/perruque/64/CEXXY Perruque Bob 99J dégradée sans colle 5_5, lisse et résistante à la chaleur (4).webp",
-      "/perruque/64/CEXXY Perruque Bob 99J dégradée sans colle 5_5, lisse et résistante à la chaleur (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/64/CEXXY Perruque Bob 99J dégradée sans colle 5_5, lisse et résistante à la chaleur.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/64/CEXXY Perruque Bob 99J dégradée sans colle 5_5, lisse et résistante à la chaleur (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/64/CEXXY Perruque Bob 99J dégradée sans colle 5_5, lisse et résistante à la chaleur (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/64/CEXXY Perruque Bob 99J dégradée sans colle 5_5, lisse et résistante à la chaleur (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/64/CEXXY Perruque Bob 99J dégradée sans colle 5_5, lisse et résistante à la chaleur (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/64/CEXXY Perruque Bob 99J dégradée sans colle 5_5, lisse et résistante à la chaleur (5).webp"
     ]
   },
   {
@@ -2673,14 +2673,14 @@ export const perruque = [
       "30 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/65/OQ Perruque frisée bouclée de qualité salon, densité de 200%25, longueur de 18 à 30 pouces, sans colle, avec une base de dentelle transparente de 7x5 pouces, ligne de cheveux pré-épilée, facile pour les débutants, 1.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/65/OQ Perruque frisée bouclée de qualité salon, densité de 200%25, longueur de 18 à 30 pouces, sans colle, avec une base de dentelle transparente de 7x5 pouces, ligne de cheveux pré-épilée, facile pour les débutants, 1.webp",
     "images": [
-      "/perruque/65/OQ Perruque frisée bouclée de qualité salon, densité de 200%25, longueur de 18 à 30 pouces, sans colle, avec une base de dentelle transparente de 7x5 pouces, ligne de cheveux pré-épilée, facile pour les débutants, 1.webp",
-      "/perruque/65/OQ Perruque frisée bouclée de qualité salon, densité de 200%25, longueur de 18 à 30 pouces, sans colle, avec une base de dentelle transparente de 7x5 pouces, ligne de cheveux pré-épilée, facile pour les débutant (1).webp",
-      "/perruque/65/OQ Perruque frisée bouclée de qualité salon, densité de 200%25, longueur de 18 à 30 pouces, sans colle, avec une base de dentelle transparente de 7x5 pouces, ligne de cheveux pré-épilée, facile pour les débutant (2).webp",
-      "/perruque/65/OQ Perruque frisée bouclée de qualité salon, densité de 200%25, longueur de 18 à 30 pouces, sans colle, avec une base de dentelle transparente de 7x5 pouces, ligne de cheveux pré-épilée, facile pour les débutant (3).webp",
-      "/perruque/65/OQ Perruque frisée bouclée de qualité salon, densité de 200%25, longueur de 18 à 30 pouces, sans colle, avec une base de dentelle transparente de 7x5 pouces, ligne de cheveux pré-épilée, facile pour les débutant (4).webp",
-      "/perruque/65/OQ Perruque frisée bouclée de qualité salon, densité de 200%25, longueur de 18 à 30 pouces, sans colle, avec une base de dentelle transparente de 7x5 pouces, ligne de cheveux pré-épilée, facile pour les débutant (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/65/OQ Perruque frisée bouclée de qualité salon, densité de 200%25, longueur de 18 à 30 pouces, sans colle, avec une base de dentelle transparente de 7x5 pouces, ligne de cheveux pré-épilée, facile pour les débutants, 1.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/65/OQ Perruque frisée bouclée de qualité salon, densité de 200%25, longueur de 18 à 30 pouces, sans colle, avec une base de dentelle transparente de 7x5 pouces, ligne de cheveux pré-épilée, facile pour les débutant (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/65/OQ Perruque frisée bouclée de qualité salon, densité de 200%25, longueur de 18 à 30 pouces, sans colle, avec une base de dentelle transparente de 7x5 pouces, ligne de cheveux pré-épilée, facile pour les débutant (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/65/OQ Perruque frisée bouclée de qualité salon, densité de 200%25, longueur de 18 à 30 pouces, sans colle, avec une base de dentelle transparente de 7x5 pouces, ligne de cheveux pré-épilée, facile pour les débutant (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/65/OQ Perruque frisée bouclée de qualité salon, densité de 200%25, longueur de 18 à 30 pouces, sans colle, avec une base de dentelle transparente de 7x5 pouces, ligne de cheveux pré-épilée, facile pour les débutant (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/65/OQ Perruque frisée bouclée de qualité salon, densité de 200%25, longueur de 18 à 30 pouces, sans colle, avec une base de dentelle transparente de 7x5 pouces, ligne de cheveux pré-épilée, facile pour les débutant (5).webp"
     ]
   },
   {
@@ -2716,17 +2716,17 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 5,
-    "image": "/perruque/66/bling hair Perruque frontale en dentelle brun rougeâtre, en cheveux humains naturels – Ondulée – Zone de dentelle 13x6 _ 13x4 – Ligne frontale pré-épilée – Nuance n° 33 (Rouge) – Densité capillaire 180 %25 – Perruqu.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/66/bling hair Perruque frontale en dentelle brun rougeâtre, en cheveux humains naturels – Ondulée – Zone de dentelle 13x6 _ 13x4 – Ligne frontale pré-épilée – Nuance n° 33 (Rouge) – Densité capillaire 180 %25 – Perruqu.webp",
     "images": [
-      "/perruque/66/bling hair Perruque frontale en dentelle brun rougeâtre, en cheveux humains naturels – Ondulée – Zone de dentelle 13x6 _ 13x4 – Ligne frontale pré-épilée – Nuance n° 33 (Rouge) – Densité capillaire 180 %25 – Perruqu.webp",
-      "/perruque/66/bling hair Perruque frontale en dentelle brun rougeâtre, en cheveux humains naturels – Ondulée – Zone de dentelle 13x6 _ 13x4 – Ligne frontale pré-épilée – Nuance n° 33 (Rouge) – Densité capillaire 180 %25 – Per (1).webp",
-      "/perruque/66/bling hair Perruque frontale en dentelle brun rougeâtre, en cheveux humains naturels – Ondulée – Zone de dentelle 13x6 _ 13x4 – Ligne frontale pré-épilée – Nuance n° 33 (Rouge) – Densité capillaire 180 %25 – Per (2).webp",
-      "/perruque/66/bling hair Perruque frontale en dentelle brun rougeâtre, en cheveux humains naturels – Ondulée – Zone de dentelle 13x6 _ 13x4 – Ligne frontale pré-épilée – Nuance n° 33 (Rouge) – Densité capillaire 180 %25 – Per (3).webp",
-      "/perruque/66/bling hair Perruque frontale en dentelle brun rougeâtre, en cheveux humains naturels – Ondulée – Zone de dentelle 13x6 _ 13x4 – Ligne frontale pré-épilée – Nuance n° 33 (Rouge) – Densité capillaire 180 %25 – Per (4).webp",
-      "/perruque/66/bling hair Perruque frontale en dentelle brun rougeâtre, en cheveux humains naturels – Ondulée – Zone de dentelle 13x6 _ 13x4 – Ligne frontale pré-épilée – Nuance n° 33 (Rouge) – Densité capillaire 180 %25 – Per (5).webp",
-      "/perruque/66/bling hair Perruque frontale en dentelle brun rougeâtre, en cheveux humains naturels – Ondulée – Zone de dentelle 13x6 _ 13x4 – Ligne frontale pré-épilée – Nuance n° 33 (Rouge) – Densité capillaire 180 %25 – Per (6).webp",
-      "/perruque/66/bling hair Perruque frontale en dentelle brun rougeâtre, en cheveux humains naturels – Ondulée – Zone de dentelle 13x6 _ 13x4 – Ligne frontale pré-épilée – Nuance n° 33 (Rouge) – Densité capillaire 180 %25 – Per (7).webp",
-      "/perruque/66/bling hair Perruque frontale en dentelle brun rougeâtre, en cheveux humains naturels – Ondulée – Zone de dentelle 13x6 _ 13x4 – Ligne frontale pré-épilée – Nuance n° 33 (Rouge) – Densité capillaire 180 %25 – Per (8).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/66/bling hair Perruque frontale en dentelle brun rougeâtre, en cheveux humains naturels – Ondulée – Zone de dentelle 13x6 _ 13x4 – Ligne frontale pré-épilée – Nuance n° 33 (Rouge) – Densité capillaire 180 %25 – Perruqu.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/66/bling hair Perruque frontale en dentelle brun rougeâtre, en cheveux humains naturels – Ondulée – Zone de dentelle 13x6 _ 13x4 – Ligne frontale pré-épilée – Nuance n° 33 (Rouge) – Densité capillaire 180 %25 – Per (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/66/bling hair Perruque frontale en dentelle brun rougeâtre, en cheveux humains naturels – Ondulée – Zone de dentelle 13x6 _ 13x4 – Ligne frontale pré-épilée – Nuance n° 33 (Rouge) – Densité capillaire 180 %25 – Per (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/66/bling hair Perruque frontale en dentelle brun rougeâtre, en cheveux humains naturels – Ondulée – Zone de dentelle 13x6 _ 13x4 – Ligne frontale pré-épilée – Nuance n° 33 (Rouge) – Densité capillaire 180 %25 – Per (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/66/bling hair Perruque frontale en dentelle brun rougeâtre, en cheveux humains naturels – Ondulée – Zone de dentelle 13x6 _ 13x4 – Ligne frontale pré-épilée – Nuance n° 33 (Rouge) – Densité capillaire 180 %25 – Per (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/66/bling hair Perruque frontale en dentelle brun rougeâtre, en cheveux humains naturels – Ondulée – Zone de dentelle 13x6 _ 13x4 – Ligne frontale pré-épilée – Nuance n° 33 (Rouge) – Densité capillaire 180 %25 – Per (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/66/bling hair Perruque frontale en dentelle brun rougeâtre, en cheveux humains naturels – Ondulée – Zone de dentelle 13x6 _ 13x4 – Ligne frontale pré-épilée – Nuance n° 33 (Rouge) – Densité capillaire 180 %25 – Per (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/66/bling hair Perruque frontale en dentelle brun rougeâtre, en cheveux humains naturels – Ondulée – Zone de dentelle 13x6 _ 13x4 – Ligne frontale pré-épilée – Nuance n° 33 (Rouge) – Densité capillaire 180 %25 – Per (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/66/bling hair Perruque frontale en dentelle brun rougeâtre, en cheveux humains naturels – Ondulée – Zone de dentelle 13x6 _ 13x4 – Ligne frontale pré-épilée – Nuance n° 33 (Rouge) – Densité capillaire 180 %25 – Per (8).webp"
     ]
   },
   {
@@ -2751,17 +2751,17 @@ export const perruque = [
       "28 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/67/Perruque droite de 200%25 de densité, couleur bordeaux, perruque de dentelle pré-épilée de 28 pouces avec sangle invisible, perruque à lacet frontal de 13x4 avec cordon de serrage, perruque blonde de 34 pouces 613 .webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/67/Perruque droite de 200%25 de densité, couleur bordeaux, perruque de dentelle pré-épilée de 28 pouces avec sangle invisible, perruque à lacet frontal de 13x4 avec cordon de serrage, perruque blonde de 34 pouces 613 .webp",
     "images": [
-      "/perruque/67/Perruque droite de 200%25 de densité, couleur bordeaux, perruque de dentelle pré-épilée de 28 pouces avec sangle invisible, perruque à lacet frontal de 13x4 avec cordon de serrage, perruque blonde de 34 pouces 613 .webp",
-      "/perruque/67/Perruque droite de 200%25 de densité, couleur bordeaux, perruque de dentelle pré-épilée de 28 pouces avec sangle invisible, perruque à lacet frontal de 13x4 avec cordon de serrage, perruque blonde de 34 pouces (1).webp",
-      "/perruque/67/Perruque droite de 200%25 de densité, couleur bordeaux, perruque de dentelle pré-épilée de 28 pouces avec sangle invisible, perruque à lacet frontal de 13x4 avec cordon de serrage, perruque blonde de 34 pouces (2).webp",
-      "/perruque/67/Perruque droite de 200%25 de densité, couleur bordeaux, perruque de dentelle pré-épilée de 28 pouces avec sangle invisible, perruque à lacet frontal de 13x4 avec cordon de serrage, perruque blonde de 34 pouces (3).webp",
-      "/perruque/67/Perruque droite de 200%25 de densité, couleur bordeaux, perruque de dentelle pré-épilée de 28 pouces avec sangle invisible, perruque à lacet frontal de 13x4 avec cordon de serrage, perruque blonde de 34 pouces (4).webp",
-      "/perruque/67/Perruque droite de 200%25 de densité, couleur bordeaux, perruque de dentelle pré-épilée de 28 pouces avec sangle invisible, perruque à lacet frontal de 13x4 avec cordon de serrage, perruque blonde de 34 pouces (5).webp",
-      "/perruque/67/Perruque droite de 200%25 de densité, couleur bordeaux, perruque de dentelle pré-épilée de 28 pouces avec sangle invisible, perruque à lacet frontal de 13x4 avec cordon de serrage, perruque blonde de 34 pouces (6).webp",
-      "/perruque/67/Perruque droite de 200%25 de densité, couleur bordeaux, perruque de dentelle pré-épilée de 28 pouces avec sangle invisible, perruque à lacet frontal de 13x4 avec cordon de serrage, perruque blonde de 34 pouces (7).webp",
-      "/perruque/67/Perruque droite de 200%25 de densité, couleur bordeaux, perruque de dentelle pré-épilée de 28 pouces avec sangle invisible, perruque à lacet frontal de 13x4 avec cordon de serrage, perruque blonde de 34 pouces (8).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/67/Perruque droite de 200%25 de densité, couleur bordeaux, perruque de dentelle pré-épilée de 28 pouces avec sangle invisible, perruque à lacet frontal de 13x4 avec cordon de serrage, perruque blonde de 34 pouces 613 .webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/67/Perruque droite de 200%25 de densité, couleur bordeaux, perruque de dentelle pré-épilée de 28 pouces avec sangle invisible, perruque à lacet frontal de 13x4 avec cordon de serrage, perruque blonde de 34 pouces (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/67/Perruque droite de 200%25 de densité, couleur bordeaux, perruque de dentelle pré-épilée de 28 pouces avec sangle invisible, perruque à lacet frontal de 13x4 avec cordon de serrage, perruque blonde de 34 pouces (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/67/Perruque droite de 200%25 de densité, couleur bordeaux, perruque de dentelle pré-épilée de 28 pouces avec sangle invisible, perruque à lacet frontal de 13x4 avec cordon de serrage, perruque blonde de 34 pouces (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/67/Perruque droite de 200%25 de densité, couleur bordeaux, perruque de dentelle pré-épilée de 28 pouces avec sangle invisible, perruque à lacet frontal de 13x4 avec cordon de serrage, perruque blonde de 34 pouces (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/67/Perruque droite de 200%25 de densité, couleur bordeaux, perruque de dentelle pré-épilée de 28 pouces avec sangle invisible, perruque à lacet frontal de 13x4 avec cordon de serrage, perruque blonde de 34 pouces (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/67/Perruque droite de 200%25 de densité, couleur bordeaux, perruque de dentelle pré-épilée de 28 pouces avec sangle invisible, perruque à lacet frontal de 13x4 avec cordon de serrage, perruque blonde de 34 pouces (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/67/Perruque droite de 200%25 de densité, couleur bordeaux, perruque de dentelle pré-épilée de 28 pouces avec sangle invisible, perruque à lacet frontal de 13x4 avec cordon de serrage, perruque blonde de 34 pouces (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/67/Perruque droite de 200%25 de densité, couleur bordeaux, perruque de dentelle pré-épilée de 28 pouces avec sangle invisible, perruque à lacet frontal de 13x4 avec cordon de serrage, perruque blonde de 34 pouces (8).webp"
     ]
   },
   {
@@ -2786,16 +2786,16 @@ export const perruque = [
       "16 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/68/Perruque 16 pouces frontale en dentelle 13x4, ligne de cheveux 4C, perruque en cheveux humains bouclés crépus mongols, densité de 180%25, pré-épilée, avec des bébés cheveux, perruque frontale en dentelle transparent.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/68/Perruque 16 pouces frontale en dentelle 13x4, ligne de cheveux 4C, perruque en cheveux humains bouclés crépus mongols, densité de 180%25, pré-épilée, avec des bébés cheveux, perruque frontale en dentelle transparent.webp",
     "images": [
-      "/perruque/68/Perruque 16 pouces frontale en dentelle 13x4, ligne de cheveux 4C, perruque en cheveux humains bouclés crépus mongols, densité de 180%25, pré-épilée, avec des bébés cheveux, perruque frontale en dentelle transparent.webp",
-      "/perruque/68/Perruque 16 pouces frontale en dentelle 13x4, ligne de cheveux 4C, perruque en cheveux humains bouclés crépus mongols, densité de 180%25, pré-épilée, avec des bébés cheveux, perruque frontale en dentelle transpa (1).webp",
-      "/perruque/68/Perruque 16 pouces frontale en dentelle 13x4, ligne de cheveux 4C, perruque en cheveux humains bouclés crépus mongols, densité de 180%25, pré-épilée, avec des bébés cheveux, perruque frontale en dentelle transpa (2).webp",
-      "/perruque/68/Perruque 16 pouces frontale en dentelle 13x4, ligne de cheveux 4C, perruque en cheveux humains bouclés crépus mongols, densité de 180%25, pré-épilée, avec des bébés cheveux, perruque frontale en dentelle transpa (3).webp",
-      "/perruque/68/Perruque 16 pouces frontale en dentelle 13x4, ligne de cheveux 4C, perruque en cheveux humains bouclés crépus mongols, densité de 180%25, pré-épilée, avec des bébés cheveux, perruque frontale en dentelle transpa (4).webp",
-      "/perruque/68/Perruque 16 pouces frontale en dentelle 13x4, ligne de cheveux 4C, perruque en cheveux humains bouclés crépus mongols, densité de 180%25, pré-épilée, avec des bébés cheveux, perruque frontale en dentelle transpa (5).webp",
-      "/perruque/68/Perruque 16 pouces frontale en dentelle 13x4, ligne de cheveux 4C, perruque en cheveux humains bouclés crépus mongols, densité de 180%25, pré-épilée, avec des bébés cheveux, perruque frontale en dentelle transpa (6).webp",
-      "/perruque/68/Perruque 16 pouces frontale en dentelle 13x4, ligne de cheveux 4C, perruque en cheveux humains bouclés crépus mongols, densité de 180%25, pré-épilée, avec des bébés cheveux, perruque frontale en dentelle transpa (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/68/Perruque 16 pouces frontale en dentelle 13x4, ligne de cheveux 4C, perruque en cheveux humains bouclés crépus mongols, densité de 180%25, pré-épilée, avec des bébés cheveux, perruque frontale en dentelle transparent.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/68/Perruque 16 pouces frontale en dentelle 13x4, ligne de cheveux 4C, perruque en cheveux humains bouclés crépus mongols, densité de 180%25, pré-épilée, avec des bébés cheveux, perruque frontale en dentelle transpa (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/68/Perruque 16 pouces frontale en dentelle 13x4, ligne de cheveux 4C, perruque en cheveux humains bouclés crépus mongols, densité de 180%25, pré-épilée, avec des bébés cheveux, perruque frontale en dentelle transpa (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/68/Perruque 16 pouces frontale en dentelle 13x4, ligne de cheveux 4C, perruque en cheveux humains bouclés crépus mongols, densité de 180%25, pré-épilée, avec des bébés cheveux, perruque frontale en dentelle transpa (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/68/Perruque 16 pouces frontale en dentelle 13x4, ligne de cheveux 4C, perruque en cheveux humains bouclés crépus mongols, densité de 180%25, pré-épilée, avec des bébés cheveux, perruque frontale en dentelle transpa (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/68/Perruque 16 pouces frontale en dentelle 13x4, ligne de cheveux 4C, perruque en cheveux humains bouclés crépus mongols, densité de 180%25, pré-épilée, avec des bébés cheveux, perruque frontale en dentelle transpa (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/68/Perruque 16 pouces frontale en dentelle 13x4, ligne de cheveux 4C, perruque en cheveux humains bouclés crépus mongols, densité de 180%25, pré-épilée, avec des bébés cheveux, perruque frontale en dentelle transpa (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/68/Perruque 16 pouces frontale en dentelle 13x4, ligne de cheveux 4C, perruque en cheveux humains bouclés crépus mongols, densité de 180%25, pré-épilée, avec des bébés cheveux, perruque frontale en dentelle transpa (7).webp"
     ]
   },
   {
@@ -2823,13 +2823,13 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 5,
-    "image": "/perruque/69/Perruque courte à vagues de doigt pour femmes, perruque courte en cheveux humains à vagues océaniques, perruque frontale en dentelle 13X4 en cheveux humains.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/69/Perruque courte à vagues de doigt pour femmes, perruque courte en cheveux humains à vagues océaniques, perruque frontale en dentelle 13X4 en cheveux humains.webp",
     "images": [
-      "/perruque/69/Perruque courte à vagues de doigt pour femmes, perruque courte en cheveux humains à vagues océaniques, perruque frontale en dentelle 13X4 en cheveux humains.webp",
-      "/perruque/69/Perruque courte à vagues de doigt pour femmes, perruque courte en cheveux humains à vagues océaniques, perruque frontale en dentelle 13X4 en cheveux humains (1).webp",
-      "/perruque/69/Perruque courte à vagues de doigt pour femmes, perruque courte en cheveux humains à vagues océaniques, perruque frontale en dentelle 13X4 en cheveux humains (2).webp",
-      "/perruque/69/Perruque courte à vagues de doigt pour femmes, perruque courte en cheveux humains à vagues océaniques, perruque frontale en dentelle 13X4 en cheveux humains (3).webp",
-      "/perruque/69/Perruque courte à vagues de doigt pour femmes, perruque courte en cheveux humains à vagues océaniques, perruque frontale en dentelle 13X4 en cheveux humains (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/69/Perruque courte à vagues de doigt pour femmes, perruque courte en cheveux humains à vagues océaniques, perruque frontale en dentelle 13X4 en cheveux humains.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/69/Perruque courte à vagues de doigt pour femmes, perruque courte en cheveux humains à vagues océaniques, perruque frontale en dentelle 13X4 en cheveux humains (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/69/Perruque courte à vagues de doigt pour femmes, perruque courte en cheveux humains à vagues océaniques, perruque frontale en dentelle 13X4 en cheveux humains (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/69/Perruque courte à vagues de doigt pour femmes, perruque courte en cheveux humains à vagues océaniques, perruque frontale en dentelle 13X4 en cheveux humains (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/69/Perruque courte à vagues de doigt pour femmes, perruque courte en cheveux humains à vagues océaniques, perruque frontale en dentelle 13X4 en cheveux humains (4).webp"
     ]
   },
   {
@@ -2857,14 +2857,14 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/70/Lolely Dream Perruque blonde bouclée court style pixie coupe au carré 100%25 cheveux humains, perruques colorées pour femmes, perruque frisée bordeaux à front en dentelle, perruque courte blonde bouclée au carré, pe.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/70/Lolely Dream Perruque blonde bouclée court style pixie coupe au carré 100%25 cheveux humains, perruques colorées pour femmes, perruque frisée bordeaux à front en dentelle, perruque courte blonde bouclée au carré, pe.webp",
     "images": [
-      "/perruque/70/Lolely Dream Perruque blonde bouclée court style pixie coupe au carré 100%25 cheveux humains, perruques colorées pour femmes, perruque frisée bordeaux à front en dentelle, perruque courte blonde bouclée au carré, pe.webp",
-      "/perruque/70/Lolely Dream Perruque blonde bouclée court style pixie coupe au carré 100%25 cheveux humains, perruques colorées pour femmes, perruque frisée bordeaux à front en dentelle, perruque courte blonde bouclée au carré (1).webp",
-      "/perruque/70/Lolely Dream Perruque blonde bouclée court style pixie coupe au carré 100%25 cheveux humains, perruques colorées pour femmes, perruque frisée bordeaux à front en dentelle, perruque courte blonde bouclée au carré (2).webp",
-      "/perruque/70/Lolely Dream Perruque blonde bouclée court style pixie coupe au carré 100%25 cheveux humains, perruques colorées pour femmes, perruque frisée bordeaux à front en dentelle, perruque courte blonde bouclée au carré (3).webp",
-      "/perruque/70/Lolely Dream Perruque blonde bouclée court style pixie coupe au carré 100%25 cheveux humains, perruques colorées pour femmes, perruque frisée bordeaux à front en dentelle, perruque courte blonde bouclée au carré (4).webp",
-      "/perruque/70/Lolely Dream Perruque blonde bouclée court style pixie coupe au carré 100%25 cheveux humains, perruques colorées pour femmes, perruque frisée bordeaux à front en dentelle, perruque courte blonde bouclée au carré (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/70/Lolely Dream Perruque blonde bouclée court style pixie coupe au carré 100%25 cheveux humains, perruques colorées pour femmes, perruque frisée bordeaux à front en dentelle, perruque courte blonde bouclée au carré, pe.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/70/Lolely Dream Perruque blonde bouclée court style pixie coupe au carré 100%25 cheveux humains, perruques colorées pour femmes, perruque frisée bordeaux à front en dentelle, perruque courte blonde bouclée au carré (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/70/Lolely Dream Perruque blonde bouclée court style pixie coupe au carré 100%25 cheveux humains, perruques colorées pour femmes, perruque frisée bordeaux à front en dentelle, perruque courte blonde bouclée au carré (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/70/Lolely Dream Perruque blonde bouclée court style pixie coupe au carré 100%25 cheveux humains, perruques colorées pour femmes, perruque frisée bordeaux à front en dentelle, perruque courte blonde bouclée au carré (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/70/Lolely Dream Perruque blonde bouclée court style pixie coupe au carré 100%25 cheveux humains, perruques colorées pour femmes, perruque frisée bordeaux à front en dentelle, perruque courte blonde bouclée au carré (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/70/Lolely Dream Perruque blonde bouclée court style pixie coupe au carré 100%25 cheveux humains, perruques colorées pour femmes, perruque frisée bordeaux à front en dentelle, perruque courte blonde bouclée au carré (5).webp"
     ]
   },
   {
@@ -2892,17 +2892,17 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/71/HINEHAIR Perruque courte bob châtain clair mélangé, sans dentelle, 9x6 cm, densité capillaire 180%25.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/71/HINEHAIR Perruque courte bob châtain clair mélangé, sans dentelle, 9x6 cm, densité capillaire 180%25.webp",
     "images": [
-      "/perruque/71/HINEHAIR Perruque courte bob châtain clair mélangé, sans dentelle, 9x6 cm, densité capillaire 180%25.webp",
-      "/perruque/71/HINEHAIR Perruque courte bob châtain clair mélangé, sans dentelle, 9x6 cm, densité capillaire 180%25 (1).webp",
-      "/perruque/71/HINEHAIR Perruque courte bob châtain clair mélangé, sans dentelle, 9x6 cm, densité capillaire 180%25 (2).webp",
-      "/perruque/71/HINEHAIR Perruque courte bob châtain clair mélangé, sans dentelle, 9x6 cm, densité capillaire 180%25 (3).webp",
-      "/perruque/71/HINEHAIR Perruque courte bob châtain clair mélangé, sans dentelle, 9x6 cm, densité capillaire 180%25 (4).webp",
-      "/perruque/71/HINEHAIR Perruque courte bob châtain clair mélangé, sans dentelle, 9x6 cm, densité capillaire 180%25 (5).webp",
-      "/perruque/71/HINEHAIR Perruque courte bob châtain clair mélangé, sans dentelle, 9x6 cm, densité capillaire 180%25 (6).webp",
-      "/perruque/71/HINEHAIR Perruque courte bob châtain clair mélangé, sans dentelle, 9x6 cm, densité capillaire 180%25 (7).webp",
-      "/perruque/71/HINEHAIR Perruque courte bob châtain clair mélangé, sans dentelle, 9x6 cm, densité capillaire 180%25 (8).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/71/HINEHAIR Perruque courte bob châtain clair mélangé, sans dentelle, 9x6 cm, densité capillaire 180%25.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/71/HINEHAIR Perruque courte bob châtain clair mélangé, sans dentelle, 9x6 cm, densité capillaire 180%25 (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/71/HINEHAIR Perruque courte bob châtain clair mélangé, sans dentelle, 9x6 cm, densité capillaire 180%25 (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/71/HINEHAIR Perruque courte bob châtain clair mélangé, sans dentelle, 9x6 cm, densité capillaire 180%25 (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/71/HINEHAIR Perruque courte bob châtain clair mélangé, sans dentelle, 9x6 cm, densité capillaire 180%25 (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/71/HINEHAIR Perruque courte bob châtain clair mélangé, sans dentelle, 9x6 cm, densité capillaire 180%25 (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/71/HINEHAIR Perruque courte bob châtain clair mélangé, sans dentelle, 9x6 cm, densité capillaire 180%25 (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/71/HINEHAIR Perruque courte bob châtain clair mélangé, sans dentelle, 9x6 cm, densité capillaire 180%25 (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/71/HINEHAIR Perruque courte bob châtain clair mélangé, sans dentelle, 9x6 cm, densité capillaire 180%25 (8).webp"
     ]
   },
   {
@@ -2927,13 +2927,13 @@ export const perruque = [
       "12 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/72/MEGALOOK Perruque carré dégradé bordeaux 100%25 cheveux humains, avec frontale en dentelle transparente 13x4. Perruque carré droite couleur bordeaux, densité 150%25, 12 pouce. Aspect naturel, prête pour une utilisatio.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/72/MEGALOOK Perruque carré dégradé bordeaux 100%25 cheveux humains, avec frontale en dentelle transparente 13x4. Perruque carré droite couleur bordeaux, densité 150%25, 12 pouce. Aspect naturel, prête pour une utilisatio.webp",
     "images": [
-      "/perruque/72/MEGALOOK Perruque carré dégradé bordeaux 100%25 cheveux humains, avec frontale en dentelle transparente 13x4. Perruque carré droite couleur bordeaux, densité 150%25, 12 pouce. Aspect naturel, prête pour une utilisatio.webp",
-      "/perruque/72/MEGALOOK Perruque carré dégradé bordeaux 100%25 cheveux humains, avec frontale en dentelle transparente 13x4. Perruque carré droite couleur bordeaux, densité 150%25, 12 pouce. Aspect naturel, prête pour une utilis (1).webp",
-      "/perruque/72/MEGALOOK Perruque carré dégradé bordeaux 100%25 cheveux humains, avec frontale en dentelle transparente 13x4. Perruque carré droite couleur bordeaux, densité 150%25, 12 pouce. Aspect naturel, prête pour une utilis (2).webp",
-      "/perruque/72/MEGALOOK Perruque carré dégradé bordeaux 100%25 cheveux humains, avec frontale en dentelle transparente 13x4. Perruque carré droite couleur bordeaux, densité 150%25, 12 pouce. Aspect naturel, prête pour une utilis (3).webp",
-      "/perruque/72/MEGALOOK Perruque carré dégradé bordeaux 100%25 cheveux humains, avec frontale en dentelle transparente 13x4. Perruque carré droite couleur bordeaux, densité 150%25, 12 pouce. Aspect naturel, prête pour une utilis (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/72/MEGALOOK Perruque carré dégradé bordeaux 100%25 cheveux humains, avec frontale en dentelle transparente 13x4. Perruque carré droite couleur bordeaux, densité 150%25, 12 pouce. Aspect naturel, prête pour une utilisatio.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/72/MEGALOOK Perruque carré dégradé bordeaux 100%25 cheveux humains, avec frontale en dentelle transparente 13x4. Perruque carré droite couleur bordeaux, densité 150%25, 12 pouce. Aspect naturel, prête pour une utilis (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/72/MEGALOOK Perruque carré dégradé bordeaux 100%25 cheveux humains, avec frontale en dentelle transparente 13x4. Perruque carré droite couleur bordeaux, densité 150%25, 12 pouce. Aspect naturel, prête pour une utilis (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/72/MEGALOOK Perruque carré dégradé bordeaux 100%25 cheveux humains, avec frontale en dentelle transparente 13x4. Perruque carré droite couleur bordeaux, densité 150%25, 12 pouce. Aspect naturel, prête pour une utilis (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/72/MEGALOOK Perruque carré dégradé bordeaux 100%25 cheveux humains, avec frontale en dentelle transparente 13x4. Perruque carré droite couleur bordeaux, densité 150%25, 12 pouce. Aspect naturel, prête pour une utilis (4).webp"
     ]
   },
   {
@@ -2958,16 +2958,16 @@ export const perruque = [
       "26 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/73/Perruque Lace Front Synthétique Bleue Foncée Droite Longue De 26 Pouces Avec Espace De Dentelle 13x4, Partie Libre Pré-épilée Avec Des Cheveux De Bébé Tout Autour De La Ligne De Cheveux Naturelle, Sans Colle Et Ré.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/73/Perruque Lace Front Synthétique Bleue Foncée Droite Longue De 26 Pouces Avec Espace De Dentelle 13x4, Partie Libre Pré-épilée Avec Des Cheveux De Bébé Tout Autour De La Ligne De Cheveux Naturelle, Sans Colle Et Ré.webp",
     "images": [
-      "/perruque/73/Perruque Lace Front Synthétique Bleue Foncée Droite Longue De 26 Pouces Avec Espace De Dentelle 13x4, Partie Libre Pré-épilée Avec Des Cheveux De Bébé Tout Autour De La Ligne De Cheveux Naturelle, Sans Colle Et Ré.webp",
-      "/perruque/73/Perruque Lace Front Synthétique Bleue Foncée Droite Longue De 26 Pouces Avec Espace De Dentelle 13x4, Partie Libre Pré-épilée Avec Des Cheveux De Bébé Tout Autour De La Ligne De Cheveux Naturelle, Sans Colle E (1).webp",
-      "/perruque/73/Perruque Lace Front Synthétique Bleue Foncée Droite Longue De 26 Pouces Avec Espace De Dentelle 13x4, Partie Libre Pré-épilée Avec Des Cheveux De Bébé Tout Autour De La Ligne De Cheveux Naturelle, Sans Colle E (2).webp",
-      "/perruque/73/Perruque Lace Front Synthétique Bleue Foncée Droite Longue De 26 Pouces Avec Espace De Dentelle 13x4, Partie Libre Pré-épilée Avec Des Cheveux De Bébé Tout Autour De La Ligne De Cheveux Naturelle, Sans Colle E (3).webp",
-      "/perruque/73/Perruque Lace Front Synthétique Bleue Foncée Droite Longue De 26 Pouces Avec Espace De Dentelle 13x4, Partie Libre Pré-épilée Avec Des Cheveux De Bébé Tout Autour De La Ligne De Cheveux Naturelle, Sans Colle E (4).webp",
-      "/perruque/73/Perruque Lace Front Synthétique Bleue Foncée Droite Longue De 26 Pouces Avec Espace De Dentelle 13x4, Partie Libre Pré-épilée Avec Des Cheveux De Bébé Tout Autour De La Ligne De Cheveux Naturelle, Sans Colle E (5).webp",
-      "/perruque/73/Perruque Lace Front Synthétique Bleue Foncée Droite Longue De 26 Pouces Avec Espace De Dentelle 13x4, Partie Libre Pré-épilée Avec Des Cheveux De Bébé Tout Autour De La Ligne De Cheveux Naturelle, Sans Colle E (6).webp",
-      "/perruque/73/Perruque Lace Front Synthétique Bleue Foncée Droite Longue De 26 Pouces Avec Espace De Dentelle 13x4, Partie Libre Pré-épilée Avec Des Cheveux De Bébé Tout Autour De La Ligne De Cheveux Naturelle, Sans Colle E (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/73/Perruque Lace Front Synthétique Bleue Foncée Droite Longue De 26 Pouces Avec Espace De Dentelle 13x4, Partie Libre Pré-épilée Avec Des Cheveux De Bébé Tout Autour De La Ligne De Cheveux Naturelle, Sans Colle Et Ré.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/73/Perruque Lace Front Synthétique Bleue Foncée Droite Longue De 26 Pouces Avec Espace De Dentelle 13x4, Partie Libre Pré-épilée Avec Des Cheveux De Bébé Tout Autour De La Ligne De Cheveux Naturelle, Sans Colle E (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/73/Perruque Lace Front Synthétique Bleue Foncée Droite Longue De 26 Pouces Avec Espace De Dentelle 13x4, Partie Libre Pré-épilée Avec Des Cheveux De Bébé Tout Autour De La Ligne De Cheveux Naturelle, Sans Colle E (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/73/Perruque Lace Front Synthétique Bleue Foncée Droite Longue De 26 Pouces Avec Espace De Dentelle 13x4, Partie Libre Pré-épilée Avec Des Cheveux De Bébé Tout Autour De La Ligne De Cheveux Naturelle, Sans Colle E (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/73/Perruque Lace Front Synthétique Bleue Foncée Droite Longue De 26 Pouces Avec Espace De Dentelle 13x4, Partie Libre Pré-épilée Avec Des Cheveux De Bébé Tout Autour De La Ligne De Cheveux Naturelle, Sans Colle E (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/73/Perruque Lace Front Synthétique Bleue Foncée Droite Longue De 26 Pouces Avec Espace De Dentelle 13x4, Partie Libre Pré-épilée Avec Des Cheveux De Bébé Tout Autour De La Ligne De Cheveux Naturelle, Sans Colle E (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/73/Perruque Lace Front Synthétique Bleue Foncée Droite Longue De 26 Pouces Avec Espace De Dentelle 13x4, Partie Libre Pré-épilée Avec Des Cheveux De Bébé Tout Autour De La Ligne De Cheveux Naturelle, Sans Colle E (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/73/Perruque Lace Front Synthétique Bleue Foncée Droite Longue De 26 Pouces Avec Espace De Dentelle 13x4, Partie Libre Pré-épilée Avec Des Cheveux De Bébé Tout Autour De La Ligne De Cheveux Naturelle, Sans Colle E (7).webp"
     ]
   },
   {
@@ -2992,14 +2992,14 @@ export const perruque = [
       "28 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/74/Extensions de cheveux à clipser, 28 pouces de long, ondulés et bouclés. Fibre synthétique résistante à la chaleur multicouche. Perruque ondulée et bouclée en fibre résistante à la chaleur. Unisexe, facile à porter.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/74/Extensions de cheveux à clipser, 28 pouces de long, ondulés et bouclés. Fibre synthétique résistante à la chaleur multicouche. Perruque ondulée et bouclée en fibre résistante à la chaleur. Unisexe, facile à porter.webp",
     "images": [
-      "/perruque/74/Extensions de cheveux à clipser, 28 pouces de long, ondulés et bouclés. Fibre synthétique résistante à la chaleur multicouche. Perruque ondulée et bouclée en fibre résistante à la chaleur. Unisexe, facile à porter.webp",
-      "/perruque/74/Extensions de cheveux à clipser, 28 pouces de long, ondulés et bouclés. Fibre synthétique résistante à la chaleur multicouche. Perruque ondulée et bouclée en fibre résistante à la chaleur. Unisexe, facile à po (1).webp",
-      "/perruque/74/Extensions de cheveux à clipser, 28 pouces de long, ondulés et bouclés. Fibre synthétique résistante à la chaleur multicouche. Perruque ondulée et bouclée en fibre résistante à la chaleur. Unisexe, facile à po (2).webp",
-      "/perruque/74/Extensions de cheveux à clipser, 28 pouces de long, ondulés et bouclés. Fibre synthétique résistante à la chaleur multicouche. Perruque ondulée et bouclée en fibre résistante à la chaleur. Unisexe, facile à po (3).webp",
-      "/perruque/74/Extensions de cheveux à clipser, 28 pouces de long, ondulés et bouclés. Fibre synthétique résistante à la chaleur multicouche. Perruque ondulée et bouclée en fibre résistante à la chaleur. Unisexe, facile à po (4).webp",
-      "/perruque/74/Extensions de cheveux à clipser, 28 pouces de long, ondulés et bouclés. Fibre synthétique résistante à la chaleur multicouche. Perruque ondulée et bouclée en fibre résistante à la chaleur. Unisexe, facile à po (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/74/Extensions de cheveux à clipser, 28 pouces de long, ondulés et bouclés. Fibre synthétique résistante à la chaleur multicouche. Perruque ondulée et bouclée en fibre résistante à la chaleur. Unisexe, facile à porter.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/74/Extensions de cheveux à clipser, 28 pouces de long, ondulés et bouclés. Fibre synthétique résistante à la chaleur multicouche. Perruque ondulée et bouclée en fibre résistante à la chaleur. Unisexe, facile à po (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/74/Extensions de cheveux à clipser, 28 pouces de long, ondulés et bouclés. Fibre synthétique résistante à la chaleur multicouche. Perruque ondulée et bouclée en fibre résistante à la chaleur. Unisexe, facile à po (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/74/Extensions de cheveux à clipser, 28 pouces de long, ondulés et bouclés. Fibre synthétique résistante à la chaleur multicouche. Perruque ondulée et bouclée en fibre résistante à la chaleur. Unisexe, facile à po (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/74/Extensions de cheveux à clipser, 28 pouces de long, ondulés et bouclés. Fibre synthétique résistante à la chaleur multicouche. Perruque ondulée et bouclée en fibre résistante à la chaleur. Unisexe, facile à po (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/74/Extensions de cheveux à clipser, 28 pouces de long, ondulés et bouclés. Fibre synthétique résistante à la chaleur multicouche. Perruque ondulée et bouclée en fibre résistante à la chaleur. Unisexe, facile à po (5).webp"
     ]
   },
   {
@@ -3027,13 +3027,13 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/75/Court Bouclé Vague Coupe Lutin T Partie Dentelle Perruque 12X0,5 Réel Perruque De Cheveux Humains 1B Naturel Noir Couleur Abordable Cheveux Remplacement Perruque Bon Marché Usage Quotidien Perruque Pour Débutant A.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/75/Court Bouclé Vague Coupe Lutin T Partie Dentelle Perruque 12X0,5 Réel Perruque De Cheveux Humains 1B Naturel Noir Couleur Abordable Cheveux Remplacement Perruque Bon Marché Usage Quotidien Perruque Pour Débutant A.webp",
     "images": [
-      "/perruque/75/Court Bouclé Vague Coupe Lutin T Partie Dentelle Perruque 12X0,5 Réel Perruque De Cheveux Humains 1B Naturel Noir Couleur Abordable Cheveux Remplacement Perruque Bon Marché Usage Quotidien Perruque Pour Débutant A.webp",
-      "/perruque/75/Court Bouclé Vague Coupe Lutin T Partie Dentelle Perruque 12X0,5 Réel Perruque De Cheveux Humains 1B Naturel Noir Couleur Abordable Cheveux Remplacement Perruque Bon Marché Usage Quotidien Perruque Pour Débuta (1).webp",
-      "/perruque/75/Court Bouclé Vague Coupe Lutin T Partie Dentelle Perruque 12X0,5 Réel Perruque De Cheveux Humains 1B Naturel Noir Couleur Abordable Cheveux Remplacement Perruque Bon Marché Usage Quotidien Perruque Pour Débuta (2).webp",
-      "/perruque/75/Court Bouclé Vague Coupe Lutin T Partie Dentelle Perruque 12X0,5 Réel Perruque De Cheveux Humains 1B Naturel Noir Couleur Abordable Cheveux Remplacement Perruque Bon Marché Usage Quotidien Perruque Pour Débuta (3).webp",
-      "/perruque/75/Court Bouclé Vague Coupe Lutin T Partie Dentelle Perruque 12X0,5 Réel Perruque De Cheveux Humains 1B Naturel Noir Couleur Abordable Cheveux Remplacement Perruque Bon Marché Usage Quotidien Perruque Pour Débuta (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/75/Court Bouclé Vague Coupe Lutin T Partie Dentelle Perruque 12X0,5 Réel Perruque De Cheveux Humains 1B Naturel Noir Couleur Abordable Cheveux Remplacement Perruque Bon Marché Usage Quotidien Perruque Pour Débutant A.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/75/Court Bouclé Vague Coupe Lutin T Partie Dentelle Perruque 12X0,5 Réel Perruque De Cheveux Humains 1B Naturel Noir Couleur Abordable Cheveux Remplacement Perruque Bon Marché Usage Quotidien Perruque Pour Débuta (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/75/Court Bouclé Vague Coupe Lutin T Partie Dentelle Perruque 12X0,5 Réel Perruque De Cheveux Humains 1B Naturel Noir Couleur Abordable Cheveux Remplacement Perruque Bon Marché Usage Quotidien Perruque Pour Débuta (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/75/Court Bouclé Vague Coupe Lutin T Partie Dentelle Perruque 12X0,5 Réel Perruque De Cheveux Humains 1B Naturel Noir Couleur Abordable Cheveux Remplacement Perruque Bon Marché Usage Quotidien Perruque Pour Débuta (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/75/Court Bouclé Vague Coupe Lutin T Partie Dentelle Perruque 12X0,5 Réel Perruque De Cheveux Humains 1B Naturel Noir Couleur Abordable Cheveux Remplacement Perruque Bon Marché Usage Quotidien Perruque Pour Débuta (4).webp"
     ]
   },
   {
@@ -3070,16 +3070,16 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/76/HJ WEAVE BEAUTY Perruque brésilienne ondulée en cheveux naturels, couleur chocolat, 13x4, coupe courte bouclée, coupe au carré, couleur noire naturelle, avec cheveux de bébé, densité 180 %25.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/76/HJ WEAVE BEAUTY Perruque brésilienne ondulée en cheveux naturels, couleur chocolat, 13x4, coupe courte bouclée, coupe au carré, couleur noire naturelle, avec cheveux de bébé, densité 180 %25.webp",
     "images": [
-      "/perruque/76/HJ WEAVE BEAUTY Perruque brésilienne ondulée en cheveux naturels, couleur chocolat, 13x4, coupe courte bouclée, coupe au carré, couleur noire naturelle, avec cheveux de bébé, densité 180 %25.webp",
-      "/perruque/76/HJ WEAVE BEAUTY Perruque brésilienne ondulée en cheveux naturels, couleur chocolat, 13x4, coupe courte bouclée, coupe au carré, couleur noire naturelle, avec cheveux de bébé, densité 180 %25 (1).webp",
-      "/perruque/76/HJ WEAVE BEAUTY Perruque brésilienne ondulée en cheveux naturels, couleur chocolat, 13x4, coupe courte bouclée, coupe au carré, couleur noire naturelle, avec cheveux de bébé, densité 180 %25 (2).webp",
-      "/perruque/76/HJ WEAVE BEAUTY Perruque brésilienne ondulée en cheveux naturels, couleur chocolat, 13x4, coupe courte bouclée, coupe au carré, couleur noire naturelle, avec cheveux de bébé, densité 180 %25 (3).webp",
-      "/perruque/76/HJ WEAVE BEAUTY Perruque brésilienne ondulée en cheveux naturels, couleur chocolat, 13x4, coupe courte bouclée, coupe au carré, couleur noire naturelle, avec cheveux de bébé, densité 180 %25 (4).webp",
-      "/perruque/76/HJ WEAVE BEAUTY Perruque brésilienne ondulée en cheveux naturels, couleur chocolat, 13x4, coupe courte bouclée, coupe au carré, couleur noire naturelle, avec cheveux de bébé, densité 180 %25 (5).webp",
-      "/perruque/76/HJ WEAVE BEAUTY Perruque brésilienne ondulée en cheveux naturels, couleur chocolat, 13x4, coupe courte bouclée, coupe au carré, couleur noire naturelle, avec cheveux de bébé, densité 180 %25 (6).webp",
-      "/perruque/76/HJ WEAVE BEAUTY Perruque brésilienne ondulée en cheveux naturels, couleur chocolat, 13x4, coupe courte bouclée, coupe au carré, couleur noire naturelle, avec cheveux de bébé, densité 180 %25 (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/76/HJ WEAVE BEAUTY Perruque brésilienne ondulée en cheveux naturels, couleur chocolat, 13x4, coupe courte bouclée, coupe au carré, couleur noire naturelle, avec cheveux de bébé, densité 180 %25.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/76/HJ WEAVE BEAUTY Perruque brésilienne ondulée en cheveux naturels, couleur chocolat, 13x4, coupe courte bouclée, coupe au carré, couleur noire naturelle, avec cheveux de bébé, densité 180 %25 (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/76/HJ WEAVE BEAUTY Perruque brésilienne ondulée en cheveux naturels, couleur chocolat, 13x4, coupe courte bouclée, coupe au carré, couleur noire naturelle, avec cheveux de bébé, densité 180 %25 (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/76/HJ WEAVE BEAUTY Perruque brésilienne ondulée en cheveux naturels, couleur chocolat, 13x4, coupe courte bouclée, coupe au carré, couleur noire naturelle, avec cheveux de bébé, densité 180 %25 (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/76/HJ WEAVE BEAUTY Perruque brésilienne ondulée en cheveux naturels, couleur chocolat, 13x4, coupe courte bouclée, coupe au carré, couleur noire naturelle, avec cheveux de bébé, densité 180 %25 (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/76/HJ WEAVE BEAUTY Perruque brésilienne ondulée en cheveux naturels, couleur chocolat, 13x4, coupe courte bouclée, coupe au carré, couleur noire naturelle, avec cheveux de bébé, densité 180 %25 (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/76/HJ WEAVE BEAUTY Perruque brésilienne ondulée en cheveux naturels, couleur chocolat, 13x4, coupe courte bouclée, coupe au carré, couleur noire naturelle, avec cheveux de bébé, densité 180 %25 (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/76/HJ WEAVE BEAUTY Perruque brésilienne ondulée en cheveux naturels, couleur chocolat, 13x4, coupe courte bouclée, coupe au carré, couleur noire naturelle, avec cheveux de bébé, densité 180 %25 (7).webp"
     ]
   },
   {
@@ -3110,14 +3110,14 @@ export const perruque = [
       "40 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/77/CEXXY Perruques bouclées avec dentelle frontale HD 13x6, densité 200, 30 à 40 pouces, cheveux naturels brésiliens pré-épilés, ondulés et profonds, Remy Hair, pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/77/CEXXY Perruques bouclées avec dentelle frontale HD 13x6, densité 200, 30 à 40 pouces, cheveux naturels brésiliens pré-épilés, ondulés et profonds, Remy Hair, pour femmes.webp",
     "images": [
-      "/perruque/77/CEXXY Perruques bouclées avec dentelle frontale HD 13x6, densité 200, 30 à 40 pouces, cheveux naturels brésiliens pré-épilés, ondulés et profonds, Remy Hair, pour femmes.webp",
-      "/perruque/77/CEXXY Perruques bouclées avec dentelle frontale HD 13x6, densité 200, 30 à 40 pouces, cheveux naturels brésiliens pré-épilés, ondulés et profonds, Remy Hair, pour femmes (1).webp",
-      "/perruque/77/CEXXY Perruques bouclées avec dentelle frontale HD 13x6, densité 200, 30 à 40 pouces, cheveux naturels brésiliens pré-épilés, ondulés et profonds, Remy Hair, pour femmes (2).webp",
-      "/perruque/77/CEXXY Perruques bouclées avec dentelle frontale HD 13x6, densité 200, 30 à 40 pouces, cheveux naturels brésiliens pré-épilés, ondulés et profonds, Remy Hair, pour femmes (3).webp",
-      "/perruque/77/CEXXY Perruques bouclées avec dentelle frontale HD 13x6, densité 200, 30 à 40 pouces, cheveux naturels brésiliens pré-épilés, ondulés et profonds, Remy Hair, pour femmes (4).webp",
-      "/perruque/77/CEXXY Perruques bouclées avec dentelle frontale HD 13x6, densité 200, 30 à 40 pouces, cheveux naturels brésiliens pré-épilés, ondulés et profonds, Remy Hair, pour femmes (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/77/CEXXY Perruques bouclées avec dentelle frontale HD 13x6, densité 200, 30 à 40 pouces, cheveux naturels brésiliens pré-épilés, ondulés et profonds, Remy Hair, pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/77/CEXXY Perruques bouclées avec dentelle frontale HD 13x6, densité 200, 30 à 40 pouces, cheveux naturels brésiliens pré-épilés, ondulés et profonds, Remy Hair, pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/77/CEXXY Perruques bouclées avec dentelle frontale HD 13x6, densité 200, 30 à 40 pouces, cheveux naturels brésiliens pré-épilés, ondulés et profonds, Remy Hair, pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/77/CEXXY Perruques bouclées avec dentelle frontale HD 13x6, densité 200, 30 à 40 pouces, cheveux naturels brésiliens pré-épilés, ondulés et profonds, Remy Hair, pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/77/CEXXY Perruques bouclées avec dentelle frontale HD 13x6, densité 200, 30 à 40 pouces, cheveux naturels brésiliens pré-épilés, ondulés et profonds, Remy Hair, pour femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/77/CEXXY Perruques bouclées avec dentelle frontale HD 13x6, densité 200, 30 à 40 pouces, cheveux naturels brésiliens pré-épilés, ondulés et profonds, Remy Hair, pour femmes (5).webp"
     ]
   },
   {
@@ -3153,11 +3153,11 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/78/bling hair Perruque lace front en cheveux humains brun chocolat, ondulations profondes, pré-épilée, densité 200 %25, dentelle HD transparente 13x6, perruque lace front en cheveux humains bouclés avec ligne de cheveu.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/78/bling hair Perruque lace front en cheveux humains brun chocolat, ondulations profondes, pré-épilée, densité 200 %25, dentelle HD transparente 13x6, perruque lace front en cheveux humains bouclés avec ligne de cheveu.webp",
     "images": [
-      "/perruque/78/bling hair Perruque lace front en cheveux humains brun chocolat, ondulations profondes, pré-épilée, densité 200 %25, dentelle HD transparente 13x6, perruque lace front en cheveux humains bouclés avec ligne de cheveu.webp",
-      "/perruque/78/bling hair Perruque lace front en cheveux humains brun chocolat, ondulations profondes, pré-épilée, densité 200 %25, dentelle HD transparente 13x6, perruque lace front en cheveux humains bouclés avec ligne de ch (1).webp",
-      "/perruque/78/bling hair Perruque lace front en cheveux humains brun chocolat, ondulations profondes, pré-épilée, densité 200 %25, dentelle HD transparente 13x6, perruque lace front en cheveux humains bouclés avec ligne de ch (2).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/78/bling hair Perruque lace front en cheveux humains brun chocolat, ondulations profondes, pré-épilée, densité 200 %25, dentelle HD transparente 13x6, perruque lace front en cheveux humains bouclés avec ligne de cheveu.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/78/bling hair Perruque lace front en cheveux humains brun chocolat, ondulations profondes, pré-épilée, densité 200 %25, dentelle HD transparente 13x6, perruque lace front en cheveux humains bouclés avec ligne de ch (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/78/bling hair Perruque lace front en cheveux humains brun chocolat, ondulations profondes, pré-épilée, densité 200 %25, dentelle HD transparente 13x6, perruque lace front en cheveux humains bouclés avec ligne de ch (2).webp"
     ]
   },
   {
@@ -3182,9 +3182,9 @@ export const perruque = [
       "8 pouces"
     ],
     "minOrder": 5,
-    "image": "/perruque/79/8 pouces 27 Perruque de cheveux humains Remy 13x4 Perruque courte droite à front de dentelle Coupe Pixie Bob Perruque Bob droite de cheveux humains pour femmes pour les costumes d'Halloween.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/79/8 pouces 27 Perruque de cheveux humains Remy 13x4 Perruque courte droite à front de dentelle Coupe Pixie Bob Perruque Bob droite de cheveux humains pour femmes pour les costumes d'Halloween.webp",
     "images": [
-      "/perruque/79/8 pouces 27 Perruque de cheveux humains Remy 13x4 Perruque courte droite à front de dentelle Coupe Pixie Bob Perruque Bob droite de cheveux humains pour femmes pour les costumes d'Halloween.webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/79/8 pouces 27 Perruque de cheveux humains Remy 13x4 Perruque courte droite à front de dentelle Coupe Pixie Bob Perruque Bob droite de cheveux humains pour femmes pour les costumes d'Halloween.webp"
     ]
   },
   {
@@ -3212,15 +3212,15 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 5,
-    "image": "/perruque/80/Perruques de cheveux humains courts style Pixie coupées droites, Remy 13x4x1 Perruques droites transparentes de cheveux humains de type carré pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/80/Perruques de cheveux humains courts style Pixie coupées droites, Remy 13x4x1 Perruques droites transparentes de cheveux humains de type carré pour femmes.webp",
     "images": [
-      "/perruque/80/Perruques de cheveux humains courts style Pixie coupées droites, Remy 13x4x1 Perruques droites transparentes de cheveux humains de type carré pour femmes.webp",
-      "/perruque/80/Perruques de cheveux humains courts style Pixie coupées droites, Remy 13x4x1 Perruques droites transparentes de cheveux humains de type carré pour femmes (1).webp",
-      "/perruque/80/Perruques de cheveux humains courts style Pixie coupées droites, Remy 13x4x1 Perruques droites transparentes de cheveux humains de type carré pour femmes (2).webp",
-      "/perruque/80/Perruques de cheveux humains courts style Pixie coupées droites, Remy 13x4x1 Perruques droites transparentes de cheveux humains de type carré pour femmes (3).webp",
-      "/perruque/80/Perruques de cheveux humains courts style Pixie coupées droites, Remy 13x4x1 Perruques droites transparentes de cheveux humains de type carré pour femmes (4).webp",
-      "/perruque/80/Perruques de cheveux humains courts style Pixie coupées droites, Remy 13x4x1 Perruques droites transparentes de cheveux humains de type carré pour femmes (5).webp",
-      "/perruque/80/Perruques de cheveux humains courts style Pixie coupées droites, Remy 13x4x1 Perruques droites transparentes de cheveux humains de type carré pour femmes (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/80/Perruques de cheveux humains courts style Pixie coupées droites, Remy 13x4x1 Perruques droites transparentes de cheveux humains de type carré pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/80/Perruques de cheveux humains courts style Pixie coupées droites, Remy 13x4x1 Perruques droites transparentes de cheveux humains de type carré pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/80/Perruques de cheveux humains courts style Pixie coupées droites, Remy 13x4x1 Perruques droites transparentes de cheveux humains de type carré pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/80/Perruques de cheveux humains courts style Pixie coupées droites, Remy 13x4x1 Perruques droites transparentes de cheveux humains de type carré pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/80/Perruques de cheveux humains courts style Pixie coupées droites, Remy 13x4x1 Perruques droites transparentes de cheveux humains de type carré pour femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/80/Perruques de cheveux humains courts style Pixie coupées droites, Remy 13x4x1 Perruques droites transparentes de cheveux humains de type carré pour femmes (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/80/Perruques de cheveux humains courts style Pixie coupées droites, Remy 13x4x1 Perruques droites transparentes de cheveux humains de type carré pour femmes (6).webp"
     ]
   },
   {
@@ -3256,15 +3256,15 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/81/bling hair Perruque en cheveux humains brun chocolat, ondulations profondes, bordure frontale en dentelle HD 13x6, style __ mouillé et ondulé », avec ligne frontale prédécoupée et densité 180 %25.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/81/bling hair Perruque en cheveux humains brun chocolat, ondulations profondes, bordure frontale en dentelle HD 13x6, style __ mouillé et ondulé », avec ligne frontale prédécoupée et densité 180 %25.webp",
     "images": [
-      "/perruque/81/bling hair Perruque en cheveux humains brun chocolat, ondulations profondes, bordure frontale en dentelle HD 13x6, style __ mouillé et ondulé », avec ligne frontale prédécoupée et densité 180 %25.webp",
-      "/perruque/81/bling hair Perruque en cheveux humains brun chocolat, ondulations profondes, bordure frontale en dentelle HD 13x6, style __ mouillé et ondulé », avec ligne frontale prédécoupée et densité 180 %25 (1).webp",
-      "/perruque/81/bling hair Perruque en cheveux humains brun chocolat, ondulations profondes, bordure frontale en dentelle HD 13x6, style __ mouillé et ondulé », avec ligne frontale prédécoupée et densité 180 %25 (2).webp",
-      "/perruque/81/bling hair Perruque en cheveux humains brun chocolat, ondulations profondes, bordure frontale en dentelle HD 13x6, style __ mouillé et ondulé », avec ligne frontale prédécoupée et densité 180 %25 (3).webp",
-      "/perruque/81/bling hair Perruque en cheveux humains brun chocolat, ondulations profondes, bordure frontale en dentelle HD 13x6, style __ mouillé et ondulé », avec ligne frontale prédécoupée et densité 180 %25 (4).webp",
-      "/perruque/81/bling hair Perruque en cheveux humains brun chocolat, ondulations profondes, bordure frontale en dentelle HD 13x6, style __ mouillé et ondulé », avec ligne frontale prédécoupée et densité 180 %25 (5).webp",
-      "/perruque/81/bling hair Perruque en cheveux humains brun chocolat, ondulations profondes, bordure frontale en dentelle HD 13x6, style __ mouillé et ondulé », avec ligne frontale prédécoupée et densité 180 %25 (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/81/bling hair Perruque en cheveux humains brun chocolat, ondulations profondes, bordure frontale en dentelle HD 13x6, style __ mouillé et ondulé », avec ligne frontale prédécoupée et densité 180 %25.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/81/bling hair Perruque en cheveux humains brun chocolat, ondulations profondes, bordure frontale en dentelle HD 13x6, style __ mouillé et ondulé », avec ligne frontale prédécoupée et densité 180 %25 (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/81/bling hair Perruque en cheveux humains brun chocolat, ondulations profondes, bordure frontale en dentelle HD 13x6, style __ mouillé et ondulé », avec ligne frontale prédécoupée et densité 180 %25 (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/81/bling hair Perruque en cheveux humains brun chocolat, ondulations profondes, bordure frontale en dentelle HD 13x6, style __ mouillé et ondulé », avec ligne frontale prédécoupée et densité 180 %25 (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/81/bling hair Perruque en cheveux humains brun chocolat, ondulations profondes, bordure frontale en dentelle HD 13x6, style __ mouillé et ondulé », avec ligne frontale prédécoupée et densité 180 %25 (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/81/bling hair Perruque en cheveux humains brun chocolat, ondulations profondes, bordure frontale en dentelle HD 13x6, style __ mouillé et ondulé », avec ligne frontale prédécoupée et densité 180 %25 (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/81/bling hair Perruque en cheveux humains brun chocolat, ondulations profondes, bordure frontale en dentelle HD 13x6, style __ mouillé et ondulé », avec ligne frontale prédécoupée et densité 180 %25 (6).webp"
     ]
   },
   {
@@ -3300,17 +3300,17 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/82/Perruque Unice Hair à front de dentelle invisible 13x4 avec vague lâche, frange encadrante et base Trueskin™ avec calotte chauve intégrée, préréglée, prédécoupée, prépincée, sans nœud.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/82/Perruque Unice Hair à front de dentelle invisible 13x4 avec vague lâche, frange encadrante et base Trueskin™ avec calotte chauve intégrée, préréglée, prédécoupée, prépincée, sans nœud.webp",
     "images": [
-      "/perruque/82/Perruque Unice Hair à front de dentelle invisible 13x4 avec vague lâche, frange encadrante et base Trueskin™ avec calotte chauve intégrée, préréglée, prédécoupée, prépincée, sans nœud.webp",
-      "/perruque/82/Perruque Unice Hair à front de dentelle invisible 13x4 avec vague lâche, frange encadrante et base Trueskin™ avec calotte chauve intégrée, préréglée, prédécoupée, prépincée, sans nœud (1).webp",
-      "/perruque/82/Perruque Unice Hair à front de dentelle invisible 13x4 avec vague lâche, frange encadrante et base Trueskin™ avec calotte chauve intégrée, préréglée, prédécoupée, prépincée, sans nœud (2).webp",
-      "/perruque/82/Perruque Unice Hair à front de dentelle invisible 13x4 avec vague lâche, frange encadrante et base Trueskin™ avec calotte chauve intégrée, préréglée, prédécoupée, prépincée, sans nœud (3).webp",
-      "/perruque/82/Perruque Unice Hair à front de dentelle invisible 13x4 avec vague lâche, frange encadrante et base Trueskin™ avec calotte chauve intégrée, préréglée, prédécoupée, prépincée, sans nœud (4).webp",
-      "/perruque/82/Perruque Unice Hair à front de dentelle invisible 13x4 avec vague lâche, frange encadrante et base Trueskin™ avec calotte chauve intégrée, préréglée, prédécoupée, prépincée, sans nœud (5).webp",
-      "/perruque/82/Perruque Unice Hair à front de dentelle invisible 13x4 avec vague lâche, frange encadrante et base Trueskin™ avec calotte chauve intégrée, préréglée, prédécoupée, prépincée, sans nœud (6).webp",
-      "/perruque/82/Perruque Unice Hair à front de dentelle invisible 13x4 avec vague lâche, frange encadrante et base Trueskin™ avec calotte chauve intégrée, préréglée, prédécoupée, prépincée, sans nœud (7).webp",
-      "/perruque/82/Perruque Unice Hair à front de dentelle invisible 13x4 avec vague lâche, frange encadrante et base Trueskin™ avec calotte chauve intégrée, préréglée, prédécoupée, prépincée, sans nœud (8).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/82/Perruque Unice Hair à front de dentelle invisible 13x4 avec vague lâche, frange encadrante et base Trueskin™ avec calotte chauve intégrée, préréglée, prédécoupée, prépincée, sans nœud.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/82/Perruque Unice Hair à front de dentelle invisible 13x4 avec vague lâche, frange encadrante et base Trueskin™ avec calotte chauve intégrée, préréglée, prédécoupée, prépincée, sans nœud (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/82/Perruque Unice Hair à front de dentelle invisible 13x4 avec vague lâche, frange encadrante et base Trueskin™ avec calotte chauve intégrée, préréglée, prédécoupée, prépincée, sans nœud (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/82/Perruque Unice Hair à front de dentelle invisible 13x4 avec vague lâche, frange encadrante et base Trueskin™ avec calotte chauve intégrée, préréglée, prédécoupée, prépincée, sans nœud (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/82/Perruque Unice Hair à front de dentelle invisible 13x4 avec vague lâche, frange encadrante et base Trueskin™ avec calotte chauve intégrée, préréglée, prédécoupée, prépincée, sans nœud (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/82/Perruque Unice Hair à front de dentelle invisible 13x4 avec vague lâche, frange encadrante et base Trueskin™ avec calotte chauve intégrée, préréglée, prédécoupée, prépincée, sans nœud (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/82/Perruque Unice Hair à front de dentelle invisible 13x4 avec vague lâche, frange encadrante et base Trueskin™ avec calotte chauve intégrée, préréglée, prédécoupée, prépincée, sans nœud (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/82/Perruque Unice Hair à front de dentelle invisible 13x4 avec vague lâche, frange encadrante et base Trueskin™ avec calotte chauve intégrée, préréglée, prédécoupée, prépincée, sans nœud (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/82/Perruque Unice Hair à front de dentelle invisible 13x4 avec vague lâche, frange encadrante et base Trueskin™ avec calotte chauve intégrée, préréglée, prédécoupée, prépincée, sans nœud (8).webp"
     ]
   },
   {
@@ -3338,14 +3338,14 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/83/Perruque courte à front de dentelle, perruque de cheveux humains coupe pixie, perruque courte sans colle pour femmes, convient pour le port quotidien, les fêtes, couleur noire avec frange sur le côté.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/83/Perruque courte à front de dentelle, perruque de cheveux humains coupe pixie, perruque courte sans colle pour femmes, convient pour le port quotidien, les fêtes, couleur noire avec frange sur le côté.webp",
     "images": [
-      "/perruque/83/Perruque courte à front de dentelle, perruque de cheveux humains coupe pixie, perruque courte sans colle pour femmes, convient pour le port quotidien, les fêtes, couleur noire avec frange sur le côté.webp",
-      "/perruque/83/Perruque courte à front de dentelle, perruque de cheveux humains coupe pixie, perruque courte sans colle pour femmes, convient pour le port quotidien, les fêtes, couleur noire avec frange sur le côté (1).webp",
-      "/perruque/83/Perruque courte à front de dentelle, perruque de cheveux humains coupe pixie, perruque courte sans colle pour femmes, convient pour le port quotidien, les fêtes, couleur noire avec frange sur le côté (2).webp",
-      "/perruque/83/Perruque courte à front de dentelle, perruque de cheveux humains coupe pixie, perruque courte sans colle pour femmes, convient pour le port quotidien, les fêtes, couleur noire avec frange sur le côté (3).webp",
-      "/perruque/83/Perruque courte à front de dentelle, perruque de cheveux humains coupe pixie, perruque courte sans colle pour femmes, convient pour le port quotidien, les fêtes, couleur noire avec frange sur le côté (4).webp",
-      "/perruque/83/Perruque courte à front de dentelle, perruque de cheveux humains coupe pixie, perruque courte sans colle pour femmes, convient pour le port quotidien, les fêtes, couleur noire avec frange sur le côté (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/83/Perruque courte à front de dentelle, perruque de cheveux humains coupe pixie, perruque courte sans colle pour femmes, convient pour le port quotidien, les fêtes, couleur noire avec frange sur le côté.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/83/Perruque courte à front de dentelle, perruque de cheveux humains coupe pixie, perruque courte sans colle pour femmes, convient pour le port quotidien, les fêtes, couleur noire avec frange sur le côté (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/83/Perruque courte à front de dentelle, perruque de cheveux humains coupe pixie, perruque courte sans colle pour femmes, convient pour le port quotidien, les fêtes, couleur noire avec frange sur le côté (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/83/Perruque courte à front de dentelle, perruque de cheveux humains coupe pixie, perruque courte sans colle pour femmes, convient pour le port quotidien, les fêtes, couleur noire avec frange sur le côté (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/83/Perruque courte à front de dentelle, perruque de cheveux humains coupe pixie, perruque courte sans colle pour femmes, convient pour le port quotidien, les fêtes, couleur noire avec frange sur le côté (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/83/Perruque courte à front de dentelle, perruque de cheveux humains coupe pixie, perruque courte sans colle pour femmes, convient pour le port quotidien, les fêtes, couleur noire avec frange sur le côté (5).webp"
     ]
   },
   {
@@ -3382,13 +3382,13 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 1,
-    "image": "/perruque/84/Perruque coupe pixie en cheveux humains, perruque courte au carré, perruque transparente à dentelle frontale 13x4 pré-épilée, cheveux humains brésiliens pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/84/Perruque coupe pixie en cheveux humains, perruque courte au carré, perruque transparente à dentelle frontale 13x4 pré-épilée, cheveux humains brésiliens pour femmes.webp",
     "images": [
-      "/perruque/84/Perruque coupe pixie en cheveux humains, perruque courte au carré, perruque transparente à dentelle frontale 13x4 pré-épilée, cheveux humains brésiliens pour femmes.webp",
-      "/perruque/84/Perruque coupe pixie en cheveux humains, perruque courte au carré, perruque transparente à dentelle frontale 13x4 pré-épilée, cheveux humains brésiliens pour femmes (1).webp",
-      "/perruque/84/Perruque coupe pixie en cheveux humains, perruque courte au carré, perruque transparente à dentelle frontale 13x4 pré-épilée, cheveux humains brésiliens pour femmes (2).webp",
-      "/perruque/84/Perruque coupe pixie en cheveux humains, perruque courte au carré, perruque transparente à dentelle frontale 13x4 pré-épilée, cheveux humains brésiliens pour femmes (3).webp",
-      "/perruque/84/Perruque coupe pixie en cheveux humains, perruque courte au carré, perruque transparente à dentelle frontale 13x4 pré-épilée, cheveux humains brésiliens pour femmes (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/84/Perruque coupe pixie en cheveux humains, perruque courte au carré, perruque transparente à dentelle frontale 13x4 pré-épilée, cheveux humains brésiliens pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/84/Perruque coupe pixie en cheveux humains, perruque courte au carré, perruque transparente à dentelle frontale 13x4 pré-épilée, cheveux humains brésiliens pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/84/Perruque coupe pixie en cheveux humains, perruque courte au carré, perruque transparente à dentelle frontale 13x4 pré-épilée, cheveux humains brésiliens pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/84/Perruque coupe pixie en cheveux humains, perruque courte au carré, perruque transparente à dentelle frontale 13x4 pré-épilée, cheveux humains brésiliens pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/84/Perruque coupe pixie en cheveux humains, perruque courte au carré, perruque transparente à dentelle frontale 13x4 pré-épilée, cheveux humains brésiliens pour femmes (4).webp"
     ]
   },
   {
@@ -3416,14 +3416,14 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/85/Perruques en dentelle de coupe pixie en cheveux humains, perruques pixie à vagues de doigts brunes courtes avec bordure latérale en dentelle, perruques ondulées courtes sans colle, prêt à porter.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/85/Perruques en dentelle de coupe pixie en cheveux humains, perruques pixie à vagues de doigts brunes courtes avec bordure latérale en dentelle, perruques ondulées courtes sans colle, prêt à porter.webp",
     "images": [
-      "/perruque/85/Perruques en dentelle de coupe pixie en cheveux humains, perruques pixie à vagues de doigts brunes courtes avec bordure latérale en dentelle, perruques ondulées courtes sans colle, prêt à porter.webp",
-      "/perruque/85/Perruques en dentelle de coupe pixie en cheveux humains, perruques pixie à vagues de doigts brunes courtes avec bordure latérale en dentelle, perruques ondulées courtes sans colle, prêt à porter (1).webp",
-      "/perruque/85/Perruques en dentelle de coupe pixie en cheveux humains, perruques pixie à vagues de doigts brunes courtes avec bordure latérale en dentelle, perruques ondulées courtes sans colle, prêt à porter (2).webp",
-      "/perruque/85/Perruques en dentelle de coupe pixie en cheveux humains, perruques pixie à vagues de doigts brunes courtes avec bordure latérale en dentelle, perruques ondulées courtes sans colle, prêt à porter (3).webp",
-      "/perruque/85/Perruques en dentelle de coupe pixie en cheveux humains, perruques pixie à vagues de doigts brunes courtes avec bordure latérale en dentelle, perruques ondulées courtes sans colle, prêt à porter (4).webp",
-      "/perruque/85/Perruques en dentelle de coupe pixie en cheveux humains, perruques pixie à vagues de doigts brunes courtes avec bordure latérale en dentelle, perruques ondulées courtes sans colle, prêt à porter (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/85/Perruques en dentelle de coupe pixie en cheveux humains, perruques pixie à vagues de doigts brunes courtes avec bordure latérale en dentelle, perruques ondulées courtes sans colle, prêt à porter.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/85/Perruques en dentelle de coupe pixie en cheveux humains, perruques pixie à vagues de doigts brunes courtes avec bordure latérale en dentelle, perruques ondulées courtes sans colle, prêt à porter (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/85/Perruques en dentelle de coupe pixie en cheveux humains, perruques pixie à vagues de doigts brunes courtes avec bordure latérale en dentelle, perruques ondulées courtes sans colle, prêt à porter (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/85/Perruques en dentelle de coupe pixie en cheveux humains, perruques pixie à vagues de doigts brunes courtes avec bordure latérale en dentelle, perruques ondulées courtes sans colle, prêt à porter (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/85/Perruques en dentelle de coupe pixie en cheveux humains, perruques pixie à vagues de doigts brunes courtes avec bordure latérale en dentelle, perruques ondulées courtes sans colle, prêt à porter (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/85/Perruques en dentelle de coupe pixie en cheveux humains, perruques pixie à vagues de doigts brunes courtes avec bordure latérale en dentelle, perruques ondulées courtes sans colle, prêt à porter (5).webp"
     ]
   },
   {
@@ -3459,15 +3459,15 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/86/Perruques de cheveux humains ondulés corporels 99j bourgogne 13_6 perruque avant en dentelle transparente avec des cheveux de bébé pré-plumés pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/86/Perruques de cheveux humains ondulés corporels 99j bourgogne 13_6 perruque avant en dentelle transparente avec des cheveux de bébé pré-plumés pour femmes.webp",
     "images": [
-      "/perruque/86/Perruques de cheveux humains ondulés corporels 99j bourgogne 13_6 perruque avant en dentelle transparente avec des cheveux de bébé pré-plumés pour femmes.webp",
-      "/perruque/86/Perruques de cheveux humains ondulés corporels 99j bourgogne 13_6 perruque avant en dentelle transparente avec des cheveux de bébé pré-plumés pour femmes (1).webp",
-      "/perruque/86/Perruques de cheveux humains ondulés corporels 99j bourgogne 13_6 perruque avant en dentelle transparente avec des cheveux de bébé pré-plumés pour femmes (2).webp",
-      "/perruque/86/Perruques de cheveux humains ondulés corporels 99j bourgogne 13_6 perruque avant en dentelle transparente avec des cheveux de bébé pré-plumés pour femmes (3).webp",
-      "/perruque/86/Perruques de cheveux humains ondulés corporels 99j bourgogne 13_6 perruque avant en dentelle transparente avec des cheveux de bébé pré-plumés pour femmes (4).webp",
-      "/perruque/86/Perruques de cheveux humains ondulés corporels 99j bourgogne 13_6 perruque avant en dentelle transparente avec des cheveux de bébé pré-plumés pour femmes (5).webp",
-      "/perruque/86/Perruques de cheveux humains ondulés corporels 99j bourgogne 13_6 perruque avant en dentelle transparente avec des cheveux de bébé pré-plumés pour femmes (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/86/Perruques de cheveux humains ondulés corporels 99j bourgogne 13_6 perruque avant en dentelle transparente avec des cheveux de bébé pré-plumés pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/86/Perruques de cheveux humains ondulés corporels 99j bourgogne 13_6 perruque avant en dentelle transparente avec des cheveux de bébé pré-plumés pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/86/Perruques de cheveux humains ondulés corporels 99j bourgogne 13_6 perruque avant en dentelle transparente avec des cheveux de bébé pré-plumés pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/86/Perruques de cheveux humains ondulés corporels 99j bourgogne 13_6 perruque avant en dentelle transparente avec des cheveux de bébé pré-plumés pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/86/Perruques de cheveux humains ondulés corporels 99j bourgogne 13_6 perruque avant en dentelle transparente avec des cheveux de bébé pré-plumés pour femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/86/Perruques de cheveux humains ondulés corporels 99j bourgogne 13_6 perruque avant en dentelle transparente avec des cheveux de bébé pré-plumés pour femmes (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/86/Perruques de cheveux humains ondulés corporels 99j bourgogne 13_6 perruque avant en dentelle transparente avec des cheveux de bébé pré-plumés pour femmes (6).webp"
     ]
   },
   {
@@ -3492,12 +3492,12 @@ export const perruque = [
       "6 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/87/Perruque frontale en dentelle de 13 po x 1 po, style pixie court et ondulé, perruque de cheveux humains noirs courts de 6 pouce.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/87/Perruque frontale en dentelle de 13 po x 1 po, style pixie court et ondulé, perruque de cheveux humains noirs courts de 6 pouce.webp",
     "images": [
-      "/perruque/87/Perruque frontale en dentelle de 13 po x 1 po, style pixie court et ondulé, perruque de cheveux humains noirs courts de 6 pouce.webp",
-      "/perruque/87/Perruque frontale en dentelle de 13 po x 1 po, style pixie court et ondulé, perruque de cheveux humains noirs courts de 6 pouce (1).webp",
-      "/perruque/87/Perruque frontale en dentelle de 13 po x 1 po, style pixie court et ondulé, perruque de cheveux humains noirs courts de 6 pouce (2).webp",
-      "/perruque/87/Perruque frontale en dentelle de 13 po x 1 po, style pixie court et ondulé, perruque de cheveux humains noirs courts de 6 pouce (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/87/Perruque frontale en dentelle de 13 po x 1 po, style pixie court et ondulé, perruque de cheveux humains noirs courts de 6 pouce.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/87/Perruque frontale en dentelle de 13 po x 1 po, style pixie court et ondulé, perruque de cheveux humains noirs courts de 6 pouce (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/87/Perruque frontale en dentelle de 13 po x 1 po, style pixie court et ondulé, perruque de cheveux humains noirs courts de 6 pouce (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/87/Perruque frontale en dentelle de 13 po x 1 po, style pixie court et ondulé, perruque de cheveux humains noirs courts de 6 pouce (3).webp"
     ]
   },
   {
@@ -3525,14 +3525,14 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 5,
-    "image": "/perruque/88/Perruque court style Pixie Coupe de cheveux bouclés perruque en cheveux humains bon marché pour femmes 13x4x1 Perruque à base de dentelle vague profonde avec partie T transparente, ligne de cheveux pré-épilée.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/88/Perruque court style Pixie Coupe de cheveux bouclés perruque en cheveux humains bon marché pour femmes 13x4x1 Perruque à base de dentelle vague profonde avec partie T transparente, ligne de cheveux pré-épilée.webp",
     "images": [
-      "/perruque/88/Perruque court style Pixie Coupe de cheveux bouclés perruque en cheveux humains bon marché pour femmes 13x4x1 Perruque à base de dentelle vague profonde avec partie T transparente, ligne de cheveux pré-épilée.webp",
-      "/perruque/88/Perruque court style Pixie Coupe de cheveux bouclés perruque en cheveux humains bon marché pour femmes 13x4x1 Perruque à base de dentelle vague profonde avec partie T transparente, ligne de cheveux pré-épilée (1).webp",
-      "/perruque/88/Perruque court style Pixie Coupe de cheveux bouclés perruque en cheveux humains bon marché pour femmes 13x4x1 Perruque à base de dentelle vague profonde avec partie T transparente, ligne de cheveux pré-épilée (2).webp",
-      "/perruque/88/Perruque court style Pixie Coupe de cheveux bouclés perruque en cheveux humains bon marché pour femmes 13x4x1 Perruque à base de dentelle vague profonde avec partie T transparente, ligne de cheveux pré-épilée (3).webp",
-      "/perruque/88/Perruque court style Pixie Coupe de cheveux bouclés perruque en cheveux humains bon marché pour femmes 13x4x1 Perruque à base de dentelle vague profonde avec partie T transparente, ligne de cheveux pré-épilée (4).webp",
-      "/perruque/88/Perruque court style Pixie Coupe de cheveux bouclés perruque en cheveux humains bon marché pour femmes 13x4x1 Perruque à base de dentelle vague profonde avec partie T transparente, ligne de cheveux pré-épilée (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/88/Perruque court style Pixie Coupe de cheveux bouclés perruque en cheveux humains bon marché pour femmes 13x4x1 Perruque à base de dentelle vague profonde avec partie T transparente, ligne de cheveux pré-épilée.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/88/Perruque court style Pixie Coupe de cheveux bouclés perruque en cheveux humains bon marché pour femmes 13x4x1 Perruque à base de dentelle vague profonde avec partie T transparente, ligne de cheveux pré-épilée (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/88/Perruque court style Pixie Coupe de cheveux bouclés perruque en cheveux humains bon marché pour femmes 13x4x1 Perruque à base de dentelle vague profonde avec partie T transparente, ligne de cheveux pré-épilée (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/88/Perruque court style Pixie Coupe de cheveux bouclés perruque en cheveux humains bon marché pour femmes 13x4x1 Perruque à base de dentelle vague profonde avec partie T transparente, ligne de cheveux pré-épilée (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/88/Perruque court style Pixie Coupe de cheveux bouclés perruque en cheveux humains bon marché pour femmes 13x4x1 Perruque à base de dentelle vague profonde avec partie T transparente, ligne de cheveux pré-épilée (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/88/Perruque court style Pixie Coupe de cheveux bouclés perruque en cheveux humains bon marché pour femmes 13x4x1 Perruque à base de dentelle vague profonde avec partie T transparente, ligne de cheveux pré-épilée (5).webp"
     ]
   },
   {
@@ -3557,13 +3557,13 @@ export const perruque = [
       "24 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/89/SALLYWELL Perruque synthétique verte de fruits, droite de 24 pouces, 13x4 HD Lace Front, sans colle, pré-épilée, ligne de cheveux naturelle.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/89/SALLYWELL Perruque synthétique verte de fruits, droite de 24 pouces, 13x4 HD Lace Front, sans colle, pré-épilée, ligne de cheveux naturelle.webp",
     "images": [
-      "/perruque/89/SALLYWELL Perruque synthétique verte de fruits, droite de 24 pouces, 13x4 HD Lace Front, sans colle, pré-épilée, ligne de cheveux naturelle.webp",
-      "/perruque/89/SALLYWELL Perruque synthétique verte de fruits, droite de 24 pouces, 13x4 HD Lace Front, sans colle, pré-épilée, ligne de cheveux naturelle (1).webp",
-      "/perruque/89/SALLYWELL Perruque synthétique verte de fruits, droite de 24 pouces, 13x4 HD Lace Front, sans colle, pré-épilée, ligne de cheveux naturelle (2).webp",
-      "/perruque/89/SALLYWELL Perruque synthétique verte de fruits, droite de 24 pouces, 13x4 HD Lace Front, sans colle, pré-épilée, ligne de cheveux naturelle (3).webp",
-      "/perruque/89/SALLYWELL Perruque synthétique verte de fruits, droite de 24 pouces, 13x4 HD Lace Front, sans colle, pré-épilée, ligne de cheveux naturelle (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/89/SALLYWELL Perruque synthétique verte de fruits, droite de 24 pouces, 13x4 HD Lace Front, sans colle, pré-épilée, ligne de cheveux naturelle.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/89/SALLYWELL Perruque synthétique verte de fruits, droite de 24 pouces, 13x4 HD Lace Front, sans colle, pré-épilée, ligne de cheveux naturelle (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/89/SALLYWELL Perruque synthétique verte de fruits, droite de 24 pouces, 13x4 HD Lace Front, sans colle, pré-épilée, ligne de cheveux naturelle (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/89/SALLYWELL Perruque synthétique verte de fruits, droite de 24 pouces, 13x4 HD Lace Front, sans colle, pré-épilée, ligne de cheveux naturelle (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/89/SALLYWELL Perruque synthétique verte de fruits, droite de 24 pouces, 13x4 HD Lace Front, sans colle, pré-épilée, ligne de cheveux naturelle (4).webp"
     ]
   },
   {
@@ -3599,17 +3599,17 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/90/ALL READY WIG Perruque en cheveux humains prête à porter sans colle, perruque prête à briller tout en 4 marron chocolat à la soie lisse, 100%25 cheveux humains avec frange aérienne, lace 4x4 pré-coupée, ligne de ch.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/90/ALL READY WIG Perruque en cheveux humains prête à porter sans colle, perruque prête à briller tout en 4 marron chocolat à la soie lisse, 100%25 cheveux humains avec frange aérienne, lace 4x4 pré-coupée, ligne de ch.webp",
     "images": [
-      "/perruque/90/ALL READY WIG Perruque en cheveux humains prête à porter sans colle, perruque prête à briller tout en 4 marron chocolat à la soie lisse, 100%25 cheveux humains avec frange aérienne, lace 4x4 pré-coupée, ligne de ch.webp",
-      "/perruque/90/ALL READY WIG Perruque en cheveux humains prête à porter sans colle, perruque prête à briller tout en 4 marron chocolat à la soie lisse, 100%25 cheveux humains avec frange aérienne, lace 4x4 pré-coupée, ligne d (1).webp",
-      "/perruque/90/ALL READY WIG Perruque en cheveux humains prête à porter sans colle, perruque prête à briller tout en 4 marron chocolat à la soie lisse, 100%25 cheveux humains avec frange aérienne, lace 4x4 pré-coupée, ligne d (2).webp",
-      "/perruque/90/ALL READY WIG Perruque en cheveux humains prête à porter sans colle, perruque prête à briller tout en 4 marron chocolat à la soie lisse, 100%25 cheveux humains avec frange aérienne, lace 4x4 pré-coupée, ligne d (3).webp",
-      "/perruque/90/ALL READY WIG Perruque en cheveux humains prête à porter sans colle, perruque prête à briller tout en 4 marron chocolat à la soie lisse, 100%25 cheveux humains avec frange aérienne, lace 4x4 pré-coupée, ligne d (4).webp",
-      "/perruque/90/ALL READY WIG Perruque en cheveux humains prête à porter sans colle, perruque prête à briller tout en 4 marron chocolat à la soie lisse, 100%25 cheveux humains avec frange aérienne, lace 4x4 pré-coupée, ligne d (5).webp",
-      "/perruque/90/ALL READY WIG Perruque en cheveux humains prête à porter sans colle, perruque prête à briller tout en 4 marron chocolat à la soie lisse, 100%25 cheveux humains avec frange aérienne, lace 4x4 pré-coupée, ligne d (6).webp",
-      "/perruque/90/ALL READY WIG Perruque en cheveux humains prête à porter sans colle, perruque prête à briller tout en 4 marron chocolat à la soie lisse, 100%25 cheveux humains avec frange aérienne, lace 4x4 pré-coupée, ligne d (7).webp",
-      "/perruque/90/ALL READY WIG Perruque en cheveux humains prête à porter sans colle, perruque prête à briller tout en 4 marron chocolat à la soie lisse, 100%25 cheveux humains avec frange aérienne, lace 4x4 pré-coupée, ligne d (8).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/90/ALL READY WIG Perruque en cheveux humains prête à porter sans colle, perruque prête à briller tout en 4 marron chocolat à la soie lisse, 100%25 cheveux humains avec frange aérienne, lace 4x4 pré-coupée, ligne de ch.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/90/ALL READY WIG Perruque en cheveux humains prête à porter sans colle, perruque prête à briller tout en 4 marron chocolat à la soie lisse, 100%25 cheveux humains avec frange aérienne, lace 4x4 pré-coupée, ligne d (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/90/ALL READY WIG Perruque en cheveux humains prête à porter sans colle, perruque prête à briller tout en 4 marron chocolat à la soie lisse, 100%25 cheveux humains avec frange aérienne, lace 4x4 pré-coupée, ligne d (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/90/ALL READY WIG Perruque en cheveux humains prête à porter sans colle, perruque prête à briller tout en 4 marron chocolat à la soie lisse, 100%25 cheveux humains avec frange aérienne, lace 4x4 pré-coupée, ligne d (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/90/ALL READY WIG Perruque en cheveux humains prête à porter sans colle, perruque prête à briller tout en 4 marron chocolat à la soie lisse, 100%25 cheveux humains avec frange aérienne, lace 4x4 pré-coupée, ligne d (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/90/ALL READY WIG Perruque en cheveux humains prête à porter sans colle, perruque prête à briller tout en 4 marron chocolat à la soie lisse, 100%25 cheveux humains avec frange aérienne, lace 4x4 pré-coupée, ligne d (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/90/ALL READY WIG Perruque en cheveux humains prête à porter sans colle, perruque prête à briller tout en 4 marron chocolat à la soie lisse, 100%25 cheveux humains avec frange aérienne, lace 4x4 pré-coupée, ligne d (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/90/ALL READY WIG Perruque en cheveux humains prête à porter sans colle, perruque prête à briller tout en 4 marron chocolat à la soie lisse, 100%25 cheveux humains avec frange aérienne, lace 4x4 pré-coupée, ligne d (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/90/ALL READY WIG Perruque en cheveux humains prête à porter sans colle, perruque prête à briller tout en 4 marron chocolat à la soie lisse, 100%25 cheveux humains avec frange aérienne, lace 4x4 pré-coupée, ligne d (8).webp"
     ]
   },
   {
@@ -3634,14 +3634,14 @@ export const perruque = [
       "18 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/91/Perruque frontale en dentelle Kanekalon Futura Bordeaux 13x4, cheveux synthétiques résistants à la chaleur, 18 pouces de long ondulés sans colle à demi attachés à la main, ligne de cheveux naturelle pré-épilée, de.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/91/Perruque frontale en dentelle Kanekalon Futura Bordeaux 13x4, cheveux synthétiques résistants à la chaleur, 18 pouces de long ondulés sans colle à demi attachés à la main, ligne de cheveux naturelle pré-épilée, de.webp",
     "images": [
-      "/perruque/91/Perruque frontale en dentelle Kanekalon Futura Bordeaux 13x4, cheveux synthétiques résistants à la chaleur, 18 pouces de long ondulés sans colle à demi attachés à la main, ligne de cheveux naturelle pré-épilée, de.webp",
-      "/perruque/91/Perruque frontale en dentelle Kanekalon Futura Bordeaux 13x4, cheveux synthétiques résistants à la chaleur, 18 pouces de long ondulés sans colle à demi attachés à la main, ligne de cheveux naturelle pré-épilée (1).webp",
-      "/perruque/91/Perruque frontale en dentelle Kanekalon Futura Bordeaux 13x4, cheveux synthétiques résistants à la chaleur, 18 pouces de long ondulés sans colle à demi attachés à la main, ligne de cheveux naturelle pré-épilée (2).webp",
-      "/perruque/91/Perruque frontale en dentelle Kanekalon Futura Bordeaux 13x4, cheveux synthétiques résistants à la chaleur, 18 pouces de long ondulés sans colle à demi attachés à la main, ligne de cheveux naturelle pré-épilée (3).webp",
-      "/perruque/91/Perruque frontale en dentelle Kanekalon Futura Bordeaux 13x4, cheveux synthétiques résistants à la chaleur, 18 pouces de long ondulés sans colle à demi attachés à la main, ligne de cheveux naturelle pré-épilée (4).webp",
-      "/perruque/91/Perruque frontale en dentelle Kanekalon Futura Bordeaux 13x4, cheveux synthétiques résistants à la chaleur, 18 pouces de long ondulés sans colle à demi attachés à la main, ligne de cheveux naturelle pré-épilée (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/91/Perruque frontale en dentelle Kanekalon Futura Bordeaux 13x4, cheveux synthétiques résistants à la chaleur, 18 pouces de long ondulés sans colle à demi attachés à la main, ligne de cheveux naturelle pré-épilée, de.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/91/Perruque frontale en dentelle Kanekalon Futura Bordeaux 13x4, cheveux synthétiques résistants à la chaleur, 18 pouces de long ondulés sans colle à demi attachés à la main, ligne de cheveux naturelle pré-épilée (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/91/Perruque frontale en dentelle Kanekalon Futura Bordeaux 13x4, cheveux synthétiques résistants à la chaleur, 18 pouces de long ondulés sans colle à demi attachés à la main, ligne de cheveux naturelle pré-épilée (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/91/Perruque frontale en dentelle Kanekalon Futura Bordeaux 13x4, cheveux synthétiques résistants à la chaleur, 18 pouces de long ondulés sans colle à demi attachés à la main, ligne de cheveux naturelle pré-épilée (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/91/Perruque frontale en dentelle Kanekalon Futura Bordeaux 13x4, cheveux synthétiques résistants à la chaleur, 18 pouces de long ondulés sans colle à demi attachés à la main, ligne de cheveux naturelle pré-épilée (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/91/Perruque frontale en dentelle Kanekalon Futura Bordeaux 13x4, cheveux synthétiques résistants à la chaleur, 18 pouces de long ondulés sans colle à demi attachés à la main, ligne de cheveux naturelle pré-épilée (5).webp"
     ]
   },
   {
@@ -3669,15 +3669,15 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/92/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange).webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/92/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange).webp",
     "images": [
-      "/perruque/92/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange).webp",
-      "/perruque/92/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange) (1).webp",
-      "/perruque/92/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange) (2).webp",
-      "/perruque/92/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange) (3).webp",
-      "/perruque/92/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange) (4).webp",
-      "/perruque/92/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange) (5).webp",
-      "/perruque/92/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange) (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/92/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/92/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange) (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/92/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange) (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/92/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange) (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/92/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange) (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/92/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange) (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/92/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange) (6).webp"
     ]
   },
   {
@@ -3705,14 +3705,14 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/93/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange).webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/93/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange).webp",
     "images": [
-      "/perruque/93/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange).webp",
-      "/perruque/93/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange) (1).webp",
-      "/perruque/93/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange) (2).webp",
-      "/perruque/93/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange) (3).webp",
-      "/perruque/93/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange) (4).webp",
-      "/perruque/93/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange) (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/93/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/93/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange) (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/93/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange) (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/93/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange) (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/93/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange) (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/93/Perruque courte Bob dégradé au carré, cheveux droits, avec raie sur le côté. Perruque de cosplay résistante à la chaleur, look naturel, perruque synthétique complète pour femmes (Gingembre Orange) (5).webp"
     ]
   },
   {
@@ -3737,14 +3737,14 @@ export const perruque = [
       "10 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/94/Perruque courte bouclée au carré en dentelle de cheveux naturels noirs, avec raie sur le côté, vague aquatique, perruque front en dentelle de 10 pouces sans colle, à mettre et à porter.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/94/Perruque courte bouclée au carré en dentelle de cheveux naturels noirs, avec raie sur le côté, vague aquatique, perruque front en dentelle de 10 pouces sans colle, à mettre et à porter.webp",
     "images": [
-      "/perruque/94/Perruque courte bouclée au carré en dentelle de cheveux naturels noirs, avec raie sur le côté, vague aquatique, perruque front en dentelle de 10 pouces sans colle, à mettre et à porter.webp",
-      "/perruque/94/Perruque courte bouclée au carré en dentelle de cheveux naturels noirs, avec raie sur le côté, vague aquatique, perruque front en dentelle de 10 pouces sans colle, à mettre et à porter (1).webp",
-      "/perruque/94/Perruque courte bouclée au carré en dentelle de cheveux naturels noirs, avec raie sur le côté, vague aquatique, perruque front en dentelle de 10 pouces sans colle, à mettre et à porter (2).webp",
-      "/perruque/94/Perruque courte bouclée au carré en dentelle de cheveux naturels noirs, avec raie sur le côté, vague aquatique, perruque front en dentelle de 10 pouces sans colle, à mettre et à porter (3).webp",
-      "/perruque/94/Perruque courte bouclée au carré en dentelle de cheveux naturels noirs, avec raie sur le côté, vague aquatique, perruque front en dentelle de 10 pouces sans colle, à mettre et à porter (4).webp",
-      "/perruque/94/Perruque courte bouclée au carré en dentelle de cheveux naturels noirs, avec raie sur le côté, vague aquatique, perruque front en dentelle de 10 pouces sans colle, à mettre et à porter (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/94/Perruque courte bouclée au carré en dentelle de cheveux naturels noirs, avec raie sur le côté, vague aquatique, perruque front en dentelle de 10 pouces sans colle, à mettre et à porter.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/94/Perruque courte bouclée au carré en dentelle de cheveux naturels noirs, avec raie sur le côté, vague aquatique, perruque front en dentelle de 10 pouces sans colle, à mettre et à porter (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/94/Perruque courte bouclée au carré en dentelle de cheveux naturels noirs, avec raie sur le côté, vague aquatique, perruque front en dentelle de 10 pouces sans colle, à mettre et à porter (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/94/Perruque courte bouclée au carré en dentelle de cheveux naturels noirs, avec raie sur le côté, vague aquatique, perruque front en dentelle de 10 pouces sans colle, à mettre et à porter (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/94/Perruque courte bouclée au carré en dentelle de cheveux naturels noirs, avec raie sur le côté, vague aquatique, perruque front en dentelle de 10 pouces sans colle, à mettre et à porter (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/94/Perruque courte bouclée au carré en dentelle de cheveux naturels noirs, avec raie sur le côté, vague aquatique, perruque front en dentelle de 10 pouces sans colle, à mettre et à porter (5).webp"
     ]
   },
   {
@@ -3772,12 +3772,12 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/95/Perruque courte pour femmes, cheveux humains 13x4x1 T Part Lace Front perruque, perruque bouclée ondulée Pixie Cut pour femmes 99J, 1B Perruques courtes pour faciles à porter, coupe de cheveux Pixie à couches avec.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/95/Perruque courte pour femmes, cheveux humains 13x4x1 T Part Lace Front perruque, perruque bouclée ondulée Pixie Cut pour femmes 99J, 1B Perruques courtes pour faciles à porter, coupe de cheveux Pixie à couches avec.webp",
     "images": [
-      "/perruque/95/Perruque courte pour femmes, cheveux humains 13x4x1 T Part Lace Front perruque, perruque bouclée ondulée Pixie Cut pour femmes 99J, 1B Perruques courtes pour faciles à porter, coupe de cheveux Pixie à couches avec.webp",
-      "/perruque/95/Perruque courte pour femmes, cheveux humains 13x4x1 T Part Lace Front perruque, perruque bouclée ondulée Pixie Cut pour femmes 99J, 1B Perruques courtes pour faciles à porter, coupe de cheveux Pixie à couches  (1).webp",
-      "/perruque/95/Perruque courte pour femmes, cheveux humains 13x4x1 T Part Lace Front perruque, perruque bouclée ondulée Pixie Cut pour femmes 99J, 1B Perruques courtes pour faciles à porter, coupe de cheveux Pixie à couches  (2).webp",
-      "/perruque/95/Perruque courte pour femmes, cheveux humains 13x4x1 T Part Lace Front perruque, perruque bouclée ondulée Pixie Cut pour femmes 99J, 1B Perruques courtes pour faciles à porter, coupe de cheveux Pixie à couches  (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/95/Perruque courte pour femmes, cheveux humains 13x4x1 T Part Lace Front perruque, perruque bouclée ondulée Pixie Cut pour femmes 99J, 1B Perruques courtes pour faciles à porter, coupe de cheveux Pixie à couches avec.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/95/Perruque courte pour femmes, cheveux humains 13x4x1 T Part Lace Front perruque, perruque bouclée ondulée Pixie Cut pour femmes 99J, 1B Perruques courtes pour faciles à porter, coupe de cheveux Pixie à couches  (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/95/Perruque courte pour femmes, cheveux humains 13x4x1 T Part Lace Front perruque, perruque bouclée ondulée Pixie Cut pour femmes 99J, 1B Perruques courtes pour faciles à porter, coupe de cheveux Pixie à couches  (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/95/Perruque courte pour femmes, cheveux humains 13x4x1 T Part Lace Front perruque, perruque bouclée ondulée Pixie Cut pour femmes 99J, 1B Perruques courtes pour faciles à porter, coupe de cheveux Pixie à couches  (3).webp"
     ]
   },
   {
@@ -3802,14 +3802,14 @@ export const perruque = [
       "10 pouces"
     ],
     "minOrder": 5,
-    "image": "/perruque/96/10 pouces 13x4 Perruque élégante à front de dentelle Cheveux mélangés humains Noir naturel Perruques pour femmes 13x4 Perruque à dentelle frontale transparente HD Densité de 200%25 Avec perruque à front de dentelle .webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/96/10 pouces 13x4 Perruque élégante à front de dentelle Cheveux mélangés humains Noir naturel Perruques pour femmes 13x4 Perruque à dentelle frontale transparente HD Densité de 200%25 Avec perruque à front de dentelle .webp",
     "images": [
-      "/perruque/96/10 pouces 13x4 Perruque élégante à front de dentelle Cheveux mélangés humains Noir naturel Perruques pour femmes 13x4 Perruque à dentelle frontale transparente HD Densité de 200%25 Avec perruque à front de dentelle .webp",
-      "/perruque/96/10 pouces 13x4 Perruque élégante à front de dentelle Cheveux mélangés humains Noir naturel Perruques pour femmes 13x4 Perruque à dentelle frontale transparente HD Densité de 200%25 Avec perruque à front de dente (1).webp",
-      "/perruque/96/10 pouces 13x4 Perruque élégante à front de dentelle Cheveux mélangés humains Noir naturel Perruques pour femmes 13x4 Perruque à dentelle frontale transparente HD Densité de 200%25 Avec perruque à front de dente (2).webp",
-      "/perruque/96/10 pouces 13x4 Perruque élégante à front de dentelle Cheveux mélangés humains Noir naturel Perruques pour femmes 13x4 Perruque à dentelle frontale transparente HD Densité de 200%25 Avec perruque à front de dente (3).webp",
-      "/perruque/96/10 pouces 13x4 Perruque élégante à front de dentelle Cheveux mélangés humains Noir naturel Perruques pour femmes 13x4 Perruque à dentelle frontale transparente HD Densité de 200%25 Avec perruque à front de dente (4).webp",
-      "/perruque/96/10 pouces 13x4 Perruque élégante à front de dentelle Cheveux mélangés humains Noir naturel Perruques pour femmes 13x4 Perruque à dentelle frontale transparente HD Densité de 200%25 Avec perruque à front de dente (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/96/10 pouces 13x4 Perruque élégante à front de dentelle Cheveux mélangés humains Noir naturel Perruques pour femmes 13x4 Perruque à dentelle frontale transparente HD Densité de 200%25 Avec perruque à front de dentelle .webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/96/10 pouces 13x4 Perruque élégante à front de dentelle Cheveux mélangés humains Noir naturel Perruques pour femmes 13x4 Perruque à dentelle frontale transparente HD Densité de 200%25 Avec perruque à front de dente (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/96/10 pouces 13x4 Perruque élégante à front de dentelle Cheveux mélangés humains Noir naturel Perruques pour femmes 13x4 Perruque à dentelle frontale transparente HD Densité de 200%25 Avec perruque à front de dente (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/96/10 pouces 13x4 Perruque élégante à front de dentelle Cheveux mélangés humains Noir naturel Perruques pour femmes 13x4 Perruque à dentelle frontale transparente HD Densité de 200%25 Avec perruque à front de dente (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/96/10 pouces 13x4 Perruque élégante à front de dentelle Cheveux mélangés humains Noir naturel Perruques pour femmes 13x4 Perruque à dentelle frontale transparente HD Densité de 200%25 Avec perruque à front de dente (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/96/10 pouces 13x4 Perruque élégante à front de dentelle Cheveux mélangés humains Noir naturel Perruques pour femmes 13x4 Perruque à dentelle frontale transparente HD Densité de 200%25 Avec perruque à front de dente (5).webp"
     ]
   },
   {
@@ -3837,12 +3837,12 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/97/Perruque de coupe au carré bouclée courte Pixie 13X1 à front de dentelle, densité de 150%25, cheveux humains mélangés réels 13X1 à front de dentelle tissés à la main, sans colle, épilée, pour femmes, couleur noir na.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/97/Perruque de coupe au carré bouclée courte Pixie 13X1 à front de dentelle, densité de 150%25, cheveux humains mélangés réels 13X1 à front de dentelle tissés à la main, sans colle, épilée, pour femmes, couleur noir na.webp",
     "images": [
-      "/perruque/97/Perruque de coupe au carré bouclée courte Pixie 13X1 à front de dentelle, densité de 150%25, cheveux humains mélangés réels 13X1 à front de dentelle tissés à la main, sans colle, épilée, pour femmes, couleur noir na.webp",
-      "/perruque/97/Perruque de coupe au carré bouclée courte Pixie 13X1 à front de dentelle, densité de 150%25, cheveux humains mélangés réels 13X1 à front de dentelle tissés à la main, sans colle, épilée, pour femmes, couleur noi (1).webp",
-      "/perruque/97/Perruque de coupe au carré bouclée courte Pixie 13X1 à front de dentelle, densité de 150%25, cheveux humains mélangés réels 13X1 à front de dentelle tissés à la main, sans colle, épilée, pour femmes, couleur noi (2).webp",
-      "/perruque/97/Perruque de coupe au carré bouclée courte Pixie 13X1 à front de dentelle, densité de 150%25, cheveux humains mélangés réels 13X1 à front de dentelle tissés à la main, sans colle, épilée, pour femmes, couleur noi (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/97/Perruque de coupe au carré bouclée courte Pixie 13X1 à front de dentelle, densité de 150%25, cheveux humains mélangés réels 13X1 à front de dentelle tissés à la main, sans colle, épilée, pour femmes, couleur noir na.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/97/Perruque de coupe au carré bouclée courte Pixie 13X1 à front de dentelle, densité de 150%25, cheveux humains mélangés réels 13X1 à front de dentelle tissés à la main, sans colle, épilée, pour femmes, couleur noi (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/97/Perruque de coupe au carré bouclée courte Pixie 13X1 à front de dentelle, densité de 150%25, cheveux humains mélangés réels 13X1 à front de dentelle tissés à la main, sans colle, épilée, pour femmes, couleur noi (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/97/Perruque de coupe au carré bouclée courte Pixie 13X1 à front de dentelle, densité de 150%25, cheveux humains mélangés réels 13X1 à front de dentelle tissés à la main, sans colle, épilée, pour femmes, couleur noi (3).webp"
     ]
   },
   {
@@ -3870,14 +3870,14 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 5,
-    "image": "/perruque/98/Perruque courte pour femme, cheveux droits bourgogne avec frange, bonnet en résille rose, style de base, convient pour le jeu de rôle et Halloween.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/98/Perruque courte pour femme, cheveux droits bourgogne avec frange, bonnet en résille rose, style de base, convient pour le jeu de rôle et Halloween.webp",
     "images": [
-      "/perruque/98/Perruque courte pour femme, cheveux droits bourgogne avec frange, bonnet en résille rose, style de base, convient pour le jeu de rôle et Halloween.webp",
-      "/perruque/98/Perruque courte pour femme, cheveux droits bourgogne avec frange, bonnet en résille rose, style de base, convient pour le jeu de rôle et Halloween (1).webp",
-      "/perruque/98/Perruque courte pour femme, cheveux droits bourgogne avec frange, bonnet en résille rose, style de base, convient pour le jeu de rôle et Halloween (2).webp",
-      "/perruque/98/Perruque courte pour femme, cheveux droits bourgogne avec frange, bonnet en résille rose, style de base, convient pour le jeu de rôle et Halloween (3).webp",
-      "/perruque/98/Perruque courte pour femme, cheveux droits bourgogne avec frange, bonnet en résille rose, style de base, convient pour le jeu de rôle et Halloween (4).webp",
-      "/perruque/98/Perruque courte pour femme, cheveux droits bourgogne avec frange, bonnet en résille rose, style de base, convient pour le jeu de rôle et Halloween (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/98/Perruque courte pour femme, cheveux droits bourgogne avec frange, bonnet en résille rose, style de base, convient pour le jeu de rôle et Halloween.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/98/Perruque courte pour femme, cheveux droits bourgogne avec frange, bonnet en résille rose, style de base, convient pour le jeu de rôle et Halloween (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/98/Perruque courte pour femme, cheveux droits bourgogne avec frange, bonnet en résille rose, style de base, convient pour le jeu de rôle et Halloween (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/98/Perruque courte pour femme, cheveux droits bourgogne avec frange, bonnet en résille rose, style de base, convient pour le jeu de rôle et Halloween (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/98/Perruque courte pour femme, cheveux droits bourgogne avec frange, bonnet en résille rose, style de base, convient pour le jeu de rôle et Halloween (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/98/Perruque courte pour femme, cheveux droits bourgogne avec frange, bonnet en résille rose, style de base, convient pour le jeu de rôle et Halloween (5).webp"
     ]
   },
   {
@@ -3914,16 +3914,16 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/99/Perruque bob frisée bouclée kinky couleur bourgogne 99J en cheveux humains vierges brésiliens. Perruque courte frisée à dentelle frontale pour femmes, couleur rouge vin, frisure afro kinky, fermeture frontale en T.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/99/Perruque bob frisée bouclée kinky couleur bourgogne 99J en cheveux humains vierges brésiliens. Perruque courte frisée à dentelle frontale pour femmes, couleur rouge vin, frisure afro kinky, fermeture frontale en T.webp",
     "images": [
-      "/perruque/99/Perruque bob frisée bouclée kinky couleur bourgogne 99J en cheveux humains vierges brésiliens. Perruque courte frisée à dentelle frontale pour femmes, couleur rouge vin, frisure afro kinky, fermeture frontale en T.webp",
-      "/perruque/99/Perruque bob frisée bouclée kinky couleur bourgogne 99J en cheveux humains vierges brésiliens. Perruque courte frisée à dentelle frontale pour femmes, couleur rouge vin, frisure afro kinky, fermeture frontale  (1).webp",
-      "/perruque/99/Perruque bob frisée bouclée kinky couleur bourgogne 99J en cheveux humains vierges brésiliens. Perruque courte frisée à dentelle frontale pour femmes, couleur rouge vin, frisure afro kinky, fermeture frontale  (2).webp",
-      "/perruque/99/Perruque bob frisée bouclée kinky couleur bourgogne 99J en cheveux humains vierges brésiliens. Perruque courte frisée à dentelle frontale pour femmes, couleur rouge vin, frisure afro kinky, fermeture frontale  (3).webp",
-      "/perruque/99/Perruque bob frisée bouclée kinky couleur bourgogne 99J en cheveux humains vierges brésiliens. Perruque courte frisée à dentelle frontale pour femmes, couleur rouge vin, frisure afro kinky, fermeture frontale  (4).webp",
-      "/perruque/99/Perruque bob frisée bouclée kinky couleur bourgogne 99J en cheveux humains vierges brésiliens. Perruque courte frisée à dentelle frontale pour femmes, couleur rouge vin, frisure afro kinky, fermeture frontale  (5).webp",
-      "/perruque/99/Perruque bob frisée bouclée kinky couleur bourgogne 99J en cheveux humains vierges brésiliens. Perruque courte frisée à dentelle frontale pour femmes, couleur rouge vin, frisure afro kinky, fermeture frontale  (6).webp",
-      "/perruque/99/Perruque bob frisée bouclée kinky couleur bourgogne 99J en cheveux humains vierges brésiliens. Perruque courte frisée à dentelle frontale pour femmes, couleur rouge vin, frisure afro kinky, fermeture frontale  (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/99/Perruque bob frisée bouclée kinky couleur bourgogne 99J en cheveux humains vierges brésiliens. Perruque courte frisée à dentelle frontale pour femmes, couleur rouge vin, frisure afro kinky, fermeture frontale en T.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/99/Perruque bob frisée bouclée kinky couleur bourgogne 99J en cheveux humains vierges brésiliens. Perruque courte frisée à dentelle frontale pour femmes, couleur rouge vin, frisure afro kinky, fermeture frontale  (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/99/Perruque bob frisée bouclée kinky couleur bourgogne 99J en cheveux humains vierges brésiliens. Perruque courte frisée à dentelle frontale pour femmes, couleur rouge vin, frisure afro kinky, fermeture frontale  (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/99/Perruque bob frisée bouclée kinky couleur bourgogne 99J en cheveux humains vierges brésiliens. Perruque courte frisée à dentelle frontale pour femmes, couleur rouge vin, frisure afro kinky, fermeture frontale  (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/99/Perruque bob frisée bouclée kinky couleur bourgogne 99J en cheveux humains vierges brésiliens. Perruque courte frisée à dentelle frontale pour femmes, couleur rouge vin, frisure afro kinky, fermeture frontale  (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/99/Perruque bob frisée bouclée kinky couleur bourgogne 99J en cheveux humains vierges brésiliens. Perruque courte frisée à dentelle frontale pour femmes, couleur rouge vin, frisure afro kinky, fermeture frontale  (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/99/Perruque bob frisée bouclée kinky couleur bourgogne 99J en cheveux humains vierges brésiliens. Perruque courte frisée à dentelle frontale pour femmes, couleur rouge vin, frisure afro kinky, fermeture frontale  (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/99/Perruque bob frisée bouclée kinky couleur bourgogne 99J en cheveux humains vierges brésiliens. Perruque courte frisée à dentelle frontale pour femmes, couleur rouge vin, frisure afro kinky, fermeture frontale  (7).webp"
     ]
   },
   {
@@ -3951,12 +3951,12 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/100/Perruque courte De Cheveux Humains 13x1 Dentelle Transparente En Tissu Duveteux Coiffure Afro Crépue Bouclée Humain Cheveux Pré-Plumé 100%25 Pour Femme devant en dentelle Perruque human hair.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/100/Perruque courte De Cheveux Humains 13x1 Dentelle Transparente En Tissu Duveteux Coiffure Afro Crépue Bouclée Humain Cheveux Pré-Plumé 100%25 Pour Femme devant en dentelle Perruque human hair.webp",
     "images": [
-      "/perruque/100/Perruque courte De Cheveux Humains 13x1 Dentelle Transparente En Tissu Duveteux Coiffure Afro Crépue Bouclée Humain Cheveux Pré-Plumé 100%25 Pour Femme devant en dentelle Perruque human hair.webp",
-      "/perruque/100/Perruque courte De Cheveux Humains 13x1 Dentelle Transparente En Tissu Duveteux Coiffure Afro Crépue Bouclée Humain Cheveux Pré-Plumé 100%25 Pour Femme devant en dentelle Perruque human hair (1).webp",
-      "/perruque/100/Perruque courte De Cheveux Humains 13x1 Dentelle Transparente En Tissu Duveteux Coiffure Afro Crépue Bouclée Humain Cheveux Pré-Plumé 100%25 Pour Femme devant en dentelle Perruque human hair (2).webp",
-      "/perruque/100/Perruque courte De Cheveux Humains 13x1 Dentelle Transparente En Tissu Duveteux Coiffure Afro Crépue Bouclée Humain Cheveux Pré-Plumé 100%25 Pour Femme devant en dentelle Perruque human hair (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/100/Perruque courte De Cheveux Humains 13x1 Dentelle Transparente En Tissu Duveteux Coiffure Afro Crépue Bouclée Humain Cheveux Pré-Plumé 100%25 Pour Femme devant en dentelle Perruque human hair.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/100/Perruque courte De Cheveux Humains 13x1 Dentelle Transparente En Tissu Duveteux Coiffure Afro Crépue Bouclée Humain Cheveux Pré-Plumé 100%25 Pour Femme devant en dentelle Perruque human hair (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/100/Perruque courte De Cheveux Humains 13x1 Dentelle Transparente En Tissu Duveteux Coiffure Afro Crépue Bouclée Humain Cheveux Pré-Plumé 100%25 Pour Femme devant en dentelle Perruque human hair (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/100/Perruque courte De Cheveux Humains 13x1 Dentelle Transparente En Tissu Duveteux Coiffure Afro Crépue Bouclée Humain Cheveux Pré-Plumé 100%25 Pour Femme devant en dentelle Perruque human hair (3).webp"
     ]
   },
   {
@@ -3981,17 +3981,17 @@ export const perruque = [
       "22 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/101/Perruque synthétique à lacet frontal de 22 pouces de long, ondulée, sans colle, en fibre de cheveux résistante à la chaleur, mélange de couleurs blond, brun et reflets, 150%25 de densité, pour femmes, utilisation q.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/101/Perruque synthétique à lacet frontal de 22 pouces de long, ondulée, sans colle, en fibre de cheveux résistante à la chaleur, mélange de couleurs blond, brun et reflets, 150%25 de densité, pour femmes, utilisation q.webp",
     "images": [
-      "/perruque/101/Perruque synthétique à lacet frontal de 22 pouces de long, ondulée, sans colle, en fibre de cheveux résistante à la chaleur, mélange de couleurs blond, brun et reflets, 150%25 de densité, pour femmes, utilisation q.webp",
-      "/perruque/101/Perruque synthétique à lacet frontal de 22 pouces de long, ondulée, sans colle, en fibre de cheveux résistante à la chaleur, mélange de couleurs blond, brun et reflets, 150%25 de densité, pour femmes, utilisati (1).webp",
-      "/perruque/101/Perruque synthétique à lacet frontal de 22 pouces de long, ondulée, sans colle, en fibre de cheveux résistante à la chaleur, mélange de couleurs blond, brun et reflets, 150%25 de densité, pour femmes, utilisati (2).webp",
-      "/perruque/101/Perruque synthétique à lacet frontal de 22 pouces de long, ondulée, sans colle, en fibre de cheveux résistante à la chaleur, mélange de couleurs blond, brun et reflets, 150%25 de densité, pour femmes, utilisati (3).webp",
-      "/perruque/101/Perruque synthétique à lacet frontal de 22 pouces de long, ondulée, sans colle, en fibre de cheveux résistante à la chaleur, mélange de couleurs blond, brun et reflets, 150%25 de densité, pour femmes, utilisati (4).webp",
-      "/perruque/101/Perruque synthétique à lacet frontal de 22 pouces de long, ondulée, sans colle, en fibre de cheveux résistante à la chaleur, mélange de couleurs blond, brun et reflets, 150%25 de densité, pour femmes, utilisati (5).webp",
-      "/perruque/101/Perruque synthétique à lacet frontal de 22 pouces de long, ondulée, sans colle, en fibre de cheveux résistante à la chaleur, mélange de couleurs blond, brun et reflets, 150%25 de densité, pour femmes, utilisati (6).webp",
-      "/perruque/101/Perruque synthétique à lacet frontal de 22 pouces de long, ondulée, sans colle, en fibre de cheveux résistante à la chaleur, mélange de couleurs blond, brun et reflets, 150%25 de densité, pour femmes, utilisati (7).webp",
-      "/perruque/101/Perruque synthétique à lacet frontal de 22 pouces de long, ondulée, sans colle, en fibre de cheveux résistante à la chaleur, mélange de couleurs blond, brun et reflets, 150%25 de densité, pour femmes, utilisati (8).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/101/Perruque synthétique à lacet frontal de 22 pouces de long, ondulée, sans colle, en fibre de cheveux résistante à la chaleur, mélange de couleurs blond, brun et reflets, 150%25 de densité, pour femmes, utilisation q.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/101/Perruque synthétique à lacet frontal de 22 pouces de long, ondulée, sans colle, en fibre de cheveux résistante à la chaleur, mélange de couleurs blond, brun et reflets, 150%25 de densité, pour femmes, utilisati (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/101/Perruque synthétique à lacet frontal de 22 pouces de long, ondulée, sans colle, en fibre de cheveux résistante à la chaleur, mélange de couleurs blond, brun et reflets, 150%25 de densité, pour femmes, utilisati (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/101/Perruque synthétique à lacet frontal de 22 pouces de long, ondulée, sans colle, en fibre de cheveux résistante à la chaleur, mélange de couleurs blond, brun et reflets, 150%25 de densité, pour femmes, utilisati (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/101/Perruque synthétique à lacet frontal de 22 pouces de long, ondulée, sans colle, en fibre de cheveux résistante à la chaleur, mélange de couleurs blond, brun et reflets, 150%25 de densité, pour femmes, utilisati (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/101/Perruque synthétique à lacet frontal de 22 pouces de long, ondulée, sans colle, en fibre de cheveux résistante à la chaleur, mélange de couleurs blond, brun et reflets, 150%25 de densité, pour femmes, utilisati (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/101/Perruque synthétique à lacet frontal de 22 pouces de long, ondulée, sans colle, en fibre de cheveux résistante à la chaleur, mélange de couleurs blond, brun et reflets, 150%25 de densité, pour femmes, utilisati (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/101/Perruque synthétique à lacet frontal de 22 pouces de long, ondulée, sans colle, en fibre de cheveux résistante à la chaleur, mélange de couleurs blond, brun et reflets, 150%25 de densité, pour femmes, utilisati (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/101/Perruque synthétique à lacet frontal de 22 pouces de long, ondulée, sans colle, en fibre de cheveux résistante à la chaleur, mélange de couleurs blond, brun et reflets, 150%25 de densité, pour femmes, utilisati (8).webp"
     ]
   },
   {
@@ -4027,17 +4027,17 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/102/SALLYWELL Perruque de dentelle frontale ondulée longue rouge à densité de 180%25 - Dentelle transparente haute définition 13x4, fibre synthétique résistante à la chaleur, sans colle nécessaire, rehausse le charme f.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/102/SALLYWELL Perruque de dentelle frontale ondulée longue rouge à densité de 180%25 - Dentelle transparente haute définition 13x4, fibre synthétique résistante à la chaleur, sans colle nécessaire, rehausse le charme f.webp",
     "images": [
-      "/perruque/102/SALLYWELL Perruque de dentelle frontale ondulée longue rouge à densité de 180%25 - Dentelle transparente haute définition 13x4, fibre synthétique résistante à la chaleur, sans colle nécessaire, rehausse le charme f.webp",
-      "/perruque/102/SALLYWELL Perruque de dentelle frontale ondulée longue rouge à densité de 180%25 - Dentelle transparente haute définition 13x4, fibre synthétique résistante à la chaleur, sans colle nécessaire, rehausse le char (1).webp",
-      "/perruque/102/SALLYWELL Perruque de dentelle frontale ondulée longue rouge à densité de 180%25 - Dentelle transparente haute définition 13x4, fibre synthétique résistante à la chaleur, sans colle nécessaire, rehausse le char (2).webp",
-      "/perruque/102/SALLYWELL Perruque de dentelle frontale ondulée longue rouge à densité de 180%25 - Dentelle transparente haute définition 13x4, fibre synthétique résistante à la chaleur, sans colle nécessaire, rehausse le char (3).webp",
-      "/perruque/102/SALLYWELL Perruque de dentelle frontale ondulée longue rouge à densité de 180%25 - Dentelle transparente haute définition 13x4, fibre synthétique résistante à la chaleur, sans colle nécessaire, rehausse le char (4).webp",
-      "/perruque/102/SALLYWELL Perruque de dentelle frontale ondulée longue rouge à densité de 180%25 - Dentelle transparente haute définition 13x4, fibre synthétique résistante à la chaleur, sans colle nécessaire, rehausse le char (5).webp",
-      "/perruque/102/SALLYWELL Perruque de dentelle frontale ondulée longue rouge à densité de 180%25 - Dentelle transparente haute définition 13x4, fibre synthétique résistante à la chaleur, sans colle nécessaire, rehausse le char (6).webp",
-      "/perruque/102/SALLYWELL Perruque de dentelle frontale ondulée longue rouge à densité de 180%25 - Dentelle transparente haute définition 13x4, fibre synthétique résistante à la chaleur, sans colle nécessaire, rehausse le char (7).webp",
-      "/perruque/102/SALLYWELL Perruque de dentelle frontale ondulée longue rouge à densité de 180%25 - Dentelle transparente haute définition 13x4, fibre synthétique résistante à la chaleur, sans colle nécessaire, rehausse le char (8).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/102/SALLYWELL Perruque de dentelle frontale ondulée longue rouge à densité de 180%25 - Dentelle transparente haute définition 13x4, fibre synthétique résistante à la chaleur, sans colle nécessaire, rehausse le charme f.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/102/SALLYWELL Perruque de dentelle frontale ondulée longue rouge à densité de 180%25 - Dentelle transparente haute définition 13x4, fibre synthétique résistante à la chaleur, sans colle nécessaire, rehausse le char (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/102/SALLYWELL Perruque de dentelle frontale ondulée longue rouge à densité de 180%25 - Dentelle transparente haute définition 13x4, fibre synthétique résistante à la chaleur, sans colle nécessaire, rehausse le char (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/102/SALLYWELL Perruque de dentelle frontale ondulée longue rouge à densité de 180%25 - Dentelle transparente haute définition 13x4, fibre synthétique résistante à la chaleur, sans colle nécessaire, rehausse le char (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/102/SALLYWELL Perruque de dentelle frontale ondulée longue rouge à densité de 180%25 - Dentelle transparente haute définition 13x4, fibre synthétique résistante à la chaleur, sans colle nécessaire, rehausse le char (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/102/SALLYWELL Perruque de dentelle frontale ondulée longue rouge à densité de 180%25 - Dentelle transparente haute définition 13x4, fibre synthétique résistante à la chaleur, sans colle nécessaire, rehausse le char (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/102/SALLYWELL Perruque de dentelle frontale ondulée longue rouge à densité de 180%25 - Dentelle transparente haute définition 13x4, fibre synthétique résistante à la chaleur, sans colle nécessaire, rehausse le char (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/102/SALLYWELL Perruque de dentelle frontale ondulée longue rouge à densité de 180%25 - Dentelle transparente haute définition 13x4, fibre synthétique résistante à la chaleur, sans colle nécessaire, rehausse le char (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/102/SALLYWELL Perruque de dentelle frontale ondulée longue rouge à densité de 180%25 - Dentelle transparente haute définition 13x4, fibre synthétique résistante à la chaleur, sans colle nécessaire, rehausse le char (8).webp"
     ]
   },
   {
@@ -4063,16 +4063,16 @@ export const perruque = [
       "12 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/103/Perruque frontale en dentelle à vague de corps brésilienne vierge de 12 pouces, densité de 200%25, cheveux mélangés humains 99j bordeaux vin rouge, pré-épilée, coupe au carré courte pour femmes, ligne de cheveux na.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/103/Perruque frontale en dentelle à vague de corps brésilienne vierge de 12 pouces, densité de 200%25, cheveux mélangés humains 99j bordeaux vin rouge, pré-épilée, coupe au carré courte pour femmes, ligne de cheveux na.webp",
     "images": [
-      "/perruque/103/Perruque frontale en dentelle à vague de corps brésilienne vierge de 12 pouces, densité de 200%25, cheveux mélangés humains 99j bordeaux vin rouge, pré-épilée, coupe au carré courte pour femmes, ligne de cheveux na.webp",
-      "/perruque/103/Perruque frontale en dentelle à vague de corps brésilienne vierge de 12 pouces, densité de 200%25, cheveux mélangés humains 99j bordeaux vin rouge, pré-épilée, coupe au carré courte pour femmes, ligne de cheveu (1).webp",
-      "/perruque/103/Perruque frontale en dentelle à vague de corps brésilienne vierge de 12 pouces, densité de 200%25, cheveux mélangés humains 99j bordeaux vin rouge, pré-épilée, coupe au carré courte pour femmes, ligne de cheveu (2).webp",
-      "/perruque/103/Perruque frontale en dentelle à vague de corps brésilienne vierge de 12 pouces, densité de 200%25, cheveux mélangés humains 99j bordeaux vin rouge, pré-épilée, coupe au carré courte pour femmes, ligne de cheveu (3).webp",
-      "/perruque/103/Perruque frontale en dentelle à vague de corps brésilienne vierge de 12 pouces, densité de 200%25, cheveux mélangés humains 99j bordeaux vin rouge, pré-épilée, coupe au carré courte pour femmes, ligne de cheveu (4).webp",
-      "/perruque/103/Perruque frontale en dentelle à vague de corps brésilienne vierge de 12 pouces, densité de 200%25, cheveux mélangés humains 99j bordeaux vin rouge, pré-épilée, coupe au carré courte pour femmes, ligne de cheveu (5).webp",
-      "/perruque/103/Perruque frontale en dentelle à vague de corps brésilienne vierge de 12 pouces, densité de 200%25, cheveux mélangés humains 99j bordeaux vin rouge, pré-épilée, coupe au carré courte pour femmes, ligne de cheveu (6).webp",
-      "/perruque/103/Perruque frontale en dentelle à vague de corps brésilienne vierge de 12 pouces, densité de 200%25, cheveux mélangés humains 99j bordeaux vin rouge, pré-épilée, coupe au carré courte pour femmes, ligne de cheveu (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/103/Perruque frontale en dentelle à vague de corps brésilienne vierge de 12 pouces, densité de 200%25, cheveux mélangés humains 99j bordeaux vin rouge, pré-épilée, coupe au carré courte pour femmes, ligne de cheveux na.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/103/Perruque frontale en dentelle à vague de corps brésilienne vierge de 12 pouces, densité de 200%25, cheveux mélangés humains 99j bordeaux vin rouge, pré-épilée, coupe au carré courte pour femmes, ligne de cheveu (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/103/Perruque frontale en dentelle à vague de corps brésilienne vierge de 12 pouces, densité de 200%25, cheveux mélangés humains 99j bordeaux vin rouge, pré-épilée, coupe au carré courte pour femmes, ligne de cheveu (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/103/Perruque frontale en dentelle à vague de corps brésilienne vierge de 12 pouces, densité de 200%25, cheveux mélangés humains 99j bordeaux vin rouge, pré-épilée, coupe au carré courte pour femmes, ligne de cheveu (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/103/Perruque frontale en dentelle à vague de corps brésilienne vierge de 12 pouces, densité de 200%25, cheveux mélangés humains 99j bordeaux vin rouge, pré-épilée, coupe au carré courte pour femmes, ligne de cheveu (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/103/Perruque frontale en dentelle à vague de corps brésilienne vierge de 12 pouces, densité de 200%25, cheveux mélangés humains 99j bordeaux vin rouge, pré-épilée, coupe au carré courte pour femmes, ligne de cheveu (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/103/Perruque frontale en dentelle à vague de corps brésilienne vierge de 12 pouces, densité de 200%25, cheveux mélangés humains 99j bordeaux vin rouge, pré-épilée, coupe au carré courte pour femmes, ligne de cheveu (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/103/Perruque frontale en dentelle à vague de corps brésilienne vierge de 12 pouces, densité de 200%25, cheveux mélangés humains 99j bordeaux vin rouge, pré-épilée, coupe au carré courte pour femmes, ligne de cheveu (7).webp"
     ]
   },
   {
@@ -4097,16 +4097,16 @@ export const perruque = [
       "28 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/104/Perruque synthétique fibre 28 pouces rouge ondulée extra longue avec cheveux bébé résistante à la chaleur, entièrement fabriquée à la machine, convenant aux rassemblements quotidiens. Perruque de haute qualité, n.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/104/Perruque synthétique fibre 28 pouces rouge ondulée extra longue avec cheveux bébé résistante à la chaleur, entièrement fabriquée à la machine, convenant aux rassemblements quotidiens. Perruque de haute qualité, n.webp",
     "images": [
-      "/perruque/104/Perruque synthétique fibre 28 pouces rouge ondulée extra longue avec cheveux bébé résistante à la chaleur, entièrement fabriquée à la machine, convenant aux rassemblements quotidiens. Perruque de haute qualité, n.webp",
-      "/perruque/104/Perruque synthétique fibre 28 pouces rouge ondulée extra longue avec cheveux bébé résistante à la chaleur, entièrement fabriquée à la machine, convenant aux rassemblements quotidiens. Perruque de haute qualit (1).webp",
-      "/perruque/104/Perruque synthétique fibre 28 pouces rouge ondulée extra longue avec cheveux bébé résistante à la chaleur, entièrement fabriquée à la machine, convenant aux rassemblements quotidiens. Perruque de haute qualit (2).webp",
-      "/perruque/104/Perruque synthétique fibre 28 pouces rouge ondulée extra longue avec cheveux bébé résistante à la chaleur, entièrement fabriquée à la machine, convenant aux rassemblements quotidiens. Perruque de haute qualit (3).webp",
-      "/perruque/104/Perruque synthétique fibre 28 pouces rouge ondulée extra longue avec cheveux bébé résistante à la chaleur, entièrement fabriquée à la machine, convenant aux rassemblements quotidiens. Perruque de haute qualit (4).webp",
-      "/perruque/104/Perruque synthétique fibre 28 pouces rouge ondulée extra longue avec cheveux bébé résistante à la chaleur, entièrement fabriquée à la machine, convenant aux rassemblements quotidiens. Perruque de haute qualit (5).webp",
-      "/perruque/104/Perruque synthétique fibre 28 pouces rouge ondulée extra longue avec cheveux bébé résistante à la chaleur, entièrement fabriquée à la machine, convenant aux rassemblements quotidiens. Perruque de haute qualit (6).webp",
-      "/perruque/104/Perruque synthétique fibre 28 pouces rouge ondulée extra longue avec cheveux bébé résistante à la chaleur, entièrement fabriquée à la machine, convenant aux rassemblements quotidiens. Perruque de haute qualit (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/104/Perruque synthétique fibre 28 pouces rouge ondulée extra longue avec cheveux bébé résistante à la chaleur, entièrement fabriquée à la machine, convenant aux rassemblements quotidiens. Perruque de haute qualité, n.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/104/Perruque synthétique fibre 28 pouces rouge ondulée extra longue avec cheveux bébé résistante à la chaleur, entièrement fabriquée à la machine, convenant aux rassemblements quotidiens. Perruque de haute qualit (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/104/Perruque synthétique fibre 28 pouces rouge ondulée extra longue avec cheveux bébé résistante à la chaleur, entièrement fabriquée à la machine, convenant aux rassemblements quotidiens. Perruque de haute qualit (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/104/Perruque synthétique fibre 28 pouces rouge ondulée extra longue avec cheveux bébé résistante à la chaleur, entièrement fabriquée à la machine, convenant aux rassemblements quotidiens. Perruque de haute qualit (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/104/Perruque synthétique fibre 28 pouces rouge ondulée extra longue avec cheveux bébé résistante à la chaleur, entièrement fabriquée à la machine, convenant aux rassemblements quotidiens. Perruque de haute qualit (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/104/Perruque synthétique fibre 28 pouces rouge ondulée extra longue avec cheveux bébé résistante à la chaleur, entièrement fabriquée à la machine, convenant aux rassemblements quotidiens. Perruque de haute qualit (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/104/Perruque synthétique fibre 28 pouces rouge ondulée extra longue avec cheveux bébé résistante à la chaleur, entièrement fabriquée à la machine, convenant aux rassemblements quotidiens. Perruque de haute qualit (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/104/Perruque synthétique fibre 28 pouces rouge ondulée extra longue avec cheveux bébé résistante à la chaleur, entièrement fabriquée à la machine, convenant aux rassemblements quotidiens. Perruque de haute qualit (7).webp"
     ]
   },
   {
@@ -4134,12 +4134,12 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/105/Perruque courte Pixie à front de dentelle 13x4x1T, cheveux humains, perruque courte pour femme, perruque à front de dentelle sans colle, convient pour la Saint-Valentin, le port quotidien, les fêtes, perruque cou.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/105/Perruque courte Pixie à front de dentelle 13x4x1T, cheveux humains, perruque courte pour femme, perruque à front de dentelle sans colle, convient pour la Saint-Valentin, le port quotidien, les fêtes, perruque cou.webp",
     "images": [
-      "/perruque/105/Perruque courte Pixie à front de dentelle 13x4x1T, cheveux humains, perruque courte pour femme, perruque à front de dentelle sans colle, convient pour la Saint-Valentin, le port quotidien, les fêtes, perruque cou.webp",
-      "/perruque/105/Perruque courte Pixie à front de dentelle 13x4x1T, cheveux humains, perruque courte pour femme, perruque à front de dentelle sans colle, convient pour la Saint-Valentin, le port quotidien, les fêtes, perruque (1).webp",
-      "/perruque/105/Perruque courte Pixie à front de dentelle 13x4x1T, cheveux humains, perruque courte pour femme, perruque à front de dentelle sans colle, convient pour la Saint-Valentin, le port quotidien, les fêtes, perruque (2).webp",
-      "/perruque/105/Perruque courte Pixie à front de dentelle 13x4x1T, cheveux humains, perruque courte pour femme, perruque à front de dentelle sans colle, convient pour la Saint-Valentin, le port quotidien, les fêtes, perruque (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/105/Perruque courte Pixie à front de dentelle 13x4x1T, cheveux humains, perruque courte pour femme, perruque à front de dentelle sans colle, convient pour la Saint-Valentin, le port quotidien, les fêtes, perruque cou.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/105/Perruque courte Pixie à front de dentelle 13x4x1T, cheveux humains, perruque courte pour femme, perruque à front de dentelle sans colle, convient pour la Saint-Valentin, le port quotidien, les fêtes, perruque (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/105/Perruque courte Pixie à front de dentelle 13x4x1T, cheveux humains, perruque courte pour femme, perruque à front de dentelle sans colle, convient pour la Saint-Valentin, le port quotidien, les fêtes, perruque (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/105/Perruque courte Pixie à front de dentelle 13x4x1T, cheveux humains, perruque courte pour femme, perruque à front de dentelle sans colle, convient pour la Saint-Valentin, le port quotidien, les fêtes, perruque (3).webp"
     ]
   },
   {
@@ -4167,14 +4167,14 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/106/Perruque de cheveux humains à partie latérale, à vague d'eau, à partie de lacet, à coupe pixie, frisée, de couleur blond miel, à partie frontale de lacet pour femmes.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/106/Perruque de cheveux humains à partie latérale, à vague d'eau, à partie de lacet, à coupe pixie, frisée, de couleur blond miel, à partie frontale de lacet pour femmes.webp",
     "images": [
-      "/perruque/106/Perruque de cheveux humains à partie latérale, à vague d'eau, à partie de lacet, à coupe pixie, frisée, de couleur blond miel, à partie frontale de lacet pour femmes.webp",
-      "/perruque/106/Perruque de cheveux humains à partie latérale, à vague d'eau, à partie de lacet, à coupe pixie, frisée, de couleur blond miel, à partie frontale de lacet pour femmes (1).webp",
-      "/perruque/106/Perruque de cheveux humains à partie latérale, à vague d'eau, à partie de lacet, à coupe pixie, frisée, de couleur blond miel, à partie frontale de lacet pour femmes (2).webp",
-      "/perruque/106/Perruque de cheveux humains à partie latérale, à vague d'eau, à partie de lacet, à coupe pixie, frisée, de couleur blond miel, à partie frontale de lacet pour femmes (3).webp",
-      "/perruque/106/Perruque de cheveux humains à partie latérale, à vague d'eau, à partie de lacet, à coupe pixie, frisée, de couleur blond miel, à partie frontale de lacet pour femmes (4).webp",
-      "/perruque/106/Perruque de cheveux humains à partie latérale, à vague d'eau, à partie de lacet, à coupe pixie, frisée, de couleur blond miel, à partie frontale de lacet pour femmes (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/106/Perruque de cheveux humains à partie latérale, à vague d'eau, à partie de lacet, à coupe pixie, frisée, de couleur blond miel, à partie frontale de lacet pour femmes.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/106/Perruque de cheveux humains à partie latérale, à vague d'eau, à partie de lacet, à coupe pixie, frisée, de couleur blond miel, à partie frontale de lacet pour femmes (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/106/Perruque de cheveux humains à partie latérale, à vague d'eau, à partie de lacet, à coupe pixie, frisée, de couleur blond miel, à partie frontale de lacet pour femmes (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/106/Perruque de cheveux humains à partie latérale, à vague d'eau, à partie de lacet, à coupe pixie, frisée, de couleur blond miel, à partie frontale de lacet pour femmes (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/106/Perruque de cheveux humains à partie latérale, à vague d'eau, à partie de lacet, à coupe pixie, frisée, de couleur blond miel, à partie frontale de lacet pour femmes (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/106/Perruque de cheveux humains à partie latérale, à vague d'eau, à partie de lacet, à coupe pixie, frisée, de couleur blond miel, à partie frontale de lacet pour femmes (5).webp"
     ]
   },
   {
@@ -4202,16 +4202,16 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 5,
-    "image": "/perruque/107/7JHH WIGS Perruque courte bouclée rouge vin pour femme - Perruque afro bouclée bordeaux avec raie sur le côté, perruque bouclée style bombe, perruque twist out, perruque afro-américaine en fibre synthétique résis.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/107/7JHH WIGS Perruque courte bouclée rouge vin pour femme - Perruque afro bouclée bordeaux avec raie sur le côté, perruque bouclée style bombe, perruque twist out, perruque afro-américaine en fibre synthétique résis.webp",
     "images": [
-      "/perruque/107/7JHH WIGS Perruque courte bouclée rouge vin pour femme - Perruque afro bouclée bordeaux avec raie sur le côté, perruque bouclée style bombe, perruque twist out, perruque afro-américaine en fibre synthétique résis.webp",
-      "/perruque/107/7JHH WIGS Perruque courte bouclée rouge vin pour femme - Perruque afro bouclée bordeaux avec raie sur le côté, perruque bouclée style bombe, perruque twist out, perruque afro-américaine en fibre synthétique r (1).webp",
-      "/perruque/107/7JHH WIGS Perruque courte bouclée rouge vin pour femme - Perruque afro bouclée bordeaux avec raie sur le côté, perruque bouclée style bombe, perruque twist out, perruque afro-américaine en fibre synthétique r (2).webp",
-      "/perruque/107/7JHH WIGS Perruque courte bouclée rouge vin pour femme - Perruque afro bouclée bordeaux avec raie sur le côté, perruque bouclée style bombe, perruque twist out, perruque afro-américaine en fibre synthétique r (3).webp",
-      "/perruque/107/7JHH WIGS Perruque courte bouclée rouge vin pour femme - Perruque afro bouclée bordeaux avec raie sur le côté, perruque bouclée style bombe, perruque twist out, perruque afro-américaine en fibre synthétique r (4).webp",
-      "/perruque/107/7JHH WIGS Perruque courte bouclée rouge vin pour femme - Perruque afro bouclée bordeaux avec raie sur le côté, perruque bouclée style bombe, perruque twist out, perruque afro-américaine en fibre synthétique r (5).webp",
-      "/perruque/107/7JHH WIGS Perruque courte bouclée rouge vin pour femme - Perruque afro bouclée bordeaux avec raie sur le côté, perruque bouclée style bombe, perruque twist out, perruque afro-américaine en fibre synthétique r (6).webp",
-      "/perruque/107/7JHH WIGS Perruque courte bouclée rouge vin pour femme - Perruque afro bouclée bordeaux avec raie sur le côté, perruque bouclée style bombe, perruque twist out, perruque afro-américaine en fibre synthétique r (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/107/7JHH WIGS Perruque courte bouclée rouge vin pour femme - Perruque afro bouclée bordeaux avec raie sur le côté, perruque bouclée style bombe, perruque twist out, perruque afro-américaine en fibre synthétique résis.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/107/7JHH WIGS Perruque courte bouclée rouge vin pour femme - Perruque afro bouclée bordeaux avec raie sur le côté, perruque bouclée style bombe, perruque twist out, perruque afro-américaine en fibre synthétique r (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/107/7JHH WIGS Perruque courte bouclée rouge vin pour femme - Perruque afro bouclée bordeaux avec raie sur le côté, perruque bouclée style bombe, perruque twist out, perruque afro-américaine en fibre synthétique r (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/107/7JHH WIGS Perruque courte bouclée rouge vin pour femme - Perruque afro bouclée bordeaux avec raie sur le côté, perruque bouclée style bombe, perruque twist out, perruque afro-américaine en fibre synthétique r (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/107/7JHH WIGS Perruque courte bouclée rouge vin pour femme - Perruque afro bouclée bordeaux avec raie sur le côté, perruque bouclée style bombe, perruque twist out, perruque afro-américaine en fibre synthétique r (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/107/7JHH WIGS Perruque courte bouclée rouge vin pour femme - Perruque afro bouclée bordeaux avec raie sur le côté, perruque bouclée style bombe, perruque twist out, perruque afro-américaine en fibre synthétique r (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/107/7JHH WIGS Perruque courte bouclée rouge vin pour femme - Perruque afro bouclée bordeaux avec raie sur le côté, perruque bouclée style bombe, perruque twist out, perruque afro-américaine en fibre synthétique r (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/107/7JHH WIGS Perruque courte bouclée rouge vin pour femme - Perruque afro bouclée bordeaux avec raie sur le côté, perruque bouclée style bombe, perruque twist out, perruque afro-américaine en fibre synthétique r (7).webp"
     ]
   },
   {
@@ -4236,15 +4236,15 @@ export const perruque = [
       "16 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/109/DZfirst Perruque bouclée brune dégradée de 16 pouces avec frange, en fibre synthétique résistante à la chaleur, convient pour les costumes d'Halloween et de Noël.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/109/DZfirst Perruque bouclée brune dégradée de 16 pouces avec frange, en fibre synthétique résistante à la chaleur, convient pour les costumes d'Halloween et de Noël.webp",
     "images": [
-      "/perruque/109/DZfirst Perruque bouclée brune dégradée de 16 pouces avec frange, en fibre synthétique résistante à la chaleur, convient pour les costumes d'Halloween et de Noël.webp",
-      "/perruque/109/DZfirst Perruque bouclée brune dégradée de 16 pouces avec frange, en fibre synthétique résistante à la chaleur, convient pour les costumes d'Halloween et de Noël (1).webp",
-      "/perruque/109/DZfirst Perruque bouclée brune dégradée de 16 pouces avec frange, en fibre synthétique résistante à la chaleur, convient pour les costumes d'Halloween et de Noël (2).webp",
-      "/perruque/109/DZfirst Perruque bouclée brune dégradée de 16 pouces avec frange, en fibre synthétique résistante à la chaleur, convient pour les costumes d'Halloween et de Noël (3).webp",
-      "/perruque/109/DZfirst Perruque bouclée brune dégradée de 16 pouces avec frange, en fibre synthétique résistante à la chaleur, convient pour les costumes d'Halloween et de Noël (4).webp",
-      "/perruque/109/DZfirst Perruque bouclée brune dégradée de 16 pouces avec frange, en fibre synthétique résistante à la chaleur, convient pour les costumes d'Halloween et de Noël (5).webp",
-      "/perruque/109/DZfirst Perruque bouclée brune dégradée de 16 pouces avec frange, en fibre synthétique résistante à la chaleur, convient pour les costumes d'Halloween et de Noël (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/109/DZfirst Perruque bouclée brune dégradée de 16 pouces avec frange, en fibre synthétique résistante à la chaleur, convient pour les costumes d'Halloween et de Noël.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/109/DZfirst Perruque bouclée brune dégradée de 16 pouces avec frange, en fibre synthétique résistante à la chaleur, convient pour les costumes d'Halloween et de Noël (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/109/DZfirst Perruque bouclée brune dégradée de 16 pouces avec frange, en fibre synthétique résistante à la chaleur, convient pour les costumes d'Halloween et de Noël (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/109/DZfirst Perruque bouclée brune dégradée de 16 pouces avec frange, en fibre synthétique résistante à la chaleur, convient pour les costumes d'Halloween et de Noël (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/109/DZfirst Perruque bouclée brune dégradée de 16 pouces avec frange, en fibre synthétique résistante à la chaleur, convient pour les costumes d'Halloween et de Noël (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/109/DZfirst Perruque bouclée brune dégradée de 16 pouces avec frange, en fibre synthétique résistante à la chaleur, convient pour les costumes d'Halloween et de Noël (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/109/DZfirst Perruque bouclée brune dégradée de 16 pouces avec frange, en fibre synthétique résistante à la chaleur, convient pour les costumes d'Halloween et de Noël (6).webp"
     ]
   },
   {
@@ -4280,15 +4280,15 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/110/Perruque élégante et belle pour femme, perruque d'Halloween 28_ orange à mèches longues et raides, perruque synthétique naturelle avec frange, perruque synthétique résistante à la chaleur utilisée pour les fêtes .webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/110/Perruque élégante et belle pour femme, perruque d'Halloween 28_ orange à mèches longues et raides, perruque synthétique naturelle avec frange, perruque synthétique résistante à la chaleur utilisée pour les fêtes .webp",
     "images": [
-      "/perruque/110/Perruque élégante et belle pour femme, perruque d'Halloween 28_ orange à mèches longues et raides, perruque synthétique naturelle avec frange, perruque synthétique résistante à la chaleur utilisée pour les fêtes .webp",
-      "/perruque/110/Perruque élégante et belle pour femme, perruque d'Halloween 28_ orange à mèches longues et raides, perruque synthétique naturelle avec frange, perruque synthétique résistante à la chaleur utilisée pour les fêtes d.jpg",
-      "/perruque/110/Perruque élégante et belle pour femme, perruque d'Halloween 28_ orange à mèches longues et raides, perruque synthétique naturelle avec frange, perruque synthétique résistante à la chaleur utilisée pour les fê (1).webp",
-      "/perruque/110/Perruque élégante et belle pour femme, perruque d'Halloween 28_ orange à mèches longues et raides, perruque synthétique naturelle avec frange, perruque synthétique résistante à la chaleur utilisée pour les fê (2).webp",
-      "/perruque/110/Perruque élégante et belle pour femme, perruque d'Halloween 28_ orange à mèches longues et raides, perruque synthétique naturelle avec frange, perruque synthétique résistante à la chaleur utilisée pour les fê (3).webp",
-      "/perruque/110/Perruque élégante et belle pour femme, perruque d'Halloween 28_ orange à mèches longues et raides, perruque synthétique naturelle avec frange, perruque synthétique résistante à la chaleur utilisée pour les fê (4).webp",
-      "/perruque/110/Perruque élégante et belle pour femme, perruque d'Halloween 28_ orange à mèches longues et raides, perruque synthétique naturelle avec frange, perruque synthétique résistante à la chaleur utilisée pour les fê (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/110/Perruque élégante et belle pour femme, perruque d'Halloween 28_ orange à mèches longues et raides, perruque synthétique naturelle avec frange, perruque synthétique résistante à la chaleur utilisée pour les fêtes .webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/110/Perruque élégante et belle pour femme, perruque d'Halloween 28_ orange à mèches longues et raides, perruque synthétique naturelle avec frange, perruque synthétique résistante à la chaleur utilisée pour les fêtes d.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/110/Perruque élégante et belle pour femme, perruque d'Halloween 28_ orange à mèches longues et raides, perruque synthétique naturelle avec frange, perruque synthétique résistante à la chaleur utilisée pour les fê (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/110/Perruque élégante et belle pour femme, perruque d'Halloween 28_ orange à mèches longues et raides, perruque synthétique naturelle avec frange, perruque synthétique résistante à la chaleur utilisée pour les fê (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/110/Perruque élégante et belle pour femme, perruque d'Halloween 28_ orange à mèches longues et raides, perruque synthétique naturelle avec frange, perruque synthétique résistante à la chaleur utilisée pour les fê (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/110/Perruque élégante et belle pour femme, perruque d'Halloween 28_ orange à mèches longues et raides, perruque synthétique naturelle avec frange, perruque synthétique résistante à la chaleur utilisée pour les fê (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/110/Perruque élégante et belle pour femme, perruque d'Halloween 28_ orange à mèches longues et raides, perruque synthétique naturelle avec frange, perruque synthétique résistante à la chaleur utilisée pour les fê (5).webp"
     ]
   },
   {
@@ -4324,16 +4324,16 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/111/Perruque bandeau tressé mode, perruque frontale en dentelle de 9_ x 6_, densité de 200%25, style mélangé ondulé tissé à la main, choix idéal pour les femmes en toutes saisons.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/111/Perruque bandeau tressé mode, perruque frontale en dentelle de 9_ x 6_, densité de 200%25, style mélangé ondulé tissé à la main, choix idéal pour les femmes en toutes saisons.webp",
     "images": [
-      "/perruque/111/Perruque bandeau tressé mode, perruque frontale en dentelle de 9_ x 6_, densité de 200%25, style mélangé ondulé tissé à la main, choix idéal pour les femmes en toutes saisons.webp",
-      "/perruque/111/Perruque bandeau tressé mode, perruque frontale en dentelle de 9_ x 6_, densité de 200%25, style mélangé ondulé tissé à la main, choix idéal pour les femmes en toutes saisons (1).webp",
-      "/perruque/111/Perruque bandeau tressé mode, perruque frontale en dentelle de 9_ x 6_, densité de 200%25, style mélangé ondulé tissé à la main, choix idéal pour les femmes en toutes saisons (2).webp",
-      "/perruque/111/Perruque bandeau tressé mode, perruque frontale en dentelle de 9_ x 6_, densité de 200%25, style mélangé ondulé tissé à la main, choix idéal pour les femmes en toutes saisons (3).webp",
-      "/perruque/111/Perruque bandeau tressé mode, perruque frontale en dentelle de 9_ x 6_, densité de 200%25, style mélangé ondulé tissé à la main, choix idéal pour les femmes en toutes saisons (4).webp",
-      "/perruque/111/Perruque bandeau tressé mode, perruque frontale en dentelle de 9_ x 6_, densité de 200%25, style mélangé ondulé tissé à la main, choix idéal pour les femmes en toutes saisons (5).webp",
-      "/perruque/111/Perruque bandeau tressé mode, perruque frontale en dentelle de 9_ x 6_, densité de 200%25, style mélangé ondulé tissé à la main, choix idéal pour les femmes en toutes saisons (6).webp",
-      "/perruque/111/Perruque bandeau tressé mode, perruque frontale en dentelle de 9_ x 6_, densité de 200%25, style mélangé ondulé tissé à la main, choix idéal pour les femmes en toutes saisons (7).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/111/Perruque bandeau tressé mode, perruque frontale en dentelle de 9_ x 6_, densité de 200%25, style mélangé ondulé tissé à la main, choix idéal pour les femmes en toutes saisons.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/111/Perruque bandeau tressé mode, perruque frontale en dentelle de 9_ x 6_, densité de 200%25, style mélangé ondulé tissé à la main, choix idéal pour les femmes en toutes saisons (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/111/Perruque bandeau tressé mode, perruque frontale en dentelle de 9_ x 6_, densité de 200%25, style mélangé ondulé tissé à la main, choix idéal pour les femmes en toutes saisons (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/111/Perruque bandeau tressé mode, perruque frontale en dentelle de 9_ x 6_, densité de 200%25, style mélangé ondulé tissé à la main, choix idéal pour les femmes en toutes saisons (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/111/Perruque bandeau tressé mode, perruque frontale en dentelle de 9_ x 6_, densité de 200%25, style mélangé ondulé tissé à la main, choix idéal pour les femmes en toutes saisons (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/111/Perruque bandeau tressé mode, perruque frontale en dentelle de 9_ x 6_, densité de 200%25, style mélangé ondulé tissé à la main, choix idéal pour les femmes en toutes saisons (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/111/Perruque bandeau tressé mode, perruque frontale en dentelle de 9_ x 6_, densité de 200%25, style mélangé ondulé tissé à la main, choix idéal pour les femmes en toutes saisons (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/111/Perruque bandeau tressé mode, perruque frontale en dentelle de 9_ x 6_, densité de 200%25, style mélangé ondulé tissé à la main, choix idéal pour les femmes en toutes saisons (7).webp"
     ]
   },
   {
@@ -4361,13 +4361,13 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 4,
-    "image": "/perruque/112/Perruque orange d'Halloween, perruque courte au carré pour femme, perruque courte droite avec frange, perruque synthétique douce et naturelle résistante à la chaleur, pour fête d'Halloween, cosplay, carnaval, 12 .webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/112/Perruque orange d'Halloween, perruque courte au carré pour femme, perruque courte droite avec frange, perruque synthétique douce et naturelle résistante à la chaleur, pour fête d'Halloween, cosplay, carnaval, 12 .webp",
     "images": [
-      "/perruque/112/Perruque orange d'Halloween, perruque courte au carré pour femme, perruque courte droite avec frange, perruque synthétique douce et naturelle résistante à la chaleur, pour fête d'Halloween, cosplay, carnaval, 12 .webp",
-      "/perruque/112/Perruque orange d'Halloween, perruque courte au carré pour femme, perruque courte droite avec frange, perruque synthétique douce et naturelle résistante à la chaleur, pour fête d'Halloween, cosplay, carnaval, (1).webp",
-      "/perruque/112/Perruque orange d'Halloween, perruque courte au carré pour femme, perruque courte droite avec frange, perruque synthétique douce et naturelle résistante à la chaleur, pour fête d'Halloween, cosplay, carnaval, (2).webp",
-      "/perruque/112/Perruque orange d'Halloween, perruque courte au carré pour femme, perruque courte droite avec frange, perruque synthétique douce et naturelle résistante à la chaleur, pour fête d'Halloween, cosplay, carnaval, (3).webp",
-      "/perruque/112/Perruque orange d'Halloween, perruque courte au carré pour femme, perruque courte droite avec frange, perruque synthétique douce et naturelle résistante à la chaleur, pour fête d'Halloween, cosplay, carnaval, (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/112/Perruque orange d'Halloween, perruque courte au carré pour femme, perruque courte droite avec frange, perruque synthétique douce et naturelle résistante à la chaleur, pour fête d'Halloween, cosplay, carnaval, 12 .webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/112/Perruque orange d'Halloween, perruque courte au carré pour femme, perruque courte droite avec frange, perruque synthétique douce et naturelle résistante à la chaleur, pour fête d'Halloween, cosplay, carnaval, (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/112/Perruque orange d'Halloween, perruque courte au carré pour femme, perruque courte droite avec frange, perruque synthétique douce et naturelle résistante à la chaleur, pour fête d'Halloween, cosplay, carnaval, (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/112/Perruque orange d'Halloween, perruque courte au carré pour femme, perruque courte droite avec frange, perruque synthétique douce et naturelle résistante à la chaleur, pour fête d'Halloween, cosplay, carnaval, (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/112/Perruque orange d'Halloween, perruque courte au carré pour femme, perruque courte droite avec frange, perruque synthétique douce et naturelle résistante à la chaleur, pour fête d'Halloween, cosplay, carnaval, (4).webp"
     ]
   },
   {
@@ -4403,11 +4403,11 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/113/Perruque synthétique à front en dentelle 13x4, cheveux roses lisses et soyeux, convient pour le port quotidien, les fêtes, le cosplay, résistante à la chaleur.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/113/Perruque synthétique à front en dentelle 13x4, cheveux roses lisses et soyeux, convient pour le port quotidien, les fêtes, le cosplay, résistante à la chaleur.webp",
     "images": [
-      "/perruque/113/Perruque synthétique à front en dentelle 13x4, cheveux roses lisses et soyeux, convient pour le port quotidien, les fêtes, le cosplay, résistante à la chaleur.webp",
-      "/perruque/113/Perruque synthétique à front en dentelle 13x4, cheveux roses lisses et soyeux, convient pour le port quotidien, les fêtes, le cosplay, résistante à la chaleur (1).webp",
-      "/perruque/113/Perruque synthétique à front en dentelle 13x4, cheveux roses lisses et soyeux, convient pour le port quotidien, les fêtes, le cosplay, résistante à la chaleur (2).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/113/Perruque synthétique à front en dentelle 13x4, cheveux roses lisses et soyeux, convient pour le port quotidien, les fêtes, le cosplay, résistante à la chaleur.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/113/Perruque synthétique à front en dentelle 13x4, cheveux roses lisses et soyeux, convient pour le port quotidien, les fêtes, le cosplay, résistante à la chaleur (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/113/Perruque synthétique à front en dentelle 13x4, cheveux roses lisses et soyeux, convient pour le port quotidien, les fêtes, le cosplay, résistante à la chaleur (2).webp"
     ]
   },
   {
@@ -4432,15 +4432,15 @@ export const perruque = [
       "18 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/114/HAIRCUBE 18 pouces Dégradé orange Perruques , Naturel Perruques Synthétiques Avec Franges Pour Femme Halloween Perruques.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/114/HAIRCUBE 18 pouces Dégradé orange Perruques , Naturel Perruques Synthétiques Avec Franges Pour Femme Halloween Perruques.webp",
     "images": [
-      "/perruque/114/HAIRCUBE 18 pouces Dégradé orange Perruques , Naturel Perruques Synthétiques Avec Franges Pour Femme Halloween Perruques.webp",
-      "/perruque/114/HAIRCUBE 18 pouces Dégradé orange Perruques , Naturel Perruques Synthétiques Avec Franges Pour Femme Halloween Perruques (1).webp",
-      "/perruque/114/HAIRCUBE 18 pouces Dégradé orange Perruques , Naturel Perruques Synthétiques Avec Franges Pour Femme Halloween Perruques (2).webp",
-      "/perruque/114/HAIRCUBE 18 pouces Dégradé orange Perruques , Naturel Perruques Synthétiques Avec Franges Pour Femme Halloween Perruques (3).webp",
-      "/perruque/114/HAIRCUBE 18 pouces Dégradé orange Perruques , Naturel Perruques Synthétiques Avec Franges Pour Femme Halloween Perruques (4).webp",
-      "/perruque/114/HAIRCUBE 18 pouces Dégradé orange Perruques , Naturel Perruques Synthétiques Avec Franges Pour Femme Halloween Perruques (5).webp",
-      "/perruque/114/HAIRCUBE 18 pouces Dégradé orange Perruques , Naturel Perruques Synthétiques Avec Franges Pour Femme Halloween Perruques (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/114/HAIRCUBE 18 pouces Dégradé orange Perruques , Naturel Perruques Synthétiques Avec Franges Pour Femme Halloween Perruques.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/114/HAIRCUBE 18 pouces Dégradé orange Perruques , Naturel Perruques Synthétiques Avec Franges Pour Femme Halloween Perruques (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/114/HAIRCUBE 18 pouces Dégradé orange Perruques , Naturel Perruques Synthétiques Avec Franges Pour Femme Halloween Perruques (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/114/HAIRCUBE 18 pouces Dégradé orange Perruques , Naturel Perruques Synthétiques Avec Franges Pour Femme Halloween Perruques (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/114/HAIRCUBE 18 pouces Dégradé orange Perruques , Naturel Perruques Synthétiques Avec Franges Pour Femme Halloween Perruques (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/114/HAIRCUBE 18 pouces Dégradé orange Perruques , Naturel Perruques Synthétiques Avec Franges Pour Femme Halloween Perruques (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/114/HAIRCUBE 18 pouces Dégradé orange Perruques , Naturel Perruques Synthétiques Avec Franges Pour Femme Halloween Perruques (6).webp"
     ]
   },
   {
@@ -4465,15 +4465,15 @@ export const perruque = [
       "26 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/115/Perruque synthétique à front de dentelle 13x4, perruque à front de dentelle bouclée et ondulée, pré-épilée, sans colle nécessaire, 26 pouces, perruque à porter instantanément pour femmes, convient aux débutants.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/115/Perruque synthétique à front de dentelle 13x4, perruque à front de dentelle bouclée et ondulée, pré-épilée, sans colle nécessaire, 26 pouces, perruque à porter instantanément pour femmes, convient aux débutants.jpg",
     "images": [
-      "/perruque/115/Perruque synthétique à front de dentelle 13x4, perruque à front de dentelle bouclée et ondulée, pré-épilée, sans colle nécessaire, 26 pouces, perruque à porter instantanément pour femmes, convient aux débutants.jpg",
-      "/perruque/115/Perruque synthétique à front de dentelle 13x4, perruque à front de dentelle bouclée et ondulée, pré-épilée, sans colle nécessaire, 26 pouces, perruque à porter instantanément pour femmes, convient aux débutants.webp",
-      "/perruque/115/Perruque synthétique à front de dentelle 13x4, perruque à front de dentelle bouclée et ondulée, pré-épilée, sans colle nécessaire, 26 pouces, perruque à porter instantanément pour femmes, convient aux débutan (1).webp",
-      "/perruque/115/Perruque synthétique à front de dentelle 13x4, perruque à front de dentelle bouclée et ondulée, pré-épilée, sans colle nécessaire, 26 pouces, perruque à porter instantanément pour femmes, convient aux débutan (2).webp",
-      "/perruque/115/Perruque synthétique à front de dentelle 13x4, perruque à front de dentelle bouclée et ondulée, pré-épilée, sans colle nécessaire, 26 pouces, perruque à porter instantanément pour femmes, convient aux débutan (3).webp",
-      "/perruque/115/Perruque synthétique à front de dentelle 13x4, perruque à front de dentelle bouclée et ondulée, pré-épilée, sans colle nécessaire, 26 pouces, perruque à porter instantanément pour femmes, convient aux débutan (4).webp",
-      "/perruque/115/Perruque synthétique à front de dentelle 13x4, perruque à front de dentelle bouclée et ondulée, pré-épilée, sans colle nécessaire, 26 pouces, perruque à porter instantanément pour femmes, convient aux débutan (5).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/115/Perruque synthétique à front de dentelle 13x4, perruque à front de dentelle bouclée et ondulée, pré-épilée, sans colle nécessaire, 26 pouces, perruque à porter instantanément pour femmes, convient aux débutants.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/115/Perruque synthétique à front de dentelle 13x4, perruque à front de dentelle bouclée et ondulée, pré-épilée, sans colle nécessaire, 26 pouces, perruque à porter instantanément pour femmes, convient aux débutants.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/115/Perruque synthétique à front de dentelle 13x4, perruque à front de dentelle bouclée et ondulée, pré-épilée, sans colle nécessaire, 26 pouces, perruque à porter instantanément pour femmes, convient aux débutan (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/115/Perruque synthétique à front de dentelle 13x4, perruque à front de dentelle bouclée et ondulée, pré-épilée, sans colle nécessaire, 26 pouces, perruque à porter instantanément pour femmes, convient aux débutan (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/115/Perruque synthétique à front de dentelle 13x4, perruque à front de dentelle bouclée et ondulée, pré-épilée, sans colle nécessaire, 26 pouces, perruque à porter instantanément pour femmes, convient aux débutan (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/115/Perruque synthétique à front de dentelle 13x4, perruque à front de dentelle bouclée et ondulée, pré-épilée, sans colle nécessaire, 26 pouces, perruque à porter instantanément pour femmes, convient aux débutan (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/115/Perruque synthétique à front de dentelle 13x4, perruque à front de dentelle bouclée et ondulée, pré-épilée, sans colle nécessaire, 26 pouces, perruque à porter instantanément pour femmes, convient aux débutan (5).webp"
     ]
   },
   {
@@ -4501,15 +4501,15 @@ export const perruque = [
       "14 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/116/Élégante perruque courte droite en fibre résistante à haute température avec frange courte pour femmes - Convient pour le cosplay, les fêtes et les festivals de musique.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/116/Élégante perruque courte droite en fibre résistante à haute température avec frange courte pour femmes - Convient pour le cosplay, les fêtes et les festivals de musique.webp",
     "images": [
-      "/perruque/116/Élégante perruque courte droite en fibre résistante à haute température avec frange courte pour femmes - Convient pour le cosplay, les fêtes et les festivals de musique.webp",
-      "/perruque/116/Élégante perruque courte droite en fibre résistante à haute température avec frange courte pour femmes - Convient pour le cosplay, les fêtes et les festivals de musique (1).webp",
-      "/perruque/116/Élégante perruque courte droite en fibre résistante à haute température avec frange courte pour femmes - Convient pour le cosplay, les fêtes et les festivals de musique (2).webp",
-      "/perruque/116/Élégante perruque courte droite en fibre résistante à haute température avec frange courte pour femmes - Convient pour le cosplay, les fêtes et les festivals de musique (3).webp",
-      "/perruque/116/Élégante perruque courte droite en fibre résistante à haute température avec frange courte pour femmes - Convient pour le cosplay, les fêtes et les festivals de musique (4).webp",
-      "/perruque/116/Élégante perruque courte droite en fibre résistante à haute température avec frange courte pour femmes - Convient pour le cosplay, les fêtes et les festivals de musique (5).webp",
-      "/perruque/116/Élégante perruque courte droite en fibre résistante à haute température avec frange courte pour femmes - Convient pour le cosplay, les fêtes et les festivals de musique (6).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/116/Élégante perruque courte droite en fibre résistante à haute température avec frange courte pour femmes - Convient pour le cosplay, les fêtes et les festivals de musique.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/116/Élégante perruque courte droite en fibre résistante à haute température avec frange courte pour femmes - Convient pour le cosplay, les fêtes et les festivals de musique (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/116/Élégante perruque courte droite en fibre résistante à haute température avec frange courte pour femmes - Convient pour le cosplay, les fêtes et les festivals de musique (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/116/Élégante perruque courte droite en fibre résistante à haute température avec frange courte pour femmes - Convient pour le cosplay, les fêtes et les festivals de musique (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/116/Élégante perruque courte droite en fibre résistante à haute température avec frange courte pour femmes - Convient pour le cosplay, les fêtes et les festivals de musique (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/116/Élégante perruque courte droite en fibre résistante à haute température avec frange courte pour femmes - Convient pour le cosplay, les fêtes et les festivals de musique (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/116/Élégante perruque courte droite en fibre résistante à haute température avec frange courte pour femmes - Convient pour le cosplay, les fêtes et les festivals de musique (6).webp"
     ]
   },
   {
@@ -4546,18 +4546,18 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 1,
-    "image": "/perruque/117/CEXXY Perruque brésilienne ondulée avec dentelle frontale, cheveux naturels, blond platine, 13x6, densité 180 %25, cheveux longs et bouclés, avec raie au milieu et sur le côté, sans colle, pour femme. Perruque bouc.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/117/CEXXY Perruque brésilienne ondulée avec dentelle frontale, cheveux naturels, blond platine, 13x6, densité 180 %25, cheveux longs et bouclés, avec raie au milieu et sur le côté, sans colle, pour femme. Perruque bouc.webp",
     "images": [
-      "/perruque/117/CEXXY Perruque brésilienne ondulée avec dentelle frontale, cheveux naturels, blond platine, 13x6, densité 180 %25, cheveux longs et bouclés, avec raie au milieu et sur le côté, sans colle, pour femme. Perruque bouc.webp",
-      "/perruque/117/CEXXY Perruque brésilienne ondulée avec dentelle frontale, cheveux naturels, blond platine, 13x6, densité 180 %25, cheveux longs et bouclés, avec raie au milieu et sur le côté, sans colle, pour femme. Perruque  (1).webp",
-      "/perruque/117/CEXXY Perruque brésilienne ondulée avec dentelle frontale, cheveux naturels, blond platine, 13x6, densité 180 %25, cheveux longs et bouclés, avec raie au milieu et sur le côté, sans colle, pour femme. Perruque  (2).webp",
-      "/perruque/117/CEXXY Perruque brésilienne ondulée avec dentelle frontale, cheveux naturels, blond platine, 13x6, densité 180 %25, cheveux longs et bouclés, avec raie au milieu et sur le côté, sans colle, pour femme. Perruque  (3).webp",
-      "/perruque/117/CEXXY Perruque brésilienne ondulée avec dentelle frontale, cheveux naturels, blond platine, 13x6, densité 180 %25, cheveux longs et bouclés, avec raie au milieu et sur le côté, sans colle, pour femme. Perruque  (4).webp",
-      "/perruque/117/CEXXY Perruque brésilienne ondulée avec dentelle frontale, cheveux naturels, blond platine, 13x6, densité 180 %25, cheveux longs et bouclés, avec raie au milieu et sur le côté, sans colle, pour femme. Perruque  (5).webp",
-      "/perruque/117/CEXXY Perruque brésilienne ondulée avec dentelle frontale, cheveux naturels, blond platine, 13x6, densité 180 %25, cheveux longs et bouclés, avec raie au milieu et sur le côté, sans colle, pour femme. Perruque  (6).webp",
-      "/perruque/117/CEXXY Perruque brésilienne ondulée avec dentelle frontale, cheveux naturels, blond platine, 13x6, densité 180 %25, cheveux longs et bouclés, avec raie au milieu et sur le côté, sans colle, pour femme. Perruque  (7).webp",
-      "/perruque/117/CEXXY Perruque brésilienne ondulée avec dentelle frontale, cheveux naturels, blond platine, 13x6, densité 180 %25, cheveux longs et bouclés, avec raie au milieu et sur le côté, sans colle, pour femme. Perruque  (8).webp",
-      "/perruque/117/CEXXY Perruque brésilienne ondulée avec dentelle frontale, cheveux naturels, blond platine, 13x6, densité 180 %25, cheveux longs et bouclés, avec raie au milieu et sur le côté, sans colle, pour femme. Perruque  (9).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/117/CEXXY Perruque brésilienne ondulée avec dentelle frontale, cheveux naturels, blond platine, 13x6, densité 180 %25, cheveux longs et bouclés, avec raie au milieu et sur le côté, sans colle, pour femme. Perruque bouc.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/117/CEXXY Perruque brésilienne ondulée avec dentelle frontale, cheveux naturels, blond platine, 13x6, densité 180 %25, cheveux longs et bouclés, avec raie au milieu et sur le côté, sans colle, pour femme. Perruque  (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/117/CEXXY Perruque brésilienne ondulée avec dentelle frontale, cheveux naturels, blond platine, 13x6, densité 180 %25, cheveux longs et bouclés, avec raie au milieu et sur le côté, sans colle, pour femme. Perruque  (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/117/CEXXY Perruque brésilienne ondulée avec dentelle frontale, cheveux naturels, blond platine, 13x6, densité 180 %25, cheveux longs et bouclés, avec raie au milieu et sur le côté, sans colle, pour femme. Perruque  (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/117/CEXXY Perruque brésilienne ondulée avec dentelle frontale, cheveux naturels, blond platine, 13x6, densité 180 %25, cheveux longs et bouclés, avec raie au milieu et sur le côté, sans colle, pour femme. Perruque  (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/117/CEXXY Perruque brésilienne ondulée avec dentelle frontale, cheveux naturels, blond platine, 13x6, densité 180 %25, cheveux longs et bouclés, avec raie au milieu et sur le côté, sans colle, pour femme. Perruque  (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/117/CEXXY Perruque brésilienne ondulée avec dentelle frontale, cheveux naturels, blond platine, 13x6, densité 180 %25, cheveux longs et bouclés, avec raie au milieu et sur le côté, sans colle, pour femme. Perruque  (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/117/CEXXY Perruque brésilienne ondulée avec dentelle frontale, cheveux naturels, blond platine, 13x6, densité 180 %25, cheveux longs et bouclés, avec raie au milieu et sur le côté, sans colle, pour femme. Perruque  (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/117/CEXXY Perruque brésilienne ondulée avec dentelle frontale, cheveux naturels, blond platine, 13x6, densité 180 %25, cheveux longs et bouclés, avec raie au milieu et sur le côté, sans colle, pour femme. Perruque  (8).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/117/CEXXY Perruque brésilienne ondulée avec dentelle frontale, cheveux naturels, blond platine, 13x6, densité 180 %25, cheveux longs et bouclés, avec raie au milieu et sur le côté, sans colle, pour femme. Perruque  (9).webp"
     ]
   },
   {
@@ -4582,12 +4582,12 @@ export const perruque = [
       "12 pouces"
     ],
     "minOrder": 5,
-    "image": "/perruque/118/Perruque bob de 12 pouces de couleur vin avec frange, haute densité, polyvalente et volumineuse, convient aux femmes, au cosplay et à Halloween.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/118/Perruque bob de 12 pouces de couleur vin avec frange, haute densité, polyvalente et volumineuse, convient aux femmes, au cosplay et à Halloween.webp",
     "images": [
-      "/perruque/118/Perruque bob de 12 pouces de couleur vin avec frange, haute densité, polyvalente et volumineuse, convient aux femmes, au cosplay et à Halloween.webp",
-      "/perruque/118/Perruque bob de 12 pouces de couleur vin avec frange, haute densité, polyvalente et volumineuse, convient aux femmes, au cosplay et à Halloween (1).webp",
-      "/perruque/118/Perruque bob de 12 pouces de couleur vin avec frange, haute densité, polyvalente et volumineuse, convient aux femmes, au cosplay et à Halloween (2).webp",
-      "/perruque/118/Perruque bob de 12 pouces de couleur vin avec frange, haute densité, polyvalente et volumineuse, convient aux femmes, au cosplay et à Halloween (3).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/118/Perruque bob de 12 pouces de couleur vin avec frange, haute densité, polyvalente et volumineuse, convient aux femmes, au cosplay et à Halloween.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/118/Perruque bob de 12 pouces de couleur vin avec frange, haute densité, polyvalente et volumineuse, convient aux femmes, au cosplay et à Halloween (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/118/Perruque bob de 12 pouces de couleur vin avec frange, haute densité, polyvalente et volumineuse, convient aux femmes, au cosplay et à Halloween (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/118/Perruque bob de 12 pouces de couleur vin avec frange, haute densité, polyvalente et volumineuse, convient aux femmes, au cosplay et à Halloween (3).webp"
     ]
   },
   {
@@ -4612,17 +4612,17 @@ export const perruque = [
       "30 pouces"
     ],
     "minOrder": 2,
-    "image": "/perruque/119/MEGALOOK Perruque ondulée en corps de 30 pouces avec couleur ombrée blonde et brune, 100%25 cheveux humains, sans colle, 6x5 dentelle, pré-coupée et pré-épilée avec nœuds invisibles et ligne de cheveux naturelle. P.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/119/MEGALOOK Perruque ondulée en corps de 30 pouces avec couleur ombrée blonde et brune, 100%25 cheveux humains, sans colle, 6x5 dentelle, pré-coupée et pré-épilée avec nœuds invisibles et ligne de cheveux naturelle. P.webp",
     "images": [
-      "/perruque/119/MEGALOOK Perruque ondulée en corps de 30 pouces avec couleur ombrée blonde et brune, 100%25 cheveux humains, sans colle, 6x5 dentelle, pré-coupée et pré-épilée avec nœuds invisibles et ligne de cheveux naturelle. P.webp",
-      "/perruque/119/MEGALOOK Perruque ondulée en corps de 30 pouces avec couleur ombrée blonde et brune, 100%25 cheveux humains, sans colle, 6x5 dentelle, pré-coupée et pré-épilée avec nœuds invisibles et ligne de cheveux naturell (1).webp",
-      "/perruque/119/MEGALOOK Perruque ondulée en corps de 30 pouces avec couleur ombrée blonde et brune, 100%25 cheveux humains, sans colle, 6x5 dentelle, pré-coupée et pré-épilée avec nœuds invisibles et ligne de cheveux naturell (2).webp",
-      "/perruque/119/MEGALOOK Perruque ondulée en corps de 30 pouces avec couleur ombrée blonde et brune, 100%25 cheveux humains, sans colle, 6x5 dentelle, pré-coupée et pré-épilée avec nœuds invisibles et ligne de cheveux naturell (3).webp",
-      "/perruque/119/MEGALOOK Perruque ondulée en corps de 30 pouces avec couleur ombrée blonde et brune, 100%25 cheveux humains, sans colle, 6x5 dentelle, pré-coupée et pré-épilée avec nœuds invisibles et ligne de cheveux naturell (4).webp",
-      "/perruque/119/MEGALOOK Perruque ondulée en corps de 30 pouces avec couleur ombrée blonde et brune, 100%25 cheveux humains, sans colle, 6x5 dentelle, pré-coupée et pré-épilée avec nœuds invisibles et ligne de cheveux naturell (5).webp",
-      "/perruque/119/MEGALOOK Perruque ondulée en corps de 30 pouces avec couleur ombrée blonde et brune, 100%25 cheveux humains, sans colle, 6x5 dentelle, pré-coupée et pré-épilée avec nœuds invisibles et ligne de cheveux naturell (6).webp",
-      "/perruque/119/MEGALOOK Perruque ondulée en corps de 30 pouces avec couleur ombrée blonde et brune, 100%25 cheveux humains, sans colle, 6x5 dentelle, pré-coupée et pré-épilée avec nœuds invisibles et ligne de cheveux naturell (7).webp",
-      "/perruque/119/MEGALOOK Perruque ondulée en corps de 30 pouces avec couleur ombrée blonde et brune, 100%25 cheveux humains, sans colle, 6x5 dentelle, pré-coupée et pré-épilée avec nœuds invisibles et ligne de cheveux naturell (8).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/119/MEGALOOK Perruque ondulée en corps de 30 pouces avec couleur ombrée blonde et brune, 100%25 cheveux humains, sans colle, 6x5 dentelle, pré-coupée et pré-épilée avec nœuds invisibles et ligne de cheveux naturelle. P.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/119/MEGALOOK Perruque ondulée en corps de 30 pouces avec couleur ombrée blonde et brune, 100%25 cheveux humains, sans colle, 6x5 dentelle, pré-coupée et pré-épilée avec nœuds invisibles et ligne de cheveux naturell (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/119/MEGALOOK Perruque ondulée en corps de 30 pouces avec couleur ombrée blonde et brune, 100%25 cheveux humains, sans colle, 6x5 dentelle, pré-coupée et pré-épilée avec nœuds invisibles et ligne de cheveux naturell (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/119/MEGALOOK Perruque ondulée en corps de 30 pouces avec couleur ombrée blonde et brune, 100%25 cheveux humains, sans colle, 6x5 dentelle, pré-coupée et pré-épilée avec nœuds invisibles et ligne de cheveux naturell (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/119/MEGALOOK Perruque ondulée en corps de 30 pouces avec couleur ombrée blonde et brune, 100%25 cheveux humains, sans colle, 6x5 dentelle, pré-coupée et pré-épilée avec nœuds invisibles et ligne de cheveux naturell (4).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/119/MEGALOOK Perruque ondulée en corps de 30 pouces avec couleur ombrée blonde et brune, 100%25 cheveux humains, sans colle, 6x5 dentelle, pré-coupée et pré-épilée avec nœuds invisibles et ligne de cheveux naturell (5).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/119/MEGALOOK Perruque ondulée en corps de 30 pouces avec couleur ombrée blonde et brune, 100%25 cheveux humains, sans colle, 6x5 dentelle, pré-coupée et pré-épilée avec nœuds invisibles et ligne de cheveux naturell (6).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/119/MEGALOOK Perruque ondulée en corps de 30 pouces avec couleur ombrée blonde et brune, 100%25 cheveux humains, sans colle, 6x5 dentelle, pré-coupée et pré-épilée avec nœuds invisibles et ligne de cheveux naturell (7).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/119/MEGALOOK Perruque ondulée en corps de 30 pouces avec couleur ombrée blonde et brune, 100%25 cheveux humains, sans colle, 6x5 dentelle, pré-coupée et pré-épilée avec nœuds invisibles et ligne de cheveux naturell (8).webp"
     ]
   },
   {
@@ -4658,13 +4658,13 @@ export const perruque = [
       "34 pouces"
     ],
     "minOrder": 3,
-    "image": "/perruque/120/Perruque Bob ondulée lâche brune foncée. Perruque de cheveux humains mélangés à ondes corporelles pour perruques frontales en dentelle sans colle 13x4 pré-épilées avec des cheveux bébé et des nœuds blanchis. Coul.webp",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/perruque/120/Perruque Bob ondulée lâche brune foncée. Perruque de cheveux humains mélangés à ondes corporelles pour perruques frontales en dentelle sans colle 13x4 pré-épilées avec des cheveux bébé et des nœuds blanchis. Coul.webp",
     "images": [
-      "/perruque/120/Perruque Bob ondulée lâche brune foncée. Perruque de cheveux humains mélangés à ondes corporelles pour perruques frontales en dentelle sans colle 13x4 pré-épilées avec des cheveux bébé et des nœuds blanchis. Coul.webp",
-      "/perruque/120/Perruque Bob ondulée lâche brune foncée. Perruque de cheveux humains mélangés à ondes corporelles pour perruques frontales en dentelle sans colle 13x4 pré-épilées avec des cheveux bébé et des nœuds blanchis.  (1).webp",
-      "/perruque/120/Perruque Bob ondulée lâche brune foncée. Perruque de cheveux humains mélangés à ondes corporelles pour perruques frontales en dentelle sans colle 13x4 pré-épilées avec des cheveux bébé et des nœuds blanchis.  (2).webp",
-      "/perruque/120/Perruque Bob ondulée lâche brune foncée. Perruque de cheveux humains mélangés à ondes corporelles pour perruques frontales en dentelle sans colle 13x4 pré-épilées avec des cheveux bébé et des nœuds blanchis.  (3).webp",
-      "/perruque/120/Perruque Bob ondulée lâche brune foncée. Perruque de cheveux humains mélangés à ondes corporelles pour perruques frontales en dentelle sans colle 13x4 pré-épilées avec des cheveux bébé et des nœuds blanchis.  (4).webp"
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/120/Perruque Bob ondulée lâche brune foncée. Perruque de cheveux humains mélangés à ondes corporelles pour perruques frontales en dentelle sans colle 13x4 pré-épilées avec des cheveux bébé et des nœuds blanchis. Coul.webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/120/Perruque Bob ondulée lâche brune foncée. Perruque de cheveux humains mélangés à ondes corporelles pour perruques frontales en dentelle sans colle 13x4 pré-épilées avec des cheveux bébé et des nœuds blanchis.  (1).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/120/Perruque Bob ondulée lâche brune foncée. Perruque de cheveux humains mélangés à ondes corporelles pour perruques frontales en dentelle sans colle 13x4 pré-épilées avec des cheveux bébé et des nœuds blanchis.  (2).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/120/Perruque Bob ondulée lâche brune foncée. Perruque de cheveux humains mélangés à ondes corporelles pour perruques frontales en dentelle sans colle 13x4 pré-épilées avec des cheveux bébé et des nœuds blanchis.  (3).webp",
+      "https://res.cloudinary.com/deuttziac/image/upload/perruque/120/Perruque Bob ondulée lâche brune foncée. Perruque de cheveux humains mélangés à ondes corporelles pour perruques frontales en dentelle sans colle 13x4 pré-épilées avec des cheveux bébé et des nœuds blanchis.  (4).webp"
     ]
   }
 ]

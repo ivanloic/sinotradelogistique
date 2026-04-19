@@ -6,7 +6,7 @@ export const sacs = [
     "originalPrice": 5234,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/134/sac_a_dos_enfant165.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/134/sac_a_dos_enfant165.jpg",
     "taxType": "ttc",
     "colors": [
       "Beige",
@@ -19,7 +19,7 @@ export const sacs = [
     ],
     "minOrder": 11,
     "images": [
-      "/sac/134/sac_a_dos_enfant165.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/134/sac_a_dos_enfant165.jpg"
     ]
   },
   {
@@ -29,7 +29,7 @@ export const sacs = [
     "originalPrice": 4103,
     "category": "sacs",
     "brand": "Various",
-    "image": "/sac/32/sac_a_dos_152.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/32/sac_a_dos_152.jpg",
     "taxType": "ht",
     "colors": [
       "Orange",
@@ -44,7 +44,7 @@ export const sacs = [
     ],
     "minOrder": 25,
     "images": [
-      "/sac/32/sac_a_dos_152.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/32/sac_a_dos_152.jpg"
     ]
   },
   {
@@ -54,7 +54,7 @@ export const sacs = [
     "originalPrice": 4797,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/54/sac_a_dos_enfant113.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/54/sac_a_dos_enfant113.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -68,8 +68,8 @@ export const sacs = [
     ],
     "minOrder": 20,
     "images": [
-      "/sac/54/sac_a_dos_enfant113.jpg",
-      "/sac/54/sac_a_dos_enfant114.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/54/sac_a_dos_enfant113.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/54/sac_a_dos_enfant114.jpg"
     ]
   },
   {
@@ -79,7 +79,7 @@ export const sacs = [
     "originalPrice": 5085,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/1/sac_a_main_femme_102.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/1/sac_a_main_femme_102.jpg",
     "taxType": "ht",
     "colors": [
       "Bleu",
@@ -96,10 +96,10 @@ export const sacs = [
     ],
     "minOrder": 19,
     "images": [
-      "/sac/1/sac_a_main_femme_102.jpg",
-      "/sac/1/sac_a_main_femme_107.jpg",
-      "/sac/1/sac_a_main_femme_109.jpg",
-      "/sac/1/sac_a_main_femme_119.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/1/sac_a_main_femme_102.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/1/sac_a_main_femme_107.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/1/sac_a_main_femme_109.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/1/sac_a_main_femme_119.jpg"
     ]
   },
   {
@@ -109,7 +109,7 @@ export const sacs = [
     "originalPrice": 4269,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/23/sac_a_main_femme_146.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/23/sac_a_main_femme_146.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -124,8 +124,8 @@ export const sacs = [
     ],
     "minOrder": 11,
     "images": [
-      "/sac/23/sac_a_main_femme_146.jpg",
-      "/sac/23/sac_a_main_femme_152.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/23/sac_a_main_femme_146.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/23/sac_a_main_femme_152.jpg"
     ]
   },
   {
@@ -135,7 +135,7 @@ export const sacs = [
     "originalPrice": 6661,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/85/sac_a_main_femme_192.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/85/sac_a_main_femme_192.jpg",
     "taxType": "ttc",
     "colors": [
       "Vert",
@@ -153,7 +153,7 @@ export const sacs = [
     ],
     "minOrder": 10,
     "images": [
-      "/sac/85/sac_a_main_femme_192.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/85/sac_a_main_femme_192.jpg"
     ]
   },
   {
@@ -163,7 +163,7 @@ export const sacs = [
     "originalPrice": 4463,
     "category": "sacs",
     "brand": "Various",
-    "image": "/sac/34/sac_a_dos_131.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/34/sac_a_dos_131.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -175,7 +175,7 @@ export const sacs = [
     ],
     "minOrder": 21,
     "images": [
-      "/sac/34/sac_a_dos_131.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/34/sac_a_dos_131.jpg"
     ]
   },
   {
@@ -185,7 +185,7 @@ export const sacs = [
     "originalPrice": 4038,
     "category": "sacs",
     "brand": "Various",
-    "image": "/sac/60/sac_a_dos.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/60/sac_a_dos.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -196,7 +196,7 @@ export const sacs = [
     ],
     "minOrder": 20,
     "images": [
-      "/sac/60/sac_a_dos.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/60/sac_a_dos.jpg"
     ]
   },
   {
@@ -206,7 +206,7 @@ export const sacs = [
     "originalPrice": 5272,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/14/sac_a_main_femme_169.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/14/sac_a_main_femme_169.jpg",
     "taxType": "ttc",
     "colors": [
       "Blanc",
@@ -226,7 +226,7 @@ export const sacs = [
     ],
     "minOrder": 19,
     "images": [
-      "/sac/14/sac_a_main_femme_169.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/14/sac_a_main_femme_169.jpg"
     ]
   },
   {
@@ -236,7 +236,7 @@ export const sacs = [
     "originalPrice": 6816,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/12/sac_a_main_femme_167.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/12/sac_a_main_femme_167.jpg",
     "taxType": "ttc",
     "colors": [
       "Vert",
@@ -254,7 +254,7 @@ export const sacs = [
     ],
     "minOrder": 18,
     "images": [
-      "/sac/12/sac_a_main_femme_167.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/12/sac_a_main_femme_167.jpg"
     ]
   },
   {
@@ -264,7 +264,7 @@ export const sacs = [
     "originalPrice": 4786,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/111/sac_a_dos_enfant109.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/111/sac_a_dos_enfant109.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -277,7 +277,7 @@ export const sacs = [
     ],
     "minOrder": 15,
     "images": [
-      "/sac/111/sac_a_dos_enfant109.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/111/sac_a_dos_enfant109.jpg"
     ]
   },
   {
@@ -287,7 +287,7 @@ export const sacs = [
     "originalPrice": 4318,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/59/sac_a_dos_enfant124.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/59/sac_a_dos_enfant124.jpg",
     "taxType": "ht",
     "colors": [
       "Orange",
@@ -301,8 +301,8 @@ export const sacs = [
     ],
     "minOrder": 13,
     "images": [
-      "/sac/59/sac_a_dos_enfant124.jpg",
-      "/sac/59/sac_a_dos_enfant127.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/59/sac_a_dos_enfant124.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/59/sac_a_dos_enfant127.jpg"
     ]
   },
   {
@@ -312,7 +312,7 @@ export const sacs = [
     "originalPrice": 4533,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/112/sac_a_dos_enfant111.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/112/sac_a_dos_enfant111.jpg",
     "taxType": "ht",
     "colors": [
       "Violet",
@@ -324,7 +324,7 @@ export const sacs = [
     ],
     "minOrder": 25,
     "images": [
-      "/sac/112/sac_a_dos_enfant111.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/112/sac_a_dos_enfant111.jpg"
     ]
   },
   {
@@ -334,7 +334,7 @@ export const sacs = [
     "originalPrice": 5679,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/123/sac_a_dos_enfant142.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/123/sac_a_dos_enfant142.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -350,7 +350,7 @@ export const sacs = [
     ],
     "minOrder": 16,
     "images": [
-      "/sac/123/sac_a_dos_enfant142.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/123/sac_a_dos_enfant142.jpg"
     ]
   },
   {
@@ -360,7 +360,7 @@ export const sacs = [
     "originalPrice": 5177,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/122/sac_a_dos_enfant141.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/122/sac_a_dos_enfant141.jpg",
     "taxType": "ht",
     "colors": [
       "Bordeaux",
@@ -375,7 +375,7 @@ export const sacs = [
     ],
     "minOrder": 25,
     "images": [
-      "/sac/122/sac_a_dos_enfant141.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/122/sac_a_dos_enfant141.jpg"
     ]
   },
   {
@@ -385,7 +385,7 @@ export const sacs = [
     "originalPrice": 6492,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/102/sac_a_main_femme_209.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/102/sac_a_main_femme_209.jpg",
     "taxType": "ttc",
     "colors": [
       "Jaune",
@@ -402,7 +402,7 @@ export const sacs = [
     ],
     "minOrder": 12,
     "images": [
-      "/sac/102/sac_a_main_femme_209.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/102/sac_a_main_femme_209.jpg"
     ]
   },
   {
@@ -412,7 +412,7 @@ export const sacs = [
     "originalPrice": 3460,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/119/sac_a_dos_enfant134.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/119/sac_a_dos_enfant134.jpg",
     "taxType": "ttc",
     "colors": [
       "Vert",
@@ -424,7 +424,7 @@ export const sacs = [
     ],
     "minOrder": 14,
     "images": [
-      "/sac/119/sac_a_dos_enfant134.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/119/sac_a_dos_enfant134.jpg"
     ]
   },
   {
@@ -434,7 +434,7 @@ export const sacs = [
     "originalPrice": 4507,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/79/sac_a_main_femme_186.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/79/sac_a_main_femme_186.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -451,7 +451,7 @@ export const sacs = [
     ],
     "minOrder": 20,
     "images": [
-      "/sac/79/sac_a_main_femme_186.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/79/sac_a_main_femme_186.jpg"
     ]
   },
   {
@@ -461,7 +461,7 @@ export const sacs = [
     "originalPrice": 5700,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/95/sac_a_main_femme_202.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/95/sac_a_main_femme_202.jpg",
     "taxType": "ht",
     "colors": [
       "Marron",
@@ -479,7 +479,7 @@ export const sacs = [
     ],
     "minOrder": 12,
     "images": [
-      "/sac/95/sac_a_main_femme_202.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/95/sac_a_main_femme_202.jpg"
     ]
   },
   {
@@ -489,7 +489,7 @@ export const sacs = [
     "originalPrice": 5866,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/64/sac_a_main_femme_110.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/64/sac_a_main_femme_110.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -507,7 +507,7 @@ export const sacs = [
     ],
     "minOrder": 13,
     "images": [
-      "/sac/64/sac_a_main_femme_110.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/64/sac_a_main_femme_110.jpg"
     ]
   },
   {
@@ -517,7 +517,7 @@ export const sacs = [
     "originalPrice": 5804,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/24/Asac_a_main_femme.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/24/Asac_a_main_femme.jpg",
     "taxType": "ht",
     "colors": [
       "Turquoise",
@@ -534,13 +534,13 @@ export const sacs = [
     ],
     "minOrder": 23,
     "images": [
-      "/sac/24/Asac_a_main_femme.jpg",
-      "/sac/24/IMG-20251117-WA0002.jpg",
-      "/sac/24/IMG-20251117-WA0004.jpg",
-      "/sac/24/IMG-20251117-WA0006.jpg",
-      "/sac/24/IMG-20251117-WA0007.jpg",
-      "/sac/24/IMG-20251117-WA0008.jpg",
-      "/sac/24/IMG-20251117-WA0009.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/24/Asac_a_main_femme.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/24/IMG-20251117-WA0002.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/24/IMG-20251117-WA0004.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/24/IMG-20251117-WA0006.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/24/IMG-20251117-WA0007.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/24/IMG-20251117-WA0008.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/24/IMG-20251117-WA0009.jpg"
     ]
   },
   {
@@ -550,7 +550,7 @@ export const sacs = [
     "originalPrice": 4971,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/127/sac_a_dos_enfant149.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/127/sac_a_dos_enfant149.jpg",
     "taxType": "ttc",
     "colors": [
       "Navy",
@@ -563,7 +563,7 @@ export const sacs = [
     ],
     "minOrder": 22,
     "images": [
-      "/sac/127/sac_a_dos_enfant149.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/127/sac_a_dos_enfant149.jpg"
     ]
   },
   {
@@ -573,7 +573,7 @@ export const sacs = [
     "originalPrice": 5160,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/97/sac_a_main_femme_204.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/97/sac_a_main_femme_204.jpg",
     "taxType": "ht",
     "colors": [
       "Gris",
@@ -591,7 +591,7 @@ export const sacs = [
     ],
     "minOrder": 17,
     "images": [
-      "/sac/97/sac_a_main_femme_204.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/97/sac_a_main_femme_204.jpg"
     ]
   },
   {
@@ -601,7 +601,7 @@ export const sacs = [
     "originalPrice": 4013,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/43/sac_a_dos_enfant198.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/43/sac_a_dos_enfant198.jpg",
     "taxType": "ttc",
     "colors": [
       "Gris",
@@ -616,8 +616,8 @@ export const sacs = [
     ],
     "minOrder": 13,
     "images": [
-      "/sac/43/sac_a_dos_enfant198.jpg",
-      "/sac/43/sac_a_dos_enfant201.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/43/sac_a_dos_enfant198.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/43/sac_a_dos_enfant201.jpg"
     ]
   },
   {
@@ -627,7 +627,7 @@ export const sacs = [
     "originalPrice": 4114,
     "category": "sacs",
     "brand": "Various",
-    "image": "/sac/28/sac_a_dos_109.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/28/sac_a_dos_109.jpg",
     "taxType": "ttc",
     "colors": [
       "Bleu",
@@ -640,8 +640,8 @@ export const sacs = [
     ],
     "minOrder": 15,
     "images": [
-      "/sac/28/sac_a_dos_109.jpg",
-      "/sac/28/sac_a_dos_168.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/28/sac_a_dos_109.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/28/sac_a_dos_168.jpg"
     ]
   },
   {
@@ -651,7 +651,7 @@ export const sacs = [
     "originalPrice": 5327,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/116/sac_a_dos_enfant126.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/116/sac_a_dos_enfant126.jpg",
     "taxType": "ttc",
     "colors": [
       "Jaune",
@@ -665,7 +665,7 @@ export const sacs = [
     ],
     "minOrder": 11,
     "images": [
-      "/sac/116/sac_a_dos_enfant126.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/116/sac_a_dos_enfant126.jpg"
     ]
   },
   {
@@ -675,7 +675,7 @@ export const sacs = [
     "originalPrice": 4843,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/62/sac_a_main_femme_106.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/62/sac_a_main_femme_106.jpg",
     "taxType": "ht",
     "colors": [
       "Kaki",
@@ -695,11 +695,11 @@ export const sacs = [
     ],
     "minOrder": 10,
     "images": [
-      "/sac/62/sac_a_main_femme_106.jpg",
-      "/sac/62/sac_a_main_femme_120.jpg",
-      "/sac/62/sac_a_main_femme_132.jpg",
-      "/sac/62/sac_a_main_femme_144.jpg",
-      "/sac/62/sac_a_main_femme_156.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/62/sac_a_main_femme_106.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/62/sac_a_main_femme_120.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/62/sac_a_main_femme_132.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/62/sac_a_main_femme_144.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/62/sac_a_main_femme_156.jpg"
     ]
   },
   {
@@ -709,7 +709,7 @@ export const sacs = [
     "originalPrice": 5818,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/105/sac_a_main_femme_212.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/105/sac_a_main_femme_212.jpg",
     "taxType": "ht",
     "colors": [
       "Orange",
@@ -729,7 +729,7 @@ export const sacs = [
     ],
     "minOrder": 15,
     "images": [
-      "/sac/105/sac_a_main_femme_212.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/105/sac_a_main_femme_212.jpg"
     ]
   },
   {
@@ -739,7 +739,7 @@ export const sacs = [
     "originalPrice": 6668,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/106/sac_a_main_femme_213.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/106/sac_a_main_femme_213.jpg",
     "taxType": "ttc",
     "colors": [
       "Navy",
@@ -756,7 +756,7 @@ export const sacs = [
     ],
     "minOrder": 14,
     "images": [
-      "/sac/106/sac_a_main_femme_213.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/106/sac_a_main_femme_213.jpg"
     ]
   },
   {
@@ -766,7 +766,7 @@ export const sacs = [
     "originalPrice": 4851,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/93/sac_a_main_femme_200.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/93/sac_a_main_femme_200.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -782,7 +782,7 @@ export const sacs = [
     ],
     "minOrder": 13,
     "images": [
-      "/sac/93/sac_a_main_femme_200.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/93/sac_a_main_femme_200.jpg"
     ]
   },
   {
@@ -792,7 +792,7 @@ export const sacs = [
     "originalPrice": 3544,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/147/sac_a_dos_enfant181.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/147/sac_a_dos_enfant181.jpg",
     "taxType": "ttc",
     "colors": [
       "Navy",
@@ -806,7 +806,7 @@ export const sacs = [
     ],
     "minOrder": 20,
     "images": [
-      "/sac/147/sac_a_dos_enfant181.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/147/sac_a_dos_enfant181.jpg"
     ]
   },
   {
@@ -816,7 +816,7 @@ export const sacs = [
     "originalPrice": 4968,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/88/sac_a_main_femme_195.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/88/sac_a_main_femme_195.jpg",
     "taxType": "ttc",
     "colors": [
       "Violet",
@@ -834,7 +834,7 @@ export const sacs = [
     ],
     "minOrder": 25,
     "images": [
-      "/sac/88/sac_a_main_femme_195.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/88/sac_a_main_femme_195.jpg"
     ]
   },
   {
@@ -844,7 +844,7 @@ export const sacs = [
     "originalPrice": 5506,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/18/sac_a_main_femme_173.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/18/sac_a_main_femme_173.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -863,7 +863,7 @@ export const sacs = [
     ],
     "minOrder": 17,
     "images": [
-      "/sac/18/sac_a_main_femme_173.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/18/sac_a_main_femme_173.jpg"
     ]
   },
   {
@@ -873,7 +873,7 @@ export const sacs = [
     "originalPrice": 5057,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/53/sac_a_dos_enfant105.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/53/sac_a_dos_enfant105.jpg",
     "taxType": "ttc",
     "colors": [
       "Bleu",
@@ -888,8 +888,8 @@ export const sacs = [
     ],
     "minOrder": 20,
     "images": [
-      "/sac/53/sac_a_dos_enfant105.jpg",
-      "/sac/53/sac_a_dos_enfant107.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/53/sac_a_dos_enfant105.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/53/sac_a_dos_enfant107.jpg"
     ]
   },
   {
@@ -899,7 +899,7 @@ export const sacs = [
     "originalPrice": 5380,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/160/sac_a_dos_enfant196.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/160/sac_a_dos_enfant196.jpg",
     "taxType": "ht",
     "colors": [
       "Orange",
@@ -913,7 +913,7 @@ export const sacs = [
     ],
     "minOrder": 22,
     "images": [
-      "/sac/160/sac_a_dos_enfant196.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/160/sac_a_dos_enfant196.jpg"
     ]
   },
   {
@@ -923,7 +923,7 @@ export const sacs = [
     "originalPrice": 4411,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/144/sac_a_dos_enfant177.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/144/sac_a_dos_enfant177.jpg",
     "taxType": "ht",
     "colors": [
       "Jaune",
@@ -937,7 +937,7 @@ export const sacs = [
     ],
     "minOrder": 10,
     "images": [
-      "/sac/144/sac_a_dos_enfant177.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/144/sac_a_dos_enfant177.jpg"
     ]
   },
   {
@@ -947,7 +947,7 @@ export const sacs = [
     "originalPrice": 4416,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/171/sac_a_dos_enfant215.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/171/sac_a_dos_enfant215.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -960,7 +960,7 @@ export const sacs = [
     ],
     "minOrder": 10,
     "images": [
-      "/sac/171/sac_a_dos_enfant215.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/171/sac_a_dos_enfant215.jpg"
     ]
   },
   {
@@ -970,7 +970,7 @@ export const sacs = [
     "originalPrice": 4532,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/7/sac_a_main_femme_162.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/7/sac_a_main_femme_162.jpg",
     "taxType": "ht",
     "colors": [
       "Gris",
@@ -986,7 +986,7 @@ export const sacs = [
     ],
     "minOrder": 22,
     "images": [
-      "/sac/7/sac_a_main_femme_162.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/7/sac_a_main_femme_162.jpg"
     ]
   },
   {
@@ -996,7 +996,7 @@ export const sacs = [
     "originalPrice": 3336,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/149/sac_a_dos_enfant183.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/149/sac_a_dos_enfant183.jpg",
     "taxType": "ttc",
     "colors": [
       "Bordeaux",
@@ -1008,7 +1008,7 @@ export const sacs = [
     ],
     "minOrder": 15,
     "images": [
-      "/sac/149/sac_a_dos_enfant183.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/149/sac_a_dos_enfant183.jpg"
     ]
   },
   {
@@ -1018,7 +1018,7 @@ export const sacs = [
     "originalPrice": 5275,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/125/sac_a_dos_enfant145.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/125/sac_a_dos_enfant145.jpg",
     "taxType": "ht",
     "colors": [
       "Kaki",
@@ -1031,7 +1031,7 @@ export const sacs = [
     ],
     "minOrder": 10,
     "images": [
-      "/sac/125/sac_a_dos_enfant145.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/125/sac_a_dos_enfant145.jpg"
     ]
   },
   {
@@ -1041,7 +1041,7 @@ export const sacs = [
     "originalPrice": 4154,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/92/sac_a_main_femme_199.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/92/sac_a_main_femme_199.jpg",
     "taxType": "ht",
     "colors": [
       "Jaune",
@@ -1060,7 +1060,7 @@ export const sacs = [
     ],
     "minOrder": 17,
     "images": [
-      "/sac/92/sac_a_main_femme_199.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/92/sac_a_main_femme_199.jpg"
     ]
   },
   {
@@ -1070,7 +1070,7 @@ export const sacs = [
     "originalPrice": 4210,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/157/sac_a_dos_enfant191.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/157/sac_a_dos_enfant191.jpg",
     "taxType": "ttc",
     "colors": [
       "Gris",
@@ -1085,7 +1085,7 @@ export const sacs = [
     ],
     "minOrder": 22,
     "images": [
-      "/sac/157/sac_a_dos_enfant191.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/157/sac_a_dos_enfant191.jpg"
     ]
   },
   {
@@ -1095,7 +1095,7 @@ export const sacs = [
     "originalPrice": 4109,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/166/sac_a_dos_enfant209.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/166/sac_a_dos_enfant209.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -1110,7 +1110,7 @@ export const sacs = [
     ],
     "minOrder": 23,
     "images": [
-      "/sac/166/sac_a_dos_enfant209.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/166/sac_a_dos_enfant209.jpg"
     ]
   },
   {
@@ -1120,7 +1120,7 @@ export const sacs = [
     "originalPrice": 4332,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/15/sac_a_main_femme_170.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/15/sac_a_main_femme_170.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -1138,7 +1138,7 @@ export const sacs = [
     ],
     "minOrder": 18,
     "images": [
-      "/sac/15/sac_a_main_femme_170.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/15/sac_a_main_femme_170.jpg"
     ]
   },
   {
@@ -1148,7 +1148,7 @@ export const sacs = [
     "originalPrice": 6904,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/5/sac_a_main_femme_117.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/5/sac_a_main_femme_117.jpg",
     "taxType": "ht",
     "colors": [
       "Turquoise",
@@ -1167,9 +1167,9 @@ export const sacs = [
     ],
     "minOrder": 22,
     "images": [
-      "/sac/5/sac_a_main_femme_117.jpg",
-      "/sac/5/sac_a_main_femme_128.jpg",
-      "/sac/5/sac_a_main_femme_139.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/5/sac_a_main_femme_117.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/5/sac_a_main_femme_128.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/5/sac_a_main_femme_139.jpg"
     ]
   },
   {
@@ -1179,7 +1179,7 @@ export const sacs = [
     "originalPrice": 4259,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/130/sac_a_dos_enfant157.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/130/sac_a_dos_enfant157.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -1192,7 +1192,7 @@ export const sacs = [
     ],
     "minOrder": 14,
     "images": [
-      "/sac/130/sac_a_dos_enfant157.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/130/sac_a_dos_enfant157.jpg"
     ]
   },
   {
@@ -1202,7 +1202,7 @@ export const sacs = [
     "originalPrice": 4097,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/167/sac_a_dos_enfant210.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/167/sac_a_dos_enfant210.jpg",
     "taxType": "ttc",
     "colors": [
       "Taupe",
@@ -1216,7 +1216,7 @@ export const sacs = [
     ],
     "minOrder": 19,
     "images": [
-      "/sac/167/sac_a_dos_enfant210.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/167/sac_a_dos_enfant210.jpg"
     ]
   },
   {
@@ -1226,7 +1226,7 @@ export const sacs = [
     "originalPrice": 4399,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/146/sac_a_dos_enfant180.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/146/sac_a_dos_enfant180.jpg",
     "taxType": "ttc",
     "colors": [
       "Taupe",
@@ -1241,7 +1241,7 @@ export const sacs = [
     ],
     "minOrder": 23,
     "images": [
-      "/sac/146/sac_a_dos_enfant180.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/146/sac_a_dos_enfant180.jpg"
     ]
   },
   {
@@ -1251,7 +1251,7 @@ export const sacs = [
     "originalPrice": 5953,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/78/sac_a_main_femme_185.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/78/sac_a_main_femme_185.jpg",
     "taxType": "ht",
     "colors": [
       "Marron",
@@ -1269,7 +1269,7 @@ export const sacs = [
     ],
     "minOrder": 24,
     "images": [
-      "/sac/78/sac_a_main_femme_185.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/78/sac_a_main_femme_185.jpg"
     ]
   },
   {
@@ -1279,7 +1279,7 @@ export const sacs = [
     "originalPrice": 4462,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/126/sac_a_dos_enfant147.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/126/sac_a_dos_enfant147.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -1291,7 +1291,7 @@ export const sacs = [
     ],
     "minOrder": 24,
     "images": [
-      "/sac/126/sac_a_dos_enfant147.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/126/sac_a_dos_enfant147.jpg"
     ]
   },
   {
@@ -1301,7 +1301,7 @@ export const sacs = [
     "originalPrice": 4543,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/81/sac_a_main_femme_188.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/81/sac_a_main_femme_188.jpg",
     "taxType": "ttc",
     "colors": [
       "Bordeaux",
@@ -1318,7 +1318,7 @@ export const sacs = [
     ],
     "minOrder": 21,
     "images": [
-      "/sac/81/sac_a_main_femme_188.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/81/sac_a_main_femme_188.jpg"
     ]
   },
   {
@@ -1328,7 +1328,7 @@ export const sacs = [
     "originalPrice": 4657,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/139/sac_a_dos_enfant170.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/139/sac_a_dos_enfant170.jpg",
     "taxType": "ttc",
     "colors": [
       "Marron",
@@ -1345,7 +1345,7 @@ export const sacs = [
     ],
     "minOrder": 22,
     "images": [
-      "/sac/139/sac_a_dos_enfant170.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/139/sac_a_dos_enfant170.jpg"
     ]
   },
   {
@@ -1355,7 +1355,7 @@ export const sacs = [
     "originalPrice": 4315,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/17/sac_a_main_femme_172.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/17/sac_a_main_femme_172.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -1374,7 +1374,7 @@ export const sacs = [
     ],
     "minOrder": 20,
     "images": [
-      "/sac/17/sac_a_main_femme_172.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/17/sac_a_main_femme_172.jpg"
     ]
   },
   {
@@ -1384,7 +1384,7 @@ export const sacs = [
     "originalPrice": 4737,
     "category": "sacs",
     "brand": "Various",
-    "image": "/sac/41/sac_a_dos_118.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/41/sac_a_dos_118.jpg",
     "taxType": "ht",
     "colors": [
       "Bordeaux",
@@ -1401,8 +1401,8 @@ export const sacs = [
     ],
     "minOrder": 21,
     "images": [
-      "/sac/41/sac_a_dos_118.jpg",
-      "/sac/41/sac_a_dos_19.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/41/sac_a_dos_118.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/41/sac_a_dos_19.jpg"
     ]
   },
   {
@@ -1412,7 +1412,7 @@ export const sacs = [
     "originalPrice": 4964,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/71/sac_a_main_femme_178.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/71/sac_a_main_femme_178.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -1430,7 +1430,7 @@ export const sacs = [
     ],
     "minOrder": 20,
     "images": [
-      "/sac/71/sac_a_main_femme_178.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/71/sac_a_main_femme_178.jpg"
     ]
   },
   {
@@ -1440,7 +1440,7 @@ export const sacs = [
     "originalPrice": 4992,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/161/sac_a_dos_enfant197.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/161/sac_a_dos_enfant197.jpg",
     "taxType": "ht",
     "colors": [
       "Kaki",
@@ -1456,7 +1456,7 @@ export const sacs = [
     ],
     "minOrder": 16,
     "images": [
-      "/sac/161/sac_a_dos_enfant197.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/161/sac_a_dos_enfant197.jpg"
     ]
   },
   {
@@ -1466,7 +1466,7 @@ export const sacs = [
     "originalPrice": 6460,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/10/sac_a_main_femme_165.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/10/sac_a_main_femme_165.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -1483,7 +1483,7 @@ export const sacs = [
     ],
     "minOrder": 10,
     "images": [
-      "/sac/10/sac_a_main_femme_165.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/10/sac_a_main_femme_165.jpg"
     ]
   },
   {
@@ -1493,7 +1493,7 @@ export const sacs = [
     "originalPrice": 4122,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/168/sac_a_dos_enfant212.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/168/sac_a_dos_enfant212.jpg",
     "taxType": "ttc",
     "colors": [
       "Beige",
@@ -1506,7 +1506,7 @@ export const sacs = [
     ],
     "minOrder": 25,
     "images": [
-      "/sac/168/sac_a_dos_enfant212.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/168/sac_a_dos_enfant212.jpg"
     ]
   },
   {
@@ -1516,7 +1516,7 @@ export const sacs = [
     "originalPrice": 4755,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/148/sac_a_dos_enfant182.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/148/sac_a_dos_enfant182.jpg",
     "taxType": "ttc",
     "colors": [
       "Navy",
@@ -1531,7 +1531,7 @@ export const sacs = [
     ],
     "minOrder": 12,
     "images": [
-      "/sac/148/sac_a_dos_enfant182.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/148/sac_a_dos_enfant182.jpg"
     ]
   },
   {
@@ -1541,7 +1541,7 @@ export const sacs = [
     "originalPrice": 3628,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/151/sac_a_dos_enfant185.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/151/sac_a_dos_enfant185.jpg",
     "taxType": "ttc",
     "colors": [
       "Bleu",
@@ -1555,7 +1555,7 @@ export const sacs = [
     ],
     "minOrder": 10,
     "images": [
-      "/sac/151/sac_a_dos_enfant185.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/151/sac_a_dos_enfant185.jpg"
     ]
   },
   {
@@ -1565,7 +1565,7 @@ export const sacs = [
     "originalPrice": 4081,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/173/sac_a_dos_enfant217.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/173/sac_a_dos_enfant217.jpg",
     "taxType": "ht",
     "colors": [
       "Kaki",
@@ -1581,7 +1581,7 @@ export const sacs = [
     ],
     "minOrder": 10,
     "images": [
-      "/sac/173/sac_a_dos_enfant217.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/173/sac_a_dos_enfant217.jpg"
     ]
   },
   {
@@ -1591,7 +1591,7 @@ export const sacs = [
     "originalPrice": 4964,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/143/sac_a_dos_enfant175.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/143/sac_a_dos_enfant175.jpg",
     "taxType": "ttc",
     "colors": [
       "Gris",
@@ -1606,7 +1606,7 @@ export const sacs = [
     ],
     "minOrder": 16,
     "images": [
-      "/sac/143/sac_a_dos_enfant175.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/143/sac_a_dos_enfant175.jpg"
     ]
   },
   {
@@ -1616,7 +1616,7 @@ export const sacs = [
     "originalPrice": 3842,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/135/sac_a_dos_enfant166.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/135/sac_a_dos_enfant166.jpg",
     "taxType": "ht",
     "colors": [
       "Bordeaux",
@@ -1630,7 +1630,7 @@ export const sacs = [
     ],
     "minOrder": 19,
     "images": [
-      "/sac/135/sac_a_dos_enfant166.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/135/sac_a_dos_enfant166.jpg"
     ]
   },
   {
@@ -1640,7 +1640,7 @@ export const sacs = [
     "originalPrice": 4174,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/121/sac_a_dos_enfant138.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/121/sac_a_dos_enfant138.jpg",
     "taxType": "ht",
     "colors": [
       "Marron",
@@ -1653,7 +1653,7 @@ export const sacs = [
     ],
     "minOrder": 25,
     "images": [
-      "/sac/121/sac_a_dos_enfant138.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/121/sac_a_dos_enfant138.jpg"
     ]
   },
   {
@@ -1663,7 +1663,7 @@ export const sacs = [
     "originalPrice": 5302,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/82/sac_a_main_femme_189.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/82/sac_a_main_femme_189.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -1680,7 +1680,7 @@ export const sacs = [
     ],
     "minOrder": 22,
     "images": [
-      "/sac/82/sac_a_main_femme_189.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/82/sac_a_main_femme_189.jpg"
     ]
   },
   {
@@ -1690,7 +1690,7 @@ export const sacs = [
     "originalPrice": 3542,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/55/sac_a_dos_enfant158.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/55/sac_a_dos_enfant158.jpg",
     "taxType": "ht",
     "colors": [
       "Violet",
@@ -1704,8 +1704,8 @@ export const sacs = [
     ],
     "minOrder": 10,
     "images": [
-      "/sac/55/sac_a_dos_enfant158.jpg",
-      "/sac/55/sac_a_dos_enfant159.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/55/sac_a_dos_enfant158.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/55/sac_a_dos_enfant159.jpg"
     ]
   },
   {
@@ -1715,7 +1715,7 @@ export const sacs = [
     "originalPrice": 4840,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/69/sac_a_main_femme_154.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/69/sac_a_main_femme_154.jpg",
     "taxType": "ttc",
     "colors": [
       "Gris",
@@ -1733,10 +1733,10 @@ export const sacs = [
     ],
     "minOrder": 15,
     "images": [
-      "/sac/69/sac_a_main_femme_154.jpg",
-      "/sac/69/sac_a_main_femme_155.jpg",
-      "/sac/69/sac_a_main_femme_157.jpg",
-      "/sac/69/sac_a_main_femme_158.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/69/sac_a_main_femme_154.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/69/sac_a_main_femme_155.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/69/sac_a_main_femme_157.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/69/sac_a_main_femme_158.jpg"
     ]
   },
   {
@@ -1746,7 +1746,7 @@ export const sacs = [
     "originalPrice": 4280,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/91/sac_a_main_femme_198.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/91/sac_a_main_femme_198.jpg",
     "taxType": "ht",
     "colors": [
       "Kaki",
@@ -1764,7 +1764,7 @@ export const sacs = [
     ],
     "minOrder": 18,
     "images": [
-      "/sac/91/sac_a_main_femme_198.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/91/sac_a_main_femme_198.jpg"
     ]
   },
   {
@@ -1774,7 +1774,7 @@ export const sacs = [
     "originalPrice": 5159,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/90/sac_a_main_femme_197.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/90/sac_a_main_femme_197.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -1792,7 +1792,7 @@ export const sacs = [
     ],
     "minOrder": 13,
     "images": [
-      "/sac/90/sac_a_main_femme_197.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/90/sac_a_main_femme_197.jpg"
     ]
   },
   {
@@ -1802,7 +1802,7 @@ export const sacs = [
     "originalPrice": 4338,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/138/sac_a_dos_enfant169.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/138/sac_a_dos_enfant169.jpg",
     "taxType": "ttc",
     "colors": [
       "Jaune",
@@ -1818,7 +1818,7 @@ export const sacs = [
     ],
     "minOrder": 13,
     "images": [
-      "/sac/138/sac_a_dos_enfant169.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/138/sac_a_dos_enfant169.jpg"
     ]
   },
   {
@@ -1828,7 +1828,7 @@ export const sacs = [
     "originalPrice": 7068,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/75/sac_a_main_femme_182.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/75/sac_a_main_femme_182.jpg",
     "taxType": "ttc",
     "colors": [
       "Navy",
@@ -1846,7 +1846,7 @@ export const sacs = [
     ],
     "minOrder": 12,
     "images": [
-      "/sac/75/sac_a_main_femme_182.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/75/sac_a_main_femme_182.jpg"
     ]
   },
   {
@@ -1856,7 +1856,7 @@ export const sacs = [
     "originalPrice": 4574,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/165/sac_a_dos_enfant207.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/165/sac_a_dos_enfant207.jpg",
     "taxType": "ttc",
     "colors": [
       "Violet",
@@ -1870,7 +1870,7 @@ export const sacs = [
     ],
     "minOrder": 20,
     "images": [
-      "/sac/165/sac_a_dos_enfant207.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/165/sac_a_dos_enfant207.jpg"
     ]
   },
   {
@@ -1880,7 +1880,7 @@ export const sacs = [
     "originalPrice": 4652,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/155/sac_a_dos_enfant189.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/155/sac_a_dos_enfant189.jpg",
     "taxType": "ht",
     "colors": [
       "Gris",
@@ -1896,7 +1896,7 @@ export const sacs = [
     ],
     "minOrder": 10,
     "images": [
-      "/sac/155/sac_a_dos_enfant189.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/155/sac_a_dos_enfant189.jpg"
     ]
   },
   {
@@ -1906,7 +1906,7 @@ export const sacs = [
     "originalPrice": 4423,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/142/sac_a_dos_enfant174.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/142/sac_a_dos_enfant174.jpg",
     "taxType": "ttc",
     "colors": [
       "Gris",
@@ -1919,7 +1919,7 @@ export const sacs = [
     ],
     "minOrder": 22,
     "images": [
-      "/sac/142/sac_a_dos_enfant174.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/142/sac_a_dos_enfant174.jpg"
     ]
   },
   {
@@ -1929,7 +1929,7 @@ export const sacs = [
     "originalPrice": 5269,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/158/sac_a_dos_enfant192.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/158/sac_a_dos_enfant192.jpg",
     "taxType": "ht",
     "colors": [
       "Taupe",
@@ -1945,7 +1945,7 @@ export const sacs = [
     ],
     "minOrder": 17,
     "images": [
-      "/sac/158/sac_a_dos_enfant192.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/158/sac_a_dos_enfant192.jpg"
     ]
   },
   {
@@ -1955,7 +1955,7 @@ export const sacs = [
     "originalPrice": 4707,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/169/sac_a_dos_enfant213.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/169/sac_a_dos_enfant213.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -1968,7 +1968,7 @@ export const sacs = [
     ],
     "minOrder": 17,
     "images": [
-      "/sac/169/sac_a_dos_enfant213.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/169/sac_a_dos_enfant213.jpg"
     ]
   },
   {
@@ -1978,7 +1978,7 @@ export const sacs = [
     "originalPrice": 3559,
     "category": "sacs",
     "brand": "Various",
-    "image": "/sac/35/sac_a_dos_147.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/35/sac_a_dos_147.jpg",
     "taxType": "ht",
     "colors": [
       "Gris",
@@ -1991,7 +1991,7 @@ export const sacs = [
     ],
     "minOrder": 23,
     "images": [
-      "/sac/35/sac_a_dos_147.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/35/sac_a_dos_147.jpg"
     ]
   },
   {
@@ -2001,7 +2001,7 @@ export const sacs = [
     "originalPrice": 5783,
     "category": "sacs",
     "brand": "Various",
-    "image": "/sac/37/sac_a_dos_101.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/37/sac_a_dos_101.jpg",
     "taxType": "ht",
     "colors": [
       "Gris",
@@ -2017,16 +2017,16 @@ export const sacs = [
     ],
     "minOrder": 19,
     "images": [
-      "/sac/37/sac_a_dos_101.jpg",
-      "/sac/37/sac_a_dos_110.jpg",
-      "/sac/37/sac_a_dos_121.jpg",
-      "/sac/37/sac_a_dos_128.jpg",
-      "/sac/37/sac_a_dos_140.jpg",
-      "/sac/37/sac_a_dos_144.jpg",
-      "/sac/37/sac_a_dos_148.jpg",
-      "/sac/37/sac_a_dos_159.jpg",
-      "/sac/37/sac_a_dos_169.jpg",
-      "/sac/37/sac_a_dos_176.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/37/sac_a_dos_101.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/37/sac_a_dos_110.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/37/sac_a_dos_121.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/37/sac_a_dos_128.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/37/sac_a_dos_140.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/37/sac_a_dos_144.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/37/sac_a_dos_148.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/37/sac_a_dos_159.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/37/sac_a_dos_169.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/37/sac_a_dos_176.jpg"
     ]
   },
   {
@@ -2036,7 +2036,7 @@ export const sacs = [
     "originalPrice": 5471,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/48/sac_a_dos_enfant118.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/48/sac_a_dos_enfant118.jpg",
     "taxType": "ht",
     "colors": [
       "Vert",
@@ -2049,9 +2049,9 @@ export const sacs = [
     ],
     "minOrder": 23,
     "images": [
-      "/sac/48/sac_a_dos_enfant118.jpg",
-      "/sac/48/sac_a_dos_enfant119.jpg",
-      "/sac/48/sac_a_dos_enfant120.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/48/sac_a_dos_enfant118.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/48/sac_a_dos_enfant119.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/48/sac_a_dos_enfant120.jpg"
     ]
   },
   {
@@ -2061,7 +2061,7 @@ export const sacs = [
     "originalPrice": 4984,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/74/sac_a_main_femme_181.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/74/sac_a_main_femme_181.jpg",
     "taxType": "ttc",
     "colors": [
       "Turquoise",
@@ -2077,7 +2077,7 @@ export const sacs = [
     ],
     "minOrder": 13,
     "images": [
-      "/sac/74/sac_a_main_femme_181.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/74/sac_a_main_femme_181.jpg"
     ]
   },
   {
@@ -2087,7 +2087,7 @@ export const sacs = [
     "originalPrice": 3641,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/163/sac_a_dos_enfant203.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/163/sac_a_dos_enfant203.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -2100,7 +2100,7 @@ export const sacs = [
     ],
     "minOrder": 15,
     "images": [
-      "/sac/163/sac_a_dos_enfant203.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/163/sac_a_dos_enfant203.jpg"
     ]
   },
   {
@@ -2110,7 +2110,7 @@ export const sacs = [
     "originalPrice": 5396,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/120/sac_a_dos_enfant135.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/120/sac_a_dos_enfant135.jpg",
     "taxType": "ttc",
     "colors": [
       "Marron",
@@ -2122,7 +2122,7 @@ export const sacs = [
     ],
     "minOrder": 11,
     "images": [
-      "/sac/120/sac_a_dos_enfant135.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/120/sac_a_dos_enfant135.jpg"
     ]
   },
   {
@@ -2132,7 +2132,7 @@ export const sacs = [
     "originalPrice": 6166,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/100/sac_a_main_femme_207.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/100/sac_a_main_femme_207.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -2149,7 +2149,7 @@ export const sacs = [
     ],
     "minOrder": 13,
     "images": [
-      "/sac/100/sac_a_main_femme_207.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/100/sac_a_main_femme_207.jpg"
     ]
   },
   {
@@ -2159,7 +2159,7 @@ export const sacs = [
     "originalPrice": 4140,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/108/sac_a_dos_enfant103.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/108/sac_a_dos_enfant103.jpg",
     "taxType": "ttc",
     "colors": [
       "Taupe",
@@ -2176,7 +2176,7 @@ export const sacs = [
     ],
     "minOrder": 12,
     "images": [
-      "/sac/108/sac_a_dos_enfant103.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/108/sac_a_dos_enfant103.jpg"
     ]
   },
   {
@@ -2186,7 +2186,7 @@ export const sacs = [
     "originalPrice": 3705,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/136/sac_a_dos_enfant167.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/136/sac_a_dos_enfant167.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -2199,7 +2199,7 @@ export const sacs = [
     ],
     "minOrder": 15,
     "images": [
-      "/sac/136/sac_a_dos_enfant167.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/136/sac_a_dos_enfant167.jpg"
     ]
   },
   {
@@ -2209,7 +2209,7 @@ export const sacs = [
     "originalPrice": 3669,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/107/sac_a_dos_enfant102.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/107/sac_a_dos_enfant102.jpg",
     "taxType": "ht",
     "colors": [
       "Violet",
@@ -2222,7 +2222,7 @@ export const sacs = [
     ],
     "minOrder": 23,
     "images": [
-      "/sac/107/sac_a_dos_enfant102.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/107/sac_a_dos_enfant102.jpg"
     ]
   },
   {
@@ -2232,7 +2232,7 @@ export const sacs = [
     "originalPrice": 4815,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/20/sac_a_main_femme_176.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/20/sac_a_main_femme_176.jpg",
     "taxType": "ht",
     "colors": [
       "Navy",
@@ -2250,7 +2250,7 @@ export const sacs = [
     ],
     "minOrder": 17,
     "images": [
-      "/sac/20/sac_a_main_femme_176.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/20/sac_a_main_femme_176.jpg"
     ]
   },
   {
@@ -2260,7 +2260,7 @@ export const sacs = [
     "originalPrice": 4788,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/137/sac_a_dos_enfant168.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/137/sac_a_dos_enfant168.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -2274,7 +2274,7 @@ export const sacs = [
     ],
     "minOrder": 16,
     "images": [
-      "/sac/137/sac_a_dos_enfant168.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/137/sac_a_dos_enfant168.jpg"
     ]
   },
   {
@@ -2284,7 +2284,7 @@ export const sacs = [
     "originalPrice": 4205,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/104/sac_a_main_femme_211.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/104/sac_a_main_femme_211.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -2304,7 +2304,7 @@ export const sacs = [
     ],
     "minOrder": 11,
     "images": [
-      "/sac/104/sac_a_main_femme_211.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/104/sac_a_main_femme_211.jpg"
     ]
   },
   {
@@ -2314,7 +2314,7 @@ export const sacs = [
     "originalPrice": 3343,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/110/sac_a_dos_enfant108.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/110/sac_a_dos_enfant108.jpg",
     "taxType": "ttc",
     "colors": [
       "Navy",
@@ -2328,7 +2328,7 @@ export const sacs = [
     ],
     "minOrder": 10,
     "images": [
-      "/sac/110/sac_a_dos_enfant108.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/110/sac_a_dos_enfant108.jpg"
     ]
   },
   {
@@ -2338,7 +2338,7 @@ export const sacs = [
     "originalPrice": 4841,
     "category": "sacs",
     "brand": "Various",
-    "image": "/sac/36/sac_a_dos_178.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/36/sac_a_dos_178.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -2351,7 +2351,7 @@ export const sacs = [
     ],
     "minOrder": 18,
     "images": [
-      "/sac/36/sac_a_dos_178.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/36/sac_a_dos_178.jpg"
     ]
   },
   {
@@ -2361,7 +2361,7 @@ export const sacs = [
     "originalPrice": 5242,
     "category": "sacs",
     "brand": "Various",
-    "image": "/sac/40/sac_a_dos_173.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/40/sac_a_dos_173.jpg",
     "taxType": "ttc",
     "colors": [
       "Turquoise",
@@ -2375,7 +2375,7 @@ export const sacs = [
     ],
     "minOrder": 23,
     "images": [
-      "/sac/40/sac_a_dos_173.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/40/sac_a_dos_173.jpg"
     ]
   },
   {
@@ -2385,7 +2385,7 @@ export const sacs = [
     "originalPrice": 3966,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/51/sac_a_dos_enfant104.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/51/sac_a_dos_enfant104.jpg",
     "taxType": "ht",
     "colors": [
       "Gris",
@@ -2401,9 +2401,9 @@ export const sacs = [
     ],
     "minOrder": 15,
     "images": [
-      "/sac/51/sac_a_dos_enfant104.jpg",
-      "/sac/51/sac_a_dos_enfant122.jpg",
-      "/sac/51/sac_a_dos_enfant219.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/51/sac_a_dos_enfant104.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/51/sac_a_dos_enfant122.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/51/sac_a_dos_enfant219.jpg"
     ]
   },
   {
@@ -2413,7 +2413,7 @@ export const sacs = [
     "originalPrice": 4652,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/86/sac_a_main_femme_193.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/86/sac_a_main_femme_193.jpg",
     "taxType": "ttc",
     "colors": [
       "Taupe",
@@ -2433,7 +2433,7 @@ export const sacs = [
     ],
     "minOrder": 14,
     "images": [
-      "/sac/86/sac_a_main_femme_193.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/86/sac_a_main_femme_193.jpg"
     ]
   },
   {
@@ -2443,7 +2443,7 @@ export const sacs = [
     "originalPrice": 4830,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/113/sac_a_dos_enfant116.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/113/sac_a_dos_enfant116.jpg",
     "taxType": "ttc",
     "colors": [
       "Jaune",
@@ -2456,7 +2456,7 @@ export const sacs = [
     ],
     "minOrder": 12,
     "images": [
-      "/sac/113/sac_a_dos_enfant116.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/113/sac_a_dos_enfant116.jpg"
     ]
   },
   {
@@ -2466,7 +2466,7 @@ export const sacs = [
     "originalPrice": 6409,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/80/sac_a_main_femme_187.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/80/sac_a_main_femme_187.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -2485,7 +2485,7 @@ export const sacs = [
     ],
     "minOrder": 23,
     "images": [
-      "/sac/80/sac_a_main_femme_187.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/80/sac_a_main_femme_187.jpg"
     ]
   },
   {
@@ -2495,7 +2495,7 @@ export const sacs = [
     "originalPrice": 4767,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/96/sac_a_main_femme_203.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/96/sac_a_main_femme_203.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -2513,7 +2513,7 @@ export const sacs = [
     ],
     "minOrder": 11,
     "images": [
-      "/sac/96/sac_a_main_femme_203.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/96/sac_a_main_femme_203.jpg"
     ]
   },
   {
@@ -2523,7 +2523,7 @@ export const sacs = [
     "originalPrice": 4113,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/129/sac_a_dos_enfant155.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/129/sac_a_dos_enfant155.jpg",
     "taxType": "ht",
     "colors": [
       "Taupe",
@@ -2536,7 +2536,7 @@ export const sacs = [
     ],
     "minOrder": 14,
     "images": [
-      "/sac/129/sac_a_dos_enfant155.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/129/sac_a_dos_enfant155.jpg"
     ]
   },
   {
@@ -2546,7 +2546,7 @@ export const sacs = [
     "originalPrice": 4615,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/83/sac_a_main_femme_190.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/83/sac_a_main_femme_190.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -2566,7 +2566,7 @@ export const sacs = [
     ],
     "minOrder": 16,
     "images": [
-      "/sac/83/sac_a_main_femme_190.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/83/sac_a_main_femme_190.jpg"
     ]
   },
   {
@@ -2576,7 +2576,7 @@ export const sacs = [
     "originalPrice": 6286,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/21/sac_a_main_femme_177.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/21/sac_a_main_femme_177.jpg",
     "taxType": "ht",
     "colors": [
       "Orange",
@@ -2593,7 +2593,7 @@ export const sacs = [
     ],
     "minOrder": 20,
     "images": [
-      "/sac/21/sac_a_main_femme_177.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/21/sac_a_main_femme_177.jpg"
     ]
   },
   {
@@ -2603,7 +2603,7 @@ export const sacs = [
     "originalPrice": 3808,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/109/sac_a_dos_enfant106.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/109/sac_a_dos_enfant106.jpg",
     "taxType": "ttc",
     "colors": [
       "Vert",
@@ -2615,7 +2615,7 @@ export const sacs = [
     ],
     "minOrder": 18,
     "images": [
-      "/sac/109/sac_a_dos_enfant106.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/109/sac_a_dos_enfant106.jpg"
     ]
   },
   {
@@ -2625,7 +2625,7 @@ export const sacs = [
     "originalPrice": 5523,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/76/sac_a_main_femme_183.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/76/sac_a_main_femme_183.jpg",
     "taxType": "ttc",
     "colors": [
       "Camel",
@@ -2642,7 +2642,7 @@ export const sacs = [
     ],
     "minOrder": 17,
     "images": [
-      "/sac/76/sac_a_main_femme_183.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/76/sac_a_main_femme_183.jpg"
     ]
   },
   {
@@ -2652,7 +2652,7 @@ export const sacs = [
     "originalPrice": 4234,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/162/sac_a_dos_enfant199.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/162/sac_a_dos_enfant199.jpg",
     "taxType": "ht",
     "colors": [
       "Marron",
@@ -2666,7 +2666,7 @@ export const sacs = [
     ],
     "minOrder": 21,
     "images": [
-      "/sac/162/sac_a_dos_enfant199.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/162/sac_a_dos_enfant199.jpg"
     ]
   },
   {
@@ -2676,7 +2676,7 @@ export const sacs = [
     "originalPrice": 5484,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/72/sac_a_main_femme_179.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/72/sac_a_main_femme_179.jpg",
     "taxType": "ttc",
     "colors": [
       "Marron",
@@ -2696,7 +2696,7 @@ export const sacs = [
     ],
     "minOrder": 21,
     "images": [
-      "/sac/72/sac_a_main_femme_179.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/72/sac_a_main_femme_179.jpg"
     ]
   },
   {
@@ -2706,7 +2706,7 @@ export const sacs = [
     "originalPrice": 5829,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/9/sac_a_main_femme_164.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/9/sac_a_main_femme_164.jpg",
     "taxType": "ttc",
     "colors": [
       "Orange",
@@ -2723,7 +2723,7 @@ export const sacs = [
     ],
     "minOrder": 25,
     "images": [
-      "/sac/9/sac_a_main_femme_164.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/9/sac_a_main_femme_164.jpg"
     ]
   },
   {
@@ -2733,7 +2733,7 @@ export const sacs = [
     "originalPrice": 4452,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/8/sac_a_main_femme_163.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/8/sac_a_main_femme_163.jpg",
     "taxType": "ttc",
     "colors": [
       "Blanc",
@@ -2751,7 +2751,7 @@ export const sacs = [
     ],
     "minOrder": 12,
     "images": [
-      "/sac/8/sac_a_main_femme_163.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/8/sac_a_main_femme_163.jpg"
     ]
   },
   {
@@ -2761,7 +2761,7 @@ export const sacs = [
     "originalPrice": 4805,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/73/sac_a_main_femme_180.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/73/sac_a_main_femme_180.jpg",
     "taxType": "ttc",
     "colors": [
       "Taupe",
@@ -2781,7 +2781,7 @@ export const sacs = [
     ],
     "minOrder": 24,
     "images": [
-      "/sac/73/sac_a_main_femme_180.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/73/sac_a_main_femme_180.jpg"
     ]
   },
   {
@@ -2791,7 +2791,7 @@ export const sacs = [
     "originalPrice": 6031,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/89/sac_a_main_femme_196.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/89/sac_a_main_femme_196.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -2808,7 +2808,7 @@ export const sacs = [
     ],
     "minOrder": 12,
     "images": [
-      "/sac/89/sac_a_main_femme_196.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/89/sac_a_main_femme_196.jpg"
     ]
   },
   {
@@ -2818,7 +2818,7 @@ export const sacs = [
     "originalPrice": 4938,
     "category": "sacs",
     "brand": "Various",
-    "image": "/sac/30/sac_a_dos_102.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/30/sac_a_dos_102.jpg",
     "taxType": "ttc",
     "colors": [
       "Taupe",
@@ -2833,10 +2833,10 @@ export const sacs = [
     ],
     "minOrder": 14,
     "images": [
-      "/sac/30/sac_a_dos_102.jpg",
-      "/sac/30/sac_a_dos_105.jpg",
-      "/sac/30/sac_a_dos_111.jpg",
-      "/sac/30/sac_a_dos_122.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/30/sac_a_dos_102.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/30/sac_a_dos_105.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/30/sac_a_dos_111.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/30/sac_a_dos_122.jpg"
     ]
   },
   {
@@ -2846,7 +2846,7 @@ export const sacs = [
     "originalPrice": 5623,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/117/sac_a_dos_enfant131.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/117/sac_a_dos_enfant131.jpg",
     "taxType": "ttc",
     "colors": [
       "Orange",
@@ -2861,7 +2861,7 @@ export const sacs = [
     ],
     "minOrder": 16,
     "images": [
-      "/sac/117/sac_a_dos_enfant131.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/117/sac_a_dos_enfant131.jpg"
     ]
   },
   {
@@ -2871,7 +2871,7 @@ export const sacs = [
     "originalPrice": 4580,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/164/sac_a_dos_enfant205.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/164/sac_a_dos_enfant205.jpg",
     "taxType": "ttc",
     "colors": [
       "Taupe",
@@ -2886,7 +2886,7 @@ export const sacs = [
     ],
     "minOrder": 14,
     "images": [
-      "/sac/164/sac_a_dos_enfant205.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/164/sac_a_dos_enfant205.jpg"
     ]
   },
   {
@@ -2896,7 +2896,7 @@ export const sacs = [
     "originalPrice": 3887,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/152/sac_a_dos_enfant186.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/152/sac_a_dos_enfant186.jpg",
     "taxType": "ttc",
     "colors": [
       "Kaki",
@@ -2910,7 +2910,7 @@ export const sacs = [
     ],
     "minOrder": 10,
     "images": [
-      "/sac/152/sac_a_dos_enfant186.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/152/sac_a_dos_enfant186.jpg"
     ]
   },
   {
@@ -2920,7 +2920,7 @@ export const sacs = [
     "originalPrice": 5375,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/52/sac_a_dos_enfant123.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/52/sac_a_dos_enfant123.jpg",
     "taxType": "ttc",
     "colors": [
       "Camel",
@@ -2934,8 +2934,8 @@ export const sacs = [
     ],
     "minOrder": 20,
     "images": [
-      "/sac/52/sac_a_dos_enfant123.jpg",
-      "/sac/52/sac_a_dos_enfant220.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/52/sac_a_dos_enfant123.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/52/sac_a_dos_enfant220.jpg"
     ]
   },
   {
@@ -2945,7 +2945,7 @@ export const sacs = [
     "originalPrice": 6595,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/61/sac_a_main_femme_214.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/61/sac_a_main_femme_214.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -2964,7 +2964,7 @@ export const sacs = [
     ],
     "minOrder": 12,
     "images": [
-      "/sac/61/sac_a_main_femme_214.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/61/sac_a_main_femme_214.jpg"
     ]
   },
   {
@@ -2974,7 +2974,7 @@ export const sacs = [
     "originalPrice": 4733,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/56/sac_a_dos_enfant153.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/56/sac_a_dos_enfant153.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -2986,8 +2986,8 @@ export const sacs = [
     ],
     "minOrder": 10,
     "images": [
-      "/sac/56/sac_a_dos_enfant153.jpg",
-      "/sac/56/sac_a_dos_enfant156.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/56/sac_a_dos_enfant153.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/56/sac_a_dos_enfant156.jpg"
     ]
   },
   {
@@ -2997,7 +2997,7 @@ export const sacs = [
     "originalPrice": 3936,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/13/sac_a_main_femme_168.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/13/sac_a_main_femme_168.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -3014,7 +3014,7 @@ export const sacs = [
     ],
     "minOrder": 13,
     "images": [
-      "/sac/13/sac_a_main_femme_168.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/13/sac_a_main_femme_168.jpg"
     ]
   },
   {
@@ -3024,7 +3024,7 @@ export const sacs = [
     "originalPrice": 4312,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/42/sac_a_dos_enfant137.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/42/sac_a_dos_enfant137.jpg",
     "taxType": "ht",
     "colors": [
       "Beige",
@@ -3040,7 +3040,7 @@ export const sacs = [
     ],
     "minOrder": 13,
     "images": [
-      "/sac/42/sac_a_dos_enfant137.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/42/sac_a_dos_enfant137.jpg"
     ]
   },
   {
@@ -3050,7 +3050,7 @@ export const sacs = [
     "originalPrice": 4410,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/141/sac_a_dos_enfant172.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/141/sac_a_dos_enfant172.jpg",
     "taxType": "ht",
     "colors": [
       "Navy",
@@ -3064,7 +3064,7 @@ export const sacs = [
     ],
     "minOrder": 15,
     "images": [
-      "/sac/141/sac_a_dos_enfant172.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/141/sac_a_dos_enfant172.jpg"
     ]
   },
   {
@@ -3074,7 +3074,7 @@ export const sacs = [
     "originalPrice": 5035,
     "category": "sacs",
     "brand": "Various",
-    "image": "/sac/39/sac_a_dos_181.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/39/sac_a_dos_181.jpg",
     "taxType": "ttc",
     "colors": [
       "Vert",
@@ -3086,7 +3086,7 @@ export const sacs = [
     ],
     "minOrder": 14,
     "images": [
-      "/sac/39/sac_a_dos_181.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/39/sac_a_dos_181.jpg"
     ]
   },
   {
@@ -3096,7 +3096,7 @@ export const sacs = [
     "originalPrice": 4319,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/47/sac_a_dos_enfant200.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/47/sac_a_dos_enfant200.jpg",
     "taxType": "ttc",
     "colors": [
       "Blanc",
@@ -3110,9 +3110,9 @@ export const sacs = [
     ],
     "minOrder": 25,
     "images": [
-      "/sac/47/sac_a_dos_enfant200.jpg",
-      "/sac/47/sac_a_dos_enfant202.jpg",
-      "/sac/47/sac_a_dos_enfant211.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/47/sac_a_dos_enfant200.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/47/sac_a_dos_enfant202.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/47/sac_a_dos_enfant211.jpg"
     ]
   },
   {
@@ -3122,7 +3122,7 @@ export const sacs = [
     "originalPrice": 5269,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/58/sac_a_dos_enfant.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/58/sac_a_dos_enfant.jpg",
     "taxType": "ttc",
     "colors": [
       "Bordeaux",
@@ -3136,8 +3136,8 @@ export const sacs = [
     ],
     "minOrder": 10,
     "images": [
-      "/sac/58/sac_a_dos_enfant.jpg",
-      "/sac/58/sac_a_dos_enfant148.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/58/sac_a_dos_enfant.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/58/sac_a_dos_enfant148.jpg"
     ]
   },
   {
@@ -3147,7 +3147,7 @@ export const sacs = [
     "originalPrice": 4121,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/114/sac_a_dos_enfant117.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/114/sac_a_dos_enfant117.jpg",
     "taxType": "ttc",
     "colors": [
       "Beige",
@@ -3160,7 +3160,7 @@ export const sacs = [
     ],
     "minOrder": 25,
     "images": [
-      "/sac/114/sac_a_dos_enfant117.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/114/sac_a_dos_enfant117.jpg"
     ]
   },
   {
@@ -3170,7 +3170,7 @@ export const sacs = [
     "originalPrice": 5120,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/170/sac_a_dos_enfant214.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/170/sac_a_dos_enfant214.jpg",
     "taxType": "ttc",
     "colors": [
       "Orange",
@@ -3185,7 +3185,7 @@ export const sacs = [
     ],
     "minOrder": 20,
     "images": [
-      "/sac/170/sac_a_dos_enfant214.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/170/sac_a_dos_enfant214.jpg"
     ]
   },
   {
@@ -3195,7 +3195,7 @@ export const sacs = [
     "originalPrice": 3603,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/156/sac_a_dos_enfant190.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/156/sac_a_dos_enfant190.jpg",
     "taxType": "ht",
     "colors": [
       "Blanc",
@@ -3210,7 +3210,7 @@ export const sacs = [
     ],
     "minOrder": 25,
     "images": [
-      "/sac/156/sac_a_dos_enfant190.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/156/sac_a_dos_enfant190.jpg"
     ]
   },
   {
@@ -3220,7 +3220,7 @@ export const sacs = [
     "originalPrice": 5103,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/46/sac_a_dos_enfant128.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/46/sac_a_dos_enfant128.jpg",
     "taxType": "ht",
     "colors": [
       "Vert",
@@ -3233,10 +3233,10 @@ export const sacs = [
     ],
     "minOrder": 21,
     "images": [
-      "/sac/46/sac_a_dos_enfant128.jpg",
-      "/sac/46/sac_a_dos_enfant129.jpg",
-      "/sac/46/sac_a_dos_enfant130.jpg",
-      "/sac/46/sac_a_dos_enfant132.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/46/sac_a_dos_enfant128.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/46/sac_a_dos_enfant129.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/46/sac_a_dos_enfant130.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/46/sac_a_dos_enfant132.jpg"
     ]
   },
   {
@@ -3246,7 +3246,7 @@ export const sacs = [
     "originalPrice": 5204,
     "category": "sacs",
     "brand": "Various",
-    "image": "/sac/27/sac_a_dos_100.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/27/sac_a_dos_100.jpg",
     "taxType": "ttc",
     "colors": [
       "Blanc",
@@ -3259,8 +3259,8 @@ export const sacs = [
     ],
     "minOrder": 25,
     "images": [
-      "/sac/27/sac_a_dos_100.jpg",
-      "/sac/27/sac_a_dos_120.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/27/sac_a_dos_100.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/27/sac_a_dos_120.jpg"
     ]
   },
   {
@@ -3270,7 +3270,7 @@ export const sacs = [
     "originalPrice": 6218,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/22/sac_a_main_femme_175.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/22/sac_a_main_femme_175.jpg",
     "taxType": "ttc",
     "colors": [
       "Jaune",
@@ -3286,7 +3286,7 @@ export const sacs = [
     ],
     "minOrder": 18,
     "images": [
-      "/sac/22/sac_a_main_femme_175.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/22/sac_a_main_femme_175.jpg"
     ]
   },
   {
@@ -3296,7 +3296,7 @@ export const sacs = [
     "originalPrice": 4141,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/44/sac_a_dos_enfant143.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/44/sac_a_dos_enfant143.jpg",
     "taxType": "ttc",
     "colors": [
       "Bordeaux",
@@ -3312,8 +3312,8 @@ export const sacs = [
     ],
     "minOrder": 15,
     "images": [
-      "/sac/44/sac_a_dos_enfant143.jpg",
-      "/sac/44/sac_a_dos_enfant146.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/44/sac_a_dos_enfant143.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/44/sac_a_dos_enfant146.jpg"
     ]
   },
   {
@@ -3323,7 +3323,7 @@ export const sacs = [
     "originalPrice": 4364,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/87/sac_a_main_femme_194.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/87/sac_a_main_femme_194.jpg",
     "taxType": "ht",
     "colors": [
       "Jaune",
@@ -3339,7 +3339,7 @@ export const sacs = [
     ],
     "minOrder": 11,
     "images": [
-      "/sac/87/sac_a_main_femme_194.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/87/sac_a_main_femme_194.jpg"
     ]
   },
   {
@@ -3349,7 +3349,7 @@ export const sacs = [
     "originalPrice": 3925,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/84/sac_a_main_femme_191.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/84/sac_a_main_femme_191.jpg",
     "taxType": "ht",
     "colors": [
       "Navy",
@@ -3365,7 +3365,7 @@ export const sacs = [
     ],
     "minOrder": 11,
     "images": [
-      "/sac/84/sac_a_main_femme_191.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/84/sac_a_main_femme_191.jpg"
     ]
   },
   {
@@ -3375,7 +3375,7 @@ export const sacs = [
     "originalPrice": 4854,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/57/sac_a_dos_enfant176.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/57/sac_a_dos_enfant176.jpg",
     "taxType": "ht",
     "colors": [
       "Orange",
@@ -3390,8 +3390,8 @@ export const sacs = [
     ],
     "minOrder": 15,
     "images": [
-      "/sac/57/sac_a_dos_enfant176.jpg",
-      "/sac/57/sac_a_dos_enfant178.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/57/sac_a_dos_enfant176.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/57/sac_a_dos_enfant178.jpg"
     ]
   },
   {
@@ -3401,7 +3401,7 @@ export const sacs = [
     "originalPrice": 4544,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/45/sac_a_dos_enfant139.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/45/sac_a_dos_enfant139.jpg",
     "taxType": "ht",
     "colors": [
       "Gris",
@@ -3414,8 +3414,8 @@ export const sacs = [
     ],
     "minOrder": 12,
     "images": [
-      "/sac/45/sac_a_dos_enfant139.jpg",
-      "/sac/45/sac_a_dos_enfant140.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/45/sac_a_dos_enfant139.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/45/sac_a_dos_enfant140.jpg"
     ]
   },
   {
@@ -3425,7 +3425,7 @@ export const sacs = [
     "originalPrice": 3825,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/174/sac_a_dos_enfant218.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/174/sac_a_dos_enfant218.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -3440,7 +3440,7 @@ export const sacs = [
     ],
     "minOrder": 24,
     "images": [
-      "/sac/174/sac_a_dos_enfant218.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/174/sac_a_dos_enfant218.jpg"
     ]
   },
   {
@@ -3450,7 +3450,7 @@ export const sacs = [
     "originalPrice": 5941,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/67/sac_a_main_femme_118.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/67/sac_a_main_femme_118.jpg",
     "taxType": "ttc",
     "colors": [
       "Turquoise",
@@ -3468,8 +3468,8 @@ export const sacs = [
     ],
     "minOrder": 25,
     "images": [
-      "/sac/67/sac_a_main_femme_118.jpg",
-      "/sac/67/sac_a_main_femme_131.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/67/sac_a_main_femme_118.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/67/sac_a_main_femme_131.jpg"
     ]
   },
   {
@@ -3479,7 +3479,7 @@ export const sacs = [
     "originalPrice": 4710,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/16/sac_a_main_femme_171.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/16/sac_a_main_femme_171.jpg",
     "taxType": "ht",
     "colors": [
       "Kaki",
@@ -3497,7 +3497,7 @@ export const sacs = [
     ],
     "minOrder": 22,
     "images": [
-      "/sac/16/sac_a_main_femme_171.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/16/sac_a_main_femme_171.jpg"
     ]
   },
   {
@@ -3507,7 +3507,7 @@ export const sacs = [
     "originalPrice": 4943,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/118/sac_a_dos_enfant133.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/118/sac_a_dos_enfant133.jpg",
     "taxType": "ttc",
     "colors": [
       "Bleu",
@@ -3521,7 +3521,7 @@ export const sacs = [
     ],
     "minOrder": 12,
     "images": [
-      "/sac/118/sac_a_dos_enfant133.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/118/sac_a_dos_enfant133.jpg"
     ]
   },
   {
@@ -3531,7 +3531,7 @@ export const sacs = [
     "originalPrice": 5732,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/77/sac_a_main_femme_184.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/77/sac_a_main_femme_184.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -3548,7 +3548,7 @@ export const sacs = [
     ],
     "minOrder": 24,
     "images": [
-      "/sac/77/sac_a_main_femme_184.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/77/sac_a_main_femme_184.jpg"
     ]
   },
   {
@@ -3558,7 +3558,7 @@ export const sacs = [
     "originalPrice": 3820,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/159/sac_a_dos_enfant194.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/159/sac_a_dos_enfant194.jpg",
     "taxType": "ttc",
     "colors": [
       "Bleu",
@@ -3573,7 +3573,7 @@ export const sacs = [
     ],
     "minOrder": 20,
     "images": [
-      "/sac/159/sac_a_dos_enfant194.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/159/sac_a_dos_enfant194.jpg"
     ]
   },
   {
@@ -3583,7 +3583,7 @@ export const sacs = [
     "originalPrice": 4908,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/49/sac_a_dos_enfant110.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/49/sac_a_dos_enfant110.jpg",
     "taxType": "ttc",
     "colors": [
       "Bordeaux",
@@ -3598,9 +3598,9 @@ export const sacs = [
     ],
     "minOrder": 20,
     "images": [
-      "/sac/49/sac_a_dos_enfant110.jpg",
-      "/sac/49/sac_a_dos_enfant112.jpg",
-      "/sac/49/sac_a_dos_enfant115.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/49/sac_a_dos_enfant110.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/49/sac_a_dos_enfant112.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/49/sac_a_dos_enfant115.jpg"
     ]
   },
   {
@@ -3610,7 +3610,7 @@ export const sacs = [
     "originalPrice": 5807,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/70/sac_a_main_femme_143.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/70/sac_a_main_femme_143.jpg",
     "taxType": "ttc",
     "colors": [
       "Navy",
@@ -3630,10 +3630,10 @@ export const sacs = [
     ],
     "minOrder": 22,
     "images": [
-      "/sac/70/sac_a_main_femme_143.jpg",
-      "/sac/70/sac_a_main_femme_145.jpg",
-      "/sac/70/sac_a_main_femme_149.jpg",
-      "/sac/70/sac_a_main_femme_151.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/70/sac_a_main_femme_143.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/70/sac_a_main_femme_145.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/70/sac_a_main_femme_149.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/70/sac_a_main_femme_151.jpg"
     ]
   },
   {
@@ -3643,7 +3643,7 @@ export const sacs = [
     "originalPrice": 4410,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/128/sac_a_dos_enfant151.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/128/sac_a_dos_enfant151.jpg",
     "taxType": "ttc",
     "colors": [
       "Vert",
@@ -3657,7 +3657,7 @@ export const sacs = [
     ],
     "minOrder": 22,
     "images": [
-      "/sac/128/sac_a_dos_enfant151.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/128/sac_a_dos_enfant151.jpg"
     ]
   },
   {
@@ -3667,7 +3667,7 @@ export const sacs = [
     "originalPrice": 4000,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/154/sac_a_dos_enfant188.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/154/sac_a_dos_enfant188.jpg",
     "taxType": "ttc",
     "colors": [
       "Bordeaux",
@@ -3680,7 +3680,7 @@ export const sacs = [
     ],
     "minOrder": 14,
     "images": [
-      "/sac/154/sac_a_dos_enfant188.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/154/sac_a_dos_enfant188.jpg"
     ]
   },
   {
@@ -3690,7 +3690,7 @@ export const sacs = [
     "originalPrice": 5410,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/25/Asac_a_main_femme.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/25/Asac_a_main_femme.jpg",
     "taxType": "ttc",
     "colors": [
       "Taupe",
@@ -3709,11 +3709,11 @@ export const sacs = [
     ],
     "minOrder": 13,
     "images": [
-      "/sac/25/Asac_a_main_femme.jpg",
-      "/sac/25/IMG-20251114-WA0035.jpg",
-      "/sac/25/IMG-20251114-WA0036.jpg",
-      "/sac/25/IMG-20251114-WA0037.jpg",
-      "/sac/25/IMG-20251114-WA0038.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/25/Asac_a_main_femme.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/25/IMG-20251114-WA0035.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/25/IMG-20251114-WA0036.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/25/IMG-20251114-WA0037.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/25/IMG-20251114-WA0038.jpg"
     ]
   },
   {
@@ -3723,7 +3723,7 @@ export const sacs = [
     "originalPrice": 4451,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/65/sac_a_main_femme_108.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/65/sac_a_main_femme_108.jpg",
     "taxType": "ttc",
     "colors": [
       "Violet",
@@ -3741,7 +3741,7 @@ export const sacs = [
     ],
     "minOrder": 11,
     "images": [
-      "/sac/65/sac_a_main_femme_108.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/65/sac_a_main_femme_108.jpg"
     ]
   },
   {
@@ -3751,7 +3751,7 @@ export const sacs = [
     "originalPrice": 5118,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/68/sac_a_main_femme_103.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/68/sac_a_main_femme_103.jpg",
     "taxType": "ht",
     "colors": [
       "Gris",
@@ -3772,10 +3772,10 @@ export const sacs = [
     ],
     "minOrder": 18,
     "images": [
-      "/sac/68/sac_a_main_femme_103.jpg",
-      "/sac/68/sac_a_main_femme_138.jpg",
-      "/sac/68/sac_a_main_femme_147.jpg",
-      "/sac/68/sac_a_main_femme_153.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/68/sac_a_main_femme_103.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/68/sac_a_main_femme_138.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/68/sac_a_main_femme_147.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/68/sac_a_main_femme_153.jpg"
     ]
   },
   {
@@ -3785,7 +3785,7 @@ export const sacs = [
     "originalPrice": 4943,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/99/sac_a_main_femme_206.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/99/sac_a_main_femme_206.jpg",
     "taxType": "ttc",
     "colors": [
       "Vert",
@@ -3802,7 +3802,7 @@ export const sacs = [
     ],
     "minOrder": 21,
     "images": [
-      "/sac/99/sac_a_main_femme_206.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/99/sac_a_main_femme_206.jpg"
     ]
   },
   {
@@ -3812,7 +3812,7 @@ export const sacs = [
     "originalPrice": 4915,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/63/sac_a_main_femme_134.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/63/sac_a_main_femme_134.jpg",
     "taxType": "ht",
     "colors": [
       "Jaune",
@@ -3829,9 +3829,9 @@ export const sacs = [
     ],
     "minOrder": 10,
     "images": [
-      "/sac/63/sac_a_main_femme_134.jpg",
-      "/sac/63/sac_a_main_femme_135.jpg",
-      "/sac/63/sac_a_main_femme_142.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/63/sac_a_main_femme_134.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/63/sac_a_main_femme_135.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/63/sac_a_main_femme_142.jpg"
     ]
   },
   {
@@ -3841,7 +3841,7 @@ export const sacs = [
     "originalPrice": 5682,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/101/sac_a_main_femme_208.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/101/sac_a_main_femme_208.jpg",
     "taxType": "ttc",
     "colors": [
       "Gris",
@@ -3860,7 +3860,7 @@ export const sacs = [
     ],
     "minOrder": 23,
     "images": [
-      "/sac/101/sac_a_main_femme_208.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/101/sac_a_main_femme_208.jpg"
     ]
   },
   {
@@ -3870,7 +3870,7 @@ export const sacs = [
     "originalPrice": 3678,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/50/sac_a_dos_enfant193.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/50/sac_a_dos_enfant193.jpg",
     "taxType": "ttc",
     "colors": [
       "Vert",
@@ -3883,8 +3883,8 @@ export const sacs = [
     ],
     "minOrder": 15,
     "images": [
-      "/sac/50/sac_a_dos_enfant193.jpg",
-      "/sac/50/sac_a_dos_enfant195.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/50/sac_a_dos_enfant193.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/50/sac_a_dos_enfant195.jpg"
     ]
   },
   {
@@ -3894,7 +3894,7 @@ export const sacs = [
     "originalPrice": 4368,
     "category": "sacs",
     "brand": "Various",
-    "image": "/sac/33/sac_a_dos_143.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/33/sac_a_dos_143.jpg",
     "taxType": "ht",
     "colors": [
       "Beige",
@@ -3906,7 +3906,7 @@ export const sacs = [
     ],
     "minOrder": 10,
     "images": [
-      "/sac/33/sac_a_dos_143.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/33/sac_a_dos_143.jpg"
     ]
   },
   {
@@ -3916,7 +3916,7 @@ export const sacs = [
     "originalPrice": 6063,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/2/sac_a_main_femme_111.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/2/sac_a_main_femme_111.jpg",
     "taxType": "ttc",
     "colors": [
       "Blanc",
@@ -3933,11 +3933,11 @@ export const sacs = [
     ],
     "minOrder": 15,
     "images": [
-      "/sac/2/sac_a_main_femme_111.jpg",
-      "/sac/2/sac_a_main_femme_112.jpg",
-      "/sac/2/sac_a_main_femme_113.jpg",
-      "/sac/2/sac_a_main_femme_114.jpg",
-      "/sac/2/sac_a_main_femme_115.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/2/sac_a_main_femme_111.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/2/sac_a_main_femme_112.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/2/sac_a_main_femme_113.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/2/sac_a_main_femme_114.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/2/sac_a_main_femme_115.jpg"
     ]
   },
   {
@@ -3947,7 +3947,7 @@ export const sacs = [
     "originalPrice": 4730,
     "category": "sacs",
     "brand": "Various",
-    "image": "/sac/38/sac_a_dos_106.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/38/sac_a_dos_106.jpg",
     "taxType": "ht",
     "colors": [
       "Kaki",
@@ -3964,7 +3964,7 @@ export const sacs = [
     ],
     "minOrder": 14,
     "images": [
-      "/sac/38/sac_a_dos_106.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/38/sac_a_dos_106.jpg"
     ]
   },
   {
@@ -3974,7 +3974,7 @@ export const sacs = [
     "originalPrice": 6733,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/19/sac_a_main_femme_174.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/19/sac_a_main_femme_174.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -3991,7 +3991,7 @@ export const sacs = [
     ],
     "minOrder": 23,
     "images": [
-      "/sac/19/sac_a_main_femme_174.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/19/sac_a_main_femme_174.jpg"
     ]
   },
   {
@@ -4001,7 +4001,7 @@ export const sacs = [
     "originalPrice": 4919,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/150/sac_a_dos_enfant184.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/150/sac_a_dos_enfant184.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -4015,7 +4015,7 @@ export const sacs = [
     ],
     "minOrder": 19,
     "images": [
-      "/sac/150/sac_a_dos_enfant184.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/150/sac_a_dos_enfant184.jpg"
     ]
   },
   {
@@ -4025,7 +4025,7 @@ export const sacs = [
     "originalPrice": 4721,
     "category": "sacs",
     "brand": "Various",
-    "image": "/sac/29/sac_a_dos_175.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/29/sac_a_dos_175.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -4038,9 +4038,9 @@ export const sacs = [
     ],
     "minOrder": 11,
     "images": [
-      "/sac/29/sac_a_dos_175.jpg",
-      "/sac/29/sac_a_dos_177.jpg",
-      "/sac/29/sac_a_dos_179.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/29/sac_a_dos_175.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/29/sac_a_dos_177.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/29/sac_a_dos_179.jpg"
     ]
   },
   {
@@ -4050,7 +4050,7 @@ export const sacs = [
     "originalPrice": 5849,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/98/sac_a_main_femme_205.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/98/sac_a_main_femme_205.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -4068,7 +4068,7 @@ export const sacs = [
     ],
     "minOrder": 22,
     "images": [
-      "/sac/98/sac_a_main_femme_205.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/98/sac_a_main_femme_205.jpg"
     ]
   },
   {
@@ -4078,7 +4078,7 @@ export const sacs = [
     "originalPrice": 5174,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/124/sac_a_dos_enfant144.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/124/sac_a_dos_enfant144.jpg",
     "taxType": "ttc",
     "colors": [
       "Marron",
@@ -4094,7 +4094,7 @@ export const sacs = [
     ],
     "minOrder": 20,
     "images": [
-      "/sac/124/sac_a_dos_enfant144.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/124/sac_a_dos_enfant144.jpg"
     ]
   },
   {
@@ -4104,7 +4104,7 @@ export const sacs = [
     "originalPrice": 5810,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/103/sac_a_main_femme_210.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/103/sac_a_main_femme_210.jpg",
     "taxType": "ttc",
     "colors": [
       "Bleu",
@@ -4122,7 +4122,7 @@ export const sacs = [
     ],
     "minOrder": 15,
     "images": [
-      "/sac/103/sac_a_main_femme_210.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/103/sac_a_main_femme_210.jpg"
     ]
   },
   {
@@ -4132,7 +4132,7 @@ export const sacs = [
     "originalPrice": 7045,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/11/sac_a_main_femme_166.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/11/sac_a_main_femme_166.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -4150,7 +4150,7 @@ export const sacs = [
     ],
     "minOrder": 16,
     "images": [
-      "/sac/11/sac_a_main_femme_166.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/11/sac_a_main_femme_166.jpg"
     ]
   },
   {
@@ -4160,7 +4160,7 @@ export const sacs = [
     "originalPrice": 5128,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/133/sac_a_dos_enfant164.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/133/sac_a_dos_enfant164.jpg",
     "taxType": "ht",
     "colors": [
       "Blanc",
@@ -4175,7 +4175,7 @@ export const sacs = [
     ],
     "minOrder": 23,
     "images": [
-      "/sac/133/sac_a_dos_enfant164.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/133/sac_a_dos_enfant164.jpg"
     ]
   },
   {
@@ -4185,7 +4185,7 @@ export const sacs = [
     "originalPrice": 4421,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/3/sac_a_main_femme_121.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/3/sac_a_main_femme_121.jpg",
     "taxType": "ttc",
     "colors": [
       "Turquoise",
@@ -4202,10 +4202,10 @@ export const sacs = [
     ],
     "minOrder": 20,
     "images": [
-      "/sac/3/sac_a_main_femme_121.jpg",
-      "/sac/3/sac_a_main_femme_122.jpg",
-      "/sac/3/sac_a_main_femme_123.jpg",
-      "/sac/3/sac_a_main_femme_124.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/3/sac_a_main_femme_121.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/3/sac_a_main_femme_122.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/3/sac_a_main_femme_123.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/3/sac_a_main_femme_124.jpg"
     ]
   },
   {
@@ -4215,7 +4215,7 @@ export const sacs = [
     "originalPrice": 4395,
     "category": "sacs",
     "brand": "Various",
-    "image": "/sac/31/sac_a_dos_115.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/31/sac_a_dos_115.jpg",
     "taxType": "ttc",
     "colors": [
       "Bordeaux",
@@ -4228,7 +4228,7 @@ export const sacs = [
     ],
     "minOrder": 22,
     "images": [
-      "/sac/31/sac_a_dos_115.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/31/sac_a_dos_115.jpg"
     ]
   },
   {
@@ -4238,7 +4238,7 @@ export const sacs = [
     "originalPrice": 3686,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/140/sac_a_dos_enfant171.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/140/sac_a_dos_enfant171.jpg",
     "taxType": "ht",
     "colors": [
       "Taupe",
@@ -4252,7 +4252,7 @@ export const sacs = [
     ],
     "minOrder": 22,
     "images": [
-      "/sac/140/sac_a_dos_enfant171.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/140/sac_a_dos_enfant171.jpg"
     ]
   },
   {
@@ -4262,7 +4262,7 @@ export const sacs = [
     "originalPrice": 5140,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/26/Asac_a_main_femme.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/26/Asac_a_main_femme.jpg",
     "taxType": "ht",
     "colors": [
       "Gris",
@@ -4282,10 +4282,10 @@ export const sacs = [
     ],
     "minOrder": 11,
     "images": [
-      "/sac/26/Asac_a_main_femme.jpg",
-      "/sac/26/IMG-20251118-WA0043.jpg",
-      "/sac/26/IMG-20251118-WA0044.jpg",
-      "/sac/26/IMG-20251118-WA0045.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/26/Asac_a_main_femme.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/26/IMG-20251118-WA0043.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/26/IMG-20251118-WA0044.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/26/IMG-20251118-WA0045.jpg"
     ]
   },
   {
@@ -4295,7 +4295,7 @@ export const sacs = [
     "originalPrice": 4803,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/131/sac_a_dos_enfant160.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/131/sac_a_dos_enfant160.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -4307,7 +4307,7 @@ export const sacs = [
     ],
     "minOrder": 24,
     "images": [
-      "/sac/131/sac_a_dos_enfant160.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/131/sac_a_dos_enfant160.jpg"
     ]
   },
   {
@@ -4317,7 +4317,7 @@ export const sacs = [
     "originalPrice": 5467,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/6/sac_a_main_femme_161.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/6/sac_a_main_femme_161.jpg",
     "taxType": "ht",
     "colors": [
       "Violet",
@@ -4335,7 +4335,7 @@ export const sacs = [
     ],
     "minOrder": 20,
     "images": [
-      "/sac/6/sac_a_main_femme_161.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/6/sac_a_main_femme_161.jpg"
     ]
   },
   {
@@ -4345,7 +4345,7 @@ export const sacs = [
     "originalPrice": 3623,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/4/sac_a_main_femme_125.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/4/sac_a_main_femme_125.jpg",
     "taxType": "ttc",
     "colors": [
       "Bordeaux",
@@ -4364,11 +4364,11 @@ export const sacs = [
     ],
     "minOrder": 11,
     "images": [
-      "/sac/4/sac_a_main_femme_125.jpg",
-      "/sac/4/sac_a_main_femme_126.jpg",
-      "/sac/4/sac_a_main_femme_127.jpg",
-      "/sac/4/sac_a_main_femme_129.jpg",
-      "/sac/4/sac_a_main_femme_130.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/4/sac_a_main_femme_125.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/4/sac_a_main_femme_126.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/4/sac_a_main_femme_127.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/4/sac_a_main_femme_129.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/4/sac_a_main_femme_130.jpg"
     ]
   },
   {
@@ -4378,7 +4378,7 @@ export const sacs = [
     "originalPrice": 3534,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/145/sac_a_dos_enfant179.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/145/sac_a_dos_enfant179.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -4392,7 +4392,7 @@ export const sacs = [
     ],
     "minOrder": 16,
     "images": [
-      "/sac/145/sac_a_dos_enfant179.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/145/sac_a_dos_enfant179.jpg"
     ]
   },
   {
@@ -4402,7 +4402,7 @@ export const sacs = [
     "originalPrice": 3796,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/132/sac_a_dos_enfant161.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/132/sac_a_dos_enfant161.jpg",
     "taxType": "ht",
     "colors": [
       "Kaki",
@@ -4417,7 +4417,7 @@ export const sacs = [
     ],
     "minOrder": 13,
     "images": [
-      "/sac/132/sac_a_dos_enfant161.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/132/sac_a_dos_enfant161.jpg"
     ]
   },
   {
@@ -4427,7 +4427,7 @@ export const sacs = [
     "originalPrice": 4050,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/115/sac_a_dos_enfant121.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/115/sac_a_dos_enfant121.jpg",
     "taxType": "ht",
     "colors": [
       "Bordeaux",
@@ -4442,7 +4442,7 @@ export const sacs = [
     ],
     "minOrder": 13,
     "images": [
-      "/sac/115/sac_a_dos_enfant121.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/115/sac_a_dos_enfant121.jpg"
     ]
   },
   {
@@ -4452,7 +4452,7 @@ export const sacs = [
     "originalPrice": 5024,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/153/sac_a_dos_enfant187.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/153/sac_a_dos_enfant187.jpg",
     "taxType": "ttc",
     "colors": [
       "Gris",
@@ -4467,7 +4467,7 @@ export const sacs = [
     ],
     "minOrder": 20,
     "images": [
-      "/sac/153/sac_a_dos_enfant187.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/153/sac_a_dos_enfant187.jpg"
     ]
   },
   {
@@ -4477,7 +4477,7 @@ export const sacs = [
     "originalPrice": 4998,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/66/sac_a_main_femme_105.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/66/sac_a_main_femme_105.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -4494,7 +4494,7 @@ export const sacs = [
     ],
     "minOrder": 15,
     "images": [
-      "/sac/66/sac_a_main_femme_105.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/66/sac_a_main_femme_105.jpg"
     ]
   },
   {
@@ -4504,7 +4504,7 @@ export const sacs = [
     "originalPrice": 4968,
     "category": "femme",
     "brand": "Various",
-    "image": "/sac/94/sac_a_main_femme_201.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/94/sac_a_main_femme_201.jpg",
     "taxType": "ht",
     "colors": [
       "Kaki",
@@ -4523,7 +4523,7 @@ export const sacs = [
     ],
     "minOrder": 23,
     "images": [
-      "/sac/94/sac_a_main_femme_201.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/94/sac_a_main_femme_201.jpg"
     ]
   },
   {
@@ -4533,7 +4533,7 @@ export const sacs = [
     "originalPrice": 5603,
     "category": "enfant",
     "brand": "Various",
-    "image": "/sac/172/sac_a_dos_enfant216.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/sac/172/sac_a_dos_enfant216.jpg",
     "taxType": "ht",
     "colors": [
       "Marron",
@@ -4546,7 +4546,7 @@ export const sacs = [
     ],
     "minOrder": 15,
     "images": [
-      "/sac/172/sac_a_dos_enfant216.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/sac/172/sac_a_dos_enfant216.jpg"
     ]
   }
 ]

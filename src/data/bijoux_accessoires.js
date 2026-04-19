@@ -6,7 +6,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4766,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/89/montre_de_luxe19.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/89/montre_de_luxe19.jpg",
     "taxType": "ht",
     "colors": [
       "Bleu",
@@ -21,7 +21,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 1,
     "images": [
-      "/bijou/89/montre_de_luxe19.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/89/montre_de_luxe19.jpg"
     ]
   },
   {
@@ -31,7 +31,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3384,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/105/montre_de_luxe33.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/105/montre_de_luxe33.jpg",
     "taxType": "ttc",
     "colors": [
       "Gris",
@@ -48,7 +48,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 5,
     "images": [
-      "/bijou/105/montre_de_luxe33.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/105/montre_de_luxe33.jpg"
     ]
   },
   {
@@ -58,7 +58,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2562,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/33/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_39.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/33/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_39.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -72,7 +72,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 4,
     "images": [
-      "/bijou/33/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_39.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/33/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_39.jpg"
     ]
   },
   {
@@ -82,7 +82,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2340,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/74/Boucles_d_oreilles5.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/74/Boucles_d_oreilles5.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -92,7 +92,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 9,
     "images": [
-      "/bijou/74/Boucles_d_oreilles5.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/74/Boucles_d_oreilles5.jpg"
     ]
   },
   {
@@ -102,7 +102,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2353,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/6/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_14.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/6/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_14.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -116,7 +116,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 5,
     "images": [
-      "/bijou/6/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_14.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/6/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_14.jpg"
     ]
   },
   {
@@ -126,7 +126,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2075,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/42/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_7.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/42/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_7.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -140,7 +140,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 13,
     "images": [
-      "/bijou/42/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_7.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/42/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_7.jpg"
     ]
   },
   {
@@ -150,7 +150,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2643,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/5/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_13.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/5/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_13.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -164,7 +164,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 6,
     "images": [
-      "/bijou/5/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_13.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/5/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_13.jpg"
     ]
   },
   {
@@ -174,7 +174,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2332,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/141/chaine17.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/141/chaine17.jpg",
     "taxType": "ttc",
     "colors": [
       "Beige",
@@ -191,7 +191,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 7,
     "images": [
-      "/bijou/141/chaine17.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/141/chaine17.jpg"
     ]
   },
   {
@@ -201,7 +201,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4151,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/120/Ensemble_montre_bijou10.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/120/Ensemble_montre_bijou10.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -218,7 +218,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 3,
     "images": [
-      "/bijou/120/Ensemble_montre_bijou10.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/120/Ensemble_montre_bijou10.jpg"
     ]
   },
   {
@@ -228,7 +228,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2463,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/140/chaine16.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/140/chaine16.jpg",
     "taxType": "ht",
     "colors": [
       "Jaune",
@@ -244,7 +244,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 12,
     "images": [
-      "/bijou/140/chaine16.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/140/chaine16.jpg"
     ]
   },
   {
@@ -254,7 +254,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2267,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/164/chaine8.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/164/chaine8.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose Gold",
@@ -271,7 +271,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 21,
     "images": [
-      "/bijou/164/chaine8.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/164/chaine8.jpg"
     ]
   },
   {
@@ -281,7 +281,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2102,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/21/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_28.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/21/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_28.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -295,7 +295,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 20,
     "images": [
-      "/bijou/21/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_28.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/21/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_28.jpg"
     ]
   },
   {
@@ -305,7 +305,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4831,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/118/montre_de_luxe9.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/118/montre_de_luxe9.jpg",
     "taxType": "ht",
     "colors": [
       "Vert",
@@ -322,7 +322,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 4,
     "images": [
-      "/bijou/118/montre_de_luxe9.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/118/montre_de_luxe9.jpg"
     ]
   },
   {
@@ -332,7 +332,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2016,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/36/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_41.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/36/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_41.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -346,7 +346,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 16,
     "images": [
-      "/bijou/36/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_41.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/36/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_41.jpg"
     ]
   },
   {
@@ -356,7 +356,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1843,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/31/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_37.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/31/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_37.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -370,7 +370,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 13,
     "images": [
-      "/bijou/31/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_37.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/31/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_37.jpg"
     ]
   },
   {
@@ -380,7 +380,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2469,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/76/Boucles_d_oreilles7.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/76/Boucles_d_oreilles7.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -390,7 +390,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 15,
     "images": [
-      "/bijou/76/Boucles_d_oreilles7.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/76/Boucles_d_oreilles7.jpg"
     ]
   },
   {
@@ -400,7 +400,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2442,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/10/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_18.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/10/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_18.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -414,7 +414,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 5,
     "images": [
-      "/bijou/10/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_18.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/10/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_18.jpg"
     ]
   },
   {
@@ -424,7 +424,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4209,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/126/Ensemble_montre_bijou5.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/126/Ensemble_montre_bijou5.jpg",
     "taxType": "ht",
     "colors": [
       "Rose"
@@ -438,7 +438,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 3,
     "images": [
-      "/bijou/126/Ensemble_montre_bijou5.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/126/Ensemble_montre_bijou5.jpg"
     ]
   },
   {
@@ -448,7 +448,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2177,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/60/Boucles_d_oreilles23.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/60/Boucles_d_oreilles23.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -458,7 +458,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 20,
     "images": [
-      "/bijou/60/Boucles_d_oreilles23.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/60/Boucles_d_oreilles23.jpg"
     ]
   },
   {
@@ -468,7 +468,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2408,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/135/chaine11.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/135/chaine11.jpg",
     "taxType": "ttc",
     "colors": [
       "Violet",
@@ -484,7 +484,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 7,
     "images": [
-      "/bijou/135/chaine11.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/135/chaine11.jpg"
     ]
   },
   {
@@ -494,7 +494,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2448,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/151/chaine26.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/151/chaine26.jpg",
     "taxType": "ht",
     "colors": [
       "Orange",
@@ -509,7 +509,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 11,
     "images": [
-      "/bijou/151/chaine26.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/151/chaine26.jpg"
     ]
   },
   {
@@ -519,7 +519,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2080,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/144/chaine2.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/144/chaine2.jpg",
     "taxType": "ht",
     "colors": [
       "Beige",
@@ -535,7 +535,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 20,
     "images": [
-      "/bijou/144/chaine2.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/144/chaine2.jpg"
     ]
   },
   {
@@ -545,7 +545,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1575,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/45/Boucles_d_oreilles1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/45/Boucles_d_oreilles1.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -555,7 +555,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 11,
     "images": [
-      "/bijou/45/Boucles_d_oreilles1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/45/Boucles_d_oreilles1.jpg"
     ]
   },
   {
@@ -565,7 +565,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2876,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/168/boucle d_'_oreille2.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/168/boucle d_'_oreille2.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -575,7 +575,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 7,
     "images": [
-      "/bijou/168/boucle d_'_oreille2.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/168/boucle d_'_oreille2.jpg"
     ]
   },
   {
@@ -585,7 +585,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2524,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/163/chaine7.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/163/chaine7.jpg",
     "taxType": "ttc",
     "colors": [
       "Orange",
@@ -600,7 +600,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 24,
     "images": [
-      "/bijou/163/chaine7.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/163/chaine7.jpg"
     ]
   },
   {
@@ -610,7 +610,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3652,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/90/montre_de_luxe2.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/90/montre_de_luxe2.jpg",
     "taxType": "ttc",
     "colors": [
       "Argenté",
@@ -625,7 +625,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 1,
     "images": [
-      "/bijou/90/montre_de_luxe2.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/90/montre_de_luxe2.jpg"
     ]
   },
   {
@@ -635,7 +635,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3842,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/79/montre_de_luxe1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/79/montre_de_luxe1.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -652,7 +652,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 3,
     "images": [
-      "/bijou/79/montre_de_luxe1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/79/montre_de_luxe1.jpg"
     ]
   },
   {
@@ -662,7 +662,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2963,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/46/Boucles_d_oreilles10.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/46/Boucles_d_oreilles10.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -672,7 +672,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 7,
     "images": [
-      "/bijou/46/Boucles_d_oreilles10.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/46/Boucles_d_oreilles10.jpg"
     ]
   },
   {
@@ -682,7 +682,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1682,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/161/chaine5.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/161/chaine5.jpg",
     "taxType": "ttc",
     "colors": [
       "Vert",
@@ -698,7 +698,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 15,
     "images": [
-      "/bijou/161/chaine5.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/161/chaine5.jpg"
     ]
   },
   {
@@ -708,7 +708,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2025,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/71/Boucles_d_oreilles33.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/71/Boucles_d_oreilles33.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -718,7 +718,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 11,
     "images": [
-      "/bijou/71/Boucles_d_oreilles33.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/71/Boucles_d_oreilles33.jpg"
     ]
   },
   {
@@ -728,7 +728,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2939,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/26/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_32.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/26/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_32.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -742,7 +742,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 19,
     "images": [
-      "/bijou/26/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_32.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/26/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_32.jpg"
     ]
   },
   {
@@ -752,7 +752,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1887,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/53/Boucles_d_oreilles17.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/53/Boucles_d_oreilles17.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -762,7 +762,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 16,
     "images": [
-      "/bijou/53/Boucles_d_oreilles17.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/53/Boucles_d_oreilles17.jpg"
     ]
   },
   {
@@ -772,7 +772,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4493,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/127/Ensemble_montre_bijou6.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/127/Ensemble_montre_bijou6.jpg",
     "taxType": "ttc",
     "colors": [
       "Orange",
@@ -789,7 +789,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 5,
     "images": [
-      "/bijou/127/Ensemble_montre_bijou6.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/127/Ensemble_montre_bijou6.jpg"
     ]
   },
   {
@@ -799,7 +799,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3334,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/175/montre_enfant.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/175/montre_enfant.jpg",
     "taxType": "ttc",
     "colors": [
       "Gris",
@@ -814,9 +814,9 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 2,
     "images": [
-      "/bijou/175/montre_enfant.jpg",
-      "/bijou/175/photo_29_2025-11-24_17-52-43.jpg",
-      "/bijou/175/photo_30_2025-11-24_17-52-43.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/175/montre_enfant.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/175/photo_29_2025-11-24_17-52-43.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/175/photo_30_2025-11-24_17-52-43.jpg"
     ]
   },
   {
@@ -826,7 +826,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2517,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/12/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_2.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/12/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_2.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -840,7 +840,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 29,
     "images": [
-      "/bijou/12/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_2.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/12/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_2.jpg"
     ]
   },
   {
@@ -850,7 +850,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3576,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/82/montre_de_luxe12.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/82/montre_de_luxe12.jpg",
     "taxType": "ht",
     "colors": [
       "Violet",
@@ -866,7 +866,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 4,
     "images": [
-      "/bijou/82/montre_de_luxe12.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/82/montre_de_luxe12.jpg"
     ]
   },
   {
@@ -876,7 +876,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3568,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/108/montre_de_luxe36.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/108/montre_de_luxe36.jpg",
     "taxType": "ttc",
     "colors": [
       "Jaune"
@@ -890,7 +890,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 4,
     "images": [
-      "/bijou/108/montre_de_luxe36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/108/montre_de_luxe36.jpg"
     ]
   },
   {
@@ -900,7 +900,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2568,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/19/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_26.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/19/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_26.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -914,7 +914,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 26,
     "images": [
-      "/bijou/19/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_26.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/19/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_26.jpg"
     ]
   },
   {
@@ -924,7 +924,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2116,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/69/Boucles_d_oreilles31.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/69/Boucles_d_oreilles31.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -934,7 +934,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 20,
     "images": [
-      "/bijou/69/Boucles_d_oreilles31.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/69/Boucles_d_oreilles31.jpg"
     ]
   },
   {
@@ -944,7 +944,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1935,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/165/chaine9.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/165/chaine9.jpg",
     "taxType": "ttc",
     "colors": [
       "Blanc",
@@ -959,7 +959,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 19,
     "images": [
-      "/bijou/165/chaine9.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/165/chaine9.jpg"
     ]
   },
   {
@@ -969,7 +969,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4192,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/128/Ensemble_montre_bijou7.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/128/Ensemble_montre_bijou7.jpg",
     "taxType": "ttc",
     "colors": [
       "Argenté",
@@ -986,7 +986,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 5,
     "images": [
-      "/bijou/128/Ensemble_montre_bijou7.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/128/Ensemble_montre_bijou7.jpg"
     ]
   },
   {
@@ -996,7 +996,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4893,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/98/montre_de_luxe27.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/98/montre_de_luxe27.jpg",
     "taxType": "ht",
     "colors": [
       "Jaune"
@@ -1010,7 +1010,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 2,
     "images": [
-      "/bijou/98/montre_de_luxe27.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/98/montre_de_luxe27.jpg"
     ]
   },
   {
@@ -1020,7 +1020,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2169,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/39/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_44.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/39/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_44.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -1034,7 +1034,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 15,
     "images": [
-      "/bijou/39/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_44.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/39/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_44.jpg"
     ]
   },
   {
@@ -1044,7 +1044,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3145,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/116/montre_de_luxe7.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/116/montre_de_luxe7.jpg",
     "taxType": "ht",
     "colors": [
       "Orange",
@@ -1059,7 +1059,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 1,
     "images": [
-      "/bijou/116/montre_de_luxe7.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/116/montre_de_luxe7.jpg"
     ]
   },
   {
@@ -1069,7 +1069,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2433,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/134/chaine10.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/134/chaine10.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose Gold",
@@ -1085,7 +1085,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 30,
     "images": [
-      "/bijou/134/chaine10.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/134/chaine10.jpg"
     ]
   },
   {
@@ -1095,7 +1095,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2307,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/4/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_12.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/4/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_12.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -1109,7 +1109,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 22,
     "images": [
-      "/bijou/4/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_12.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/4/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_12.jpg"
     ]
   },
   {
@@ -1119,7 +1119,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2376,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/37/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_42.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/37/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_42.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -1133,7 +1133,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 21,
     "images": [
-      "/bijou/37/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_42.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/37/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_42.jpg"
     ]
   },
   {
@@ -1143,7 +1143,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3107,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/109/montre_de_luxe37.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/109/montre_de_luxe37.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -1160,7 +1160,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 5,
     "images": [
-      "/bijou/109/montre_de_luxe37.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/109/montre_de_luxe37.jpg"
     ]
   },
   {
@@ -1170,7 +1170,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2815,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/70/Boucles_d_oreilles32.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/70/Boucles_d_oreilles32.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -1180,7 +1180,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 4,
     "images": [
-      "/bijou/70/Boucles_d_oreilles32.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/70/Boucles_d_oreilles32.jpg"
     ]
   },
   {
@@ -1190,7 +1190,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3289,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/174/montre_femme.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/174/montre_femme.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -1207,8 +1207,8 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 2,
     "images": [
-      "/bijou/174/montre_femme.jpg",
-      "/bijou/174/photo_15_2025-11-24_17-52-43.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/174/montre_femme.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/174/photo_15_2025-11-24_17-52-43.jpg"
     ]
   },
   {
@@ -1218,7 +1218,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3793,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/106/montre_de_luxe34.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/106/montre_de_luxe34.jpg",
     "taxType": "ht",
     "colors": [
       "Jaune",
@@ -1234,7 +1234,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 5,
     "images": [
-      "/bijou/106/montre_de_luxe34.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/106/montre_de_luxe34.jpg"
     ]
   },
   {
@@ -1244,7 +1244,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1687,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/155/chaine3.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/155/chaine3.jpg",
     "taxType": "ht",
     "colors": [
       "Or",
@@ -1261,7 +1261,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 10,
     "images": [
-      "/bijou/155/chaine3.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/155/chaine3.jpg"
     ]
   },
   {
@@ -1271,7 +1271,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2157,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/47/Boucles_d_oreilles11.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/47/Boucles_d_oreilles11.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -1281,7 +1281,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 18,
     "images": [
-      "/bijou/47/Boucles_d_oreilles11.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/47/Boucles_d_oreilles11.jpg"
     ]
   },
   {
@@ -1291,7 +1291,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2107,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/138/chaine14.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/138/chaine14.jpg",
     "taxType": "ht",
     "colors": [
       "Blanc",
@@ -1308,7 +1308,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 13,
     "images": [
-      "/bijou/138/chaine14.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/138/chaine14.jpg"
     ]
   },
   {
@@ -1318,7 +1318,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2519,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/172/boucle d_'_oreille6.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/172/boucle d_'_oreille6.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -1328,7 +1328,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 9,
     "images": [
-      "/bijou/172/boucle d_'_oreille6.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/172/boucle d_'_oreille6.jpg"
     ]
   },
   {
@@ -1338,7 +1338,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2780,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/156/chaine30.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/156/chaine30.jpg",
     "taxType": "ttc",
     "colors": [
       "Or",
@@ -1354,7 +1354,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 17,
     "images": [
-      "/bijou/156/chaine30.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/156/chaine30.jpg"
     ]
   },
   {
@@ -1364,7 +1364,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2495,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/20/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_27.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/20/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_27.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -1378,7 +1378,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 28,
     "images": [
-      "/bijou/20/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_27.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/20/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_27.jpg"
     ]
   },
   {
@@ -1388,7 +1388,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2217,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/32/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_38.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/32/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_38.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -1402,7 +1402,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 19,
     "images": [
-      "/bijou/32/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_38.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/32/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_38.jpg"
     ]
   },
   {
@@ -1412,7 +1412,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4460,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/124/Ensemble_montre_bijou3.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/124/Ensemble_montre_bijou3.jpg",
     "taxType": "ht",
     "colors": [
       "Or",
@@ -1427,7 +1427,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 1,
     "images": [
-      "/bijou/124/Ensemble_montre_bijou3.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/124/Ensemble_montre_bijou3.jpg"
     ]
   },
   {
@@ -1437,7 +1437,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2101,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/18/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_25.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/18/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_25.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -1451,7 +1451,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 5,
     "images": [
-      "/bijou/18/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_25.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/18/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_25.jpg"
     ]
   },
   {
@@ -1461,7 +1461,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2585,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/63/Boucles_d_oreilles26.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/63/Boucles_d_oreilles26.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -1471,7 +1471,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 22,
     "images": [
-      "/bijou/63/Boucles_d_oreilles26.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/63/Boucles_d_oreilles26.jpg"
     ]
   },
   {
@@ -1481,7 +1481,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2816,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/61/Boucles_d_oreilles24.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/61/Boucles_d_oreilles24.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -1491,7 +1491,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 12,
     "images": [
-      "/bijou/61/Boucles_d_oreilles24.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/61/Boucles_d_oreilles24.jpg"
     ]
   },
   {
@@ -1501,7 +1501,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1855,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/159/chaine33.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/159/chaine33.jpg",
     "taxType": "ht",
     "colors": [
       "Bronze",
@@ -1518,7 +1518,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 15,
     "images": [
-      "/bijou/159/chaine33.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/159/chaine33.jpg"
     ]
   },
   {
@@ -1528,7 +1528,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1857,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/145/chaine20.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/145/chaine20.jpg",
     "taxType": "ttc",
     "colors": [
       "Doré",
@@ -1544,7 +1544,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 12,
     "images": [
-      "/bijou/145/chaine20.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/145/chaine20.jpg"
     ]
   },
   {
@@ -1554,7 +1554,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2234,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/51/Boucles_d_oreilles15.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/51/Boucles_d_oreilles15.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -1564,7 +1564,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 13,
     "images": [
-      "/bijou/51/Boucles_d_oreilles15.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/51/Boucles_d_oreilles15.jpg"
     ]
   },
   {
@@ -1574,7 +1574,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1983,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/142/chaine18.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/142/chaine18.jpg",
     "taxType": "ttc",
     "colors": [
       "Gris",
@@ -1590,7 +1590,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 13,
     "images": [
-      "/bijou/142/chaine18.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/142/chaine18.jpg"
     ]
   },
   {
@@ -1600,7 +1600,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1528,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/67/Boucles_d_oreilles3.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/67/Boucles_d_oreilles3.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -1610,7 +1610,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 15,
     "images": [
-      "/bijou/67/Boucles_d_oreilles3.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/67/Boucles_d_oreilles3.jpg"
     ]
   },
   {
@@ -1620,7 +1620,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2332,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/52/Boucles_d_oreilles16.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/52/Boucles_d_oreilles16.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -1630,7 +1630,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 15,
     "images": [
-      "/bijou/52/Boucles_d_oreilles16.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/52/Boucles_d_oreilles16.jpg"
     ]
   },
   {
@@ -1640,7 +1640,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3453,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/91/montre_de_luxe20.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/91/montre_de_luxe20.jpg",
     "taxType": "ht",
     "colors": [
       "Doré",
@@ -1656,7 +1656,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 2,
     "images": [
-      "/bijou/91/montre_de_luxe20.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/91/montre_de_luxe20.jpg"
     ]
   },
   {
@@ -1666,7 +1666,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2012,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/169/boucle d_'_oreille3.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/169/boucle d_'_oreille3.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -1676,7 +1676,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 18,
     "images": [
-      "/bijou/169/boucle d_'_oreille3.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/169/boucle d_'_oreille3.jpg"
     ]
   },
   {
@@ -1686,7 +1686,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2193,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/43/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_8.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/43/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_8.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -1700,7 +1700,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 30,
     "images": [
-      "/bijou/43/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_8.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/43/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_8.jpg"
     ]
   },
   {
@@ -1710,7 +1710,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4521,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/113/montre_de_luxe40.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/113/montre_de_luxe40.jpg",
     "taxType": "ttc",
     "colors": [
       "Doré",
@@ -1726,7 +1726,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 5,
     "images": [
-      "/bijou/113/montre_de_luxe40.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/113/montre_de_luxe40.jpg"
     ]
   },
   {
@@ -1736,7 +1736,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2040,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/8/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_16.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/8/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_16.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -1750,7 +1750,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 13,
     "images": [
-      "/bijou/8/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_16.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/8/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_16.jpg"
     ]
   },
   {
@@ -1760,7 +1760,7 @@ export const bijoux_accessoires = [
     "originalPrice": 14003,
     "category": "accessoires",
     "brand": "Various",
-    "image": "/bijou/131/chevilliere.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/131/chevilliere.jpg",
     "taxType": "ht",
     "colors": [
       "Blanc",
@@ -1775,9 +1775,9 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 3,
     "images": [
-      "/bijou/131/chevilliere.jpg",
-      "/bijou/131/photo_2_2025-11-22_19-55-52.jpg",
-      "/bijou/131/photo_4_2025-11-22_19-55-52.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/131/chevilliere.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/131/photo_2_2025-11-22_19-55-52.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/131/photo_4_2025-11-22_19-55-52.jpg"
     ]
   },
   {
@@ -1787,7 +1787,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4490,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/93/montre_de_luxe22.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/93/montre_de_luxe22.jpg",
     "taxType": "ht",
     "colors": [
       "Bronze",
@@ -1802,7 +1802,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 3,
     "images": [
-      "/bijou/93/montre_de_luxe22.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/93/montre_de_luxe22.jpg"
     ]
   },
   {
@@ -1812,7 +1812,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2800,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/162/chaine6.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/162/chaine6.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -1828,7 +1828,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 25,
     "images": [
-      "/bijou/162/chaine6.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/162/chaine6.jpg"
     ]
   },
   {
@@ -1838,7 +1838,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1898,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/66/Boucles_d_oreilles29.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/66/Boucles_d_oreilles29.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -1848,7 +1848,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 13,
     "images": [
-      "/bijou/66/Boucles_d_oreilles29.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/66/Boucles_d_oreilles29.jpg"
     ]
   },
   {
@@ -1858,7 +1858,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2828,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/34/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_4.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/34/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_4.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -1872,7 +1872,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 21,
     "images": [
-      "/bijou/34/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_4.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/34/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_4.jpg"
     ]
   },
   {
@@ -1882,7 +1882,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4058,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/103/montre_de_luxe31.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/103/montre_de_luxe31.jpg",
     "taxType": "ttc",
     "colors": [
       "Beige",
@@ -1897,7 +1897,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 2,
     "images": [
-      "/bijou/103/montre_de_luxe31.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/103/montre_de_luxe31.jpg"
     ]
   },
   {
@@ -1907,7 +1907,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2133,
     "category": "bracelets",
     "brand": "Various",
-    "image": "/bijou/177/bracelet.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/177/bracelet.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose Gold",
@@ -1922,12 +1922,12 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 19,
     "images": [
-      "/bijou/177/bracelet.jpg",
-      "/bijou/177/photo_87_2025-11-21_20-50-59.jpg",
-      "/bijou/177/photo_88_2025-11-21_20-50-59.jpg",
-      "/bijou/177/photo_89_2025-11-21_20-50-59.jpg",
-      "/bijou/177/photo_90_2025-11-21_20-50-59.jpg",
-      "/bijou/177/photo_91_2025-11-21_20-50-59.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/177/bracelet.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/177/photo_87_2025-11-21_20-50-59.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/177/photo_88_2025-11-21_20-50-59.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/177/photo_89_2025-11-21_20-50-59.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/177/photo_90_2025-11-21_20-50-59.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/177/photo_91_2025-11-21_20-50-59.jpg"
     ]
   },
   {
@@ -1937,7 +1937,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1981,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/48/Boucles_d_oreilles12.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/48/Boucles_d_oreilles12.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -1947,7 +1947,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 17,
     "images": [
-      "/bijou/48/Boucles_d_oreilles12.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/48/Boucles_d_oreilles12.jpg"
     ]
   },
   {
@@ -1957,7 +1957,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1775,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/160/chaine4.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/160/chaine4.jpg",
     "taxType": "ttc",
     "colors": [
       "Doré",
@@ -1973,7 +1973,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 14,
     "images": [
-      "/bijou/160/chaine4.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/160/chaine4.jpg"
     ]
   },
   {
@@ -1983,7 +1983,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2451,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/22/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_29.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/22/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_29.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -1997,7 +1997,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 23,
     "images": [
-      "/bijou/22/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_29.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/22/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_29.jpg"
     ]
   },
   {
@@ -2007,7 +2007,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1898,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/148/chaine23.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/148/chaine23.jpg",
     "taxType": "ht",
     "colors": [
       "Argent",
@@ -2022,7 +2022,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 15,
     "images": [
-      "/bijou/148/chaine23.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/148/chaine23.jpg"
     ]
   },
   {
@@ -2032,7 +2032,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4390,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/119/Ensemble_montre_bijou1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/119/Ensemble_montre_bijou1.jpg",
     "taxType": "ttc",
     "colors": [
       "Or",
@@ -2048,7 +2048,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 1,
     "images": [
-      "/bijou/119/Ensemble_montre_bijou1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/119/Ensemble_montre_bijou1.jpg"
     ]
   },
   {
@@ -2058,7 +2058,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2115,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/35/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_40.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/35/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_40.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -2072,7 +2072,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 13,
     "images": [
-      "/bijou/35/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_40.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/35/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_40.jpg"
     ]
   },
   {
@@ -2082,7 +2082,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4995,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/129/Ensemble_montre_bijou8.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/129/Ensemble_montre_bijou8.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir"
@@ -2096,7 +2096,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 5,
     "images": [
-      "/bijou/129/Ensemble_montre_bijou8.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/129/Ensemble_montre_bijou8.jpg"
     ]
   },
   {
@@ -2106,7 +2106,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2645,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/54/Boucles_d_oreilles18.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/54/Boucles_d_oreilles18.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -2116,7 +2116,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 21,
     "images": [
-      "/bijou/54/Boucles_d_oreilles18.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/54/Boucles_d_oreilles18.jpg"
     ]
   },
   {
@@ -2126,7 +2126,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2655,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/77/Boucles_d_oreilles8.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/77/Boucles_d_oreilles8.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -2136,7 +2136,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 9,
     "images": [
-      "/bijou/77/Boucles_d_oreilles8.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/77/Boucles_d_oreilles8.jpg"
     ]
   },
   {
@@ -2146,7 +2146,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4186,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/122/Ensemble_montre_bijou12.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/122/Ensemble_montre_bijou12.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -2163,7 +2163,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 5,
     "images": [
-      "/bijou/122/Ensemble_montre_bijou12.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/122/Ensemble_montre_bijou12.jpg"
     ]
   },
   {
@@ -2173,7 +2173,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3740,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/107/montre_de_luxe35.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/107/montre_de_luxe35.jpg",
     "taxType": "ttc",
     "colors": [
       "Jaune",
@@ -2189,7 +2189,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 3,
     "images": [
-      "/bijou/107/montre_de_luxe35.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/107/montre_de_luxe35.jpg"
     ]
   },
   {
@@ -2199,7 +2199,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2902,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/13/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_20.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/13/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_20.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -2213,7 +2213,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 8,
     "images": [
-      "/bijou/13/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_20.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/13/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_20.jpg"
     ]
   },
   {
@@ -2223,7 +2223,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3678,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/121/Ensemble_montre_bijou11.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/121/Ensemble_montre_bijou11.jpg",
     "taxType": "ht",
     "colors": [
       "Bleu",
@@ -2240,7 +2240,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 2,
     "images": [
-      "/bijou/121/Ensemble_montre_bijou11.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/121/Ensemble_montre_bijou11.jpg"
     ]
   },
   {
@@ -2250,7 +2250,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1981,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/25/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_31.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/25/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_31.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -2264,7 +2264,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 14,
     "images": [
-      "/bijou/25/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_31.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/25/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_31.jpg"
     ]
   },
   {
@@ -2274,7 +2274,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4579,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/80/montre_de_luxe10.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/80/montre_de_luxe10.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -2289,7 +2289,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 1,
     "images": [
-      "/bijou/80/montre_de_luxe10.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/80/montre_de_luxe10.jpg"
     ]
   },
   {
@@ -2299,7 +2299,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2280,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/62/Boucles_d_oreilles25.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/62/Boucles_d_oreilles25.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -2309,7 +2309,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 20,
     "images": [
-      "/bijou/62/Boucles_d_oreilles25.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/62/Boucles_d_oreilles25.jpg"
     ]
   },
   {
@@ -2319,7 +2319,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1858,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/29/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_35.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/29/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_35.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -2333,7 +2333,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 19,
     "images": [
-      "/bijou/29/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_35.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/29/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_35.jpg"
     ]
   },
   {
@@ -2343,7 +2343,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2638,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/154/chaine29.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/154/chaine29.jpg",
     "taxType": "ttc",
     "colors": [
       "Noir",
@@ -2360,7 +2360,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 14,
     "images": [
-      "/bijou/154/chaine29.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/154/chaine29.jpg"
     ]
   },
   {
@@ -2370,7 +2370,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2282,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/58/Boucles_d_oreilles21.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/58/Boucles_d_oreilles21.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -2380,7 +2380,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 13,
     "images": [
-      "/bijou/58/Boucles_d_oreilles21.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/58/Boucles_d_oreilles21.jpg"
     ]
   },
   {
@@ -2390,7 +2390,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3534,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/114/montre_de_luxe5.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/114/montre_de_luxe5.jpg",
     "taxType": "ttc",
     "colors": [
       "Doré",
@@ -2407,7 +2407,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 3,
     "images": [
-      "/bijou/114/montre_de_luxe5.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/114/montre_de_luxe5.jpg"
     ]
   },
   {
@@ -2417,7 +2417,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2373,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/3/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_11.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/3/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_11.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -2431,7 +2431,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 12,
     "images": [
-      "/bijou/3/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_11.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/3/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_11.jpg"
     ]
   },
   {
@@ -2441,7 +2441,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3365,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/117/montre_de_luxe8.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/117/montre_de_luxe8.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -2456,7 +2456,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 5,
     "images": [
-      "/bijou/117/montre_de_luxe8.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/117/montre_de_luxe8.jpg"
     ]
   },
   {
@@ -2466,7 +2466,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2548,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/49/Boucles_d_oreilles13.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/49/Boucles_d_oreilles13.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -2476,7 +2476,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 24,
     "images": [
-      "/bijou/49/Boucles_d_oreilles13.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/49/Boucles_d_oreilles13.jpg"
     ]
   },
   {
@@ -2486,7 +2486,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4613,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/102/montre_de_luxe30.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/102/montre_de_luxe30.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -2501,7 +2501,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 3,
     "images": [
-      "/bijou/102/montre_de_luxe30.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/102/montre_de_luxe30.jpg"
     ]
   },
   {
@@ -2511,7 +2511,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2186,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/132/chaine.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/132/chaine.jpg",
     "taxType": "ttc",
     "colors": [
       "Vert",
@@ -2526,7 +2526,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 14,
     "images": [
-      "/bijou/132/chaine.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/132/chaine.jpg"
     ]
   },
   {
@@ -2536,7 +2536,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2041,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/2/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_10.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/2/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_10.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -2550,7 +2550,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 15,
     "images": [
-      "/bijou/2/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_10.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/2/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_10.jpg"
     ]
   },
   {
@@ -2560,7 +2560,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2149,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/55/Boucles_d_oreilles19.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/55/Boucles_d_oreilles19.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -2570,7 +2570,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 12,
     "images": [
-      "/bijou/55/Boucles_d_oreilles19.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/55/Boucles_d_oreilles19.jpg"
     ]
   },
   {
@@ -2580,7 +2580,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2175,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/28/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_34.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/28/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_34.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -2594,7 +2594,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 29,
     "images": [
-      "/bijou/28/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_34.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/28/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_34.jpg"
     ]
   },
   {
@@ -2604,7 +2604,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2607,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/50/Boucles_d_oreilles14.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/50/Boucles_d_oreilles14.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -2614,7 +2614,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 12,
     "images": [
-      "/bijou/50/Boucles_d_oreilles14.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/50/Boucles_d_oreilles14.jpg"
     ]
   },
   {
@@ -2624,7 +2624,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1973,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/14/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_21.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/14/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_21.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -2638,7 +2638,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 11,
     "images": [
-      "/bijou/14/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_21.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/14/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_21.jpg"
     ]
   },
   {
@@ -2648,7 +2648,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2927,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/15/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_22.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/15/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_22.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -2662,7 +2662,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 23,
     "images": [
-      "/bijou/15/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_22.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/15/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_22.jpg"
     ]
   },
   {
@@ -2672,7 +2672,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3655,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/94/montre_de_luxe23.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/94/montre_de_luxe23.jpg",
     "taxType": "ttc",
     "colors": [
       "Bronze",
@@ -2687,7 +2687,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 3,
     "images": [
-      "/bijou/94/montre_de_luxe23.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/94/montre_de_luxe23.jpg"
     ]
   },
   {
@@ -2697,7 +2697,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3100,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/111/montre_de_luxe39.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/111/montre_de_luxe39.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -2713,7 +2713,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 5,
     "images": [
-      "/bijou/111/montre_de_luxe39.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/111/montre_de_luxe39.jpg"
     ]
   },
   {
@@ -2723,7 +2723,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4370,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/84/montre_de_luxe14.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/84/montre_de_luxe14.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -2738,7 +2738,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 4,
     "images": [
-      "/bijou/84/montre_de_luxe14.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/84/montre_de_luxe14.jpg"
     ]
   },
   {
@@ -2748,7 +2748,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2479,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/147/chaine22.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/147/chaine22.jpg",
     "taxType": "ttc",
     "colors": [
       "Beige",
@@ -2765,7 +2765,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 9,
     "images": [
-      "/bijou/147/chaine22.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/147/chaine22.jpg"
     ]
   },
   {
@@ -2775,7 +2775,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2472,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/59/Boucles_d_oreilles22.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/59/Boucles_d_oreilles22.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -2785,7 +2785,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 6,
     "images": [
-      "/bijou/59/Boucles_d_oreilles22.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/59/Boucles_d_oreilles22.jpg"
     ]
   },
   {
@@ -2795,7 +2795,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2392,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/150/chaine25.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/150/chaine25.jpg",
     "taxType": "ht",
     "colors": [
       "Orange",
@@ -2811,7 +2811,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 7,
     "images": [
-      "/bijou/150/chaine25.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/150/chaine25.jpg"
     ]
   },
   {
@@ -2821,7 +2821,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2197,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/133/chaine1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/133/chaine1.jpg",
     "taxType": "ttc",
     "colors": [
       "Orange",
@@ -2836,7 +2836,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 16,
     "images": [
-      "/bijou/133/chaine1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/133/chaine1.jpg"
     ]
   },
   {
@@ -2846,7 +2846,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3555,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/87/montre_de_luxe17.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/87/montre_de_luxe17.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -2861,7 +2861,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 5,
     "images": [
-      "/bijou/87/montre_de_luxe17.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/87/montre_de_luxe17.jpg"
     ]
   },
   {
@@ -2871,7 +2871,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1769,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/7/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_15.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/7/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_15.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -2885,7 +2885,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 17,
     "images": [
-      "/bijou/7/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_15.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/7/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_15.jpg"
     ]
   },
   {
@@ -2895,7 +2895,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1763,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/44/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_9.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/44/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_9.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -2909,7 +2909,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 16,
     "images": [
-      "/bijou/44/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_9.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/44/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_9.jpg"
     ]
   },
   {
@@ -2919,7 +2919,7 @@ export const bijoux_accessoires = [
     "originalPrice": 5100,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/101/montre_de_luxe3.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/101/montre_de_luxe3.jpg",
     "taxType": "ttc",
     "colors": [
       "Argenté",
@@ -2934,7 +2934,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 3,
     "images": [
-      "/bijou/101/montre_de_luxe3.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/101/montre_de_luxe3.jpg"
     ]
   },
   {
@@ -2944,7 +2944,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4505,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/92/montre_de_luxe21.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/92/montre_de_luxe21.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -2959,7 +2959,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 4,
     "images": [
-      "/bijou/92/montre_de_luxe21.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/92/montre_de_luxe21.jpg"
     ]
   },
   {
@@ -2969,7 +2969,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2807,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/157/chaine31.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/157/chaine31.jpg",
     "taxType": "ht",
     "colors": [
       "Argent",
@@ -2986,7 +2986,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 13,
     "images": [
-      "/bijou/157/chaine31.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/157/chaine31.jpg"
     ]
   },
   {
@@ -2996,7 +2996,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2013,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/149/chaine24.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/149/chaine24.jpg",
     "taxType": "ttc",
     "colors": [
       "Beige",
@@ -3013,7 +3013,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 20,
     "images": [
-      "/bijou/149/chaine24.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/149/chaine24.jpg"
     ]
   },
   {
@@ -3023,7 +3023,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1937,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/56/Boucles_d_oreilles2.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/56/Boucles_d_oreilles2.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -3033,7 +3033,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 14,
     "images": [
-      "/bijou/56/Boucles_d_oreilles2.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/56/Boucles_d_oreilles2.jpg"
     ]
   },
   {
@@ -3043,7 +3043,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4188,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/130/Ensemble_montre_bijou9.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/130/Ensemble_montre_bijou9.jpg",
     "taxType": "ht",
     "colors": [
       "Vert",
@@ -3059,7 +3059,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 5,
     "images": [
-      "/bijou/130/Ensemble_montre_bijou9.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/130/Ensemble_montre_bijou9.jpg"
     ]
   },
   {
@@ -3069,7 +3069,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4284,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/85/montre_de_luxe15.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/85/montre_de_luxe15.jpg",
     "taxType": "ht",
     "colors": [
       "Or",
@@ -3085,7 +3085,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 1,
     "images": [
-      "/bijou/85/montre_de_luxe15.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/85/montre_de_luxe15.jpg"
     ]
   },
   {
@@ -3095,7 +3095,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2457,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/65/Boucles_d_oreilles28.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/65/Boucles_d_oreilles28.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -3105,7 +3105,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 20,
     "images": [
-      "/bijou/65/Boucles_d_oreilles28.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/65/Boucles_d_oreilles28.jpg"
     ]
   },
   {
@@ -3115,7 +3115,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1722,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/23/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_3.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/23/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_3.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -3129,7 +3129,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 14,
     "images": [
-      "/bijou/23/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_3.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/23/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_3.jpg"
     ]
   },
   {
@@ -3139,7 +3139,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2601,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/38/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_43.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/38/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_43.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -3153,7 +3153,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 15,
     "images": [
-      "/bijou/38/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_43.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/38/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_43.jpg"
     ]
   },
   {
@@ -3163,7 +3163,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2517,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/68/Boucles_d_oreilles30.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/68/Boucles_d_oreilles30.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -3173,7 +3173,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 6,
     "images": [
-      "/bijou/68/Boucles_d_oreilles30.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/68/Boucles_d_oreilles30.jpg"
     ]
   },
   {
@@ -3183,7 +3183,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4005,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/86/montre_de_luxe16.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/86/montre_de_luxe16.jpg",
     "taxType": "ttc",
     "colors": [
       "Orange",
@@ -3199,7 +3199,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 1,
     "images": [
-      "/bijou/86/montre_de_luxe16.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/86/montre_de_luxe16.jpg"
     ]
   },
   {
@@ -3209,7 +3209,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2420,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/152/chaine27.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/152/chaine27.jpg",
     "taxType": "ht",
     "colors": [
       "Beige",
@@ -3224,7 +3224,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 4,
     "images": [
-      "/bijou/152/chaine27.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/152/chaine27.jpg"
     ]
   },
   {
@@ -3234,7 +3234,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4806,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/95/montre_de_luxe24.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/95/montre_de_luxe24.jpg",
     "taxType": "ht",
     "colors": [
       "Rose Gold",
@@ -3250,7 +3250,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 4,
     "images": [
-      "/bijou/95/montre_de_luxe24.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/95/montre_de_luxe24.jpg"
     ]
   },
   {
@@ -3260,7 +3260,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2097,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/153/chaine28.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/153/chaine28.jpg",
     "taxType": "ttc",
     "colors": [
       "Or",
@@ -3277,7 +3277,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 12,
     "images": [
-      "/bijou/153/chaine28.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/153/chaine28.jpg"
     ]
   },
   {
@@ -3287,7 +3287,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3429,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/88/montre_de_luxe18.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/88/montre_de_luxe18.jpg",
     "taxType": "ht",
     "colors": [
       "Marron",
@@ -3304,7 +3304,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 3,
     "images": [
-      "/bijou/88/montre_de_luxe18.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/88/montre_de_luxe18.jpg"
     ]
   },
   {
@@ -3314,7 +3314,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1811,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/24/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_30.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/24/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_30.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -3328,7 +3328,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 10,
     "images": [
-      "/bijou/24/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_30.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/24/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_30.jpg"
     ]
   },
   {
@@ -3338,7 +3338,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3385,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/100/montre_de_luxe29.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/100/montre_de_luxe29.jpg",
     "taxType": "ht",
     "colors": [
       "Orange",
@@ -3355,7 +3355,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 3,
     "images": [
-      "/bijou/100/montre_de_luxe29.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/100/montre_de_luxe29.jpg"
     ]
   },
   {
@@ -3365,7 +3365,7 @@ export const bijoux_accessoires = [
     "originalPrice": 5052,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/96/montre_de_luxe25.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/96/montre_de_luxe25.jpg",
     "taxType": "ttc",
     "colors": [
       "Rose",
@@ -3380,7 +3380,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 3,
     "images": [
-      "/bijou/96/montre_de_luxe25.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/96/montre_de_luxe25.jpg"
     ]
   },
   {
@@ -3390,7 +3390,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2388,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/17/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_24.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/17/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_24.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -3404,7 +3404,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 20,
     "images": [
-      "/bijou/17/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_24.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/17/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_24.jpg"
     ]
   },
   {
@@ -3414,7 +3414,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2599,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/137/chaine13.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/137/chaine13.jpg",
     "taxType": "ht",
     "colors": [
       "Bronze",
@@ -3430,7 +3430,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 11,
     "images": [
-      "/bijou/137/chaine13.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/137/chaine13.jpg"
     ]
   },
   {
@@ -3440,7 +3440,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2377,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/64/Boucles_d_oreilles27.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/64/Boucles_d_oreilles27.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -3450,7 +3450,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 22,
     "images": [
-      "/bijou/64/Boucles_d_oreilles27.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/64/Boucles_d_oreilles27.jpg"
     ]
   },
   {
@@ -3460,7 +3460,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1763,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/139/chaine15.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/139/chaine15.jpg",
     "taxType": "ttc",
     "colors": [
       "Gris",
@@ -3476,7 +3476,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 17,
     "images": [
-      "/bijou/139/chaine15.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/139/chaine15.jpg"
     ]
   },
   {
@@ -3486,7 +3486,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3807,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/81/montre_de_luxe11.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/81/montre_de_luxe11.jpg",
     "taxType": "ht",
     "colors": [
       "Noir",
@@ -3501,7 +3501,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 4,
     "images": [
-      "/bijou/81/montre_de_luxe11.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/81/montre_de_luxe11.jpg"
     ]
   },
   {
@@ -3511,7 +3511,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2344,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/171/boucle d_'_oreille5.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/171/boucle d_'_oreille5.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -3521,7 +3521,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 20,
     "images": [
-      "/bijou/171/boucle d_'_oreille5.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/171/boucle d_'_oreille5.jpg"
     ]
   },
   {
@@ -3531,7 +3531,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4798,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/104/montre_de_luxe32.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/104/montre_de_luxe32.jpg",
     "taxType": "ht",
     "colors": [
       "Blanc",
@@ -3546,7 +3546,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 1,
     "images": [
-      "/bijou/104/montre_de_luxe32.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/104/montre_de_luxe32.jpg"
     ]
   },
   {
@@ -3556,7 +3556,7 @@ export const bijoux_accessoires = [
     "originalPrice": 5341,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/115/montre_de_luxe6.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/115/montre_de_luxe6.jpg",
     "taxType": "ttc",
     "colors": [
       "Rouge",
@@ -3571,7 +3571,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 2,
     "images": [
-      "/bijou/115/montre_de_luxe6.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/115/montre_de_luxe6.jpg"
     ]
   },
   {
@@ -3581,7 +3581,7 @@ export const bijoux_accessoires = [
     "originalPrice": 5424,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/123/Ensemble_montre_bijou2.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/123/Ensemble_montre_bijou2.jpg",
     "taxType": "ttc",
     "colors": [
       "Orange",
@@ -3596,7 +3596,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 4,
     "images": [
-      "/bijou/123/Ensemble_montre_bijou2.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/123/Ensemble_montre_bijou2.jpg"
     ]
   },
   {
@@ -3606,7 +3606,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2134,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/75/Boucles_d_oreilles6.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/75/Boucles_d_oreilles6.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -3616,7 +3616,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 11,
     "images": [
-      "/bijou/75/Boucles_d_oreilles6.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/75/Boucles_d_oreilles6.jpg"
     ]
   },
   {
@@ -3626,7 +3626,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2477,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/158/chaine32.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/158/chaine32.jpg",
     "taxType": "ttc",
     "colors": [
       "Doré",
@@ -3642,7 +3642,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 22,
     "images": [
-      "/bijou/158/chaine32.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/158/chaine32.jpg"
     ]
   },
   {
@@ -3652,7 +3652,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2147,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/16/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_23.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/16/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_23.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -3666,7 +3666,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 27,
     "images": [
-      "/bijou/16/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_23.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/16/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_23.jpg"
     ]
   },
   {
@@ -3676,7 +3676,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3663,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/112/montre_de_luxe4.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/112/montre_de_luxe4.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -3692,7 +3692,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 1,
     "images": [
-      "/bijou/112/montre_de_luxe4.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/112/montre_de_luxe4.jpg"
     ]
   },
   {
@@ -3702,7 +3702,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4862,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/125/Ensemble_montre_bijou4.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/125/Ensemble_montre_bijou4.jpg",
     "taxType": "ht",
     "colors": [
       "Bleu",
@@ -3717,7 +3717,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 2,
     "images": [
-      "/bijou/125/Ensemble_montre_bijou4.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/125/Ensemble_montre_bijou4.jpg"
     ]
   },
   {
@@ -3727,7 +3727,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2459,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/57/Boucles_d_oreilles20.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/57/Boucles_d_oreilles20.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -3737,7 +3737,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 27,
     "images": [
-      "/bijou/57/Boucles_d_oreilles20.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/57/Boucles_d_oreilles20.jpg"
     ]
   },
   {
@@ -3747,7 +3747,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2646,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/143/chaine19.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/143/chaine19.jpg",
     "taxType": "ttc",
     "colors": [
       "Beige",
@@ -3763,7 +3763,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 6,
     "images": [
-      "/bijou/143/chaine19.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/143/chaine19.jpg"
     ]
   },
   {
@@ -3773,7 +3773,7 @@ export const bijoux_accessoires = [
     "originalPrice": 14409,
     "category": "accessoires",
     "brand": "Various",
-    "image": "/bijou/176/photo_28_2025-11-24_17-41-27.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/176/photo_28_2025-11-24_17-41-27.jpg",
     "taxType": "ttc",
     "colors": [
       "Argent",
@@ -3789,8 +3789,8 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 3,
     "images": [
-      "/bijou/176/photo_28_2025-11-24_17-41-27.jpg",
-      "/bijou/176/photo_29_2025-11-24_17-41-27.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/176/photo_28_2025-11-24_17-41-27.jpg",
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/176/photo_29_2025-11-24_17-41-27.jpg"
     ]
   },
   {
@@ -3800,7 +3800,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1793,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/167/boucle d_'_oreille1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/167/boucle d_'_oreille1.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -3810,7 +3810,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 12,
     "images": [
-      "/bijou/167/boucle d_'_oreille1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/167/boucle d_'_oreille1.jpg"
     ]
   },
   {
@@ -3820,7 +3820,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2249,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/73/Boucles_d_oreilles4.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/73/Boucles_d_oreilles4.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -3830,7 +3830,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 9,
     "images": [
-      "/bijou/73/Boucles_d_oreilles4.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/73/Boucles_d_oreilles4.jpg"
     ]
   },
   {
@@ -3840,7 +3840,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1745,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/170/boucle d_'_oreille4.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/170/boucle d_'_oreille4.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -3850,7 +3850,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 15,
     "images": [
-      "/bijou/170/boucle d_'_oreille4.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/170/boucle d_'_oreille4.jpg"
     ]
   },
   {
@@ -3860,7 +3860,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2096,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/40/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_5.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/40/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_5.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -3874,7 +3874,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 15,
     "images": [
-      "/bijou/40/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_5.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/40/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_5.jpg"
     ]
   },
   {
@@ -3884,7 +3884,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1929,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/41/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_6.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/41/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_6.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -3898,7 +3898,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 10,
     "images": [
-      "/bijou/41/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_6.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/41/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_6.jpg"
     ]
   },
   {
@@ -3908,7 +3908,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3435,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/99/montre_de_luxe28.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/99/montre_de_luxe28.jpg",
     "taxType": "ht",
     "colors": [
       "Rouge",
@@ -3925,7 +3925,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 1,
     "images": [
-      "/bijou/99/montre_de_luxe28.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/99/montre_de_luxe28.jpg"
     ]
   },
   {
@@ -3935,7 +3935,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2464,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/1/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_1.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/1/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_1.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -3949,7 +3949,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 12,
     "images": [
-      "/bijou/1/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_1.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/1/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_1.jpg"
     ]
   },
   {
@@ -3959,7 +3959,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2470,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/136/chaine12.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/136/chaine12.jpg",
     "taxType": "ht",
     "colors": [
       "Blanc",
@@ -3976,7 +3976,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 23,
     "images": [
-      "/bijou/136/chaine12.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/136/chaine12.jpg"
     ]
   },
   {
@@ -3986,7 +3986,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2570,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/9/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_17.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/9/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_17.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -4000,7 +4000,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 3,
     "images": [
-      "/bijou/9/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_17.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/9/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_17.jpg"
     ]
   },
   {
@@ -4010,7 +4010,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2867,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/72/Boucles_d_oreilles34.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/72/Boucles_d_oreilles34.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -4020,7 +4020,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 5,
     "images": [
-      "/bijou/72/Boucles_d_oreilles34.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/72/Boucles_d_oreilles34.jpg"
     ]
   },
   {
@@ -4030,7 +4030,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2431,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/27/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_33.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/27/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_33.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -4044,7 +4044,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 27,
     "images": [
-      "/bijou/27/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_33.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/27/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_33.jpg"
     ]
   },
   {
@@ -4054,7 +4054,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4916,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/110/montre_de_luxe38.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/110/montre_de_luxe38.jpg",
     "taxType": "ttc",
     "colors": [
       "Bronze",
@@ -4070,7 +4070,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 2,
     "images": [
-      "/bijou/110/montre_de_luxe38.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/110/montre_de_luxe38.jpg"
     ]
   },
   {
@@ -4080,7 +4080,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2704,
     "category": "chaines",
     "brand": "Various",
-    "image": "/bijou/146/chaine21.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/146/chaine21.jpg",
     "taxType": "ttc",
     "colors": [
       "Bleu",
@@ -4097,7 +4097,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 15,
     "images": [
-      "/bijou/146/chaine21.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/146/chaine21.jpg"
     ]
   },
   {
@@ -4107,7 +4107,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1895,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/11/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_19.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/11/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_19.jpg",
     "taxType": "ttc",
     "colors": [
       "Or"
@@ -4121,7 +4121,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 16,
     "images": [
-      "/bijou/11/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_19.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/11/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_19.jpg"
     ]
   },
   {
@@ -4131,7 +4131,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4340,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/97/montre_de_luxe26.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/97/montre_de_luxe26.jpg",
     "taxType": "ht",
     "colors": [
       "Rose",
@@ -4146,7 +4146,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 3,
     "images": [
-      "/bijou/97/montre_de_luxe26.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/97/montre_de_luxe26.jpg"
     ]
   },
   {
@@ -4156,7 +4156,7 @@ export const bijoux_accessoires = [
     "originalPrice": 1647,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/173/boucle d_'_oreille7.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/173/boucle d_'_oreille7.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -4166,7 +4166,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 16,
     "images": [
-      "/bijou/173/boucle d_'_oreille7.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/173/boucle d_'_oreille7.jpg"
     ]
   },
   {
@@ -4176,7 +4176,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2581,
     "category": "colliers",
     "brand": "Various",
-    "image": "/bijou/30/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_36.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/30/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_36.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -4190,7 +4190,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 28,
     "images": [
-      "/bijou/30/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_36.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/30/bijou_3_pieces_-_Collier_Bracelet_et_Boucles_d_oreilles_36.jpg"
     ]
   },
   {
@@ -4200,7 +4200,7 @@ export const bijoux_accessoires = [
     "originalPrice": 2174,
     "category": "boucles_oreilles",
     "brand": "Various",
-    "image": "/bijou/78/Boucles_d_oreilles9.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/78/Boucles_d_oreilles9.jpg",
     "taxType": "ht",
     "colors": [
       "Or"
@@ -4210,7 +4210,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 13,
     "images": [
-      "/bijou/78/Boucles_d_oreilles9.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/78/Boucles_d_oreilles9.jpg"
     ]
   },
   {
@@ -4220,7 +4220,7 @@ export const bijoux_accessoires = [
     "originalPrice": 3449,
     "category": "montres",
     "brand": "Various",
-    "image": "/bijou/83/montre_de_luxe13.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/83/montre_de_luxe13.jpg",
     "taxType": "ttc",
     "colors": [
       "Marron",
@@ -4235,7 +4235,7 @@ export const bijoux_accessoires = [
     ],
     "minOrder": 2,
     "images": [
-      "/bijou/83/montre_de_luxe13.jpg"
+      "https://res.cloudinary.com/deuttziac/image/upload/bijou/83/montre_de_luxe13.jpg"
     ]
   }
 ]

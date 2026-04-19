@@ -5,7 +5,7 @@ export const paymentMethods = [
     name: 'Carte de Crédit',
     icon: 'card',
     description: 'Visa, Mastercard, American Express',
-    logos: ['/payement/visa.png', '/payement/mastercard.png', '/payement/amex.png'],
+    logos: ['https://res.cloudinary.com/deuttziac/image/upload/payement/visa.png', 'https://res.cloudinary.com/deuttziac/image/upload/payement/mastercard.png', 'https://res.cloudinary.com/deuttziac/image/upload/payement/amex.png'],
     steps: [
       "Entrez le numéro de votre carte",
       "Renseignez la date d'expiration",
@@ -23,7 +23,7 @@ export const paymentMethods = [
     name: 'PayPal',
     icon: 'PP',
     description: 'Paiement sécurisé PayPal',
-    logos: ['/payement/paypal.png'],
+    logos: ['https://res.cloudinary.com/deuttziac/image/upload/payement/paypal.png'],
     steps: [
       "Cliquez sur le lien PayPal: https://www.paypal.me/Fxstudio712",
       "Connectez-vous à votre compte PayPal",
@@ -41,7 +41,7 @@ export const paymentMethods = [
     name: 'Orange Money',
     icon: 'OM',
     description: 'Paiement mobile Orange',
-    logos: ['/payement/orangemoney.png'],
+    logos: ['https://res.cloudinary.com/deuttziac/image/upload/payement/orangemoney.png'],
     steps: [
       "Entrez le numéro: 6 96 27 85 95",
       "Montant: {amount} FCFA",
@@ -59,7 +59,7 @@ export const paymentMethods = [
     name: 'MTN Money',
     icon: 'MM',
     description: 'Paiement mobile MTN',
-    logos: ['/payement/MobileMoney.jpg'],
+    logos: ['https://res.cloudinary.com/deuttziac/image/upload/payement/MobileMoney.jpg'],
     steps: [
       "Entrez le numéro: 6 81 30 86 10",
       "Montant: {amount} FCFA",
@@ -77,7 +77,7 @@ export const paymentMethods = [
     name: 'Wave',
     icon: 'WV',
     description: 'Paiement mobile Wave',
-    logos: ['/payement/logowave.png'],
+    logos: ['https://res.cloudinary.com/deuttziac/image/upload/payement/logowave.png'],
     steps: [
       "Ouvrez l'application Wave",
       "Entrez le numéro: 696 18 47 62",
@@ -95,7 +95,7 @@ export const paymentMethods = [
   //   name: 'Apple Pay',
   //   icon: 'AP',
   //   description: 'Paiement Apple sécurisé',
-  //   logos: ['/payement/applepay.png'],
+  //   logos: ['https://res.cloudinary.com/deuttziac/image/upload/payement/applepay.png'],
   //   steps: [
   //     "Cliquez sur le bouton Apple Pay",
   //     "Authentifiez-vous avec Face ID ou Touch ID",

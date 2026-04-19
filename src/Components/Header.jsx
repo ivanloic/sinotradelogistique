@@ -176,7 +176,7 @@ const Header = () => {
             transition={{ duration: 0.2 }}
           >
             <img 
-              src="/logo/logochine.png" 
+              src="https://res.cloudinary.com/deuttziac/logo/logochine.png" 
               alt="SinoTrade" 
               className="h-12 md:h-16 w-auto cursor-pointer"
               onClick={() => navigate('/')}
