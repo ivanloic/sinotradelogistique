@@ -6,7 +6,7 @@ export const bijoux_accessoires = [
     "originalPrice": 4766,
     "category": "montres",
     "brand": "Various",
-    "image": "https://res.cloudinary.com/deuttziac/image/upload/bijou/89/montre_de_luxe19.jpg",
+    "image": "https://res.cloudinary.com/deuttziac/bijou/89/montre_de_luxe19.jpg",
     "taxType": "ht",
     "colors": [
       "Bleu",
